@@ -3,6 +3,9 @@ import json
 import datetime
 import simplejson
 import validators
+import jsonpickle
+import logging
+
 from models import *
 
 # TODOS:
@@ -43,7 +46,6 @@ def parse_file(track):
         for line in csv.reader(tsv, delimiter="\t"):
             if i == track.header_line:
                 HEADERS = line
-                print HEADERS
             elif i > track.header_line:
                 #   parse_speaker
                 result = create_associative_arr(line, HEADERS)
@@ -52,7 +54,6 @@ def parse_file(track):
                 if res_session is not None and res_speaker is not None:
                     speaker = res_speaker
                     session = res_session
-                parse_session(result)
             i = i + 1
 
 
@@ -190,11 +191,6 @@ def validate_result(current, default, type):
         return current
     return default
 
-
-def parse_session(result):
-    pass
-
-
 def write_json(filename, the_json):
     f = open(filename + '.json', 'w')
     the_json = simplejson.dumps(simplejson.loads(
@@ -203,10 +199,10 @@ def write_json(filename, the_json):
     f.write(json_to_write)
     f.close()
 
-import jsonpickle
 if __name__ == "__main__":
+    logging.getLogger().setLevel(logging.DEBUG)
     for track in TRACK_CONFIG:
-        print jsonpickle.encode(track)
+        logging.info("[Parsing file] %s track_id = %d", track.filename, track.id)
         parse_file(track)
 
     # print json.dumps(SPEAKERS[0].__dict__)
