@@ -112,7 +112,7 @@ def parse_speaker(result,  last_speaker, last_session, current_track, id_prefix=
     # event_id = db.Column(db.Integer,
     #                      db.ForeignKey('events.id'))
     """
-    if result.has_key("Email") and len(result["Email"]) > 1:
+    if result.has_key("Email") and len(result["Email"]) > 1 and len(validate_result(result["Email"], "", "EMAIL")) > 1:
         if GLOBAL_SPEAKER_IDS.has_key(result["Email"]) is not True:
             speaker = Speaker()
         else:
@@ -185,6 +185,8 @@ def validate_result(current, default, type):
     if default is None:
         default = ""
     if type == "URL" and validators.url(current, require_tld=True) and not validators.url(default, require_tld=True):
+        return current
+    if type == "EMAIL" and validators.email(current) and not validators.email(default):
         return current
     return default
 
