@@ -12,4 +12,4 @@ Requires the tsv file to be present for each track. Look into source code for de
 
 ## License
 
-[MIT](/.LICENSE)
+[MIT](./LICENSE)
