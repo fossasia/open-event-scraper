@@ -1,6 +1,8 @@
 import csv
 import json
 import datetime
+import simplejson
+import validators
 from models import *
 
 # TODOS:
@@ -12,10 +14,20 @@ from models import *
 # ID Prefix = should be unique across tracks
 # Color code
 TRACK_CONFIG = [
-    Track(id=1, filename='opentech.tsv',
+    Track(id=1, name='Open Technologies', filename='opentech.tsv',
           header_line=2,
           session_id_prefix=100,
           key_color="#3DC8C3",),
+
+    Track(id=2, name='DevOps', filename='devops.tsv',
+          header_line=2,
+          session_id_prefix=200,
+          key_color="#3DC8CC",),
+
+    Track(id=3, name='Exhibition', filename='exhibition.tsv',
+          header_line=1,
+          session_id_prefix=300,
+          key_color="#3DC8FF",),
 ]
 
 # Provide year of conference in case the date is impossible to parse
@@ -36,7 +48,7 @@ def parse_file(track):
                 #   parse_speaker
                 result = create_associative_arr(line, HEADERS)
                 (res_speaker, res_session) = parse_speaker(result,  speaker,
-                                                           session, track.session_id_prefix + (10 * i),)
+                                                           session, track, track.session_id_prefix + (10 * i),)
                 if res_session is not None and res_speaker is not None:
                     speaker = res_speaker
                     session = res_session
@@ -51,8 +63,10 @@ def create_associative_arr(line, headers):
 SPEAKERS = []
 SESSIONS = []
 
+GLOBAL_SPEAKER_IDS = {}
 
-def parse_speaker(result,  last_speaker, last_session, id_prefix=10,):
+
+def parse_speaker(result,  last_speaker, last_session, current_track, id_prefix=10,):
     """
     Format of Data
     # Speaker
@@ -98,21 +112,27 @@ def parse_speaker(result,  last_speaker, last_session, id_prefix=10,):
     # event_id = db.Column(db.Integer,
     #                      db.ForeignKey('events.id'))
     """
-    if len(result["Email"]) > 1:
-        speaker = Speaker()
+    if result.has_key("Email") and len(result["Email"]) > 1:
+        if GLOBAL_SPEAKER_IDS.has_key(result["Email"]) is not True:
+            speaker = Speaker()
+        else:
+            speaker = GLOBAL_SPEAKER_IDS[result["Email"]]
         session = Session()
         speaker.email = result["Email"]
         speaker.name = result["Given Name"] + " " + result["Family Name"]
         speaker.organisation = result["Organization"]
         speaker.web = result["Website or Blog"]
-        speaker.photo = result["Photo for Website and Program"]
+        if hasattr(speaker, 'photo'):
+            speaker.photo = validate_result(
+                result["Photo for Website and Program"], speaker.photo, "URL")
+        else:
+            speaker.photo = result["Photo for Website and Program"]
         speaker.linkedin = result["Linkedin"]
         speaker.biography = result[
             "Please provide a short bio for the program"]
         speaker.github = result["github"]
         speaker.twitter = result["twitter"]
         speaker.country = result["Country/Region of Origin"]
-        SPEAKERS.append(speaker)
         # Start session
         session_time = parse_time(result["Date"] + " " + result["Time"])
         session.id = id_prefix
@@ -123,7 +143,18 @@ def parse_speaker(result,  last_speaker, last_session, id_prefix=10,):
         session.subtitle = result["Field"]
         session.description = result["Abstract of talk or project"]
         session.type = result["Type"]
-        session.speakers = [{'name': speaker.name}]
+        # Use email more reliable
+        if GLOBAL_SPEAKER_IDS.has_key(speaker.email):
+            id = GLOBAL_SPEAKER_IDS[speaker.email].id
+            speaker.id = id
+        else:
+            id = len(GLOBAL_SPEAKER_IDS.keys()) + 1
+            speaker.id = id
+            GLOBAL_SPEAKER_IDS[speaker.email] = speaker
+            SPEAKERS.append(speaker)
+
+        session.speakers = [{'name': speaker.name, 'id': speaker.id}]
+        session.track = {'id': track.id, 'name': track.name}
         SESSIONS.append(session)
         return (speaker, session)
     return (None, None)
@@ -145,12 +176,27 @@ def parse_time(time_str):
     return iso_date
 
 
+def validate_result(current, default, type):
+    """
+    Validates the data, whether it needs to be url, twitter, linkedin link etc.
+    """
+    if current is None:
+        current = ""
+    if default is None:
+        default = ""
+    if type == "URL" and validators.url(current, require_tld=True) and not validators.url(default, require_tld=True):
+        return current
+    return default
+
+
 def parse_session(result):
     pass
 
 
 def write_json(filename, the_json):
     f = open(filename + '.json', 'w')
+    the_json = simplejson.dumps(simplejson.loads(
+        the_json), indent=2, sort_keys=False)
     json_to_write = '{ "%s":%s}' % (filename, the_json)
     f.write(json_to_write)
     f.close()

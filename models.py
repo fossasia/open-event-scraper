@@ -8,9 +8,10 @@ class Track(object):
     description = ""
     track_image_url = "http://lorempixel.com/400/200"
 
-    def __init__(self, id, header_line, filename, session_id_prefix, key_color):
+    def __init__(self, id, name, header_line, filename, session_id_prefix, key_color):
         super(Track, self).__init__()
         self.id = id
+        self.name = name
         self.header_line = header_line
         self.filename = filename
         self.session_id_prefix = session_id_prefix
@@ -28,3 +29,9 @@ class Session(object):
 
     def __init__(self):
         super(Session, self).__init__()
+
+
+class Microlocation(object):
+
+    def __init__(self):
+        super(Microlocation, self).__init__()
