@@ -5,6 +5,7 @@ import simplejson
 import validators
 import jsonpickle
 import logging
+import parser
 
 from models import *
 
@@ -31,6 +32,31 @@ TRACK_CONFIG = [
           header_line=1,
           session_id_prefix=300,
           key_color="#3DC8FF",),
+
+    Track(id=4, name='Main Event', filename='main.tsv',
+          header_line=2,
+          session_id_prefix=400,
+          key_color="#3DC8C3",),
+
+    Track(id=5, name='Workshop', filename='workshop.tsv',
+          header_line=2,
+          session_id_prefix=500,
+          key_color="#3DC8C3",),
+
+    Track(id=6, name='Web', filename='web.tsv',
+          header_line=2,
+          session_id_prefix=600,
+          key_color="#3DC8C3",),
+
+    Track(id=7, name='Python', filename='python.tsv',
+          header_line=2,
+          session_id_prefix=700,
+          key_color="#3DC8C3",),
+
+    Track(id=5, name='Mozilla', filename='mozilla.tsv',
+          header_line=2,
+          session_id_prefix=800,
+          key_color="#3DC8C3",),
 ]
 
 # Provide year of conference in case the date is impossible to parse
@@ -45,10 +71,11 @@ def parse_file(track):
         session = None
         for line in csv.reader(tsv, delimiter="\t"):
             if i == track.header_line:
-                HEADERS = line
+                HEADERS = map(str.strip, line)
             elif i > track.header_line:
                 #   parse_speaker
                 result = create_associative_arr(line, HEADERS)
+                # print result, "\n"
                 (res_speaker, res_session) = parse_speaker(result,  speaker,
                                                            session, track, track.session_id_prefix + (10 * i),)
                 if res_session is not None and res_speaker is not None:
@@ -125,10 +152,10 @@ def parse_speaker(result,  last_speaker, last_session, current_track, id_prefix=
         speaker.web = result["Website or Blog"]
         if hasattr(speaker, 'photo'):
             speaker.photo = validate_result(
-                result["Photo for Website and Program"], speaker.photo, "URL")
+                parser.get_pic_url(result), speaker.photo, "URL")
         else:
-            speaker.photo = result["Photo for Website and Program"]
-        speaker.linkedin = result["Linkedin"]
+            speaker.photo = parser.get_pic_url(result)
+        speaker.linkedin = parser.get_linkedin_url(result)
         speaker.biography = result[
             "Please provide a short bio for the program"]
         speaker.github = result["github"]
@@ -191,6 +218,7 @@ def validate_result(current, default, type):
         return current
     return default
 
+
 def write_json(filename, the_json):
     f = open(filename + '.json', 'w')
     the_json = simplejson.dumps(simplejson.loads(
@@ -202,7 +230,8 @@ def write_json(filename, the_json):
 if __name__ == "__main__":
     logging.getLogger().setLevel(logging.DEBUG)
     for track in TRACK_CONFIG:
-        logging.info("[Parsing file] %s track_id = %d", track.filename, track.id)
+        logging.info("[Parsing file] %s track_id = %d",
+                     track.filename, track.id)
         parse_file(track)
 
     # print json.dumps(SPEAKERS[0].__dict__)
