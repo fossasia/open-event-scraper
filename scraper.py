@@ -6,6 +6,7 @@ import validators
 import jsonpickle
 import logging
 import parser
+from pprint import pprint
 
 from models import *
 
@@ -17,50 +18,108 @@ from models import *
 # Should have all track information
 # ID Prefix = should be unique across tracks
 # Color code
+
+#1. Tech Kids I
+#2. Tech Kids II
+#3. OpenTech and IoT
+#4. OpenTech Workshops
+#5. WebTech
+#6. Exhibition
+#7. Hardware and IoT
+#8. Python
+#9. Databases
+#10.Big Data/Open Data
+#11.DevOps
+#12.Privacy and Security
+#13.Internet, Society, Community
+#14.Science Hack Day
+#15.Linux and MiniDebConf
+#16.Design, VR, 3D
+
 TRACK_CONFIG = [
-    Track(id=1, name='Open Technologies', filename='opentech.tsv',
+    Track(id=1, name='Tech Kids I', filename='TechKidsI.tsv',
           header_line=2,
           session_id_prefix=100,
           key_color="#3DC8C3",),
 
-    Track(id=2, name='DevOps', filename='devops.tsv',
+    Track(id=2, name='Tech Kids II', filename='TechKidsII.tsv',
           header_line=2,
-          session_id_prefix=200,
-          key_color="#3DC8CC",),
-
-    Track(id=3, name='Exhibition', filename='exhibition.tsv',
-          header_line=1,
-          session_id_prefix=300,
-          key_color="#3DC8FF",),
-
-    Track(id=4, name='Main Event', filename='main.tsv',
-          header_line=2,
-          session_id_prefix=400,
+          session_id_prefix=100,
           key_color="#3DC8C3",),
 
-    Track(id=5, name='Workshop', filename='workshop.tsv',
+    Track(id=3, name='OpenTech and IoT', filename='opentech.tsv',
           header_line=2,
-          session_id_prefix=500,
+          session_id_prefix=100,
           key_color="#3DC8C3",),
 
-    Track(id=6, name='Web', filename='web.tsv',
+    Track(id=4, name='OpenTech Workshops', filename='OpenTechWorkshops.tsv',
           header_line=2,
-          session_id_prefix=600,
+          session_id_prefix=100,
           key_color="#3DC8C3",),
 
-    Track(id=7, name='Python', filename='python.tsv',
+    Track(id=5, name='WebTech', filename='WebTech.tsv',
           header_line=2,
-          session_id_prefix=700,
+          session_id_prefix=100,
           key_color="#3DC8C3",),
 
-    Track(id=5, name='Mozilla', filename='mozilla.tsv',
+    Track(id=6, name='Exhibition', filename='exhibition.tsv',
           header_line=2,
-          session_id_prefix=800,
+          session_id_prefix=100,
           key_color="#3DC8C3",),
+
+    Track(id=7, name='Hardware and IoT', filename='Hardware.tsv',
+          header_line=2,
+          session_id_prefix=100,
+          key_color="#3DC8C3",),
+
+    Track(id=8, name='Python', filename='python.tsv',
+          header_line=2,
+          session_id_prefix=100,
+          key_color="#3DC8C3",),
+
+    Track(id=9, name='Databases', filename='DB.tsv',
+          header_line=2,
+          session_id_prefix=100,
+          key_color="#3DC8C3",),
+
+    Track(id=10, name='Big Data/Open Data', filename='Data.tsv',
+          header_line=2,
+          session_id_prefix=100,
+          key_color="#3DC8C3",),
+
+    Track(id=11, name='DevOps', filename='devops.tsv',
+          header_line=2,
+          session_id_prefix=100,
+          key_color="#3DC8C3",),
+
+    Track(id=12, name='Privacy and Security', filename='Privacy-Security.tsv',
+          header_line=2,
+          session_id_prefix=100,
+          key_color="#3DC8C3",),
+
+    Track(id=13, name='Internet, Society, Community', filename='ISC.tsv',
+          header_line=2,
+          session_id_prefix=100,
+          key_color="#3DC8C3",),
+
+    Track(id=14, name='Science Hack Day', filename='ScienceHackDay.tsv',
+          header_line=2,
+          session_id_prefix=100,
+          key_color="#3DC8C3",),
+
+    Track(id=15, name='Linux and MiniDebConf', filename='Linux.tsv',
+          header_line=2,
+          session_id_prefix=100,
+          key_color="#3DC8C3",),
+
+    Track(id=16, name='Design, VR, 3D', filename='Design.tsv',
+          header_line=2,
+          session_id_prefix=100,
+          key_color="#3DC8C3",)
 ]
 
 # Provide year of conference in case the date is impossible to parse
-YEAR_OF_CONF = '2015'
+YEAR_OF_CONF = '2016'
 
 
 def parse_file(track):
@@ -111,9 +170,7 @@ def parse_speaker(result,  last_speaker, last_session, current_track, id_prefix=
     # position = db.Column(db.String)
     # country = db.Column(db.String, nullable=False)
     # event_id = db.Column(db.Integer, db.ForeignKey('events.id'))
-
     # Session
-
     # id = db.Column(db.Integer, primary_key=True)
     # title = db.Column(db.String, nullable=False)
     # subtitle = db.Column(db.String)
@@ -140,58 +197,62 @@ def parse_speaker(result,  last_speaker, last_session, current_track, id_prefix=
     # event_id = db.Column(db.Integer,
     #                      db.ForeignKey('events.id'))
     """
-    if result.has_key("Email") and len(result["Email"]) > 1 and len(validate_result(result["Email"], "", "EMAIL")) > 1:
-        if GLOBAL_SPEAKER_IDS.has_key(result["Email"]) is not True:
-            speaker = Speaker()
-        else:
-            speaker = GLOBAL_SPEAKER_IDS[result["Email"]]
-        session = Session()
-        speaker.email = result["Email"]
-        speaker.name = result["Given Name"] + " " + result["Family Name"]
-        speaker.organisation = result["Organization"]
-        speaker.web = result["Website or Blog"]
-        if hasattr(speaker, 'photo'):
-            speaker.photo = validate_result(
-                parser.get_pic_url(result), speaker.photo, "URL")
-        else:
-            speaker.photo = parser.get_pic_url(result)
-        speaker.linkedin = parser.get_linkedin_url(result)
-        speaker.biography = result[
-            "Please provide a short bio for the program"]
-        speaker.github = result["github"]
-        speaker.twitter = result["twitter"]
-        speaker.country = result["Country/Region of Origin"]
-        # Start session
-        session_time = parse_time(result["Date"] + " " + result["Time"])
-        session.id = id_prefix
-        session.start_time = session_time.isoformat()
-        if last_session is not None:
-            last_session.end_time = session.start_time
-        session.title = result["Session Topic"]
-        session.subtitle = result["Field"]
-        session.description = result["Abstract of talk or project"]
-        session.type = result["Type"]
-        # Use email more reliable
-        if GLOBAL_SPEAKER_IDS.has_key(speaker.email):
-            id = GLOBAL_SPEAKER_IDS[speaker.email].id
-            speaker.id = id
-        else:
-            id = len(GLOBAL_SPEAKER_IDS.keys()) + 1
-            speaker.id = id
-            GLOBAL_SPEAKER_IDS[speaker.email] = speaker
-            SPEAKERS.append(speaker)
+    pprint(result)
+    # if result.has_key("Email") and len(result["Email"]) > 1 and len(validate_result(result["Email"], "", "EMAIL")) > 1:
+    #     if GLOBAL_SPEAKER_IDS.has_key(result["Email"]) is not True:
+    #         speaker = Speaker()
+    #     else:
+    #         speaker = GLOBAL_SPEAKER_IDS[result["Email"]]
+    speaker = Speaker()
+    session = Session()
+    # speaker.email = result["Email"]
+    speaker.name = result["Given Name"] + " " + result["Family Name"]
+    speaker.organisation = result["Company, Organization, Project or University"]
+    speaker.web = result["Website or Blog"]
+    if hasattr(speaker, 'photo'):
+        speaker.photo = validate_result(
+            parser.get_pic_url(result), speaker.photo, "URL")
+    else:
+        speaker.photo = parser.get_pic_url(result)
+    speaker.linkedin = parser.get_linkedin_url(result)
+    speaker.biography = result[
+        "Please provide a short bio for the program"]
+    speaker.github = result["github"]
+    speaker.twitter = result["twitter"]
+    speaker.country = result["Country/Region of Origin"]
+    # Start session
+    session_time = parse_time(result["Date"] + " " + result["Time"])
+    # print session_time
+    # session.id = id_prefix
+    # session.start_time = session_time.isoformat()
+    # if last_session is not None:
+    #    last_session.end_time = session.start_time
+    #session.title = result["Topic or Name of proposed talk, workshop or project"]
+    # session.subtitle = result["Field"]
+    session.description = result["Abstract of talk or project"]
+    session.type = result["Type"]
+    # Use email more reliable
+    if GLOBAL_SPEAKER_IDS.has_key(speaker.name):
+        id = GLOBAL_SPEAKER_IDS[speaker.name].id
+        speaker.id = id
+    else:
+        id = len(GLOBAL_SPEAKER_IDS.keys()) + 1
+        speaker.id = id
+        GLOBAL_SPEAKER_IDS[speaker.name] = speaker
+        SPEAKERS.append(speaker)
 
-        session.speakers = [{'name': speaker.name, 'id': speaker.id}]
-        session.track = {'id': track.id, 'name': track.name}
-        SESSIONS.append(session)
-        return (speaker, session)
-    return (None, None)
+    session.speakers = [{'name': speaker.name, 'id': speaker.id}]
+    session.track = {'id': track.id, 'name': track.name}
+    SESSIONS.append(session)
+    return (speaker, session)
+    # return (None, None)
 
 DATE_FORMATS = ["%Y %A %B %d %I:%M %p", "%Y %A %B %d %I.%M %p"]
 
 
 def parse_time(time_str):
     # Fix up year first, some of them may not have it
+    iso_date = '0'
     if YEAR_OF_CONF not in time_str:
         time_str = YEAR_OF_CONF + " " + time_str
     for date_format in DATE_FORMATS:
