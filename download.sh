@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/export?format=tsv&gid=338479724" -O TechKidsI.tsv.tsv
-wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/export?format=tsv&gid=1928195125" -O TechKidsII.tsv.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/export?format=tsv&gid=338479724" -O TechKidsI.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/export?format=tsv&gid=1928195125" -O TechKidsII.tsv
 wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/export?format=tsv&gid=327861854" -O opentech.tsv
 wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/export?format=tsv&gid=1970970247" -O OpenTechWorkshops.tsv
 wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/export?format=tsv&gid=1863572076" -O WebTech.tsv
