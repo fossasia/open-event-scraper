@@ -1,10 +1,18 @@
 #!/usr/bin/env bash
 
-wget "https://docs.google.com/spreadsheets/d/1JqIX6piwKeL6dSQFZc-z2srKOMItGjkQGwNgtjLkagk/export?format=tsv&gid=1042935598" -O devops.tsv
-wget "https://docs.google.com/spreadsheets/d/1JqIX6piwKeL6dSQFZc-z2srKOMItGjkQGwNgtjLkagk/export?format=tsv&gid=1377402635" -O main.tsv
-wget "https://docs.google.com/spreadsheets/d/1JqIX6piwKeL6dSQFZc-z2srKOMItGjkQGwNgtjLkagk/export?format=tsv&gid=668491780" -O opentech.tsv
-wget "https://docs.google.com/spreadsheets/d/1JqIX6piwKeL6dSQFZc-z2srKOMItGjkQGwNgtjLkagk/export?format=tsv&gid=616428998" -O workshop.tsv
-wget "https://docs.google.com/spreadsheets/d/1JqIX6piwKeL6dSQFZc-z2srKOMItGjkQGwNgtjLkagk/export?format=tsv&gid=1355301208" -O web.tsv
-wget "https://docs.google.com/spreadsheets/d/1JqIX6piwKeL6dSQFZc-z2srKOMItGjkQGwNgtjLkagk/export?format=tsv&gid=573431216" -O python.tsv
-wget "https://docs.google.com/spreadsheets/d/1JqIX6piwKeL6dSQFZc-z2srKOMItGjkQGwNgtjLkagk/export?format=tsv&gid=1417535862" -O mozilla.tsv
-wget "https://docs.google.com/spreadsheets/d/1JqIX6piwKeL6dSQFZc-z2srKOMItGjkQGwNgtjLkagk/export?format=tsv&gid=917065210" -O exhibition.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=338479724" -O TechKidsI.tsv.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=1928195125" -O TechKidsII.tsv.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=327861854" -O opentech.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=1970970247" -O OpenTechWorkshops.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=1863572076" -O WebTech.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=1818561173" -O exhibition.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=1808371526" -O Hardware.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=1231143873" -O python.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=85865992" -O DB.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=426400576" -O Data.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=2018450544" -O devops.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=730570355" -O Privacy-Security.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=1145837237" -O ISC.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=756055779" -O ScienceHackDay.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=215950139" -O Linux.tsv
+wget "https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/edit#gid=1301402595" -O Design.tsv
