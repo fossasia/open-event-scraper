@@ -42,80 +42,80 @@ TRACK_CONFIG = [
           session_id_prefix=100,
           key_color="#3DC8C3",),
 
-    Track(id=2, name='Tech Kids II', filename='TechKidsII.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=2, name='Tech Kids II', filename='TechKidsII.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=3, name='OpenTech and IoT', filename='opentech.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=3, name='OpenTech and IoT', filename='opentech.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=4, name='OpenTech Workshops', filename='OpenTechWorkshops.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=4, name='OpenTech Workshops', filename='OpenTechWorkshops.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=5, name='WebTech', filename='WebTech.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=5, name='WebTech', filename='WebTech.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=6, name='Exhibition', filename='exhibition.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=6, name='Exhibition', filename='exhibition.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=7, name='Hardware and IoT', filename='Hardware.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=7, name='Hardware and IoT', filename='Hardware.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=8, name='Python', filename='python.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=8, name='Python', filename='python.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=9, name='Databases', filename='DB.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=9, name='Databases', filename='DB.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=10, name='Big Data/Open Data', filename='Data.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=10, name='Big Data/Open Data', filename='Data.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=11, name='DevOps', filename='devops.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=11, name='DevOps', filename='devops.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=12, name='Privacy and Security', filename='Privacy-Security.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=12, name='Privacy and Security', filename='Privacy-Security.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=13, name='Internet, Society, Community', filename='ISC.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=13, name='Internet, Society, Community', filename='ISC.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=14, name='Science Hack Day', filename='ScienceHackDay.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=14, name='Science Hack Day', filename='ScienceHackDay.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=15, name='Linux and MiniDebConf', filename='Linux.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",),
+    # Track(id=15, name='Linux and MiniDebConf', filename='Linux.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",),
 
-    Track(id=16, name='Design, VR, 3D', filename='Design.tsv',
-          header_line=2,
-          session_id_prefix=100,
-          key_color="#3DC8C3",)
+    # Track(id=16, name='Design, VR, 3D', filename='Design.tsv',
+    #       header_line=2,
+    #       session_id_prefix=100,
+    #       key_color="#3DC8C3",)
 ]
 
 # Provide year of conference in case the date is impossible to parse
@@ -132,11 +132,17 @@ def parse_file(track):
             if i == track.header_line:
                 HEADERS = map(str.strip, line)
             elif i > track.header_line:
-                #   parse_speaker
-                result = create_associative_arr(line, HEADERS)
-                # print result, "\n"
-                (res_speaker, res_session) = parse_speaker(result,  speaker,
-                                                           session, track, track.session_id_prefix + (10 * i),)
+                #   parse_row
+                row = create_associative_arr(line, HEADERS)
+                # print row, "\n"
+                (res_speaker, res_session) = parse_row(
+                  row,  
+                  speaker,
+                  session, 
+                  track, 
+                  track.session_id_prefix + (10 * i),
+                )
+
                 if res_session is not None and res_speaker is not None:
                     speaker = res_speaker
                     session = res_session
@@ -153,7 +159,7 @@ SESSIONS = []
 GLOBAL_SPEAKER_IDS = {}
 
 
-def parse_speaker(result,  last_speaker, last_session, current_track, id_prefix=10,):
+def parse_row(row, last_speaker, last_session, current_track, id_prefix=10,):
     """
     Format of Data
     # Speaker
@@ -197,40 +203,48 @@ def parse_speaker(result,  last_speaker, last_session, current_track, id_prefix=
     # event_id = db.Column(db.Integer,
     #                      db.ForeignKey('events.id'))
     """
-    pprint(result)
-    # if result.has_key("Email") and len(result["Email"]) > 1 and len(validate_result(result["Email"], "", "EMAIL")) > 1:
-    #     if GLOBAL_SPEAKER_IDS.has_key(result["Email"]) is not True:
+    # pprint(row)
+    # if row.has_key("Email") and len(row["Email"]) > 1 and len(validate_result(row["Email"], "", "EMAIL")) > 1:
+    #     if GLOBAL_SPEAKER_IDS.has_key(row["Email"]) is not True:
     #         speaker = Speaker()
     #     else:
-    #         speaker = GLOBAL_SPEAKER_IDS[result["Email"]]
+    #         speaker = GLOBAL_SPEAKER_IDS[row["Email"]]
     speaker = Speaker()
     session = Session()
-    # speaker.email = result["Email"]
-    speaker.name = result["Given Name"] + " " + result["Family Name"]
-    speaker.organisation = result["Company, Organization, Project or University"]
-    speaker.web = result["Website or Blog"]
+
+    speaker.email = row["Email"]
+    speaker.name = row["Given Name"] + " " + row["Family Name"]
+    speaker.organisation = row["Company, Organization, Project or University"]
+    speaker.web = row["Website or Blog"]
+
     if hasattr(speaker, 'photo'):
         speaker.photo = validate_result(
-            parser.get_pic_url(result), speaker.photo, "URL")
+            parser.get_pic_url(row), speaker.photo, "URL")
     else:
-        speaker.photo = parser.get_pic_url(result)
-    speaker.linkedin = parser.get_linkedin_url(result)
-    speaker.biography = result[
-        "Please provide a short bio for the program"]
-    speaker.github = result["github"]
-    speaker.twitter = result["twitter"]
-    speaker.country = result["Country/Region of Origin"]
+        speaker.photo = parser.get_pic_url(row)
+
+    speaker.linkedin = parser.get_linkedin_url(row)
+    speaker.biography = row["Please provide a short bio for the program"]
+    speaker.github = row["github"]
+    speaker.twitter = row["twitter"]
+    speaker.country = row["Country/Region of Origin"]
+
     # Start session
-    session_time = parse_time(result["Date"] + " " + result["Time"])
+    session_time = parse_time(row["Date"] + " " + row["Time"])
     # print session_time
     # session.id = id_prefix
-    # session.start_time = session_time.isoformat()
-    # if last_session is not None:
-    #    last_session.end_time = session.start_time
-    #session.title = result["Topic or Name of proposed talk, workshop or project"]
-    # session.subtitle = result["Field"]
-    session.description = result["Abstract of talk or project"]
-    session.type = result["Type"]
+    
+    if session_time is not None:
+      session.start_time = session_time.isoformat()
+
+    if last_session is not None and session_time is not None:
+       last_session.end_time = session_time.isoformat()
+
+    session.title = row["Topic or Name of proposed talk, workshop or project"]
+    # session.subtitle = row["Field"]
+    session.description = row["Abstract of talk or project"]
+    session.type = row["Type"]
+
     # Use email more reliable
     if GLOBAL_SPEAKER_IDS.has_key(speaker.name):
         id = GLOBAL_SPEAKER_IDS[speaker.name].id
@@ -243,6 +257,7 @@ def parse_speaker(result,  last_speaker, last_session, current_track, id_prefix=
 
     session.speakers = [{'name': speaker.name, 'id': speaker.id}]
     session.track = {'id': track.id, 'name': track.name}
+
     SESSIONS.append(session)
     return (speaker, session)
     # return (None, None)
@@ -252,9 +267,12 @@ DATE_FORMATS = ["%Y %A %B %d %I:%M %p", "%Y %A %B %d %I.%M %p"]
 
 def parse_time(time_str):
     # Fix up year first, some of them may not have it
-    iso_date = '0'
+    iso_date = None
     if YEAR_OF_CONF not in time_str:
         time_str = YEAR_OF_CONF + " " + time_str
+
+    print "parse_time " + time_str 
+
     for date_format in DATE_FORMATS:
         try:
             iso_date = datetime.datetime.strptime(time_str, date_format)
@@ -262,6 +280,9 @@ def parse_time(time_str):
             pass
         else:
             break
+
+    print iso_date
+
     return iso_date
 
 
