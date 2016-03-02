@@ -132,10 +132,10 @@ def parse_file(track):
             if i == track.header_line:
                 HEADERS = map(str.strip, line)
             elif i > track.header_line:
-                #   parse_speaker
+                #   parse_row
                 row = create_associative_arr(line, HEADERS)
                 # print row, "\n"
-                (res_speaker, res_session) = parse_speaker(
+                (res_speaker, res_session) = parse_row(
                   row,  
                   speaker,
                   session, 
@@ -159,7 +159,7 @@ SESSIONS = []
 GLOBAL_SPEAKER_IDS = {}
 
 
-def parse_speaker(row, last_speaker, last_session, current_track, id_prefix=10,):
+def parse_row(row, last_speaker, last_session, current_track, id_prefix=10,):
     """
     Format of Data
     # Speaker
