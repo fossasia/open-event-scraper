@@ -42,7 +42,6 @@ TRACK_CONFIG = [
           session_id_prefix=100,
           key_color="#3DC8C3",),
 
-<<<<<<< HEAD
     Track(id=2, name='Tech Kids II', filename='TechKidsII.tsv',
            header_line=2,
            session_id_prefix=100,
@@ -117,82 +116,6 @@ TRACK_CONFIG = [
            header_line=2,
            session_id_prefix=100,
            key_color="#3DC8C3",)
-=======
-    # Track(id=2, name='Tech Kids II', filename='TechKidsII.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=3, name='OpenTech and IoT', filename='opentech.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=4, name='OpenTech Workshops', filename='OpenTechWorkshops.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=5, name='WebTech', filename='WebTech.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=6, name='Exhibition', filename='exhibition.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=7, name='Hardware and IoT', filename='Hardware.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=8, name='Python', filename='python.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=9, name='Databases', filename='DB.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=10, name='Big Data/Open Data', filename='Data.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=11, name='DevOps', filename='devops.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=12, name='Privacy and Security', filename='Privacy-Security.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=13, name='Internet, Society, Community', filename='ISC.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=14, name='Science Hack Day', filename='ScienceHackDay.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=15, name='Linux and MiniDebConf', filename='Linux.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",),
-
-    # Track(id=16, name='Design, VR, 3D', filename='Design.tsv',
-    #       header_line=2,
-    #       session_id_prefix=100,
-    #       key_color="#3DC8C3",)
->>>>>>> 0f0f574238ad08303868beaa9476ac2a66767673
 ]
 
 # Provide year of conference in case the date is impossible to parse
@@ -289,14 +212,10 @@ def parse_row(row, last_speaker, last_session, current_track, id_prefix=10,):
     speaker = Speaker()
     session = Session()
 
-<<<<<<< HEAD
     if not row["Email"]:    
         speaker.email = row["Given Name"] + "." + row["Family Name"] + "@" + "example.org"
     else:
         speaker.email = row["Email"]
-=======
-    speaker.email = row["Email"]
->>>>>>> 0f0f574238ad08303868beaa9476ac2a66767673
     speaker.name = row["Given Name"] + " " + row["Family Name"]
     speaker.organisation = row["Company, Organization, Project or University"]
     speaker.web = row["Website or Blog"]
@@ -355,11 +274,7 @@ def parse_time(time_str):
     if YEAR_OF_CONF not in time_str:
         time_str = YEAR_OF_CONF + " " + time_str
 
-<<<<<<< HEAD
-    # print "parse_time " + time_str 
-=======
     print "parse_time " + time_str 
->>>>>>> 0f0f574238ad08303868beaa9476ac2a66767673
 
     for date_format in DATE_FORMATS:
         try:
