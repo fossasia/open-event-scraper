@@ -8,7 +8,6 @@ import jsonpickle
 import logging
 import parser
 from pprint import pprint
-
 from models import *
 
 # TODOS:
@@ -25,105 +24,100 @@ SESSION_LENGTH = datetime.timedelta(minutes=30)
 TZ_UTC = pytz.utc
 TZ_LOCAL = pytz.timezone('Asia/Hong_Kong')
 
-#1. Tech Kids I
-#2. Tech Kids II
-#3. OpenTech and IoT
-#4. OpenTech Workshops
-#5. WebTech
-#6. Exhibition
-#7. Hardware and IoT
-#8. Python
-#9. Databases
-#10.Big Data/Open Data
-#11.DevOps
-#12.Privacy and Security
-#13.Internet, Society, Community
-#14.Science Hack Day
-#15.Linux and MiniDebConf
-#16.Design, VR, 3D
-
-
 TRACK_CONFIG = [
-    Track(id=1, name='Tech Kids I', 
-            filename='data/TechKidsI.tsv',
-            header_line=2,
-            session_id_prefix=100,
-            key_color="#3DC8C3",),
+    Track(id=1, 
+        name='Tech Kids I', 
+        filename='data/TechKidsI.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-    Track(id=2, name='Tech Kids II', filename='data/TechKidsII.tsv',
-           header_line=2,
-           session_id_prefix=100,
-           key_color="#3DC8C3",),
+    Track(id=2, 
+        name='Tech Kids II', 
+        filename='data/TechKidsII.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-     Track(id=3, name='OpenTech and IoT', filename='data/opentech.tsv',
-           header_line=2,
-           session_id_prefix=100,
-           key_color="#3DC8C3",),
+    Track(id=3, 
+        name='OpenTech and IoT', 
+        filename='data/opentech.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-     Track(id=4, name='OpenTech Workshops', filename='data/OpenTechWorkshops.tsv',
-           header_line=2,
-           session_id_prefix=100,
-           key_color="#3DC8C3",),
+    Track(id=4, 
+        name='OpenTech Workshops', 
+        filename='data/OpenTechWorkshops.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-     Track(id=5, name='WebTech', filename='data/WebTech.tsv',
-           header_line=2,
-           session_id_prefix=100,
-           key_color="#3DC8C3",),
+    Track(id=5, 
+        name='WebTech', 
+        filename='data/WebTech.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-    #  Track(id=6, name='Exhibition', filename='data/exhibition.tsv',
-    #        header_line=2,
-    #        session_id_prefix=100,
-    #        key_color="#3DC8C3",),
+    # Track(id=6, name='Exhibition', filename='data/exhibition.tsv',
+    #    header_line=2,
+    #    session_id_prefix=100,
+    #    key_color="#3DC8C3",),
 
-    #  Track(id=7, name='Hardware and IoT', filename='data/Hardware.tsv',
-    #        header_line=2,
-    #        session_id_prefix=100,
-    #        key_color="#3DC8C3",),
+    Track(id=7, 
+        name='Hardware and IoT', 
+        filename='data/Hardware.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-    #  Track(id=8, name='Python', filename='data/python.tsv',
-    #        header_line=2,
-    #        session_id_prefix=100,
-    #        key_color="#3DC8C3",),
+    Track(id=8, 
+        name='Python', 
+        filename='data/python.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-    #  Track(id=9, name='Databases', filename='data/DB.tsv',
-    #        header_line=2,
-    #        session_id_prefix=100,
-    #        key_color="#3DC8C3",),
+    Track(id=9, 
+        name='Databases', 
+        filename='data/DB.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-    #  Track(id=10, name='Big Data/Open Data', filename='data/Data.tsv',
-    #        header_line=2,
-    #        session_id_prefix=100,
-    #        key_color="#3DC8C3",),
+    Track(id=10, 
+        name='Big Data/Open Data', 
+        filename='data/Data.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-    #  Track(id=11, name='DevOps', filename='data/devops.tsv',
-    #        header_line=2,
-    #        session_id_prefix=100,
-    #        key_color="#3DC8C3",),
+    Track(id=11, 
+        name='DevOps', 
+        filename='data/devops.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-    #  Track(id=12, name='Privacy and Security', filename='data/Privacy-Security.tsv',
-    #        header_line=2,
-    #        session_id_prefix=100,
-    #        key_color="#3DC8C3",),
+    Track(id=12, 
+        name='Privacy and Security', 
+        filename='data/Privacy-Security.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-    #  Track(id=13, name='Internet, Society, Community', filename='data/ISC.tsv',
-    #        header_line=2,
-    #        session_id_prefix=100,
-    #        key_color="#3DC8C3",),
+    Track(id=13, 
+        name='Internet, Society, Community', 
+        filename='data/ISC.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-    #  Track(id=14, name='Science Hack Day', filename='data/ScienceHackDay.tsv',
-    #        header_line=2,
-    #        session_id_prefix=100,
-    #        key_color="#3DC8C3",),
+    Track(id=14, 
+        name='Science Hack Day', 
+        filename='data/ScienceHackDay.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-    #  Track(id=15, name='Linux and MiniDebConf', filename='data/Linux.tsv',
-    #        header_line=2,
-    #        session_id_prefix=100,
-    #        key_color="#3DC8C3",),
+    Track(id=15, 
+        name='Linux and MiniDebConf', 
+        filename='data/Linux.tsv',
+        header_line=2,
+        key_color="#3DC8C3",),
 
-    #  Track(id=16, name='Design, VR, 3D', filename='data/Design.tsv',
-    #        header_line=2,
-    #        session_id_prefix=100,
-    #        key_color="#3DC8C3",)
+    Track(id=16, name='Design, VR, 3D', 
+        filename='data/Design.tsv',
+        header_line=2,
+        key_color="#3DC8C3",)
 ]
 
 # Provide year of conference in case the date is impossible to parse
@@ -145,8 +139,9 @@ def parse_file(track):
                 # print row, "\n"
                 (res_speaker, res_session) = parse_row(row, speaker, session, track)
 
-                if res_session is not None and res_speaker is not None:
+                if res_speaker is not None:
                     speaker = res_speaker
+                if res_session is not None:
                     session = res_session
             i = i + 1
 
