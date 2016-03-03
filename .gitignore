@@ -62,6 +62,4 @@ target/
 .ipynb_checkpoints
 
 # CSV/TSV files
-*.tsv
 *.csv
-*.json

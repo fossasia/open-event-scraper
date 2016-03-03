@@ -1,0 +1,52 @@
+{ "tracks":[
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Tech Kids I",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/TechKidsI.tsv",
+    "id": 1,
+    "session_id_prefix": 100
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Tech Kids II",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/TechKidsII.tsv",
+    "id": 2,
+    "session_id_prefix": 100
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "OpenTech and IoT",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/opentech.tsv",
+    "id": 3,
+    "session_id_prefix": 100
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "OpenTech Workshops",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/OpenTechWorkshops.tsv",
+    "id": 4,
+    "session_id_prefix": 100
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "WebTech",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/WebTech.tsv",
+    "id": 5,
+    "session_id_prefix": 100
+  }
+]}
