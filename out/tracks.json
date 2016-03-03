@@ -6,8 +6,7 @@
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
     "filename": "data/TechKidsI.tsv",
-    "id": 1,
-    "session_id_prefix": 100
+    "id": 1
   },
   {
     "py/object": "models.Track",
@@ -16,8 +15,7 @@
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
     "filename": "data/TechKidsII.tsv",
-    "id": 2,
-    "session_id_prefix": 100
+    "id": 2
   },
   {
     "py/object": "models.Track",
@@ -26,8 +24,7 @@
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
     "filename": "data/opentech.tsv",
-    "id": 3,
-    "session_id_prefix": 100
+    "id": 3
   },
   {
     "py/object": "models.Track",
@@ -36,8 +33,7 @@
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
     "filename": "data/OpenTechWorkshops.tsv",
-    "id": 4,
-    "session_id_prefix": 100
+    "id": 4
   },
   {
     "py/object": "models.Track",
@@ -46,7 +42,96 @@
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
     "filename": "data/WebTech.tsv",
-    "id": 5,
-    "session_id_prefix": 100
+    "id": 5
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Hardware and IoT",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/Hardware.tsv",
+    "id": 7
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Python",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/python.tsv",
+    "id": 8
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Databases",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/DB.tsv",
+    "id": 9
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Big Data/Open Data",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/Data.tsv",
+    "id": 10
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "DevOps",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/devops.tsv",
+    "id": 11
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Privacy and Security",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/Privacy-Security.tsv",
+    "id": 12
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Internet, Society, Community",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/ISC.tsv",
+    "id": 13
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Science Hack Day",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/ScienceHackDay.tsv",
+    "id": 14
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Linux and MiniDebConf",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/Linux.tsv",
+    "id": 15
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Design, VR, 3D",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "filename": "data/Design.tsv",
+    "id": 16
   }
 ]}
