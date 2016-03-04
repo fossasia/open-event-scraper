@@ -6,15 +6,18 @@ class Track(object):
     name = ""
     description = ""
     track_image_url = "http://lorempixel.com/400/200"
+    location = ""
+    gid = ""
 
-    def __init__(self, id, name, header_line, filename, key_color):
+    def __init__(self, id, name, header_line, key_color, location, gid):
         super(Track, self).__init__()
         self.id = id
         self.name = name
         self.header_line = header_line
-        self.filename = filename
         self.key_color = key_color
         self.track_image_url = "http://lorempixel.com/400/200"
+        self.location = location
+        self.gid = gid
 
 
 class Speaker(object):

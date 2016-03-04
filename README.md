@@ -1,14 +1,13 @@
 # open-event-scraper
-Google spreadsheet parsing for Open Event JSON
+
+Google spreadsheet parsing for FOSSASIA 2016
 
 ## setup
 
 ```shell
-pip install -r requirements.txt
-python scraper.py
+./requirements.sh
+./run.sh
 ```
-
-Requires the tsv file to be present for each track. Look into source code for details
 
 ## License
 

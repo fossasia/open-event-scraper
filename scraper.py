@@ -7,6 +7,7 @@ import validators
 import jsonpickle
 import logging
 import parser
+import urllib2
 from pprint import pprint
 from models import *
 
@@ -24,126 +25,59 @@ SESSION_LENGTH = datetime.timedelta(minutes=30)
 TZ_UTC = pytz.utc
 TZ_LOCAL = pytz.timezone('Asia/Hong_Kong')
 
-TRACK_CONFIG = [
-    Track(id=1, 
-        name='Tech Kids I', 
-        filename='data/TechKidsI.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=2, 
-        name='Tech Kids II', 
-        filename='data/TechKidsII.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=3, 
-        name='OpenTech and IoT', 
-        filename='data/opentech.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=4, 
-        name='OpenTech Workshops', 
-        filename='data/OpenTechWorkshops.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=5, 
-        name='WebTech', 
-        filename='data/WebTech.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    # Track(id=6, name='Exhibition', filename='data/exhibition.tsv',
-    #    header_line=2,
-    #    session_id_prefix=100,
-    #    key_color="#3DC8C3",),
-
-    Track(id=7, 
-        name='Hardware and IoT', 
-        filename='data/Hardware.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=8, 
-        name='Python', 
-        filename='data/python.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=9, 
-        name='Databases', 
-        filename='data/DB.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=10, 
-        name='Big Data/Open Data', 
-        filename='data/Data.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=11, 
-        name='DevOps', 
-        filename='data/devops.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=12, 
-        name='Privacy and Security', 
-        filename='data/Privacy-Security.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=13, 
-        name='Internet, Society, Community', 
-        filename='data/ISC.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=14, 
-        name='Science Hack Day', 
-        filename='data/ScienceHackDay.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=15, 
-        name='Linux and MiniDebConf', 
-        filename='data/Linux.tsv',
-        header_line=2,
-        key_color="#3DC8C3",),
-
-    Track(id=16, name='Design, VR, 3D', 
-        filename='data/Design.tsv',
-        header_line=2,
-        key_color="#3DC8C3",)
-]
-
 # Provide year of conference in case the date is impossible to parse
 YEAR_OF_CONF = '2016'
 
+def parse_tracklist(track_data):
+    tracks = []
+    headers = []
+    HEADER_LINE = 1
 
-def parse_file(track):
+    i = 1
+    track = None
+    for line in csv.reader(track_data.split("\n"), delimiter="\t"):
+        if i == HEADER_LINE:
+            HEADERS = map(str.strip, line)
+        elif i > HEADER_LINE:
+            row = create_associative_arr(line, HEADERS)
+            # pprint(row)
+            track = Track(
+                id = i,
+                name = row["Track"],
+                header_line = int(row["Header Line"]),
+                key_color = row["Key Color"],
+                location = row["Room"],
+                gid = row["GID"]
+            )
+            tracks.append(track)
+
+        i = i + 1
+
+    return tracks
+
+def parse_sessions(track, session_data):
     HEADERS = []
-    with open(track.filename) as tsv:
-        i = 1
-        speaker = None
-        session = None
-        for line in csv.reader(tsv, delimiter="\t"):
-            if i == track.header_line:
-                HEADERS = map(str.strip, line)
-            elif i > track.header_line:
-                #   parse_row
-                row = create_associative_arr(line, HEADERS)
-                # print row, "\n"
-                (res_speaker, res_session) = parse_row(row, speaker, session, track)
+    # with open(track.filename) as tsv:
+    i = 1
+    speaker = None
+    session = None
 
-                if res_speaker is not None:
-                    speaker = res_speaker
-                if res_session is not None:
-                    session = res_session
-            i = i + 1
+    # print session_data
+
+    for line in csv.reader(session_data.split("\n"), delimiter="\t"):
+        if i == track.header_line:
+            HEADERS = map(str.strip, line)
+        elif i > track.header_line:
+            #   parse_row
+            row = create_associative_arr(line, HEADERS)
+
+            (res_speaker, res_session) = parse_row(row, speaker, session, track)
+
+            if res_speaker is not None:
+                speaker = res_speaker
+            if res_session is not None:
+                session = res_session
+        i = i + 1
 
 
 def create_associative_arr(line, headers):
@@ -230,6 +164,8 @@ def parse_row(row, last_speaker, last_session, current_track):
         session.type = row["Type"]
     if not hasattr(session, 'track'):
         session.track = {'id': track.id, 'name': track.name}
+    if not hasattr(session, 'location'):
+        session.location = track.location
 
     # TODO: append speaker
     if speaker is not None:
@@ -277,26 +213,51 @@ def validate_result(current, default, type):
         return current
     return default
 
+def fetch_tsv_data(gid):
+    base_url = 'https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/export?format=tsv'
+    url = base_url + '&gid=' + gid
+    logging.info('GET ' + url)
+    res = urllib2.urlopen(url)
+    return res.read()
 
 def write_json(filename, root_key, the_json):
     f = open(filename + '.json', 'w')
-    the_json = simplejson.dumps(simplejson.loads(
-        the_json), indent=2, sort_keys=False)
+    the_json = simplejson.dumps(simplejson.loads(the_json), indent=2, sort_keys=False)
     json_to_write = '{ "%s":%s}' % (root_key, the_json)
     f.write(json_to_write)
     f.close()
 
 if __name__ == "__main__":
     logging.getLogger().setLevel(logging.DEBUG)
-    for track in TRACK_CONFIG:
-        logging.info("[Parsing file] %s track_id = %d",
-                     track.filename, track.id)
-        parse_file(track)
 
-    # print json.dumps(SPEAKERS[0].__dict__)
+    TRACKLIST_GID = '1847379562'
+
+    logging.info("[Fetching Tracklist], gid = %s", TRACKLIST_GID)
+    track_data = fetch_tsv_data(TRACKLIST_GID)
+    tracks = parse_tracklist(track_data)
+
+    logging.info('got %d tracks', len(tracks))
+
+    i = 0
+    for track in tracks:
+        if not track.gid: 
+            continue
+        # debug only, limit to a single track
+        # if i > 0:
+        #     break
+        # i = i + 1
+
+        logging.info("[Fetching Track] '%s', gid = %s", track.name, track.gid)
+        data = fetch_tsv_data(track.gid)
+
+        logging.info("[Parsing Track] '%s'", track.name)
+        parse_sessions(track, data)
+        logging.info('next...')
+
+    # # print json.dumps(SPEAKERS[0].__dict__)
     speakers_json = jsonpickle.encode(SPEAKERS)
     write_json('out/speakers', 'speakers', speakers_json)
     session_json = jsonpickle.encode(SESSIONS)
     write_json('out/sessions', 'sessions', session_json)
-    tracks_json = jsonpickle.encode(TRACK_CONFIG)
+    tracks_json = jsonpickle.encode(tracks)
     write_json('out/tracks', 'tracks', tracks_json)
