@@ -112,7 +112,6 @@ def parse_row(row, last_speaker, last_session, current_track):
 
     if row["Given Name"]:
         speaker = Speaker()
-        SPEAKERS.append(speaker)
 
         speaker.organisation = row["Company, Organization, Project or University"]
         speaker.name = (row["Given Name"] + " " + row["Family Name"]).strip()
@@ -140,6 +139,7 @@ def parse_row(row, last_speaker, last_session, current_track):
             id = GLOBAL_SPEAKER_IDS[speaker.name].id
             speaker.id = id
         else:
+            SPEAKERS.append(speaker)
             id = len(GLOBAL_SPEAKER_IDS.keys()) + 1
             speaker.id = id
             GLOBAL_SPEAKER_IDS[speaker.name] = speaker
