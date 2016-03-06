@@ -872,19 +872,6 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "http://www.gnovi.in",
-    "github": "wavicles",
-    "name": "Praveen (Gnovi) Patil",
-    "country": "India",
-    "twitter": "https://twitter.com/_gnovi",
-    "linkedin": "",
-    "id": 68,
-    "photo": "https://pbs.twimg.com/media/CXndyS8U0AEOaw1.jpg",
-    "organisation": "Department of Physics, G S Science College, Belgaum",
-    "biography": "A Physics Teacher and a free software enthusiast. FOSSASIA GSoC student alumnus and GCI mentor. Working on ExpEYES: Pocket Science Lab,  Involved in FOSS training programs for science teachers and students. E-content developer for National Repository of Open Educational Resources (NROER) for School Education and member of committee for \u201cDevelopment of ICT Refresher Course for students and teachers\u201dby Central Institute of Education Technology (CIET), NCERT, New Delhi. Talks at International Events: FOSSASIA - 2014 at Phnom Penh, Cambodia RMLL-2014 at Montpellier, France  FOSSASIA -2015 at NUS Singapore PyCon Sg at Singapore"
-  },
-  {
-    "py/object": "models.Speaker",
     "web": "http://societyserver.org/mbaehr/",
     "github": "",
     "name": "Martin B\u00e4hr",
