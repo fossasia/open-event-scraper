@@ -2798,6 +2798,14 @@
       {
         "id": 114,
         "name": "Soares Chen"
+      },
+      {
+        "id": 115,
+        "name": "Joerg Henning"
+      },
+      {
+        "id": 116,
+        "name": "Sebastiaan Deckers"
       }
     ],
     "description": "If you want to increase your skills with either JavaScript or Node.js, NodeSchool is easily the best way to do it. We will be hosting hands-on workshops for both beginners and experienced node developers. This event is for both newcomers and prior attendees!",
@@ -2810,82 +2818,7 @@
     "session_id": "WT-12",
     "location": "Level 2, Room tbc",
     "type": "Workshop of 2 hours",
-    "end_time": "2016-03-20T02:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "Joerg Henning",
-    "track": {
-      "id": 9,
-      "name": "WebTech"
-    },
-    "start_time": "2016-03-20T02:30:00+00:00",
-    "session_id": "WT-13",
-    "location": "Level 2, Room tbc",
-    "type": "",
-    "end_time": "2016-03-20T03:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "Sebastiaan Deckers",
-    "track": {
-      "id": 9,
-      "name": "WebTech"
-    },
-    "start_time": "2016-03-20T03:00:00+00:00",
-    "session_id": "WT-14",
-    "location": "Level 2, Room tbc",
-    "type": "",
-    "end_time": "2016-03-20T03:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "Lunch Lunch",
-    "track": {
-      "id": 9,
-      "name": "WebTech"
-    },
-    "start_time": "2016-03-20T04:00:00+00:00",
-    "session_id": "WT-15",
-    "location": "Level 2, Room tbc",
-    "type": "",
-    "end_time": "2016-03-20T04:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "Nodeschool",
-    "title": "Nodeschool",
-    "track": {
-      "id": 9,
-      "name": "WebTech"
-    },
-    "start_time": "2016-03-20T05:00:00+00:00",
-    "session_id": "WT-16",
-    "location": "Level 2, Room tbc",
-    "type": "Workshop of 1 hour",
-    "end_time": "2016-03-20T06:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "Learning JavaScript from beginner to master level. Self-driven workshops with coaching by mentors.",
-    "title": "NodeSchool",
-    "track": {
-      "id": 9,
-      "name": "WebTech"
-    },
-    "start_time": "2016-03-20T06:00:00+00:00",
-    "session_id": "WT-17",
-    "location": "Level 2, Room tbc",
-    "type": "Workshop of 1.5 hours",
-    "end_time": "2016-03-20T07:30:00+00:00"
+    "end_time": "2016-03-20T07:00:00+00:00"
   },
   {
     "py/object": "models.Session",
