@@ -20,6 +20,10 @@ from models import *
 # ID Prefix = should be unique across tracks
 # Color code
 
+
+SHEET_ID = '1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc'
+SHEET_VERSIONING_GID = '1847379562'
+
 # We assume each row represents a time interval of 30 minutes and use that to calculate end time 
 SESSION_LENGTH = datetime.timedelta(minutes=30)
 TZ_UTC = pytz.utc
@@ -122,15 +126,11 @@ def parse_row(row, last_speaker, last_session, current_track):
         speaker.twitter = row["twitter"]
         speaker.country = row["Country/Region of Origin"]
 
-        if row["Email"]:
-            speaker.email = row["Email"]
-
         if hasattr(speaker, 'photo'):
             speaker.photo = validate_result(
                 parser.get_pic_url(row), 
                 speaker.photo, 
-                "URL"
-            )
+                "URL")
         else:
             speaker.photo = parser.get_pic_url(row)
 
@@ -157,7 +157,13 @@ def parse_row(row, last_speaker, last_session, current_track):
 
     # only update attributes not already set
     if not hasattr(session, 'title'):
-        session.title = row["Topic or Name of proposed talk, workshop or project"]
+        maybe_title = row["Topic or Name of proposed talk, workshop or project"]
+        if not maybe_title and speaker is not None:
+            # print('use speaker name' + speaker.name)
+            maybe_title = speaker.name
+            speaker = None    
+        session.title = maybe_title
+
     if not hasattr(session, 'description'):
         session.description = row["Abstract of talk or project"]
     if not hasattr(session, 'type'):
@@ -166,8 +172,6 @@ def parse_row(row, last_speaker, last_session, current_track):
         session.track = {'id': track.id, 'name': track.name}
     if not hasattr(session, 'location'):
         session.location = track.location
-
-    # TODO: append speaker
     if speaker is not None:
         session.speakers.append({'name': speaker.name, 'id': speaker.id})
 
@@ -214,7 +218,7 @@ def validate_result(current, default, type):
     return default
 
 def fetch_tsv_data(gid):
-    base_url = 'https://docs.google.com/spreadsheets/d/1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc/export?format=tsv'
+    base_url = 'https://docs.google.com/spreadsheets/d/' + SHEET_ID + '/export?format=tsv'
     url = base_url + '&gid=' + gid
     logging.info('GET ' + url)
     res = urllib2.urlopen(url)
@@ -230,10 +234,8 @@ def write_json(filename, root_key, the_json):
 if __name__ == "__main__":
     logging.getLogger().setLevel(logging.DEBUG)
 
-    TRACKLIST_GID = '1847379562'
-
-    logging.info("[Fetching Tracklist], gid = %s", TRACKLIST_GID)
-    track_data = fetch_tsv_data(TRACKLIST_GID)
+    logging.info("[Fetching Tracklist], gid = %s", SHEET_VERSIONING_GID)
+    track_data = fetch_tsv_data(SHEET_VERSIONING_GID)
     tracks = parse_tracklist(track_data)
 
     logging.info('got %d tracks', len(tracks))
