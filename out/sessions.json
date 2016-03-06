@@ -2806,6 +2806,10 @@
       {
         "id": 116,
         "name": "Sebastiaan Deckers"
+      },
+      {
+        "id": 43,
+        "name": "Tim Oxley"
       }
     ],
     "description": "If you want to increase your skills with either JavaScript or Node.js, NodeSchool is easily the best way to do it. We will be hosting hands-on workshops for both beginners and experienced node developers. This event is for both newcomers and prior attendees!",
