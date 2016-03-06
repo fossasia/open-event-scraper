@@ -5,8 +5,8 @@
     "name": "OpenTech and IoT",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1609641381",
-    "location": "Level 3, Dalton Hall",
+    "gid": "614492972",
+    "location": "Level 3, Lewis Hall",
     "id": 2
   },
   {
@@ -15,7 +15,7 @@
     "name": "OpenTech Workshops",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "343600161",
+    "gid": "1114020754",
     "location": "Level 3, Fermi Hall",
     "id": 3
   },
@@ -25,7 +25,7 @@
     "name": "Tech Kids I",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1994044572",
+    "gid": "547818875",
     "location": "Level 1, Digital Design Studio",
     "id": 4
   },
@@ -35,7 +35,7 @@
     "name": "Tech Kids II",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1718880888",
+    "gid": "1466098597",
     "location": "Level 1, Digital Design Studio",
     "id": 5
   },
@@ -45,7 +45,7 @@
     "name": "Tech Kids III",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "639028853",
+    "gid": "473324574",
     "location": "Level 1, Observatory Classroom",
     "id": 6
   },
@@ -55,7 +55,7 @@
     "name": "Hardware and IoT",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1177213461",
+    "gid": "83587793",
     "location": "Level 3, Faraday Hall",
     "id": 7
   },
@@ -65,7 +65,7 @@
     "name": "DevOps",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "702893702",
+    "gid": "1188122709",
     "location": "Level 3, Planck Hall",
     "id": 8
   },
@@ -75,8 +75,8 @@
     "name": "WebTech",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1998935265",
-    "location": "Level 2, Room tbc",
+    "gid": "1289561903",
+    "location": "Level 2, Room to be decided",
     "id": 9
   },
   {
@@ -85,7 +85,7 @@
     "name": "Python",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1077549196",
+    "gid": "948344155",
     "location": "Level 3, Pauling Hall",
     "id": 10
   },
@@ -95,8 +95,8 @@
     "name": "Big Data/Open Data",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1525846943",
-    "location": "Level 3, Lewis Hall",
+    "gid": "1211267857",
+    "location": "Level 3, Fermi Hall",
     "id": 11
   },
   {
@@ -105,7 +105,7 @@
     "name": "Databases",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1967704243",
+    "gid": "2045977533",
     "location": "Level 2, Herschel Hall",
     "id": 12
   },
@@ -115,7 +115,7 @@
     "name": "Internet, Society, Community",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1292606949",
+    "gid": "46830468",
     "location": "Level 2, Einstein Hall",
     "id": 13
   },
@@ -125,7 +125,7 @@
     "name": "Privacy and Security",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "446776645",
+    "gid": "799780323",
     "location": "Level 2, Einstein Hall",
     "id": 14
   },
@@ -135,7 +135,7 @@
     "name": "Science Hack Day",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1418150891",
+    "gid": "1293764878",
     "location": "Level 1, Tinkering Studio",
     "id": 15
   },
@@ -145,7 +145,7 @@
     "name": "Linux and MiniDebConf",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "833577640",
+    "gid": "1880592445",
     "location": "Level 1, Digital Design Studio",
     "id": 16
   },
@@ -155,7 +155,7 @@
     "name": "Design, VR, 3D",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "656379278",
+    "gid": "1832530755",
     "location": "Level 3, Faraday Hall",
     "id": 17
   },
@@ -165,7 +165,7 @@
     "name": "Exhibition",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1390423998",
+    "gid": "1608856737",
     "location": "Level 1, Ground Floor, Exhibition Hall",
     "id": 18
   },
