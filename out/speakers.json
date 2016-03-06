@@ -1743,19 +1743,6 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "Open-Event/FOSSASIA",
-    "github": "724738945",
-    "name": "Rafal Kowalski",
-    "country": "https://www.linkedin.com/in/rafa%C5%82-kowalski-545a1464",
-    "twitter": "https://github.com/rafalkowalski",
-    "linkedin": "",
-    "id": 137,
-    "photo": "Wroclaw",
-    "organisation": "Rafal ",
-    "biography": "This workshops introduces the ideas and implementation of Open Event, the data format exchange and how we build Android and Web Apps based on the Open Event JSON. We will give you an overview of the app and quickly move on to show you how to generate apps from the Open Event JSON."
-  },
-  {
-    "py/object": "models.Speaker",
     "web": "http://akshaim.github.io/",
     "github": "https://github.com/akshaim",
     "name": "Akshai M",
