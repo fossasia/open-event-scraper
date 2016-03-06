@@ -976,19 +976,6 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "http://ulno.net",
-    "github": "",
-    "name": "Ulrich Norbisrath",
-    "country": "Indonesia",
-    "twitter": "",
-    "linkedin": "",
-    "id": 76,
-    "photo": "http://ulno.net/pics/ulno/geek.jpg",
-    "organisation": "ulno.net",
-    "biography": "Ulrich Norbisrath, PhD has more than 20 years of industrial and academic experience in Software Engineering and Systems Integration. He has supported the start-up of several software development companies as well as consulted tech companies in questions of Systems Integration, Mobile, and Cloud Computing. He provides a deep technical understanding of mobile technologies and their integration with cloud services -- both from an academic as well as an industrial perspective. He raised significant grants on Cloud, Mobile, and High Performance Computing at universities in Europe and Central Asia. He is a published book author in the area of Software and Requirements Engineering. Being connected through his immediate family to US Diplomatic services, he is very well traveled and can call on a worldwide network of international experts. He is currently employed as a professor at the University Applied Sciences Upper Austria in their Mobile Computing program."
-  },
-  {
-    "py/object": "models.Speaker",
     "web": "http://shivamverma.info",
     "github": "http://github.com/vshivam",
     "name": "Shivam  Verma",
