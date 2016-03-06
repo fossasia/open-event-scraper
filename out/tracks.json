@@ -5,8 +5,8 @@
     "name": "OpenTech and IoT",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "327861854",
-    "location": "Level 3 (Dalton)",
+    "gid": "1609641381",
+    "location": "Level 3, Dalton Hall",
     "id": 2
   },
   {
@@ -15,8 +15,8 @@
     "name": "OpenTech Workshops",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1970970247",
-    "location": "Level 1 (Observatory Classroom)",
+    "gid": "343600161",
+    "location": "Level 3, Fermi Hall",
     "id": 3
   },
   {
@@ -25,8 +25,8 @@
     "name": "Tech Kids I",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "338479724",
-    "location": "Level 1 (Digital Design Studio)",
+    "gid": "1994044572",
+    "location": "Level 1, Digital Design Studio",
     "id": 4
   },
   {
@@ -35,38 +35,38 @@
     "name": "Tech Kids II",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1928195125",
-    "location": "Level 1 (Digital Design Studio)",
+    "gid": "1718880888",
+    "location": "Level 1, Digital Design Studio",
     "id": 5
   },
   {
     "py/object": "models.Track",
     "key_color": "#3DC8C3",
-    "name": "Science Hack Day",
+    "name": "Tech Kids III",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "756055779",
-    "location": "Level 1 (Tinkering Studio)",
+    "gid": "639028853",
+    "location": "Level 1, Observatory Classroom",
     "id": 6
   },
   {
     "py/object": "models.Track",
     "key_color": "#3DC8C3",
-    "name": "Privacy and Security",
+    "name": "Hardware and IoT",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "730570355",
-    "location": "(Einstein Room) Level 2",
+    "gid": "1177213461",
+    "location": "Level 3, Faraday Hall",
     "id": 7
   },
   {
     "py/object": "models.Track",
     "key_color": "#3DC8C3",
-    "name": "Internet, Society, Community",
+    "name": "DevOps",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1145837237",
-    "location": "(Einstein Room) Level 2",
+    "gid": "702893702",
+    "location": "Level 3, Planck Hall",
     "id": 8
   },
   {
@@ -75,19 +75,9 @@
     "name": "WebTech",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1863572076",
-    "location": "Level 3 (Lewis)",
+    "gid": "1998935265",
+    "location": "Level 2, Room tbc",
     "id": 9
-  },
-  {
-    "py/object": "models.Track",
-    "key_color": "#3DC8C3",
-    "name": "Hardware and IoT",
-    "header_line": 2,
-    "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1808371526",
-    "location": "Level 3 (Faraday)",
-    "id": 10
   },
   {
     "py/object": "models.Track",
@@ -95,19 +85,9 @@
     "name": "Python",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1231143873",
-    "location": "Level 3 (Fermi)",
-    "id": 11
-  },
-  {
-    "py/object": "models.Track",
-    "key_color": "#3DC8C3",
-    "name": "DevOps",
-    "header_line": 2,
-    "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "2018450544",
-    "location": "Level 3 (Planck)",
-    "id": 12
+    "gid": "1077549196",
+    "location": "Level 3, Pauling Hall",
+    "id": 10
   },
   {
     "py/object": "models.Track",
@@ -115,9 +95,9 @@
     "name": "Big Data/Open Data",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "426400576",
-    "location": "Level 3 (Pauling)",
-    "id": 13
+    "gid": "1525846943",
+    "location": "Level 3, Lewis Hall",
+    "id": 11
   },
   {
     "py/object": "models.Track",
@@ -125,9 +105,39 @@
     "name": "Databases",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "85865992",
-    "location": "Level 2 (Herschel)",
+    "gid": "1967704243",
+    "location": "Level 2, Herschel Hall",
+    "id": 12
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Internet, Society, Community",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "gid": "1292606949",
+    "location": "Level 2, Einstein Hall",
+    "id": 13
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Privacy and Security",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "gid": "446776645",
+    "location": "Level 2, Einstein Hall",
     "id": 14
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "Science Hack Day",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "gid": "1418150891",
+    "location": "Level 1, Tinkering Studio",
+    "id": 15
   },
   {
     "py/object": "models.Track",
@@ -135,9 +145,9 @@
     "name": "Linux and MiniDebConf",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "215950139",
-    "location": "Level 1 (Digital Design Studio)",
-    "id": 15
+    "gid": "833577640",
+    "location": "Level 1, Digital Design Studio",
+    "id": 16
   },
   {
     "py/object": "models.Track",
@@ -145,9 +155,9 @@
     "name": "Design, VR, 3D",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1301402595",
-    "location": "",
-    "id": 16
+    "gid": "656379278",
+    "location": "Level 3, Faraday Hall",
+    "id": 17
   },
   {
     "py/object": "models.Track",
@@ -155,9 +165,9 @@
     "name": "Exhibition",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "",
-    "location": "Ground Floor, Exhibition Hall",
-    "id": 17
+    "gid": "1390423998",
+    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "id": 18
   },
   {
     "py/object": "models.Track",
@@ -166,7 +176,7 @@
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
     "gid": "",
-    "location": "Movie Studio",
-    "id": 18
+    "location": "Level 2, Newton ",
+    "id": 19
   }
 ]}
