@@ -118,7 +118,7 @@ def parse_row(row, last_speaker, last_session, current_track):
         speaker = Speaker()
 
         speaker.organisation = row["Company, Organization, Project or University"]
-        speaker.name = (row["Given Name"] + " " + row["Family Name"]).strip()
+        speaker.name = (row["Given Name"].strip() + " " + row["Family Name"].strip()).strip()
         speaker.web = row["Website or Blog"]
         speaker.linkedin = parser.get_linkedin_url(row)
         speaker.biography = row["Please provide a short bio for the program"]
