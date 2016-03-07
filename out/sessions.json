@@ -124,11 +124,11 @@
     "speakers": [
       {
         "id": 7,
-        "name": "tba"
+        "name": "Awesome Surprise Talk"
       }
     ],
     "description": "",
-    "title": "tba",
+    "title": "The Outstanding Keynote at FOSSASIA",
     "track": {
       "id": 2,
       "name": "OpenTech and IoT"
@@ -199,66 +199,6 @@
     "speakers": [
       {
         "id": 10,
-        "name": "David Crellin"
-      }
-    ],
-    "description": "ScienceScope Ltd is a tier 1 partner in the BBC micro:bit development program. This novel coding device will be delivered to every 11 year old students in the UK in the next month. It features sensors, Bluetooth Smart and a 5x5 matrix led display. This development will be a game changer in inspiring students to engage with technology.",
-    "title": "BBC micro:bit - Next generation teaching tools",
-    "track": {
-      "id": 2,
-      "name": "OpenTech and IoT"
-    },
-    "start_time": "2016-03-18T06:00:00+00:00",
-    "session_id": "OT-11",
-    "location": "Level 3, Lewis Hall",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T06:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 11,
-        "name": "Praveen Patil"
-      }
-    ],
-    "description": "This presentation is about the Sensor Plug-ins developed for ExpEYES : Pocket Science Lab as a part of my GSoC-2015 project with FOSSASIA.  We have added many new sensors plug-ins to measure a variety of parameters like temperature, pressure, humidity, wind speed, acceleration, tilt angle, magnetic field etc.  With this development we at FOSSASIA  are aiming to  provide low-cost, effective and open source laboratory equipment to students all over the world.  I will also be talking about the low-cost weather data-acquisition system developed and interfacing Gas sensors with ExpEYES. A Poster covering details of GSoC work will also be displayed at the venue.  In the end I will add little about my experience of GSoC journey with my mentors Mario Behling, Hong Phuc Dang and Andre Rebentisch, with some critical piece of knowledge or a new lesson to learn everyday\u2026..this may encourage and help future GsoC students.",
-    "title": "ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA  ",
-    "track": {
-      "id": 2,
-      "name": "OpenTech and IoT"
-    },
-    "start_time": "2016-03-18T06:30:00+00:00",
-    "session_id": "OT-12",
-    "location": "Level 3, Lewis Hall",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T07:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 12,
-        "name": "William Hooi"
-      }
-    ],
-    "description": "Introducing our very own Espresso Lite V2, the latest Arduino-compatible ESP8266 Wi-Fi development board for makers and novice learners to build their very own Internet-of-Things (IoT) projects.",
-    "title": "IOT with Espert",
-    "track": {
-      "id": 2,
-      "name": "OpenTech and IoT"
-    },
-    "start_time": "2016-03-18T07:00:00+00:00",
-    "session_id": "OT-13",
-    "location": "Level 3, Lewis Hall",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T07:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 13,
         "name": "Lennart Poettering"
       }
     ],
@@ -268,17 +208,97 @@
       "id": 2,
       "name": "OpenTech and IoT"
     },
-    "start_time": "2016-03-18T07:30:00+00:00",
+    "start_time": "2016-03-18T06:00:00+00:00",
     "session_id": "OT-14",
     "location": "Level 3, Lewis Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T08:00:00+00:00"
+    "end_time": "2016-03-18T06:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 11,
+        "name": "Meng Weng Wong"
+      }
+    ],
+    "description": "Legalese helps entrepreneurs take the law into their own hands, by turning contracts into templates, configuration, and code \u2013\u00a0all on Github. Instead of paying lawyers for access to their proprietary precedents, founders and freelancers can use opensource tools to draft their own NDAs, ESOPs, and angel/seed investment agreements. After a short demo of the system we escalate quickly into a review of the 30-year history of legal informatics, deontic calculi, and programming language theory which Legalese is now productizing with its own DSL.",
+    "title": "Legalese.io: smart contracts, dumb lawyers, and you",
+    "track": {
+      "id": 2,
+      "name": "OpenTech and IoT"
+    },
+    "start_time": "2016-03-18T06:30:00+00:00",
+    "session_id": "OT-57",
+    "location": "Level 3, Lewis Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-18T07:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 12,
+        "name": "David Crellin"
+      }
+    ],
+    "description": "ScienceScope Ltd is a tier 1 partner in the BBC micro:bit development program. This novel coding device will be delivered to every 11 year old students in the UK in the next month. It features sensors, Bluetooth Smart and a 5x5 matrix led display. This development will be a game changer in inspiring students to engage with technology.",
+    "title": "BBC micro:bit - Next generation teaching tools",
+    "track": {
+      "id": 2,
+      "name": "OpenTech and IoT"
+    },
+    "start_time": "2016-03-18T06:55:00+00:00",
+    "session_id": "OT-11",
+    "location": "Level 3, Lewis Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-18T07:25:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 13,
+        "name": "Praveen Patil"
+      }
+    ],
+    "description": "This presentation is about the Sensor Plug-ins developed for ExpEYES : Pocket Science Lab as a part of my GSoC-2015 project with FOSSASIA.  We have added many new sensors plug-ins to measure a variety of parameters like temperature, pressure, humidity, wind speed, acceleration, tilt angle, magnetic field etc.  With this development we at FOSSASIA  are aiming to  provide low-cost, effective and open source laboratory equipment to students all over the world.  I will also be talking about the low-cost weather data-acquisition system developed and interfacing Gas sensors with ExpEYES. A Poster covering details of GSoC work will also be displayed at the venue.  In the end I will add little about my experience of GSoC journey with my mentors Mario Behling, Hong Phuc Dang and Andre Rebentisch, with some critical piece of knowledge or a new lesson to learn everyday\u2026..this may encourage and help future GsoC students.",
+    "title": "ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA  ",
+    "track": {
+      "id": 2,
+      "name": "OpenTech and IoT"
+    },
+    "start_time": "2016-03-18T07:20:00+00:00",
+    "session_id": "OT-12",
+    "location": "Level 3, Lewis Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-18T07:50:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "id": 14,
+        "name": "William Hooi"
+      }
+    ],
+    "description": "Introducing our very own Espresso Lite V2, the latest Arduino-compatible ESP8266 Wi-Fi development board for makers and novice learners to build their very own Internet-of-Things (IoT) projects.",
+    "title": "IOT with Espert",
+    "track": {
+      "id": 2,
+      "name": "OpenTech and IoT"
+    },
+    "start_time": "2016-03-18T07:45:00+00:00",
+    "session_id": "OT-13",
+    "location": "Level 3, Lewis Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-18T08:15:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 15,
         "name": "Justin Lee"
       }
     ],
@@ -288,11 +308,9 @@
       "id": 2,
       "name": "OpenTech and IoT"
     },
-    "start_time": "2016-03-18T08:00:00+00:00",
     "session_id": "OT-15",
     "location": "Level 3, Lewis Hall",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T08:30:00+00:00"
+    "type": "Talk of 20 minutes"
   },
   {
     "py/object": "models.Session",
@@ -328,7 +346,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 15,
+        "id": 16,
         "name": "Stephanie Taylor"
       }
     ],
@@ -348,7 +366,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 16,
+        "id": 17,
         "name": "Stephan Wissel"
       }
     ],
@@ -368,7 +386,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 17,
+        "id": 18,
         "name": "Steve Feiner"
       }
     ],
@@ -388,7 +406,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 18,
+        "id": 19,
         "name": "Michael Christen"
       }
     ],
@@ -408,7 +426,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 19,
+        "id": 20,
         "name": "Elizabeth Joseph"
       }
     ],
@@ -473,7 +491,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 21,
+        "id": 22,
         "name": "Sarvesh Ranjan"
       }
     ],
@@ -493,7 +511,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 22,
+        "id": 23,
         "name": "Mayank Sharma"
       }
     ],
@@ -513,7 +531,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 23,
+        "id": 24,
         "name": "Dong Ma"
       }
     ],
@@ -533,7 +551,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 24,
+        "id": 25,
         "name": "Garvit Khatri"
       }
     ],
@@ -553,7 +571,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 25,
+        "id": 26,
         "name": "Damini Satya Kammakomati"
       }
     ],
@@ -573,7 +591,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 26,
+        "id": 27,
         "name": "Eugene Teo"
       }
     ],
@@ -593,7 +611,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 27,
+        "id": 28,
         "name": "Rajat Ujawane"
       }
     ],
@@ -613,7 +631,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 28,
+        "id": 29,
         "name": "Faris Muhamad Ali Fadloli"
       }
     ],
@@ -633,7 +651,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 29,
+        "id": 30,
         "name": "Kranthi Kiran Guduru"
       }
     ],
@@ -653,7 +671,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 30,
+        "id": 31,
         "name": "Kukuh Syafaat"
       }
     ],
@@ -673,7 +691,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 31,
+        "id": 32,
         "name": "Sudheesh Singanamalla"
       }
     ],
@@ -693,7 +711,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 32,
+        "id": 33,
         "name": "Trilok Tourani"
       }
     ],
@@ -713,7 +731,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 33,
+        "id": 34,
         "name": "Gloria Chiang"
       }
     ],
@@ -733,7 +751,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 34,
+        "id": 35,
         "name": "Saif Niazi"
       }
     ],
@@ -753,7 +771,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 35,
+        "id": 36,
         "name": "Jigyasa Grover"
       }
     ],
@@ -773,7 +791,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 36,
+        "id": 37,
         "name": "Kushan Kushan Joshi"
       }
     ],
@@ -793,7 +811,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 37,
+        "id": 38,
         "name": "Phuc Pham"
       }
     ],
@@ -813,7 +831,25 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 38,
+        "id": 39,
+        "name": "Ivan Kirichenko"
+      }
+    ],
+    "description": "- two people are coming to the scene (me and Max Titov, https://github.com/eolexe) - we describe problems which we encountered while developing REST API with Golang: hard-to-support documentation, fear of new release, etc - then we demonstrate a technique that allowed us to provide both API tests and documentation at once without changing the core of our code - link to the project (it's opensourced), Q&A",
+    "title": "Lightning Talk",
+    "track": {
+      "id": 2,
+      "name": "OpenTech and IoT"
+    },
+    "session_id": "OT-70",
+    "location": "Level 3, Lewis Hall",
+    "type": "Go Apitest - test and document that!"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 40,
         "name": "Colin Charles"
       }
     ],
@@ -833,7 +869,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 39,
+        "id": 41,
         "name": "Tim Oxley"
       }
     ],
@@ -853,7 +889,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 40,
+        "id": 42,
         "name": "Carter Emmart"
       }
     ],
@@ -873,7 +909,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 41,
+        "id": 43,
         "name": "Saptarshi Purkayastha"
       }
     ],
@@ -893,7 +929,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 42,
+        "id": 44,
         "name": "Rafal Kowalski, Manan Wason"
       }
     ],
@@ -913,7 +949,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 43,
+        "id": 45,
         "name": "Daniel Pocock"
       }
     ],
@@ -948,7 +984,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 44,
+        "id": 46,
         "name": "Elda Webb"
       }
     ],
@@ -968,7 +1004,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 45,
+        "id": 47,
         "name": "Fran\u00e7ois Cartegnie"
       }
     ],
@@ -988,7 +1024,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 46,
+        "id": 48,
         "name": "Matthew Treinish"
       }
     ],
@@ -1008,7 +1044,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 47,
+        "id": 49,
         "name": "Barry Threw"
       }
     ],
@@ -1043,7 +1079,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 48,
+        "id": 50,
         "name": "Toma\u017e Vajngerl"
       }
     ],
@@ -1061,29 +1097,24 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 49,
-        "name": "Meng Weng Wong"
-      }
-    ],
-    "description": "Legalese helps entrepreneurs take the law into their own hands, by turning contracts into templates, configuration, and code \u2013\u00a0all on Github. Instead of paying lawyers for access to their proprietary precedents, founders and freelancers can use opensource tools to draft their own NDAs, ESOPs, and angel/seed investment agreements. After a short demo of the system we escalate quickly into a review of the 30-year history of legal informatics, deontic calculi, and programming language theory which Legalese is now productizing with its own DSL.",
-    "title": "Legalese.io: smart contracts, dumb lawyers, and you",
+    "speakers": [],
+    "description": "",
+    "title": "",
     "track": {
       "id": 2,
       "name": "OpenTech and IoT"
     },
     "start_time": "2016-03-20T05:30:00+00:00",
-    "session_id": "OT-57",
+    "session_id": "OT-71",
     "location": "Level 3, Lewis Hall",
-    "type": "Talk of 20 minutes",
+    "type": "",
     "end_time": "2016-03-20T06:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 50,
+        "id": 51,
         "name": "Lorenz Gerber"
       }
     ],
@@ -1103,7 +1134,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 51,
+        "id": 52,
         "name": "Delynn Ho"
       }
     ],
@@ -1123,7 +1154,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 52,
+        "id": 53,
         "name": "George Goh"
       }
     ],
@@ -1143,7 +1174,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 53,
+        "id": 54,
         "name": "Michael Cannon"
       }
     ],
@@ -1223,7 +1254,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 55,
+        "id": 56,
         "name": "Ishan Khanna"
       }
     ],
@@ -1243,7 +1274,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 56,
+        "id": 57,
         "name": "Mike Anderson"
       }
     ],
@@ -1263,7 +1294,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 57,
+        "id": 58,
         "name": "Ulrich Norbisrath"
       }
     ],
@@ -1283,7 +1314,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "End of Sessions and Social Event for Speakers, Volunteers, Partners",
+    "title": "Social Event",
     "track": {
       "id": 3,
       "name": "OpenTech Workshops"
@@ -1298,7 +1329,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 58,
+        "id": 59,
         "name": "Mike McQuaid Sahil Bajaj"
       }
     ],
@@ -1333,7 +1364,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 59,
+        "id": 60,
         "name": "Sherman Chen"
       }
     ],
@@ -1353,7 +1384,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 60,
+        "id": 61,
         "name": "Martin Andrews"
       }
     ],
@@ -1373,7 +1404,27 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 61,
+        "id": 55,
+        "name": "Hong Phuc DANG"
+      }
+    ],
+    "description": "",
+    "title": "Closing Notes",
+    "track": {
+      "id": 3,
+      "name": "OpenTech Workshops"
+    },
+    "start_time": "2016-03-20T08:30:00+00:00",
+    "session_id": "OTW-12",
+    "location": "Level 3, Fermi Hall",
+    "type": "",
+    "end_time": "2016-03-20T09:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 62,
         "name": "Manan Wason"
       }
     ],
@@ -1393,7 +1444,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 35,
+        "id": 36,
         "name": "Jigyasa Grover"
       }
     ],
@@ -1443,7 +1494,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 62,
+        "id": 63,
         "name": "Martin B\u00e4hr"
       }
     ],
@@ -1478,7 +1529,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 61,
+        "id": 62,
         "name": "Manan Wason"
       }
     ],
@@ -1513,7 +1564,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 44,
+        "id": 46,
         "name": "Elda Webb"
       }
     ],
@@ -1531,9 +1582,14 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "Praveen (Gnovi) Patil",
+    "speakers": [
+      {
+        "id": 64,
+        "name": "Praveen (Gnovi) Patil"
+      }
+    ],
+    "description": "Pocket Science Lab is yet another ambitious project from FOSSASIA  with the objective to develop open source hardware and software technology to improve science education by changing the way we teach and learn. PSL@FOSSASIA   aims to deliver low-cost lab equipments to millions of students and young scientists and enable them to learn science by experimenting and exploring.  The main components of PSL are  ExpEYES: Experiments for Young Engineers and Scientists [1] and MicroHope: Micro-controllers for Hobby Projects and Education [2] , projects by Dr. Ajith Kumar B P of IUAC, New Delhi [3].  ExpEYES is an Open Hardware and Free Software framework for developing science experiments, classroom demonstrations and projects without getting in to the details of electronics or computer programming. It converts your PC into a portable science laboratory.   In this workshop participants will be able to do hands-on science experiments  covering various concepts like electricity, electromagnetic induction, sound, interference, oscillations etc...  This workshop is for kids of any age [10 to 100 years :) ] who are interested in science hacks :)  [1] ExpEYES: http://www.expeyes.in  [2] MicroHope:  http://www.microhope.org [3] IUAC:  http://iuac.res.in/ [4] PSL: http://fossasia.github.io/pslab.fossasia.org/ ",
+    "title": "Pocket Science Lab  - Learn Science by Exploring and Experimenting ",
     "track": {
       "id": 4,
       "name": "Tech Kids I"
@@ -1541,7 +1597,7 @@
     "start_time": "2016-03-20T06:00:00+00:00",
     "session_id": "TKI-02",
     "location": "Level 1, Digital Design Studio",
-    "type": "",
+    "type": "Workshop of 2 hours",
     "end_time": "2016-03-20T08:00:00+00:00"
   },
   {
@@ -1568,7 +1624,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 64,
+        "id": 65,
         "name": "Jamen Loh"
       }
     ],
@@ -1588,7 +1644,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 65,
+        "id": 66,
         "name": "Gabriel Perumal"
       }
     ],
@@ -1638,7 +1694,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 66,
+        "id": 67,
         "name": "Wilfred Wong"
       }
     ],
@@ -1658,7 +1714,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 67,
+        "id": 68,
         "name": "Syabiqah Phang"
       }
     ],
@@ -1678,7 +1734,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "End of Sessions and Social Event for Speakers, Volunteers, Partners in Movie Studio",
+    "title": "End of Sessions and Social Event for Speakers, Volunteers, Partners",
     "track": {
       "id": 5,
       "name": "Tech Kids II"
@@ -1693,7 +1749,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 68,
+        "id": 69,
         "name": "Luther Goh"
       }
     ],
@@ -1728,7 +1784,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 57,
+        "id": 58,
         "name": "Ulrich Norbisrath"
       }
     ],
@@ -1763,7 +1819,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 69,
+        "id": 70,
         "name": "Shivam Verma"
       }
     ],
@@ -1783,7 +1839,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 70,
+        "id": 71,
         "name": "Akhil Pandey"
       }
     ],
@@ -1803,7 +1859,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 71,
+        "id": 72,
         "name": "Roland Turner"
       }
     ],
@@ -1823,7 +1879,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 72,
+        "id": 73,
         "name": "Kushal Das"
       }
     ],
@@ -1843,7 +1899,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 73,
+        "id": 74,
         "name": "Parmeshwr Prasad Vishwakarma"
       }
     ],
@@ -1863,7 +1919,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 74,
+        "id": 75,
         "name": "Shwetank Dixit"
       }
     ],
@@ -1883,7 +1939,22 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "Pub Crawl",
+    "title": "End of Sessions",
+    "track": {
+      "id": 7,
+      "name": "Hardware and IoT"
+    },
+    "start_time": "2016-03-18T08:30:00+00:00",
+    "session_id": "HW-08",
+    "location": "Level 3, Faraday Hall",
+    "type": "",
+    "end_time": "2016-03-18T09:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [],
+    "description": "",
+    "title": "Pub Crawl at Clarke Quay",
     "track": {
       "id": 7,
       "name": "Hardware and IoT"
@@ -1919,11 +1990,11 @@
     "speakers": [
       {
         "id": 77,
-        "name": "Maxime Pourrat"
+        "name": "Abhishek Agrawal"
       }
     ],
-    "description": "https://youtu.be/HNrfr4Mp-Wk",
-    "title": "Why are we (Still) wasting food? How technology can help",
+    "description": "I'm going to give an overview about the machine tool industry and how manufacturing takes place at a scale. I'm going to give details about the processes and the machines used to achieve production at that scale. I'll also discuss some popular case studies like Foxconn manufacturing line for Apple. It will be insightful for start-ups to understand the the ecosystem and challenges when you manufacture at scale and the challenges to bring a product from a prototype to production stage.",
+    "title": "Machine Tools: How companies like Apple, Xiaomi and Samsung manufacture at scale?",
     "track": {
       "id": 7,
       "name": "Hardware and IoT"
@@ -1952,7 +2023,7 @@
     "session_id": "HW-10",
     "location": "Level 3, Faraday Hall",
     "type": "Workshop of 1 hour",
-    "end_time": "2016-03-19T03:30:00+00:00"
+    "end_time": "2016-03-19T04:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1988,7 +2059,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 81,
+        "id": 79,
         "name": "Kenji Shimono"
       }
     ],
@@ -2008,7 +2079,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 82,
+        "id": 80,
         "name": "Carsten Haitzler"
       }
     ],
@@ -2028,7 +2099,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 83,
+        "id": 81,
         "name": "Masakazu Takasu"
       }
     ],
@@ -2046,7 +2117,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 84,
+        "id": 82,
         "name": "Deepak Karki Aishwarya Kaliki"
       }
     ],
@@ -2066,7 +2137,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 85,
+        "id": 83,
         "name": "Dr. Udaykumar Khadke"
       }
     ],
@@ -2086,7 +2157,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 86,
+        "id": 84,
         "name": "Abhishek Mishra"
       }
     ],
@@ -2106,7 +2177,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 87,
+        "id": 85,
         "name": "Jiin Joo Ong"
       }
     ],
@@ -2120,7 +2191,27 @@
     "session_id": "HW-19",
     "location": "Level 3, Faraday Hall",
     "type": "Workshop of 1 hour",
-    "end_time": "2016-03-19T09:00:00+00:00"
+    "end_time": "2016-03-19T09:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 86,
+        "name": "Jerrayl Ng"
+      }
+    ],
+    "description": "By using GPIO to connect the Raspberry Pi to a circuit board, the LEDs and buzzer on the board can be controlled with Python code to make a simple memory game of repeating a pattern. The Raspberry Pi and circuit components are relatively inexpensive, making it a good project for students who want to learn more about hardware and circuitry, and see a physical manifestation of how software can interface with hardware. In the talk, we will go though both the hardware and software aspects of using GPIO, as well as how the project can be further enhanced for other practical IoT purposes.",
+    "title": "Making Interactive Circuits with GPIO and Raspberry Pi",
+    "track": {
+      "id": 7,
+      "name": "Hardware and IoT"
+    },
+    "start_time": "2016-03-19T09:30:00+00:00",
+    "session_id": "HW-21",
+    "location": "Level 3, Faraday Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-19T10:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -2141,8 +2232,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 88,
-        "name": "tbd tbd"
+        "id": 87,
+        "name": "Red Hat Family"
       }
     ],
     "description": "",
@@ -2161,27 +2252,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 13,
-        "name": "Lennart Poettering"
-      }
-    ],
-    "description": "Containers are a hot topic on Linux. In this talk I'd like to give a quick overview what systemd provides in the area of containers, how it integrates with the various container managers, and how to use systemd's own minimal container manager systemd-nspawn. I'd like to specifically focus on the more recent changes in the area, and how this functionality has been adopted by the rkt container runtime.",
-    "title": "Containers and systemd",
-    "track": {
-      "id": 8,
-      "name": "DevOps"
-    },
-    "start_time": "2016-03-18T06:00:00+00:00",
-    "session_id": "DO-02",
-    "location": "Level 3, Planck Hall",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T06:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 89,
+        "id": 88,
         "name": "Yaniv Bronhaim"
       }
     ],
@@ -2191,17 +2262,17 @@
       "id": 8,
       "name": "DevOps"
     },
-    "start_time": "2016-03-18T06:30:00+00:00",
+    "start_time": "2016-03-18T06:00:00+00:00",
     "session_id": "DO-03",
     "location": "Level 3, Planck Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T07:00:00+00:00"
+    "end_time": "2016-03-18T06:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 90,
+        "id": 89,
         "name": "Amit Shah"
       }
     ],
@@ -2211,17 +2282,17 @@
       "id": 8,
       "name": "DevOps"
     },
-    "start_time": "2016-03-18T07:00:00+00:00",
+    "start_time": "2016-03-18T06:30:00+00:00",
     "session_id": "DO-04",
     "location": "Level 3, Planck Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T07:30:00+00:00"
+    "end_time": "2016-03-18T07:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 91,
+        "id": 90,
         "name": "Anisha Narang"
       }
     ],
@@ -2231,8 +2302,28 @@
       "id": 8,
       "name": "DevOps"
     },
-    "start_time": "2016-03-18T07:30:00+00:00",
+    "start_time": "2016-03-18T07:00:00+00:00",
     "session_id": "DO-05",
+    "location": "Level 3, Planck Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-18T07:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 10,
+        "name": "Lennart Poettering"
+      }
+    ],
+    "description": "Containers are a hot topic on Linux. In this talk I'd like to give a quick overview what systemd provides in the area of containers, how it integrates with the various container managers, and how to use systemd's own minimal container manager systemd-nspawn. I'd like to specifically focus on the more recent changes in the area, and how this functionality has been adopted by the rkt container runtime.",
+    "title": "Containers and systemd",
+    "track": {
+      "id": 8,
+      "name": "DevOps"
+    },
+    "start_time": "2016-03-18T07:30:00+00:00",
+    "session_id": "DO-02",
     "location": "Level 3, Planck Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T08:00:00+00:00"
@@ -2271,7 +2362,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 92,
+        "id": 91,
         "name": "Rahul Mahale"
       }
     ],
@@ -2291,7 +2382,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 93,
+        "id": 92,
         "name": "Sameer Kumar"
       }
     ],
@@ -2311,7 +2402,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 94,
+        "id": 93,
         "name": "Udayan Tandon"
       }
     ],
@@ -2326,6 +2417,26 @@
     "location": "Level 3, Planck Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 94,
+        "name": "Desmond Wong"
+      }
+    ],
+    "description": "Using our first release, Slashy Hero, as an example, we will delve into what we did right, and what went wrong, and ultimately conclude with what contributed to our success.",
+    "title": "Mobile games: What we did right and wrong",
+    "track": {
+      "id": 8,
+      "name": "DevOps"
+    },
+    "start_time": "2016-03-19T03:30:00+00:00",
+    "session_id": "DO-11",
+    "location": "Level 3, Planck Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-19T04:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -2401,7 +2512,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 89,
+        "id": 88,
         "name": "Yaniv Bronhaim"
       }
     ],
@@ -2421,7 +2532,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 91,
+        "id": 90,
         "name": "Anisha Narang"
       }
     ],
@@ -2586,7 +2697,27 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 54,
+        "id": 102,
+        "name": "Dilum Navanjana Welgamage"
+      }
+    ],
+    "description": "Concurrency & Parallelism became a popular topic in Computer Science because of Multi Core Processors. My talk is about, how we can create great Applications with full power of Concurrency & Parallelism by the help of Ruby",
+    "title": "Concurrency & Parallelism  in Ruby",
+    "track": {
+      "id": 8,
+      "name": "DevOps"
+    },
+    "start_time": "2016-03-20T07:30:00+00:00",
+    "session_id": "DO-27",
+    "location": "Level 3, Planck Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-20T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 55,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -2606,7 +2737,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 102,
+        "id": 103,
         "name": "Abdul Rauf"
       }
     ],
@@ -2626,7 +2757,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 103,
+        "id": 104,
         "name": "Hai An DANG"
       }
     ],
@@ -2646,7 +2777,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 104,
+        "id": 105,
         "name": "Dan Tran"
       }
     ],
@@ -2666,7 +2797,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 105,
+        "id": 106,
         "name": "Hans Bakker"
       }
     ],
@@ -2716,7 +2847,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 106,
+        "id": 107,
         "name": "Robert Reyes"
       }
     ],
@@ -2736,7 +2867,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 43,
+        "id": 45,
         "name": "Daniel Pocock"
       }
     ],
@@ -2756,7 +2887,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 107,
+        "id": 108,
         "name": "Ningxin Hu"
       }
     ],
@@ -2776,7 +2907,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 108,
+        "id": 109,
         "name": "Mark Clarke"
       }
     ],
@@ -2791,6 +2922,26 @@
     "location": "Level 2, Room to be decided",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T09:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 110,
+        "name": "Trishul Goel"
+      }
+    ],
+    "description": "Progressive web apps is the new big thing in web today. The talk will give an overview of how/why PWA will replace mobile Apps. It will also include how to use the web apis to make maximum use of native smartphone features. ",
+    "title": "Progressive Web Apps - Future of web and mobile combined",
+    "track": {
+      "id": 9,
+      "name": "WebTech"
+    },
+    "start_time": "2016-03-19T09:30:00+00:00",
+    "session_id": "WT-40",
+    "location": "Level 2, Room to be decided",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-19T10:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -2811,19 +2962,19 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 109,
+        "id": 111,
         "name": "Soares Chen"
       },
       {
-        "id": 110,
+        "id": 112,
         "name": "Joerg Henning"
       },
       {
-        "id": 111,
+        "id": 113,
         "name": "Sebastiaan Deckers"
       },
       {
-        "id": 39,
+        "id": 41,
         "name": "Tim Oxley"
       }
     ],
@@ -2843,7 +2994,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 112,
+        "id": 114,
         "name": "Chinmay Pendharkar"
       }
     ],
@@ -2863,7 +3014,27 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 72,
+        "id": 55,
+        "name": "Hong Phuc DANG"
+      }
+    ],
+    "description": "",
+    "title": "Closing Notes in Main Hall",
+    "track": {
+      "id": 9,
+      "name": "WebTech"
+    },
+    "start_time": "2016-03-20T08:30:00+00:00",
+    "session_id": "WT-19",
+    "location": "Level 2, Room to be decided",
+    "type": "",
+    "end_time": "2016-03-20T09:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 73,
         "name": "Kushal Das"
       }
     ],
@@ -2883,7 +3054,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 113,
+        "id": 115,
         "name": "Ivan Zimine"
       }
     ],
@@ -2903,7 +3074,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 114,
+        "id": 116,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -2923,7 +3094,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 72,
+        "id": 73,
         "name": "Kushal Das"
       }
     ],
@@ -2973,7 +3144,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 115,
+        "id": 117,
         "name": "Shadab Zafar"
       }
     ],
@@ -2993,7 +3164,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 116,
+        "id": 118,
         "name": "Sundeep Anand"
       }
     ],
@@ -3013,7 +3184,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 11,
+        "id": 13,
         "name": "Praveen Patil"
       }
     ],
@@ -3033,7 +3204,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 117,
+        "id": 119,
         "name": "Yask Srivastava"
       }
     ],
@@ -3053,7 +3224,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 114,
+        "id": 116,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -3073,7 +3244,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 72,
+        "id": 73,
         "name": "Kushal Das"
       }
     ],
@@ -3091,9 +3262,22 @@
   },
   {
     "py/object": "models.Session",
+    "speakers": [],
+    "description": "",
+    "title": "",
+    "track": {
+      "id": 10,
+      "name": "Python"
+    },
+    "session_id": "PY-40",
+    "location": "Level 3, Pauling Hall",
+    "type": ""
+  },
+  {
+    "py/object": "models.Session",
     "speakers": [
       {
-        "id": 29,
+        "id": 30,
         "name": "Kranthi Kiran Guduru"
       }
     ],
@@ -3113,7 +3297,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 31,
+        "id": 32,
         "name": "Sudheesh Singanamalla"
       }
     ],
@@ -3148,7 +3332,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 118,
+        "id": 120,
         "name": "Sahil Shekhawat"
       }
     ],
@@ -3168,7 +3352,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 119,
+        "id": 121,
         "name": "Amit Kumar JHA"
       }
     ],
@@ -3188,7 +3372,27 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 120,
+        "id": 55,
+        "name": "Hong Phuc DANG"
+      }
+    ],
+    "description": "",
+    "title": "Closing Notes in Main Hall",
+    "track": {
+      "id": 10,
+      "name": "Python"
+    },
+    "start_time": "2016-03-20T08:30:00+00:00",
+    "session_id": "PY-41",
+    "location": "Level 3, Pauling Hall",
+    "type": "",
+    "end_time": "2016-03-20T09:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 122,
         "name": "Cl\u00e9ment Renaud"
       }
     ],
@@ -3208,7 +3412,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 121,
+        "id": 123,
         "name": "Ankita Shukla"
       }
     ],
@@ -3228,7 +3432,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 122,
+        "id": 124,
         "name": "Errazudin Ishak"
       }
     ],
@@ -3248,7 +3452,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 123,
+        "id": 125,
         "name": "Fibish Madathil"
       }
     ],
@@ -3266,9 +3470,49 @@
   },
   {
     "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 126,
+        "name": "U-Zyn Chua"
+      }
+    ],
+    "description": "This talk will cover: 1. Visualization on near-real-time data on Singapore taxi with sharing of observable trends. 2. Heavy obfuscation of this public API by LTA. 3. Serverless architecture: How the whole system, consisting of data collection engine, unobfuscated API endpoints, database and visualization, is built without without having to spin up a single server.",
+    "title": "Uncovering of a heavily obfuscated public API by Singapore Government",
+    "track": {
+      "id": 11,
+      "name": "Big Data/Open Data"
+    },
+    "start_time": "2016-03-18T07:30:00+00:00",
+    "session_id": "BD-05",
+    "location": "Level 3, Fermi Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-18T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 127,
+        "name": "Marco A. Guti\u00e9rrez"
+      }
+    ],
+    "description": "Open Detection (OD) is a novel standalone open source project for object detection and recognition in images and 3D point clouds. Open Detection is released under the terms of the BSD license, and thus free for commercial and research use. The project was originated under Google Summer of Code 2015 with the aim of having a vision tool for robotics (in particular for Robocomp, an open source robotics framework). The library is built with a very specific goal - to answer the fundamental problem of Computer Vision - Object Recognition and Detection. We make available to everyone the existing solution in this direction in a common, intuitive and user-friendly APIs. Our simple and user-friendly APIs make this a great tool for Robotics Applications and robots and Computer Vision beginners and enthusiasts. And of course, the method dependent parameters to fine-tune detections to the limit, makes this a great tool for Computer Vision researchers and experts.",
+    "title": "opendetection.com",
+    "track": {
+      "id": 11,
+      "name": "Big Data/Open Data"
+    },
+    "start_time": "2016-03-18T08:00:00+00:00",
+    "session_id": "BD-20",
+    "location": "Level 3, Fermi Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-18T08:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "Pub Crawl",
+    "title": "End of Sessions",
     "track": {
       "id": 11,
       "name": "Big Data/Open Data"
@@ -3283,7 +3527,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "",
+    "title": "Pub Crawl",
     "track": {
       "id": 11,
       "name": "Big Data/Open Data"
@@ -3298,7 +3542,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 124,
+        "id": 128,
         "name": "Satdeep Gill"
       }
     ],
@@ -3318,7 +3562,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 125,
+        "id": 129,
         "name": "Alexander Bezzubov"
       }
     ],
@@ -3338,7 +3582,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 126,
+        "id": 130,
         "name": "Mhairi O'Hara"
       }
     ],
@@ -3358,7 +3602,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 127,
+        "id": 131,
         "name": "Thanh Son Le"
       }
     ],
@@ -3408,7 +3652,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 128,
+        "id": 132,
         "name": "Adam Drake"
       }
     ],
@@ -3428,7 +3672,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 129,
+        "id": 133,
         "name": "Ganeshkumar Shanmugam"
       }
     ],
@@ -3448,7 +3692,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 130,
+        "id": 134,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -3468,7 +3712,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 131,
+        "id": 135,
         "name": "Philips Kokoh Prasetyo"
       }
     ],
@@ -3486,9 +3730,24 @@
   },
   {
     "py/object": "models.Session",
+    "speakers": [],
+    "description": "",
+    "title": "End of Sessions and Social Event for Speakers, Volunteers, Partners in Movie Studio",
+    "track": {
+      "id": 11,
+      "name": "Big Data/Open Data"
+    },
+    "start_time": "2016-03-19T10:00:00+00:00",
+    "session_id": "BD-40",
+    "location": "Level 3, Fermi Hall",
+    "type": "",
+    "end_time": "2016-03-19T10:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
     "speakers": [
       {
-        "id": 124,
+        "id": 128,
         "name": "Satdeep Gill"
       }
     ],
@@ -3508,11 +3767,11 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 132,
+        "id": 136,
         "name": "Rafal Kowalski"
       },
       {
-        "id": 61,
+        "id": 62,
         "name": "Manan Wason"
       }
     ],
@@ -3547,7 +3806,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 133,
+        "id": 137,
         "name": "Akshai M"
       }
     ],
@@ -3567,27 +3826,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 134,
-        "name": "Marco A. Guti\u00e9rrez"
-      }
-    ],
-    "description": "Open Detection (OD) is a novel standalone open source project for object detection and recognition in images and 3D point clouds. Open Detection is released under the terms of the BSD license, and thus free for commercial and research use. The project was originated under Google Summer of Code 2015 with the aim of having a vision tool for robotics (in particular for Robocomp, an open source robotics framework). The library is built with a very specific goal - to answer the fundamental problem of Computer Vision - Object Recognition and Detection. We make available to everyone the existing solution in this direction in a common, intuitive and user-friendly APIs. Our simple and user-friendly APIs make this a great tool for Robotics Applications and robots and Computer Vision beginners and enthusiasts. And of course, the method dependent parameters to fine-tune detections to the limit, makes this a great tool for Computer Vision researchers and experts.",
-    "title": "opendetection.com",
-    "track": {
-      "id": 11,
-      "name": "Big Data/Open Data"
-    },
-    "start_time": "2016-03-20T06:00:00+00:00",
-    "session_id": "BD-20",
-    "location": "Level 3, Fermi Hall",
-    "type": "Workshop of 1 hour",
-    "end_time": "2016-03-20T07:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 124,
+        "id": 128,
         "name": "Satdeep Gill"
       }
     ],
@@ -3597,17 +3836,17 @@
       "id": 11,
       "name": "Big Data/Open Data"
     },
-    "start_time": "2016-03-20T07:30:00+00:00",
+    "start_time": "2016-03-20T05:30:00+00:00",
     "session_id": "BD-22",
     "location": "Level 3, Fermi Hall",
     "type": "Workshop of 1 hour",
-    "end_time": "2016-03-20T08:30:00+00:00"
+    "end_time": "2016-03-20T06:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 54,
+        "id": 55,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -3657,7 +3896,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 136,
+        "id": 139,
         "name": "Bruce Momjian"
       }
     ],
@@ -3870,7 +4109,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 137,
+        "id": 140,
         "name": "Mayank Prasad"
       }
     ],
@@ -3890,7 +4129,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 138,
+        "id": 141,
         "name": "Ricky Setyawan"
       }
     ],
@@ -3910,7 +4149,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 139,
+        "id": 142,
         "name": "Manish Kumar"
       }
     ],
@@ -3930,7 +4169,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 140,
+        "id": 143,
         "name": "Abhishek Ranjan"
       }
     ],
@@ -3965,7 +4204,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 141,
+        "id": 144,
         "name": "Oren Golan"
       }
     ],
@@ -3985,7 +4224,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 138,
+        "id": 141,
         "name": "Ricky Setyawan"
       }
     ],
@@ -4005,7 +4244,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 54,
+        "id": 55,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -4025,7 +4264,27 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 142,
+        "id": 145,
+        "name": "Maxime Pourrat"
+      }
+    ],
+    "description": "https://youtu.be/HNrfr4Mp-Wk",
+    "title": "Why are we (Still) wasting food? How technology can help",
+    "track": {
+      "id": 13,
+      "name": "Internet, Society, Community"
+    },
+    "start_time": "2016-03-18T05:30:00+00:00",
+    "session_id": "ISC-40",
+    "location": "Level 2, Einstein Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-18T06:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 146,
         "name": "Herr Fluke"
       }
     ],
@@ -4035,17 +4294,17 @@
       "id": 13,
       "name": "Internet, Society, Community"
     },
-    "start_time": "2016-03-18T05:30:00+00:00",
+    "start_time": "2016-03-18T06:00:00+00:00",
     "session_id": "ISC-01",
     "location": "Level 2, Einstein Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T06:00:00+00:00"
+    "end_time": "2016-03-18T06:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 143,
+        "id": 147,
         "name": "Alexander Couzens"
       }
     ],
@@ -4055,17 +4314,17 @@
       "id": 13,
       "name": "Internet, Society, Community"
     },
-    "start_time": "2016-03-18T06:00:00+00:00",
+    "start_time": "2016-03-18T06:30:00+00:00",
     "session_id": "ISC-02",
     "location": "Level 2, Einstein Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T06:30:00+00:00"
+    "end_time": "2016-03-18T07:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 144,
+        "id": 148,
         "name": "Norvan Vogt"
       }
     ],
@@ -4075,30 +4334,10 @@
       "id": 13,
       "name": "Internet, Society, Community"
     },
-    "start_time": "2016-03-18T06:30:00+00:00",
+    "start_time": "2016-03-18T07:00:00+00:00",
     "session_id": "ISC-03",
     "location": "Level 2, Einstein Hall",
     "type": "Workshop of 1 hour",
-    "end_time": "2016-03-18T07:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 145,
-        "name": "Syah Dwi Prihatmoko"
-      }
-    ],
-    "description": "This presentation will present to the audience about how the Indonesian government using FOSS in conducting the election. Anything that is used in the election. How FOSS help elections. What is achieved by the use of FOSS. What can be done with FOSS to improve governance.",
-    "title": "FOSS in Indonesia Election",
-    "track": {
-      "id": 13,
-      "name": "Internet, Society, Community"
-    },
-    "start_time": "2016-03-18T07:30:00+00:00",
-    "session_id": "ISC-04",
-    "location": "Level 2, Einstein Hall",
-    "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T08:00:00+00:00"
   },
   {
@@ -4135,7 +4374,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 146,
+        "id": 149,
         "name": "Zion Ng"
       }
     ],
@@ -4155,7 +4394,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 147,
+        "id": 150,
         "name": "Huiren Woo"
       }
     ],
@@ -4205,7 +4444,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 148,
+        "id": 151,
         "name": "Menghsuan Tsai"
       }
     ],
@@ -4225,7 +4464,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 149,
+        "id": 152,
         "name": "Sayanee Basu"
       }
     ],
@@ -4245,7 +4484,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 150,
+        "id": 153,
         "name": "Anivar Ammanath Aravind"
       }
     ],
@@ -4265,7 +4504,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 151,
+        "id": 154,
         "name": "Keith Bergelt"
       }
     ],
@@ -4285,7 +4524,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 152,
+        "id": 155,
         "name": "Anwesha Das"
       }
     ],
@@ -4305,7 +4544,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 153,
+        "id": 156,
         "name": "Kevin Huang"
       }
     ],
@@ -4325,7 +4564,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 154,
+        "id": 157,
         "name": "Amita Sharma"
       }
     ],
@@ -4340,6 +4579,26 @@
     "location": "Level 2, Einstein Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T09:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 158,
+        "name": "Syah Dwi Prihatmoko"
+      }
+    ],
+    "description": "This presentation will present to the audience about how the Indonesian government using FOSS in conducting the election. Anything that is used in the election. How FOSS help elections. What is achieved by the use of FOSS. What can be done with FOSS to improve governance.",
+    "title": "FOSS in Indonesia Election",
+    "track": {
+      "id": 13,
+      "name": "Internet, Society, Community"
+    },
+    "start_time": "2016-03-19T09:00:00+00:00",
+    "session_id": "ISC-04",
+    "location": "Level 2, Einstein Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-19T09:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -4360,7 +4619,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 155,
+        "id": 159,
         "name": "Huzaifa Sidhpurwala"
       }
     ],
@@ -4380,7 +4639,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 156,
+        "id": 160,
         "name": "Sambuddha Basu"
       }
     ],
@@ -4415,7 +4674,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 157,
+        "id": 161,
         "name": "Alexandre Lision"
       }
     ],
@@ -4435,7 +4694,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 158,
+        "id": 162,
         "name": "Michael Rebultan"
       }
     ],
@@ -4450,6 +4709,26 @@
     "location": "Level 2, Einstein Hall",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T07:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 55,
+        "name": "Hong Phuc DANG"
+      }
+    ],
+    "description": "",
+    "title": "Closing Notes in Main Hall",
+    "track": {
+      "id": 14,
+      "name": "Privacy and Security"
+    },
+    "start_time": "2016-03-20T08:30:00+00:00",
+    "session_id": "Se-06",
+    "location": "Level 2, Einstein Hall",
+    "type": "",
+    "end_time": "2016-03-20T09:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -4470,7 +4749,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 159,
+        "id": 163,
         "name": "Eileen/Kiruthika"
       }
     ],
@@ -4510,7 +4789,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 164,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4530,7 +4809,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 161,
+        "id": 165,
         "name": "Barry Threw Jon Phillips"
       }
     ],
@@ -4550,7 +4829,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 162,
+        "id": 166,
         "name": "Susan Spencer"
       }
     ],
@@ -4570,7 +4849,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 163,
+        "id": 167,
         "name": "Leon Lim"
       }
     ],
@@ -4590,7 +4869,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 11,
+        "id": 13,
         "name": "Praveen Patil"
       }
     ],
@@ -4610,7 +4889,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 164,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4660,7 +4939,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 164,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4680,7 +4959,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 164,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4730,7 +5009,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 164,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4765,7 +5044,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 164,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4785,7 +5064,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 164,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4805,7 +5084,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 164,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4825,7 +5104,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 164,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4843,7 +5122,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 164,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4863,7 +5142,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 54,
+        "id": 55,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -4883,7 +5162,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 168,
         "name": "Chris Lamb"
       }
     ],
@@ -4903,7 +5182,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 165,
+        "id": 169,
         "name": "Philip Ballew"
       }
     ],
@@ -4923,7 +5202,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 166,
+        "id": 170,
         "name": "Derek Dai"
       }
     ],
@@ -4943,7 +5222,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 167,
+        "id": 171,
         "name": "Anand Jain"
       }
     ],
@@ -4978,7 +5257,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 13,
+        "id": 10,
         "name": "Lennart Poettering"
       }
     ],
@@ -4998,7 +5277,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 13,
+        "id": 10,
         "name": "Lennart Poettering"
       }
     ],
@@ -5018,7 +5297,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 54,
+        "id": 55,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5038,7 +5317,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 168,
+        "id": 172,
         "name": "Umair Khan"
       }
     ],
@@ -5058,7 +5337,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 169,
+        "id": 173,
         "name": "Owais Zahid"
       }
     ],
@@ -5078,7 +5357,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 31,
+        "id": 32,
         "name": "Sudheesh Singanamalla"
       }
     ],
@@ -5098,7 +5377,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 174,
         "name": "Jan-Christoph Borchardt"
       }
     ],
@@ -5133,12 +5412,12 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 171,
+        "id": 175,
         "name": "Sher Minn Chong"
       }
     ],
     "description": "You love code. You also love art. You want to merge the two wonderful worlds, but it can be hard. How can we create art with code and make writing code an art? In comes generative art! Generative art is art created by an independent, non-human system, for example, art generated by algorithms. Remember screensavers from the 90s? Yeah, something along those lines. You'll learn how to create art in the browser with Processing.js. I'll demo the basics of animation and we'll explore how algorithmic and mathematical concepts such as recursion, tiling, and geometry can result in unexpectedly beautiful visuals.",
-    "title": "Generative art algorithms",
+    "title": "Exploring the beauty of algorithms with generative art",
     "track": {
       "id": 17,
       "name": "Design, VR, 3D"
@@ -5153,7 +5432,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 172,
+        "id": 176,
         "name": "Jia Hen Tee"
       }
     ],
@@ -5173,7 +5452,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 173,
+        "id": 177,
         "name": "Moe Zidan"
       }
     ],
@@ -5193,7 +5472,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 174,
+        "id": 178,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -5213,7 +5492,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 54,
+        "id": 55,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5233,7 +5512,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 175,
+        "id": 179,
         "name": "David Effendi"
       }
     ],
@@ -5253,7 +5532,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 12,
+        "id": 14,
         "name": "William Hooi"
       }
     ],
@@ -5273,7 +5552,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 63,
+        "id": 64,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -5293,7 +5572,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 43,
+        "id": 45,
         "name": "Daniel Pocock"
       }
     ],
@@ -5313,7 +5592,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 157,
+        "id": 161,
         "name": "Alexandre Lision"
       }
     ],
@@ -5353,7 +5632,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 166,
+        "id": 170,
         "name": "Derek Dai"
       }
     ],
@@ -5373,7 +5652,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 176,
+        "id": 180,
         "name": "Emin Aksehirli"
       }
     ],
@@ -5393,7 +5672,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 174,
+        "id": 178,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -5413,7 +5692,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 177,
+        "id": 181,
         "name": "Ankit -"
       }
     ],
@@ -5453,7 +5732,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 138,
+        "id": 141,
         "name": "Ricky Setyawan"
       }
     ],
@@ -5473,7 +5752,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 178,
+        "id": 182,
         "name": "Misako Ito"
       }
     ],
@@ -5493,7 +5772,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 44,
+        "id": 46,
         "name": "Elda Webb"
       }
     ],
@@ -5543,7 +5822,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 175,
+        "id": 179,
         "name": "David Effendi"
       }
     ],
@@ -5563,7 +5842,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 12,
+        "id": 14,
         "name": "William Hooi"
       }
     ],
@@ -5583,7 +5862,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 63,
+        "id": 64,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -5603,7 +5882,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 43,
+        "id": 45,
         "name": "Daniel Pocock"
       }
     ],
@@ -5623,7 +5902,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 157,
+        "id": 161,
         "name": "Alexandre Lision"
       }
     ],
@@ -5663,7 +5942,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 166,
+        "id": 170,
         "name": "Derek Dai"
       }
     ],
@@ -5683,7 +5962,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 176,
+        "id": 180,
         "name": "Emin Aksehirli"
       }
     ],
@@ -5703,7 +5982,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 174,
+        "id": 178,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -5723,7 +6002,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 177,
+        "id": 181,
         "name": "Ankit -"
       }
     ],
@@ -5763,7 +6042,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 138,
+        "id": 141,
         "name": "Ricky Setyawan"
       }
     ],
@@ -5783,7 +6062,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 178,
+        "id": 182,
         "name": "Misako Ito"
       }
     ],
@@ -5803,7 +6082,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 44,
+        "id": 46,
         "name": "Elda Webb"
       }
     ],
@@ -5823,7 +6102,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 175,
+        "id": 179,
         "name": "David Effendi"
       }
     ],
@@ -5843,7 +6122,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 12,
+        "id": 14,
         "name": "William Hooi"
       }
     ],
@@ -5863,7 +6142,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 63,
+        "id": 64,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -5883,7 +6162,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 43,
+        "id": 45,
         "name": "Daniel Pocock"
       }
     ],
@@ -5903,7 +6182,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 157,
+        "id": 161,
         "name": "Alexandre Lision"
       }
     ],
@@ -5943,7 +6222,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 166,
+        "id": 170,
         "name": "Derek Dai"
       }
     ],
@@ -5963,7 +6242,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 176,
+        "id": 180,
         "name": "Emin Aksehirli"
       }
     ],
@@ -5983,7 +6262,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 174,
+        "id": 178,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6003,7 +6282,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 177,
+        "id": 181,
         "name": "Ankit -"
       }
     ],
@@ -6043,7 +6322,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 138,
+        "id": 141,
         "name": "Ricky Setyawan"
       }
     ],
@@ -6063,7 +6342,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 178,
+        "id": 182,
         "name": "Misako Ito"
       }
     ],
@@ -6083,7 +6362,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 44,
+        "id": 46,
         "name": "Elda Webb"
       }
     ],
