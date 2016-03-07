@@ -308,9 +308,11 @@
       "id": 2,
       "name": "OpenTech and IoT"
     },
+    "start_time": "2016-03-18T08:10:00+00:00",
     "session_id": "OT-15",
     "location": "Level 3, Lewis Hall",
-    "type": "Talk of 20 minutes"
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-18T08:40:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -504,7 +506,7 @@
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "OT-27",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:00:00+00:00"
   },
   {
@@ -524,7 +526,7 @@
     "start_time": "2016-03-19T05:35:00+00:00",
     "session_id": "OT-28",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:05:00+00:00"
   },
   {
@@ -544,7 +546,7 @@
     "start_time": "2016-03-19T05:40:00+00:00",
     "session_id": "OT-29",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:10:00+00:00"
   },
   {
@@ -564,7 +566,7 @@
     "start_time": "2016-03-19T05:45:00+00:00",
     "session_id": "OT-30",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:15:00+00:00"
   },
   {
@@ -584,7 +586,7 @@
     "start_time": "2016-03-19T05:50:00+00:00",
     "session_id": "OT-31",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:20:00+00:00"
   },
   {
@@ -604,7 +606,7 @@
     "start_time": "2016-03-19T05:55:00+00:00",
     "session_id": "OT-32",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:25:00+00:00"
   },
   {
@@ -624,7 +626,7 @@
     "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "OT-33",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:30:00+00:00"
   },
   {
@@ -644,7 +646,7 @@
     "start_time": "2016-03-19T06:05:00+00:00",
     "session_id": "OT-34",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:35:00+00:00"
   },
   {
@@ -664,7 +666,7 @@
     "start_time": "2016-03-19T06:10:00+00:00",
     "session_id": "OT-35",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:40:00+00:00"
   },
   {
@@ -684,7 +686,7 @@
     "start_time": "2016-03-19T06:15:00+00:00",
     "session_id": "OT-36",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:45:00+00:00"
   },
   {
@@ -704,7 +706,7 @@
     "start_time": "2016-03-19T06:20:00+00:00",
     "session_id": "OT-37",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:50:00+00:00"
   },
   {
@@ -724,7 +726,7 @@
     "start_time": "2016-03-19T06:25:00+00:00",
     "session_id": "OT-38",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T06:55:00+00:00"
   },
   {
@@ -744,7 +746,7 @@
     "start_time": "2016-03-19T06:30:00+00:00",
     "session_id": "OT-39",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T07:00:00+00:00"
   },
   {
@@ -764,7 +766,7 @@
     "start_time": "2016-03-19T06:35:00+00:00",
     "session_id": "OT-40",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T07:05:00+00:00"
   },
   {
@@ -784,7 +786,7 @@
     "start_time": "2016-03-19T06:40:00+00:00",
     "session_id": "OT-41",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T07:10:00+00:00"
   },
   {
@@ -804,7 +806,7 @@
     "start_time": "2016-03-19T06:45:00+00:00",
     "session_id": "OT-42",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T07:15:00+00:00"
   },
   {
@@ -824,7 +826,7 @@
     "start_time": "2016-03-19T06:50:00+00:00",
     "session_id": "OT-43",
     "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Lightning Talk",
     "end_time": "2016-03-19T07:20:00+00:00"
   },
   {
@@ -835,15 +837,15 @@
         "name": "Ivan Kirichenko"
       }
     ],
-    "description": "- two people are coming to the scene (me and Max Titov, https://github.com/eolexe) - we describe problems which we encountered while developing REST API with Golang: hard-to-support documentation, fear of new release, etc - then we demonstrate a technique that allowed us to provide both API tests and documentation at once without changing the core of our code - link to the project (it's opensourced), Q&A",
-    "title": "Lightning Talk",
+    "description": "A short talk describing a technique of writings tests for APIs written in Go that allows to generate documentation instantly (Swagger, RAML).",
+    "title": "Go Apitest - test and document that!",
     "track": {
       "id": 2,
       "name": "OpenTech and IoT"
     },
     "session_id": "OT-70",
     "location": "Level 3, Lewis Hall",
-    "type": "Go Apitest - test and document that!"
+    "type": "Lightning Talk"
   },
   {
     "py/object": "models.Session",
@@ -1880,26 +1882,6 @@
     "speakers": [
       {
         "id": 73,
-        "name": "Kushal Das"
-      }
-    ],
-    "description": "Micro Bit (or micro:bit) is an ARM-based embedded system designed by the BBC for use in computer education in the UK. It will be given to every 11 year old student in UK.   MicroPython is an \"official\" solution for the micro:bit. The Python Software Foundation are one of the partners in the project and the BBC asked us to provide such a solution (ntoll is leading the efforts from the PSF side of things).   \"Mu\" is a community generated (i.e. from the Python community) editor that *initially* targets the micro:bit. In the wider Python context, there's been talk of a kid/teacher/beginner friendly editor that's recommended for Python \"in general\". Plans are afoot to make \"mu\" meet this requirement.",
-    "title": "BBC micro:bit and Python",
-    "track": {
-      "id": 7,
-      "name": "Hardware and IoT"
-    },
-    "start_time": "2016-03-18T07:00:00+00:00",
-    "session_id": "HW-04",
-    "location": "Level 3, Faraday Hall",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T07:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 74,
         "name": "Parmeshwr Prasad Vishwakarma"
       }
     ],
@@ -1909,17 +1891,17 @@
       "id": 7,
       "name": "Hardware and IoT"
     },
-    "start_time": "2016-03-18T07:30:00+00:00",
+    "start_time": "2016-03-18T07:00:00+00:00",
     "session_id": "HW-05",
     "location": "Level 3, Faraday Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T08:00:00+00:00"
+    "end_time": "2016-03-18T07:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 75,
+        "id": 74,
         "name": "Shwetank Dixit"
       }
     ],
@@ -1929,8 +1911,28 @@
       "id": 7,
       "name": "Hardware and IoT"
     },
-    "start_time": "2016-03-18T08:00:00+00:00",
+    "start_time": "2016-03-18T07:30:00+00:00",
     "session_id": "HW-06",
+    "location": "Level 3, Faraday Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-18T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 75,
+        "name": "Kushal Das"
+      }
+    ],
+    "description": "Micro Bit (or micro:bit) is an ARM-based embedded system designed by the BBC for use in computer education in the UK. It will be given to every 11 year old student in UK.   MicroPython is an \"official\" solution for the micro:bit. The Python Software Foundation are one of the partners in the project and the BBC asked us to provide such a solution (ntoll is leading the efforts from the PSF side of things).   \"Mu\" is a community generated (i.e. from the Python community) editor that *initially* targets the micro:bit. In the wider Python context, there's been talk of a kid/teacher/beginner friendly editor that's recommended for Python \"in general\". Plans are afoot to make \"mu\" meet this requirement.",
+    "title": "BBC micro:bit and Python",
+    "track": {
+      "id": 7,
+      "name": "Hardware and IoT"
+    },
+    "start_time": "2016-03-18T08:00:00+00:00",
+    "session_id": "HW-04",
     "location": "Level 3, Faraday Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T08:30:00+00:00"
@@ -2347,7 +2349,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "Pub Crawl",
+    "title": "Pub Crawl at Clarke Quay",
     "track": {
       "id": 8,
       "name": "DevOps"
@@ -2778,17 +2780,17 @@
     "speakers": [
       {
         "id": 105,
-        "name": "Dan Tran"
+        "name": "Rizky Ariestiyansyah"
       }
     ],
-    "description": "Chat bots ",
-    "title": "Chat bots ",
+    "description": "My talk is about WebAPI, focus on how to use WebAPI to develop application in FinTech, HealthTech, Government, Smart Homes & Cities. By learning WebAPI developer and user can create the application they need and also helping the community by contributing in the development of WebAPIs. In my talk there's also topic about Hybrid application using webapi and firefox.",
+    "title": "Firefox OS, WebAPI and Hybrid Application",
     "track": {
       "id": 9,
       "name": "WebTech"
     },
     "start_time": "2016-03-19T03:00:00+00:00",
-    "session_id": "WT-03",
+    "session_id": "WT-40",
     "location": "Level 2, Room to be decided",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:30:00+00:00"
@@ -2867,6 +2869,26 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "id": 108,
+        "name": "Dan Tran"
+      }
+    ],
+    "description": "Chat bots ",
+    "title": "Chat bots ",
+    "track": {
+      "id": 9,
+      "name": "WebTech"
+    },
+    "start_time": "2016-03-19T06:00:00+00:00",
+    "session_id": "WT-03",
+    "location": "Level 2, Room to be decided",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-19T06:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
         "id": 45,
         "name": "Daniel Pocock"
       }
@@ -2877,17 +2899,17 @@
       "id": 9,
       "name": "WebTech"
     },
-    "start_time": "2016-03-19T06:00:00+00:00",
+    "start_time": "2016-03-19T06:30:00+00:00",
     "session_id": "WT-08",
     "location": "Level 2, Room to be decided",
-    "type": "Workshop of 1.5 hours",
+    "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T07:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 108,
+        "id": 109,
         "name": "Ningxin Hu"
       }
     ],
@@ -2907,7 +2929,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 109,
+        "id": 110,
         "name": "Mark Clarke"
       }
     ],
@@ -2927,7 +2949,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 110,
+        "id": 111,
         "name": "Trishul Goel"
       }
     ],
@@ -2962,15 +2984,15 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 111,
+        "id": 112,
         "name": "Soares Chen"
       },
       {
-        "id": 112,
+        "id": 113,
         "name": "Joerg Henning"
       },
       {
-        "id": 113,
+        "id": 114,
         "name": "Sebastiaan Deckers"
       },
       {
@@ -2987,14 +3009,14 @@
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "WT-12",
     "location": "Level 2, Room to be decided",
-    "type": "Workshop of 2 hours",
+    "type": "Workshop of 5 hours",
     "end_time": "2016-03-20T07:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 114,
+        "id": 115,
         "name": "Chinmay Pendharkar"
       }
     ],
@@ -3034,7 +3056,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 73,
+        "id": 75,
         "name": "Kushal Das"
       }
     ],
@@ -3054,7 +3076,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 115,
+        "id": 116,
         "name": "Ivan Zimine"
       }
     ],
@@ -3074,7 +3096,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 116,
+        "id": 117,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -3094,7 +3116,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 73,
+        "id": 75,
         "name": "Kushal Das"
       }
     ],
@@ -3144,7 +3166,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 117,
+        "id": 118,
         "name": "Shadab Zafar"
       }
     ],
@@ -3164,7 +3186,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 118,
+        "id": 119,
         "name": "Sundeep Anand"
       }
     ],
@@ -3204,7 +3226,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 119,
+        "id": 120,
         "name": "Yask Srivastava"
       }
     ],
@@ -3224,7 +3246,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 116,
+        "id": 117,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -3244,7 +3266,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 73,
+        "id": 75,
         "name": "Kushal Das"
       }
     ],
@@ -3332,7 +3354,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 120,
+        "id": 121,
         "name": "Sahil Shekhawat"
       }
     ],
@@ -3352,7 +3374,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 121,
+        "id": 122,
         "name": "Amit Kumar JHA"
       }
     ],
@@ -3392,7 +3414,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 122,
+        "id": 123,
         "name": "Cl\u00e9ment Renaud"
       }
     ],
@@ -3412,7 +3434,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 123,
+        "id": 124,
         "name": "Ankita Shukla"
       }
     ],
@@ -3432,7 +3454,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 124,
+        "id": 125,
         "name": "Errazudin Ishak"
       }
     ],
@@ -3452,7 +3474,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 125,
+        "id": 126,
         "name": "Fibish Madathil"
       }
     ],
@@ -3472,7 +3494,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 126,
+        "id": 127,
         "name": "U-Zyn Chua"
       }
     ],
@@ -3492,7 +3514,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 127,
+        "id": 128,
         "name": "Marco A. Guti\u00e9rrez"
       }
     ],
@@ -3527,7 +3549,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "Pub Crawl",
+    "title": "Pub Crawl at Clarke Quay",
     "track": {
       "id": 11,
       "name": "Big Data/Open Data"
@@ -3542,7 +3564,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 128,
+        "id": 129,
         "name": "Satdeep Gill"
       }
     ],
@@ -3562,7 +3584,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 129,
+        "id": 130,
         "name": "Alexander Bezzubov"
       }
     ],
@@ -3582,7 +3604,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 130,
+        "id": 131,
         "name": "Mhairi O'Hara"
       }
     ],
@@ -3602,7 +3624,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 131,
+        "id": 132,
         "name": "Thanh Son Le"
       }
     ],
@@ -3652,7 +3674,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 132,
+        "id": 133,
         "name": "Adam Drake"
       }
     ],
@@ -3672,7 +3694,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 133,
+        "id": 134,
         "name": "Ganeshkumar Shanmugam"
       }
     ],
@@ -3692,7 +3714,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 134,
+        "id": 135,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -3712,7 +3734,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 135,
+        "id": 136,
         "name": "Philips Kokoh Prasetyo"
       }
     ],
@@ -3747,7 +3769,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 128,
+        "id": 129,
         "name": "Satdeep Gill"
       }
     ],
@@ -3767,7 +3789,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 136,
+        "id": 137,
         "name": "Rafal Kowalski"
       },
       {
@@ -3806,7 +3828,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 137,
+        "id": 138,
         "name": "Akshai M"
       }
     ],
@@ -3826,7 +3848,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 128,
+        "id": 129,
         "name": "Satdeep Gill"
       }
     ],
@@ -3864,9 +3886,14 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "PostGreSQL PostGreSQL",
+    "speakers": [
+      {
+        "id": 139,
+        "name": "Kazuki Uehara"
+      }
+    ],
+    "description": "In recent years, the applicable enterprise area of PostgreSQL has been significantly enlarged by performance and functionality enhancement.  As a result, there is a emerging demand to migrate database systems to PostgreSQL from Oracle. In this presentation, we will report on the following two tools which greatly help our migration projects: * SQL Imcompatibility detection tool (db_syntax_diff) * Oracle emulating function libraries \"orafce\" and our enhancement   We are working at the open source software center (OSS center) at NTT which is the largest telecommunications company group in Japan. For the purpose of software cost reduction, we have been carried out a lot of database migration projects so far.   Most of our customers are preferring so called \"DB migration project\", in which only the middle-ware DBMS will be replaced and AP itself will be reused. This is because such projects are usually considered more effective in terms of development time and cost than the \"rebuild\" projects, in which the system will be build again from scratch.  Nevertheless, the differences between old and new DBMSs often block the migration projects technically, and considerable number of projects may be giving up eventually. We found the major factors that make the migration difficult is following two:   * Cost of the estimation work   * Technical difficulty of the estimation work itself   As a solution of these problems, we have developed a non-compatible SQL auto-detection tool named db_syntax_diff. This tool can extract PostgreSQL incompatible SQLs in AP for Oracle and append each of them a difficulty index for migration. We've performed more than 30 database migration projects using this tool.   As another effort to solve migration problems, we are also working on function enhancement of orafce (Oracle emulation libraries). Based on the knowledge of frequently seen incompatibilities in the above estimations, we have added a large number of new entries to the orafce.",
+    "title": "Migration from Oracle to PostgreSQL - The problems and the solutions -",
     "track": {
       "id": 12,
       "name": "Databases"
@@ -3874,34 +3901,19 @@
     "start_time": "2016-03-19T02:00:00+00:00",
     "session_id": "DB-01",
     "location": "Level 2, Herschel Hall",
-    "type": "",
-    "end_time": "2016-03-19T02:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "PostGreSQL PostGreSQL",
-    "track": {
-      "id": 12,
-      "name": "Databases"
-    },
-    "start_time": "2016-03-19T02:30:00+00:00",
-    "session_id": "DB-02",
-    "location": "Level 2, Herschel Hall",
-    "type": "",
+    "type": "Talk of 45 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 139,
-        "name": "Bruce Momjian"
+        "id": 140,
+        "name": "CK Tan"
       }
     ],
-    "description": "This presentation highlights the challenges of motivating and managing an open source team of volunteers. Topics include motivation, communication, and project management. This talk is useful for anyone active in open source. ",
-    "title": "Building Open Source Teams",
+    "description": "Upwork is the world\u2019s largest freelance talent marketplace, with 10+MM freelancers and 4+MM clients, and pays out more than $1+B annually in salaries. The data processing pipeline at Upwork consists of PG production DB, GPDB data warehouse, and multiple Vitesse DB data marts. I will detail the distinctive role of each system, and provide details on the setup of the pipeline, specifically how data flow from production to DW to data mart. If time permits, I will also give some examples of how the platform works for the data scientists at Upwork.",
+    "title": "Data Warehouse in a PG / Greenplum / Vitesse DB environment",
     "track": {
       "id": 12,
       "name": "Databases"
@@ -3909,22 +3921,7 @@
     "start_time": "2016-03-19T03:00:00+00:00",
     "session_id": "DB-03",
     "location": "Level 2, Herschel Hall",
-    "type": "Workshop of 1 hour",
-    "end_time": "2016-03-19T03:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "PostGreSQL PostGreSQL",
-    "track": {
-      "id": 12,
-      "name": "Databases"
-    },
-    "start_time": "2016-03-19T03:30:00+00:00",
-    "session_id": "DB-04",
-    "location": "Level 2, Herschel Hall",
-    "type": "",
+    "type": "Talk of 45 minutes",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
   {
@@ -3959,37 +3956,34 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "PostGreSQL PostGreSQL",
+    "speakers": [
+      {
+        "id": 141,
+        "name": "Sivakumar K"
+      }
+    ],
+    "description": "InMobi is worlds largest independent mobile advertising network serving 150 billion ads per month. PostgreSQL is one of the  data stores behind this scale and this talk is about various issues which we encountered in production and also how did we solve the same.",
+    "title": "Tales from Production with PostgreSQL at Scale",
     "track": {
       "id": 12,
       "name": "Databases"
     },
-    "start_time": "2016-03-19T05:30:00+00:00",
+    "start_time": "2016-03-19T05:00:00+00:00",
     "session_id": "DB-07",
     "location": "Level 2, Herschel Hall",
-    "type": "",
-    "end_time": "2016-03-19T06:00:00+00:00"
+    "type": "Talk of 45 minutes",
+    "end_time": "2016-03-19T05:30:00+00:00"
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "PostGreSQL PostGreSQL",
-    "track": {
-      "id": 12,
-      "name": "Databases"
-    },
-    "session_id": "DB-08",
-    "location": "Level 2, Herschel Hall",
-    "type": ""
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "PostGreSQL PostGreSQL",
+    "speakers": [
+      {
+        "id": 142,
+        "name": "Atri Sharma"
+      }
+    ],
+    "description": "The talk will focus on PostgreSQL and Hadoop working together and how they can be used together to function better and perform advanced stuff.",
+    "title": "Hadoop and PostgreSQL -- An Odd Job?",
     "track": {
       "id": 12,
       "name": "Databases"
@@ -3997,97 +3991,67 @@
     "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "DB-09",
     "location": "Level 2, Herschel Hall",
-    "type": "",
-    "end_time": "2016-03-19T06:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "PostGreSQL PostGreSQL",
-    "track": {
-      "id": 12,
-      "name": "Databases"
-    },
-    "start_time": "2016-03-19T06:30:00+00:00",
-    "session_id": "DB-10",
-    "location": "Level 2, Herschel Hall",
-    "type": "",
+    "type": "Talk of 45 minutes",
     "end_time": "2016-03-19T07:00:00+00:00"
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "PostGreSQL PostGreSQL",
+    "speakers": [
+      {
+        "id": 143,
+        "name": "Ron Dunn"
+      }
+    ],
+    "description": "Using PostgreSQL for your data warehouse gives great benefits in performance, scale and cost. Simply switching your data warehouse or data mart from SQL Server or Oracle could save your organisation hundreds of thousands of dollars.    In this session we will explore features that make PostgreSQL a great DW solution, with a mix of presentation and demonstration. By the time the session ends, you will understand the technical and business benefits of PostgreSQL, as well as some cool integration tips for your first project.",
+    "title": "Data Warehousing on PostgreSQL",
     "track": {
       "id": 12,
       "name": "Databases"
     },
     "start_time": "2016-03-19T07:00:00+00:00",
-    "session_id": "DB-11",
+    "session_id": "DB-10",
     "location": "Level 2, Herschel Hall",
-    "type": "",
-    "end_time": "2016-03-19T07:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "PostGreSQL PostGreSQL",
-    "track": {
-      "id": 12,
-      "name": "Databases"
-    },
-    "start_time": "2016-03-19T07:30:00+00:00",
-    "session_id": "DB-12",
-    "location": "Level 2, Herschel Hall",
-    "type": "",
+    "type": "Talk of 45 minutes",
     "end_time": "2016-03-19T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "PostGreSQL PostGreSQL",
+    "speakers": [
+      {
+        "id": 144,
+        "name": "Victor Blomqvist"
+      }
+    ],
+    "description": "In this talk I will talk about doing KNN (nearest neighbor) search in Postgres with PostGIS and ordering the result based on more than just physical distance. This ordering is the core of the dating app Tantan, which I will use to illustrate the talk.      At Tantan we have more than one million users every day that look through 200 million potential matches each day, and we need to optimize what we show to maximize the potential chance for a match. We do that by ordering the potential matches based on a number of criteria, such as distance from you, recent activity and popularity.",
+    "title": "(Ab)using 4D indexing in PostGIS 2.2 with Postgres 9.5 to give you the perfect match",
     "track": {
       "id": 12,
       "name": "Databases"
     },
     "start_time": "2016-03-19T08:00:00+00:00",
-    "session_id": "DB-13",
+    "session_id": "DB-11",
     "location": "Level 2, Herschel Hall",
-    "type": "",
-    "end_time": "2016-03-19T08:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "PostGreSQL PostGreSQL",
-    "track": {
-      "id": 12,
-      "name": "Databases"
-    },
-    "start_time": "2016-03-19T08:30:00+00:00",
-    "session_id": "DB-14",
-    "location": "Level 2, Herschel Hall",
-    "type": "",
+    "type": "Talk of 45 minutes",
     "end_time": "2016-03-19T09:00:00+00:00"
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
+    "speakers": [
+      {
+        "id": 145,
+        "name": "PostgreSQL Community"
+      }
+    ],
     "description": "",
-    "title": "PostGreSQL PostGreSQL",
+    "title": "PostgreSQL fun at Lightning Talks",
     "track": {
       "id": 12,
       "name": "Databases"
     },
     "start_time": "2016-03-19T09:00:00+00:00",
-    "session_id": "DB-15",
+    "session_id": "DB-12",
     "location": "Level 2, Herschel Hall",
-    "type": "",
+    "type": "Lightning Talks (30 minute slot)",
     "end_time": "2016-03-19T09:30:00+00:00"
   },
   {
@@ -4109,12 +4073,12 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 140,
+        "id": 146,
         "name": "Mayank Prasad"
       }
     ],
-    "description": "The MySQL Performance Schema is a feature for monitoring Oracle's MySQL Server execution at a low level. This versatile and tightly integrated component collects performance and session data from various subsystems within the server during runtime with minimal impact on overall server performance.  This feature was introduced in MySQL 5.5 and MySQL 5.7 GA has been released with great enhancements in it for performance monitoring and tuning.This talk aims to give an overview of Performance Schema and how/what statistical information user is provided with using Performance Schema. With the help pf few use cases, it also explains how that information can be used for monitoring and trouble shooting to track an issue back to the relevant file and line of code in source file.   This talk also aims to give a glimpse of new interesting features/monitoring information added in MySQL 5.7 GA.  This talk is targeted to many database users which includes DBA, Database Application developers, Database developers, Students etc. ",
-    "title": "MySQL Performance Schema - A great insight of MySQL server execution",
+    "description": "",
+    "title": "Social Events in Movie Studio",
     "track": {
       "id": 12,
       "name": "Databases"
@@ -4122,14 +4086,14 @@
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "DB-17",
     "location": "Level 2, Herschel Hall",
-    "type": "Talk of 20 minutes",
+    "type": "",
     "end_time": "2016-03-20T02:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 141,
+        "id": 147,
         "name": "Ricky Setyawan"
       }
     ],
@@ -4149,7 +4113,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 142,
+        "id": 148,
         "name": "Manish Kumar"
       }
     ],
@@ -4169,7 +4133,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 143,
+        "id": 149,
         "name": "Abhishek Ranjan"
       }
     ],
@@ -4204,7 +4168,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 144,
+        "id": 150,
         "name": "Oren Golan"
       }
     ],
@@ -4224,7 +4188,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 141,
+        "id": 147,
         "name": "Ricky Setyawan"
       }
     ],
@@ -4264,7 +4228,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 145,
+        "id": 151,
         "name": "Maxime Pourrat"
       }
     ],
@@ -4284,7 +4248,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 146,
+        "id": 152,
         "name": "Herr Fluke"
       }
     ],
@@ -4304,7 +4268,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 147,
+        "id": 153,
         "name": "Alexander Couzens"
       }
     ],
@@ -4324,7 +4288,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 148,
+        "id": 154,
         "name": "Norvan Vogt"
       }
     ],
@@ -4359,7 +4323,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "Pub Crawl",
+    "title": "Pub Crawl at Clarke Quay",
     "track": {
       "id": 13,
       "name": "Internet, Society, Community"
@@ -4374,7 +4338,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 149,
+        "id": 155,
         "name": "Zion Ng"
       }
     ],
@@ -4394,7 +4358,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 150,
+        "id": 156,
         "name": "Huiren Woo"
       }
     ],
@@ -4444,7 +4408,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 151,
+        "id": 157,
         "name": "Menghsuan Tsai"
       }
     ],
@@ -4464,7 +4428,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 152,
+        "id": 158,
         "name": "Sayanee Basu"
       }
     ],
@@ -4484,7 +4448,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 153,
+        "id": 159,
         "name": "Anivar Ammanath Aravind"
       }
     ],
@@ -4504,7 +4468,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 154,
+        "id": 160,
         "name": "Keith Bergelt"
       }
     ],
@@ -4524,7 +4488,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 155,
+        "id": 161,
         "name": "Anwesha Das"
       }
     ],
@@ -4544,7 +4508,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 156,
+        "id": 162,
         "name": "Kevin Huang"
       }
     ],
@@ -4564,7 +4528,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 157,
+        "id": 163,
         "name": "Amita Sharma"
       }
     ],
@@ -4584,7 +4548,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 158,
+        "id": 164,
         "name": "Syah Dwi Prihatmoko"
       }
     ],
@@ -4619,7 +4583,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 159,
+        "id": 165,
         "name": "Huzaifa Sidhpurwala"
       }
     ],
@@ -4639,7 +4603,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 166,
         "name": "Sambuddha Basu"
       }
     ],
@@ -4674,7 +4638,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 161,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -4694,7 +4658,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 162,
+        "id": 168,
         "name": "Michael Rebultan"
       }
     ],
@@ -4749,7 +4713,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 163,
+        "id": 169,
         "name": "Eileen/Kiruthika"
       }
     ],
@@ -4789,7 +4753,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4809,7 +4773,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 165,
+        "id": 171,
         "name": "Barry Threw Jon Phillips"
       }
     ],
@@ -4829,7 +4793,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 166,
+        "id": 172,
         "name": "Susan Spencer"
       }
     ],
@@ -4849,7 +4813,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 167,
+        "id": 173,
         "name": "Leon Lim"
       }
     ],
@@ -4889,7 +4853,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4939,7 +4903,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4959,7 +4923,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5009,7 +4973,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5044,7 +5008,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5064,7 +5028,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5084,7 +5048,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5104,7 +5068,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5122,7 +5086,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5162,7 +5126,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 168,
+        "id": 174,
         "name": "Chris Lamb"
       }
     ],
@@ -5182,7 +5146,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 169,
+        "id": 175,
         "name": "Philip Ballew"
       }
     ],
@@ -5202,7 +5166,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -5222,7 +5186,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 171,
+        "id": 177,
         "name": "Anand Jain"
       }
     ],
@@ -5317,7 +5281,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 172,
+        "id": 178,
         "name": "Umair Khan"
       }
     ],
@@ -5337,7 +5301,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 173,
+        "id": 179,
         "name": "Owais Zahid"
       }
     ],
@@ -5377,7 +5341,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 174,
+        "id": 180,
         "name": "Jan-Christoph Borchardt"
       }
     ],
@@ -5412,7 +5376,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 175,
+        "id": 181,
         "name": "Sher Minn Chong"
       }
     ],
@@ -5432,7 +5396,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 176,
+        "id": 182,
         "name": "Jia Hen Tee"
       }
     ],
@@ -5452,27 +5416,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 177,
-        "name": "Moe Zidan"
-      }
-    ],
-    "description": "How to design a pageless website using open design to get a wonderful user experience. ",
-    "title": "Pageless",
-    "track": {
-      "id": 17,
-      "name": "Design, VR, 3D"
-    },
-    "start_time": "2016-03-20T06:30:00+00:00",
-    "session_id": "DS-09",
-    "location": "Level 3, Faraday Hall",
-    "type": "Workshop of 1 hour",
-    "end_time": "2016-03-20T07:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 178,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -5482,11 +5426,26 @@
       "id": 17,
       "name": "Design, VR, 3D"
     },
-    "start_time": "2016-03-20T07:30:00+00:00",
+    "start_time": "2016-03-20T06:30:00+00:00",
     "session_id": "DS-10",
     "location": "Level 3, Faraday Hall",
     "type": "Discussion / Panel Discussion ",
-    "end_time": "2016-03-20T08:30:00+00:00"
+    "end_time": "2016-03-20T07:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [],
+    "description": "",
+    "title": "",
+    "track": {
+      "id": 17,
+      "name": "Design, VR, 3D"
+    },
+    "start_time": "2016-03-20T07:30:00+00:00",
+    "session_id": "DS-09",
+    "location": "Level 3, Faraday Hall",
+    "type": "",
+    "end_time": "2016-03-20T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -5512,7 +5471,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 179,
+        "id": 184,
         "name": "David Effendi"
       }
     ],
@@ -5592,7 +5551,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 161,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -5632,7 +5591,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -5652,7 +5611,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 180,
+        "id": 185,
         "name": "Emin Aksehirli"
       }
     ],
@@ -5672,7 +5631,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 178,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -5692,7 +5651,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 181,
+        "id": 186,
         "name": "Ankit -"
       }
     ],
@@ -5732,7 +5691,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 141,
+        "id": 147,
         "name": "Ricky Setyawan"
       }
     ],
@@ -5752,7 +5711,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 182,
+        "id": 187,
         "name": "Misako Ito"
       }
     ],
@@ -5822,7 +5781,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 179,
+        "id": 184,
         "name": "David Effendi"
       }
     ],
@@ -5902,7 +5861,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 161,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -5942,7 +5901,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -5962,7 +5921,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 180,
+        "id": 185,
         "name": "Emin Aksehirli"
       }
     ],
@@ -5982,7 +5941,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 178,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6002,7 +5961,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 181,
+        "id": 186,
         "name": "Ankit -"
       }
     ],
@@ -6042,7 +6001,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 141,
+        "id": 147,
         "name": "Ricky Setyawan"
       }
     ],
@@ -6062,7 +6021,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 182,
+        "id": 187,
         "name": "Misako Ito"
       }
     ],
@@ -6102,7 +6061,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 179,
+        "id": 184,
         "name": "David Effendi"
       }
     ],
@@ -6182,7 +6141,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 161,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -6222,7 +6181,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -6242,7 +6201,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 180,
+        "id": 185,
         "name": "Emin Aksehirli"
       }
     ],
@@ -6262,7 +6221,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 178,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6282,7 +6241,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 181,
+        "id": 186,
         "name": "Ankit -"
       }
     ],
@@ -6322,7 +6281,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 141,
+        "id": 147,
         "name": "Ricky Setyawan"
       }
     ],
@@ -6342,7 +6301,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 182,
+        "id": 187,
         "name": "Misako Ito"
       }
     ],
