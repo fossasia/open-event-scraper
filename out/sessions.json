@@ -3,6 +3,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "FOSSASIA",
         "id": 1,
         "name": "Hong Phuc Dang"
       }
@@ -23,6 +24,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "MBM",
         "id": 2,
         "name": "Mario Behling"
       }
@@ -43,6 +45,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "RedHat",
         "id": 3,
         "name": "Harish Pillay"
       }
@@ -63,6 +66,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Sutajio Ko-Usagi PTE LTD",
         "id": 4,
         "name": "Bunnie Huang"
       }
@@ -83,6 +87,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Singapore Post",
         "id": 5,
         "name": "Bernard Leong"
       }
@@ -103,6 +108,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "UNESCO",
         "id": 6,
         "name": "Davide Storti, ITO Misako"
       }
@@ -123,6 +129,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 7,
         "name": "Awesome Surprise Talk"
       }
@@ -143,6 +150,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Google",
         "id": 8,
         "name": "Cat Allman"
       }
@@ -178,6 +186,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "GitHub",
         "id": 9,
         "name": "Mike McQuaid"
       }
@@ -198,6 +207,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 10,
         "name": "Lennart Poettering"
       }
@@ -218,6 +228,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Legalese.io",
         "id": 11,
         "name": "Meng Weng Wong"
       }
@@ -238,6 +249,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ScienceScope Ltd",
         "id": 12,
         "name": "David Crellin"
       }
@@ -258,6 +270,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ExpEYES",
         "id": 13,
         "name": "Praveen Patil"
       }
@@ -278,6 +291,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ESPert",
         "id": 14,
         "name": "William Hooi"
       }
@@ -298,6 +312,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "IBM",
         "id": 15,
         "name": "Justin Lee"
       }
@@ -348,6 +363,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Google",
         "id": 16,
         "name": "Stephanie Taylor"
       }
@@ -368,6 +384,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "IBM Singapore",
         "id": 17,
         "name": "Stephan Wissel"
       }
@@ -388,6 +405,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "A Better Florist",
         "id": 18,
         "name": "Steve Feiner"
       }
@@ -408,6 +426,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "YaCy.net",
         "id": 19,
         "name": "Michael Christen"
       }
@@ -428,6 +447,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Hewlett Packard Enterprise",
         "id": 20,
         "name": "Elizabeth Joseph"
       }
@@ -493,6 +513,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Cisco",
         "id": 22,
         "name": "Sarvesh Ranjan"
       }
@@ -513,6 +534,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "OpenMRS",
         "id": 23,
         "name": "Mayank Sharma"
       }
@@ -533,6 +555,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Hewlett Packard Enterprise ",
         "id": 24,
         "name": "Dong Ma"
       }
@@ -553,6 +576,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "KDE",
         "id": 25,
         "name": "Garvit Khatri"
       }
@@ -573,6 +597,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Kony, Inc.",
         "id": 26,
         "name": "Damini Satya Kammakomati"
       }
@@ -593,6 +618,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "None",
         "id": 27,
         "name": "Eugene Teo"
       }
@@ -613,6 +639,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "National Institute of Technology Warangal",
         "id": 28,
         "name": "Rajat Ujawane"
       }
@@ -633,6 +660,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "CryoWerx",
         "id": 29,
         "name": "Faris Muhamad Ali Fadloli"
       }
@@ -653,6 +681,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Thinkbroad",
         "id": 30,
         "name": "Kranthi Kiran Guduru"
       }
@@ -673,6 +702,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "BlankOn Project",
         "id": 31,
         "name": "Kukuh Syafaat"
       }
@@ -693,6 +723,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Loklak / FOSSASIA / National Institute of Technology Warangal",
         "id": 32,
         "name": "Sudheesh Singanamalla"
       }
@@ -713,6 +744,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Project - sTeam command line tool",
         "id": 33,
         "name": "Trilok Tourani"
       }
@@ -733,6 +765,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Heiress",
         "id": 34,
         "name": "Gloria Chiang"
       }
@@ -753,6 +786,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Barclays",
         "id": 35,
         "name": "Saif Niazi"
       }
@@ -773,6 +807,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Women Who Code",
         "id": 36,
         "name": "Jigyasa Grover"
       }
@@ -793,6 +828,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "DA-IICT",
         "id": 37,
         "name": "Kushan Kushan Joshi"
       }
@@ -813,6 +849,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Gcall Pte.Ltd",
         "id": 38,
         "name": "Phuc Pham"
       }
@@ -833,6 +870,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "SeeSaw Labs",
         "id": 39,
         "name": "Ivan Kirichenko"
       }
@@ -853,6 +891,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "MariaDB Corporation",
         "id": 40,
         "name": "Colin Charles"
       }
@@ -873,6 +912,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "CampJS",
         "id": 41,
         "name": "Tim Oxley"
       }
@@ -893,6 +933,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Director of Astrovisualization at the American Museum of Natural History",
         "id": 42,
         "name": "Carter Emmart"
       }
@@ -913,6 +954,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "OpenMRS",
         "id": 43,
         "name": "Saptarshi Purkayastha"
       }
@@ -933,6 +975,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Open-Event/FOSSASIA",
         "id": 44,
         "name": "Rafal Kowalski, Manan Wason"
       }
@@ -953,6 +996,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Debian",
         "id": 45,
         "name": "Daniel Pocock"
       }
@@ -988,6 +1032,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "One Maker Group",
         "id": 46,
         "name": "Elda Webb"
       }
@@ -1008,6 +1053,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "VideoLAN",
         "id": 47,
         "name": "Fran\u00e7ois Cartegnie"
       }
@@ -1028,6 +1074,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "HPE",
         "id": 48,
         "name": "Matthew Treinish"
       }
@@ -1048,6 +1095,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "#NEWPALMYRA",
         "id": 49,
         "name": "Barry Threw"
       }
@@ -1083,6 +1131,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Collabora Productivity",
         "id": 50,
         "name": "Toma\u017e Vajngerl"
       }
@@ -1118,6 +1167,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Swedish University of Agricultural Sciences",
         "id": 51,
         "name": "Lorenz Gerber"
       }
@@ -1138,6 +1188,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Smaato ",
         "id": 52,
         "name": "Delynn Ho"
       }
@@ -1158,6 +1209,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 53,
         "name": "George Goh"
       }
@@ -1178,6 +1230,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Axelerant",
         "id": 54,
         "name": "Michael Cannon"
       }
@@ -1198,6 +1251,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 55,
         "name": "Hack Day Scientists"
       }
@@ -1218,6 +1272,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 56,
         "name": "Hong Phuc DANG"
       }
@@ -1238,6 +1293,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Cat Labs",
         "id": 57,
         "name": "Martin Andrews"
       }
@@ -1288,6 +1344,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Mifos Initiative",
         "id": 58,
         "name": "Ishan Khanna"
       }
@@ -1308,6 +1365,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Datacraft",
         "id": 59,
         "name": "Mike Anderson"
       }
@@ -1328,6 +1386,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ulno.net",
         "id": 60,
         "name": "Ulrich Norbisrath"
       }
@@ -1363,6 +1422,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "GitHub/Homebrew/Grumpy Gits",
         "id": 61,
         "name": "Mike McQuaid, Sahil Bajaj"
       }
@@ -1398,6 +1458,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Progress",
         "id": 62,
         "name": "Sherman Chen"
       }
@@ -1418,6 +1479,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "D E Shaw & Co.",
         "id": 63,
         "name": "Ram Dayal Vaishnav"
       }
@@ -1438,6 +1500,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "FOSSASIA",
         "id": 56,
         "name": "Hong Phuc DANG"
       }
@@ -1458,6 +1521,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "IIIT Delhi",
         "id": 64,
         "name": "Manan Wason"
       }
@@ -1478,6 +1542,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Women Who Code",
         "id": 36,
         "name": "Jigyasa Grover"
       }
@@ -1528,6 +1593,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "BLUG",
         "id": 65,
         "name": "Martin B\u00e4hr"
       }
@@ -1563,6 +1629,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "IIIT Delhi",
         "id": 64,
         "name": "Manan Wason"
       }
@@ -1598,6 +1665,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "One Maker Group",
         "id": 46,
         "name": "Elda Webb"
       }
@@ -1618,6 +1686,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ExpEYES",
         "id": 66,
         "name": "Praveen (Gnovi) Patil"
       }
@@ -1638,6 +1707,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 1,
         "name": "Hong Phuc Dang"
       }
@@ -1658,6 +1728,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "OneMaker Group",
         "id": 67,
         "name": "Jamen Loh"
       }
@@ -1678,6 +1749,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Ground Up Initiative",
         "id": 68,
         "name": "Gabriel Perumal"
       }
@@ -1728,6 +1800,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "OneMaker Group",
         "id": 69,
         "name": "Wilfred Wong"
       }
@@ -1748,6 +1821,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "OneMaker Group",
         "id": 70,
         "name": "Syabiqah Phang"
       }
@@ -1783,6 +1857,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "12Geeks",
         "id": 71,
         "name": "Luther Goh"
       }
@@ -1818,6 +1893,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ulno.net",
         "id": 60,
         "name": "Ulrich Norbisrath"
       }
@@ -1853,6 +1929,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Ambient Dynamix/National University of Singapore",
         "id": 72,
         "name": "Shivam Verma"
       }
@@ -1873,6 +1950,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Mozilla",
         "id": 73,
         "name": "Akhil Pandey"
       }
@@ -1893,6 +1971,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": ".",
         "id": 74,
         "name": "Roland Turner"
       }
@@ -1913,6 +1992,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "dell",
         "id": 75,
         "name": "Parmeshwr Prasad Vishwakarma"
       }
@@ -1933,6 +2013,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Opera",
         "id": 76,
         "name": "Shwetank Dixit"
       }
@@ -1953,6 +2034,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Fedora Project",
         "id": 77,
         "name": "Kushal Das"
       }
@@ -2003,6 +2085,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Smart guidance for blind",
         "id": 78,
         "name": "Jaminy Prabaharan"
       }
@@ -2023,6 +2106,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Makino Asia Private Limited",
         "id": 79,
         "name": "Abhishek Agrawal"
       }
@@ -2043,6 +2127,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Tusitala Digital Storytelling",
         "id": 80,
         "name": "Saad Chinoy"
       }
@@ -2093,6 +2178,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Netwalker Laboratory, Tokaido Linux Users Group",
         "id": 81,
         "name": "Kenji Shimono"
       }
@@ -2113,6 +2199,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Samsung Electronics",
         "id": 82,
         "name": "Carsten Haitzler"
       }
@@ -2133,6 +2220,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "teamLab, and Nico-Tech",
         "id": 83,
         "name": "Masakazu Takasu"
       }
@@ -2151,6 +2239,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Beagleboard",
         "id": 84,
         "name": "Deepak Karki Aishwarya Kaliki"
       }
@@ -2171,6 +2260,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Department of Physics, BKIT, Bhalki, Karnataka, INDIA",
         "id": 85,
         "name": "Dr. Udaykumar Khadke"
       }
@@ -2191,6 +2281,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "National University of Singapore",
         "id": 86,
         "name": "Abhishek Mishra"
       }
@@ -2211,6 +2302,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Garuda Robotics",
         "id": 87,
         "name": "Jiin Joo Ong"
       }
@@ -2231,6 +2323,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Dunman High School",
         "id": 88,
         "name": "Jerrayl Ng"
       }
@@ -2266,6 +2359,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 89,
         "name": "Red Hat Family"
       }
@@ -2286,6 +2380,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 90,
         "name": "Yaniv Bronhaim"
       }
@@ -2306,6 +2401,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 91,
         "name": "Amit Shah"
       }
@@ -2326,6 +2422,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 92,
         "name": "Anisha Narang"
       }
@@ -2346,6 +2443,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 10,
         "name": "Lennart Poettering"
       }
@@ -2396,6 +2494,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "BigBinary",
         "id": 93,
         "name": "Rahul Mahale"
       }
@@ -2416,6 +2515,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Ashnik Pte Ltd",
         "id": 94,
         "name": "Sameer Kumar"
       }
@@ -2436,6 +2536,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "coala-analyzer",
         "id": 95,
         "name": "Udayan Tandon"
       }
@@ -2456,6 +2557,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "The Gentlebros Pte. Ltd.",
         "id": 96,
         "name": "Desmond Wong"
       }
@@ -2506,6 +2608,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 97,
         "name": "Parag Ashok Nemade"
       }
@@ -2526,6 +2629,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 98,
         "name": "Liron Aravot"
       }
@@ -2546,6 +2650,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 90,
         "name": "Yaniv Bronhaim"
       }
@@ -2566,6 +2671,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 92,
         "name": "Anisha Narang"
       }
@@ -2601,6 +2707,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Shreshta IT Technologies Pvt. Ltd.",
         "id": 99,
         "name": "Swapneel Patnekar"
       }
@@ -2621,6 +2728,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "LinuxTag Association",
         "id": 100,
         "name": "Nils Magnus"
       }
@@ -2656,6 +2764,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "appbase.io",
         "id": 101,
         "name": "Rishi Shah"
       }
@@ -2676,6 +2785,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Docker Saigon",
         "id": 102,
         "name": "Vincent De Smet"
       }
@@ -2696,6 +2806,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Acaleph",
         "id": 103,
         "name": "Hunter Nield"
       }
@@ -2716,6 +2827,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "99x Technology",
         "id": 104,
         "name": "Dilum Navanjana Welgamage"
       }
@@ -2736,6 +2848,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 56,
         "name": "Hong Phuc DANG"
       }
@@ -2756,6 +2869,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Mozilla",
         "id": 105,
         "name": "Abdul Rauf"
       }
@@ -2776,6 +2890,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Institut National des Sciences Appliqu\u00e9es de Toulouse",
         "id": 106,
         "name": "Hai An DANG"
       }
@@ -2796,6 +2911,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Mozilla Tech Speaker",
         "id": 107,
         "name": "Rizky Ariestiyansyah"
       }
@@ -2816,6 +2932,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "AntWebsystems Co.,Ltd",
         "id": 108,
         "name": "Hans Bakker"
       }
@@ -2866,6 +2983,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Mozilla Philippines Community",
         "id": 109,
         "name": "Robert Reyes"
       }
@@ -2886,6 +3004,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "GrabTaxi",
         "id": 110,
         "name": "Dan Tran"
       }
@@ -2906,6 +3025,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Debian",
         "id": 45,
         "name": "Daniel Pocock"
       }
@@ -2926,6 +3046,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Intel, Crosswalk Project",
         "id": 111,
         "name": "Ningxin Hu"
       }
@@ -2946,6 +3067,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Jumping Bean",
         "id": 112,
         "name": "Mark Clarke"
       }
@@ -2966,6 +3088,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Mozilla",
         "id": 113,
         "name": "Trishul Goel"
       }
@@ -3001,18 +3124,22 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "SingaporeJS",
         "id": 114,
         "name": "Soares Chen"
       },
       {
+        "organisation": "FOSSASIA",
         "id": 115,
         "name": "Joerg Henning"
       },
       {
+        "organisation": "Cofounders.sg",
         "id": 116,
         "name": "Sebastiaan Deckers"
       },
       {
+        "organisation": "",
         "id": 41,
         "name": "Tim Oxley"
       }
@@ -3033,6 +3160,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Web Audio",
         "id": 117,
         "name": "Chinmay Pendharkar"
       }
@@ -3053,6 +3181,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "FOSSASIA",
         "id": 56,
         "name": "Hong Phuc DANG"
       }
@@ -3073,6 +3202,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Python Software Foundation",
         "id": 77,
         "name": "Kushal Das"
       }
@@ -3093,6 +3223,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Python User Group Singapore",
         "id": 118,
         "name": "Ivan Zimine"
       }
@@ -3113,6 +3244,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Fedora Project",
         "id": 119,
         "name": "Sayan Chowdhury"
       }
@@ -3133,6 +3265,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Fedora Project",
         "id": 77,
         "name": "Kushal Das"
       }
@@ -3183,6 +3316,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Jamia Millia Islamia",
         "id": 120,
         "name": "Shadab Zafar"
       }
@@ -3203,6 +3337,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 121,
         "name": "Sundeep Anand"
       }
@@ -3223,6 +3358,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ExpEYES",
         "id": 13,
         "name": "Praveen Patil"
       }
@@ -3243,6 +3379,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Moin Moin Wiki",
         "id": 122,
         "name": "Yask Srivastava"
       }
@@ -3263,6 +3400,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Fedora Project",
         "id": 119,
         "name": "Sayan Chowdhury"
       }
@@ -3283,6 +3421,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Fedora Project",
         "id": 77,
         "name": "Kushal Das"
       }
@@ -3316,6 +3455,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "NIT Warangal",
         "id": 30,
         "name": "Kranthi Kiran Guduru"
       }
@@ -3336,6 +3476,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Loklak / NIT Warangal",
         "id": 32,
         "name": "Sudheesh Singanamalla"
       }
@@ -3371,7 +3512,29 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 123,
+        "name": "Amita Sharma"
+      }
+    ],
+    "description": "This talk will be focused on process of migration from Bash testing framework to Python using Red hat Directory Server(RHDS) as an example. RHDS is the enterprise-class LDAP server for Red Hat Enterprise Linux and its IPA. RHDS is already being used by many well known names in professional industry and it handles many of the largest LDAP deployments in the world.",
+    "title": "Openess in Quality: Migrating testing framework from bash to pytest",
+    "track": {
+      "id": 10,
+      "name": "Python"
+    },
+    "start_time": "2016-03-20T05:00:00+00:00",
+    "session_id": "PY-42",
+    "location": "Level 3, Pauling Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-20T05:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "SymPy / PyDy",
+        "id": 124,
         "name": "Sahil Shekhawat"
       }
     ],
@@ -3381,17 +3544,18 @@
       "id": 10,
       "name": "Python"
     },
-    "start_time": "2016-03-20T05:00:00+00:00",
+    "start_time": "2016-03-20T05:30:00+00:00",
     "session_id": "PY-15",
     "location": "Level 3, Pauling Hall",
     "type": "Workshop of 1 hour",
-    "end_time": "2016-03-20T06:00:00+00:00"
+    "end_time": "2016-03-20T06:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 124,
+        "organisation": "SymPy",
+        "id": 125,
         "name": "Amit Kumar JHA"
       }
     ],
@@ -3401,16 +3565,17 @@
       "id": 10,
       "name": "Python"
     },
-    "start_time": "2016-03-20T06:00:00+00:00",
+    "start_time": "2016-03-20T06:30:00+00:00",
     "session_id": "PY-16",
     "location": "Level 3, Pauling Hall",
     "type": "Workshop of 2 hours",
-    "end_time": "2016-03-20T08:00:00+00:00"
+    "end_time": "2016-03-20T08:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "FOSSASIA",
         "id": 56,
         "name": "Hong Phuc DANG"
       }
@@ -3431,7 +3596,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 125,
+        "organisation": "Robolab, University of Extremadura, Spain",
+        "id": 126,
         "name": "Marco A. Guti\u00e9rrez"
       }
     ],
@@ -3451,7 +3617,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 126,
+        "organisation": "IIT Roorkee",
+        "id": 127,
         "name": "Ankita Shukla"
       }
     ],
@@ -3471,7 +3638,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 127,
+        "organisation": "Open Source Developers Club Malaysia",
+        "id": 128,
         "name": "Errazudin Ishak"
       }
     ],
@@ -3491,7 +3659,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 128,
+        "organisation": "IBM",
+        "id": 129,
         "name": "Fibish Madathil"
       }
     ],
@@ -3511,7 +3680,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 129,
+        "organisation": "Zynesis",
+        "id": 130,
         "name": "U-Zyn Chua"
       }
     ],
@@ -3561,7 +3731,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 130,
+        "organisation": "Punjabi Wikimedians",
+        "id": 131,
         "name": "Satdeep Gill"
       }
     ],
@@ -3581,7 +3752,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 131,
+        "organisation": "NFLabs Inc, Apache Software Foundation",
+        "id": 132,
         "name": "Alexander Bezzubov"
       }
     ],
@@ -3601,7 +3773,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 132,
+        "organisation": "Humanitarian OpenStreetMap Team",
+        "id": 133,
         "name": "Mhairi O'Hara"
       }
     ],
@@ -3621,7 +3794,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 133,
+        "organisation": "IBM",
+        "id": 134,
         "name": "Thanh Son Le"
       }
     ],
@@ -3671,7 +3845,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 134,
+        "organisation": "Atazzo",
+        "id": 135,
         "name": "Adam Drake"
       }
     ],
@@ -3691,7 +3866,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 135,
+        "organisation": "GeoICON Pte. Ltd",
+        "id": 136,
         "name": "Ganeshkumar Shanmugam"
       }
     ],
@@ -3711,7 +3887,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 136,
+        "organisation": "Duangish",
+        "id": 137,
         "name": "Cl\u00e9ment Renaud"
       }
     ],
@@ -3731,7 +3908,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 137,
+        "organisation": "Loklak",
+        "id": 138,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -3751,7 +3929,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 138,
+        "organisation": "Living Analytics Research Centre (LARC)",
+        "id": 139,
         "name": "Philips Kokoh Prasetyo"
       }
     ],
@@ -3786,7 +3965,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 130,
+        "organisation": "Punjabi Wikimedians",
+        "id": 131,
         "name": "Satdeep Gill"
       }
     ],
@@ -3806,10 +3986,12 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 139,
+        "organisation": "Rafal ",
+        "id": 140,
         "name": "Rafal Kowalski"
       },
       {
+        "organisation": "IIIT Delhi",
         "id": 64,
         "name": "Manan Wason"
       }
@@ -3845,7 +4027,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 140,
+        "organisation": "MIT Fab Lab Kerala",
+        "id": 141,
         "name": "Akshai M"
       }
     ],
@@ -3865,7 +4048,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 137,
+        "organisation": "Loklak",
+        "id": 138,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -3885,6 +4069,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "FOSSASIA",
         "id": 56,
         "name": "Hong Phuc DANG"
       }
@@ -3905,7 +4090,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 141,
+        "organisation": "NTT OSS Center",
+        "id": 142,
         "name": "Kazuki Uehara"
       }
     ],
@@ -3925,7 +4111,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 142,
+        "organisation": "Vitesse Data",
+        "id": 143,
         "name": "CK Tan"
       }
     ],
@@ -3975,7 +4162,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 143,
+        "organisation": "InMobi",
+        "id": 144,
         "name": "Sivakumar K"
       }
     ],
@@ -3995,7 +4183,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 144,
+        "organisation": "Pivotal",
+        "id": 145,
         "name": "Atri Sharma"
       }
     ],
@@ -4015,7 +4204,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 145,
+        "organisation": "Ajilius Pty. Ltd.",
+        "id": 146,
         "name": "Ron Dunn"
       }
     ],
@@ -4035,7 +4225,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 146,
+        "organisation": "Tantan",
+        "id": 147,
         "name": "Victor Blomqvist"
       }
     ],
@@ -4055,7 +4246,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 147,
+        "organisation": "",
+        "id": 148,
         "name": "PostgreSQL Community"
       }
     ],
@@ -4103,7 +4295,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 148,
+        "organisation": "MySQL, Oracle India Private Limited",
+        "id": 149,
         "name": "Mayank Prasad"
       }
     ],
@@ -4123,7 +4316,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 149,
+        "organisation": "Oracle corporation",
+        "id": 150,
         "name": "Ricky Setyawan"
       }
     ],
@@ -4143,7 +4337,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 150,
+        "organisation": "Oracle India Pvt. Ltd.",
+        "id": 151,
         "name": "Manish Kumar"
       }
     ],
@@ -4163,7 +4358,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 151,
+        "organisation": "Oracle India Pvt. Ltd.",
+        "id": 152,
         "name": "Abhishek Ranjan"
       }
     ],
@@ -4198,7 +4394,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 152,
+        "organisation": "Sanguine",
+        "id": 153,
         "name": "Oren Golan"
       }
     ],
@@ -4218,7 +4415,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 149,
+        "organisation": "Oracle Corporation ",
+        "id": 150,
         "name": "Ricky Setyawan"
       }
     ],
@@ -4238,6 +4436,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 56,
         "name": "Hong Phuc DANG"
       }
@@ -4258,7 +4457,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 153,
+        "organisation": "Winnow Solutions",
+        "id": 154,
         "name": "Maxime Pourrat"
       }
     ],
@@ -4278,7 +4478,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 154,
+        "organisation": "\ud83d\udc30",
+        "id": 155,
         "name": "Herr Fluke"
       }
     ],
@@ -4298,7 +4499,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 155,
+        "organisation": "freelancer",
+        "id": 156,
         "name": "Alexander Couzens"
       }
     ],
@@ -4318,7 +4520,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 156,
+        "organisation": "Queensland Health",
+        "id": 157,
         "name": "Norvan Vogt"
       }
     ],
@@ -4368,7 +4571,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 157,
+        "organisation": "intZone.com",
+        "id": 158,
         "name": "Zion Ng"
       }
     ],
@@ -4388,7 +4592,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 158,
+        "organisation": "Fedora Project",
+        "id": 159,
         "name": "Huiren Woo"
       }
     ],
@@ -4438,7 +4643,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 159,
+        "organisation": "National Cheng Kung University",
+        "id": 160,
         "name": "Menghsuan Tsai"
       }
     ],
@@ -4458,7 +4664,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "organisation": "We Build SG",
+        "id": 161,
         "name": "Sayanee Basu"
       }
     ],
@@ -4478,7 +4685,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 161,
+        "organisation": "Mozilla India",
+        "id": 162,
         "name": "Anivar Ammanath Aravind"
       }
     ],
@@ -4498,7 +4706,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 162,
+        "organisation": "Open Invention Network",
+        "id": 163,
         "name": "Keith Bergelt"
       }
     ],
@@ -4518,7 +4727,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 163,
+        "organisation": "Fedora Project",
+        "id": 164,
         "name": "Anwesha Das"
       }
     ],
@@ -4538,7 +4748,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "organisation": "Open Invention Network",
+        "id": 165,
         "name": "Kevin Huang"
       }
     ],
@@ -4558,12 +4769,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 165,
-        "name": "Amita Sharma"
+        "organisation": "BlankOn",
+        "id": 166,
+        "name": "Syah Dwi Prihatmoko"
       }
     ],
-    "description": "1. How to contribute in improving quality of open source software 2. Get inspiration how to create test harness for your application 3. How to alter your software development model to produce bug-free code. 4. Altering your development model to match SW quality standards.  5. Study the technology, know the feature well and use your experience 6. Know the point when it is time to report a bug 7. How to troubleshoot the issues. ",
-    "title": "Testing - Best Practices in Open Souce World",
+    "description": "This presentation will present to the audience about how the Indonesian government using FOSS in conducting the election. Anything that is used in the election. How FOSS help elections. What is achieved by the use of FOSS. What can be done with FOSS to improve governance.",
+    "title": "FOSS in Indonesia Election",
     "track": {
       "id": 13,
       "name": "Internet, Society, Community"
@@ -4576,14 +4788,9 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 166,
-        "name": "Syah Dwi Prihatmoko"
-      }
-    ],
-    "description": "This presentation will present to the audience about how the Indonesian government using FOSS in conducting the election. Anything that is used in the election. How FOSS help elections. What is achieved by the use of FOSS. What can be done with FOSS to improve governance.",
-    "title": "FOSS in Indonesia Election",
+    "speakers": [],
+    "description": "",
+    "title": "",
     "track": {
       "id": 13,
       "name": "Internet, Society, Community"
@@ -4591,7 +4798,7 @@
     "start_time": "2016-03-19T09:00:00+00:00",
     "session_id": "ISC-04",
     "location": "Level 2, Einstein Hall",
-    "type": "Talk of 20 minutes",
+    "type": "",
     "end_time": "2016-03-19T09:30:00+00:00"
   },
   {
@@ -4613,6 +4820,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 167,
         "name": "Huzaifa Sidhpurwala"
       }
@@ -4633,6 +4841,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Privly",
         "id": 168,
         "name": "Sambuddha Basu"
       }
@@ -4668,6 +4877,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Ring developped by Savoir-faire Linux",
         "id": 169,
         "name": "Alexandre Lision"
       }
@@ -4688,6 +4898,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Equinix",
         "id": 170,
         "name": "Michael Rebultan"
       }
@@ -4708,6 +4919,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 56,
         "name": "Hong Phuc DANG"
       }
@@ -4743,6 +4955,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Science Centre",
         "id": 171,
         "name": "Eileen/Kiruthika"
       }
@@ -4763,6 +4976,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Google",
         "id": 8,
         "name": "Cat Allman"
       }
@@ -4783,6 +4997,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
@@ -4803,6 +5018,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "#NEWPALMYRA",
         "id": 173,
         "name": "Barry Threw Jon Phillips"
       }
@@ -4823,6 +5039,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Valentina",
         "id": 174,
         "name": "Susan Spencer"
       }
@@ -4843,6 +5060,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Touch & Print",
         "id": 175,
         "name": "Leon Lim"
       }
@@ -4863,6 +5081,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ExpEYES",
         "id": 13,
         "name": "Praveen Patil"
       }
@@ -4883,6 +5102,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
@@ -4933,6 +5153,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
@@ -4983,6 +5204,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
@@ -5018,6 +5240,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
@@ -5038,6 +5261,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
@@ -5058,6 +5282,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
@@ -5078,6 +5303,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
@@ -5098,6 +5324,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
@@ -5118,6 +5345,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 56,
         "name": "Hong Phuc DANG"
       }
@@ -5138,6 +5366,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Debian",
         "id": 176,
         "name": "Chris Lamb"
       }
@@ -5158,6 +5387,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Deepin",
         "id": 177,
         "name": "Derek Dai"
       }
@@ -5178,6 +5408,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Oracle Corporation Singapore Pte Ltd",
         "id": 178,
         "name": "Anand Jain"
       }
@@ -5228,6 +5459,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 10,
         "name": "Lennart Poettering"
       }
@@ -5248,6 +5480,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Red Hat",
         "id": 10,
         "name": "Lennart Poettering"
       }
@@ -5268,6 +5501,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "",
         "id": 56,
         "name": "Hong Phuc DANG"
       }
@@ -5288,6 +5522,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "The Processing Foundation",
         "id": 179,
         "name": "Umair Khan"
       }
@@ -5308,6 +5543,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Autodesk",
         "id": 180,
         "name": "Owais Zahid"
       }
@@ -5328,6 +5564,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Game Automators",
         "id": 32,
         "name": "Sudheesh Singanamalla"
       }
@@ -5348,6 +5585,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ownCloud, Open Source Design",
         "id": 181,
         "name": "Jan-Christoph Borchardt"
       }
@@ -5383,6 +5621,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Code Artist",
         "id": 182,
         "name": "Sher Minn Chong"
       }
@@ -5403,6 +5642,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "VRcollab",
         "id": 183,
         "name": "Jia Hen Tee"
       }
@@ -5423,6 +5663,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Seoul Tech Society, Dmajor",
         "id": 184,
         "name": "Victoria Bondarchuk"
       }
@@ -5458,6 +5699,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "FOSSASIA",
         "id": 56,
         "name": "Hong Phuc DANG"
       }
@@ -5478,6 +5720,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ChorusText",
         "id": 185,
         "name": "David Effendi"
       }
@@ -5498,6 +5741,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Espert Pte Ltd",
         "id": 14,
         "name": "William Hooi"
       }
@@ -5518,6 +5762,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Department of Physics, G S Science College, Belgaum",
         "id": 66,
         "name": "Praveen (Gnovi) Patil"
       }
@@ -5538,6 +5783,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Debian",
         "id": 45,
         "name": "Daniel Pocock"
       }
@@ -5558,6 +5804,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Ring developped by Savoir-faire Linux",
         "id": 169,
         "name": "Alexandre Lision"
       }
@@ -5578,6 +5825,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "FOSSASIA",
         "id": 1,
         "name": "Hong Phuc Dang"
       }
@@ -5598,6 +5846,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Wuhan Deepin Technology Co., Ltd.",
         "id": 177,
         "name": "Derek Dai"
       }
@@ -5618,6 +5867,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Seoul Tech Society, Dmajor",
         "id": 184,
         "name": "Victoria Bondarchuk"
       }
@@ -5638,6 +5888,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "coala",
         "id": 186,
         "name": "Ankit -"
       }
@@ -5658,6 +5909,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "RedHat",
         "id": 3,
         "name": "Harish Pillay"
       }
@@ -5678,7 +5930,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 149,
+        "organisation": "MySQL",
+        "id": 150,
         "name": "Ricky Setyawan"
       }
     ],
@@ -5698,6 +5951,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "UNESCO",
         "id": 187,
         "name": "Misako Ito"
       }
@@ -5718,6 +5972,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "OneMakerGroup",
         "id": 46,
         "name": "Elda Webb"
       }
@@ -5738,6 +5993,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Nanyang Polytechnic",
         "id": 188,
         "name": "Peter LIM"
       }
@@ -5788,6 +6044,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ChorusText",
         "id": 185,
         "name": "David Effendi"
       }
@@ -5808,6 +6065,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Espert Pte Ltd",
         "id": 14,
         "name": "William Hooi"
       }
@@ -5828,6 +6086,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Department of Physics, G S Science College, Belgaum",
         "id": 66,
         "name": "Praveen (Gnovi) Patil"
       }
@@ -5848,6 +6107,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Debian",
         "id": 45,
         "name": "Daniel Pocock"
       }
@@ -5868,6 +6128,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Ring developped by Savoir-faire Linux",
         "id": 169,
         "name": "Alexandre Lision"
       }
@@ -5888,6 +6149,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "FOSSASIA",
         "id": 1,
         "name": "Hong Phuc Dang"
       }
@@ -5908,6 +6170,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Wuhan Deepin Technology Co., Ltd.",
         "id": 177,
         "name": "Derek Dai"
       }
@@ -5928,6 +6191,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Singtel",
         "id": 189,
         "name": "Emin Aksehirli"
       }
@@ -5948,6 +6212,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Seoul Tech Society, Dmajor",
         "id": 184,
         "name": "Victoria Bondarchuk"
       }
@@ -5968,6 +6233,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "coala",
         "id": 186,
         "name": "Ankit -"
       }
@@ -5988,6 +6254,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "RedHat",
         "id": 3,
         "name": "Harish Pillay"
       }
@@ -6008,7 +6275,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 149,
+        "organisation": "MySQL",
+        "id": 150,
         "name": "Ricky Setyawan"
       }
     ],
@@ -6028,6 +6296,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "UNESCO",
         "id": 187,
         "name": "Misako Ito"
       }
@@ -6048,6 +6317,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "OneMakerGroup",
         "id": 46,
         "name": "Elda Webb"
       }
@@ -6068,6 +6338,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Nanyang Polytechnic",
         "id": 188,
         "name": "Peter LIM"
       }
@@ -6118,6 +6389,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "ChorusText",
         "id": 185,
         "name": "David Effendi"
       }
@@ -6138,6 +6410,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Espert Pte Ltd",
         "id": 14,
         "name": "William Hooi"
       }
@@ -6158,6 +6431,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Department of Physics, G S Science College, Belgaum",
         "id": 66,
         "name": "Praveen (Gnovi) Patil"
       }
@@ -6178,6 +6452,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Debian",
         "id": 45,
         "name": "Daniel Pocock"
       }
@@ -6198,6 +6473,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Ring developped by Savoir-faire Linux",
         "id": 169,
         "name": "Alexandre Lision"
       }
@@ -6218,6 +6494,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "FOSSASIA",
         "id": 1,
         "name": "Hong Phuc Dang"
       }
@@ -6238,6 +6515,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Wuhan Deepin Technology Co., Ltd.",
         "id": 177,
         "name": "Derek Dai"
       }
@@ -6258,6 +6536,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Singtel",
         "id": 189,
         "name": "Emin Aksehirli"
       }
@@ -6278,6 +6557,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Seoul Tech Society, Dmajor",
         "id": 184,
         "name": "Victoria Bondarchuk"
       }
@@ -6298,6 +6578,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "coala",
         "id": 186,
         "name": "Ankit -"
       }
@@ -6318,6 +6599,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "RedHat",
         "id": 3,
         "name": "Harish Pillay"
       }
@@ -6338,7 +6620,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 149,
+        "organisation": "MySQL",
+        "id": 150,
         "name": "Ricky Setyawan"
       }
     ],
@@ -6358,6 +6641,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "UNESCO",
         "id": 187,
         "name": "Misako Ito"
       }
@@ -6378,6 +6662,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "OneMakerGroup",
         "id": 46,
         "name": "Elda Webb"
       }
@@ -6398,6 +6683,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Nanyang Polytechnic",
         "id": 188,
         "name": "Peter LIM"
       }

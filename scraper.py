@@ -173,7 +173,11 @@ def parse_row(row, last_speaker, last_session, current_track):
     if not hasattr(session, 'location'):
         session.location = track.location
     if speaker is not None:
-        session.speakers.append({'name': speaker.name, 'id': speaker.id})
+        session.speakers.append({
+            'name': speaker.name, 
+            'id': speaker.id, 
+            'organisation': speaker.organisation
+        })
 
     return (speaker, session)
 
