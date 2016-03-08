@@ -5,8 +5,8 @@
     "name": "OpenTech and IoT",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "2001998536",
-    "location": "Level 3, Lewis Hall",
+    "gid": "575324946",
+    "location": "Level 3, Dalton Hall",
     "id": 2
   },
   {
@@ -15,8 +15,8 @@
     "name": "OpenTech Workshops",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1720494775",
-    "location": "Level 3, Fermi Hall",
+    "gid": "1739766985",
+    "location": "Level 3, Lewis Hall",
     "id": 3
   },
   {
@@ -25,7 +25,7 @@
     "name": "Tech Kids I",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "842584304",
+    "gid": "321819762",
     "location": "Level 1, Digital Design Studio",
     "id": 4
   },
@@ -35,7 +35,7 @@
     "name": "Tech Kids II",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "758393009",
+    "gid": "2115049584",
     "location": "Level 1, Digital Design Studio",
     "id": 5
   },
@@ -65,7 +65,7 @@
     "name": "DevOps",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1331573003",
+    "gid": "988461862",
     "location": "Level 3, Planck Hall",
     "id": 8
   },
@@ -75,7 +75,7 @@
     "name": "WebTech",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "757813889",
+    "gid": "1358967329",
     "location": "Level 2, Room to be decided",
     "id": 9
   },
@@ -105,7 +105,7 @@
     "name": "Databases",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "733595303",
+    "gid": "1342324422",
     "location": "Level 2, Herschel Hall",
     "id": 12
   },
@@ -135,7 +135,7 @@
     "name": "Science Hack Day",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "829910935",
+    "gid": "450075724",
     "location": "Level 1, Tinkering Studio",
     "id": 15
   },
@@ -145,7 +145,7 @@
     "name": "Linux and MiniDebConf",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "gid": "1565143498",
+    "gid": "1071994059",
     "location": "Level 1, Digital Design Studio",
     "id": 16
   },

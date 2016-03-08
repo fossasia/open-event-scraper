@@ -15,7 +15,7 @@
     },
     "start_time": "2016-03-18T02:00:00+00:00",
     "session_id": "OT-01",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-18T02:30:00+00:00"
   },
@@ -35,7 +35,7 @@
     },
     "start_time": "2016-03-18T02:05:00+00:00",
     "session_id": "OT-02",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-18T02:35:00+00:00"
   },
@@ -55,7 +55,7 @@
     },
     "start_time": "2016-03-18T02:10:00+00:00",
     "session_id": "OT-03",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T02:40:00+00:00"
   },
@@ -75,7 +75,7 @@
     },
     "start_time": "2016-03-18T02:30:00+00:00",
     "session_id": "OT-04",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T03:00:00+00:00"
   },
@@ -95,7 +95,7 @@
     },
     "start_time": "2016-03-18T02:50:00+00:00",
     "session_id": "OT-05",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T03:20:00+00:00"
   },
@@ -115,7 +115,7 @@
     },
     "start_time": "2016-03-18T03:10:00+00:00",
     "session_id": "OT-06",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T03:40:00+00:00"
   },
@@ -135,7 +135,7 @@
     },
     "start_time": "2016-03-18T03:30:00+00:00",
     "session_id": "OT-07",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-18T04:00:00+00:00"
   },
@@ -155,7 +155,7 @@
     },
     "start_time": "2016-03-18T03:50:00+00:00",
     "session_id": "OT-08",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T04:20:00+00:00"
   },
@@ -170,7 +170,7 @@
     },
     "start_time": "2016-03-18T04:10:00+00:00",
     "session_id": "OT-09",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-18T04:40:00+00:00"
   },
@@ -190,7 +190,7 @@
     },
     "start_time": "2016-03-18T05:30:00+00:00",
     "session_id": "OT-10",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:00:00+00:00"
   },
@@ -210,7 +210,7 @@
     },
     "start_time": "2016-03-18T06:00:00+00:00",
     "session_id": "OT-14",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:30:00+00:00"
   },
@@ -230,7 +230,7 @@
     },
     "start_time": "2016-03-18T06:30:00+00:00",
     "session_id": "OT-57",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:00:00+00:00"
   },
@@ -250,7 +250,7 @@
     },
     "start_time": "2016-03-18T06:55:00+00:00",
     "session_id": "OT-11",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:25:00+00:00"
   },
@@ -270,7 +270,7 @@
     },
     "start_time": "2016-03-18T07:20:00+00:00",
     "session_id": "OT-12",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:50:00+00:00"
   },
@@ -290,7 +290,7 @@
     },
     "start_time": "2016-03-18T07:45:00+00:00",
     "session_id": "OT-13",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T08:15:00+00:00"
   },
@@ -310,7 +310,7 @@
     },
     "start_time": "2016-03-18T08:10:00+00:00",
     "session_id": "OT-15",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T08:40:00+00:00"
   },
@@ -325,7 +325,7 @@
     },
     "start_time": "2016-03-18T08:30:00+00:00",
     "session_id": "OT-16",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-18T09:00:00+00:00"
   },
@@ -340,7 +340,7 @@
     },
     "start_time": "2016-03-18T11:00:00+00:00",
     "session_id": "OT-17",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-18T11:30:00+00:00"
   },
@@ -360,7 +360,7 @@
     },
     "start_time": "2016-03-19T01:30:00+00:00",
     "session_id": "OT-19",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:00:00+00:00"
   },
@@ -380,7 +380,7 @@
     },
     "start_time": "2016-03-19T02:00:00+00:00",
     "session_id": "OT-20",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:30:00+00:00"
   },
@@ -400,7 +400,7 @@
     },
     "start_time": "2016-03-19T02:30:00+00:00",
     "session_id": "OT-21",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
@@ -420,7 +420,7 @@
     },
     "start_time": "2016-03-19T03:00:00+00:00",
     "session_id": "OT-22",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:30:00+00:00"
   },
@@ -440,7 +440,7 @@
     },
     "start_time": "2016-03-19T03:30:00+00:00",
     "session_id": "OT-23",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
@@ -448,14 +448,14 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "",
+    "title": "Group Photo",
     "track": {
       "id": 2,
       "name": "OpenTech and IoT"
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "OT-24",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -463,14 +463,14 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "",
+    "title": "Lunch",
     "track": {
       "id": 2,
       "name": "OpenTech and IoT"
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "OT-25",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -485,7 +485,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "OT-26",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-19T06:00:00+00:00"
   },
@@ -505,7 +505,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "OT-27",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:00:00+00:00"
   },
@@ -525,7 +525,7 @@
     },
     "start_time": "2016-03-19T05:35:00+00:00",
     "session_id": "OT-28",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:05:00+00:00"
   },
@@ -545,7 +545,7 @@
     },
     "start_time": "2016-03-19T05:40:00+00:00",
     "session_id": "OT-29",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:10:00+00:00"
   },
@@ -565,7 +565,7 @@
     },
     "start_time": "2016-03-19T05:45:00+00:00",
     "session_id": "OT-30",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:15:00+00:00"
   },
@@ -585,7 +585,7 @@
     },
     "start_time": "2016-03-19T05:50:00+00:00",
     "session_id": "OT-31",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:20:00+00:00"
   },
@@ -605,7 +605,7 @@
     },
     "start_time": "2016-03-19T05:55:00+00:00",
     "session_id": "OT-32",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:25:00+00:00"
   },
@@ -625,7 +625,7 @@
     },
     "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "OT-33",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:30:00+00:00"
   },
@@ -645,7 +645,7 @@
     },
     "start_time": "2016-03-19T06:05:00+00:00",
     "session_id": "OT-34",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:35:00+00:00"
   },
@@ -665,7 +665,7 @@
     },
     "start_time": "2016-03-19T06:10:00+00:00",
     "session_id": "OT-35",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:40:00+00:00"
   },
@@ -685,7 +685,7 @@
     },
     "start_time": "2016-03-19T06:15:00+00:00",
     "session_id": "OT-36",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:45:00+00:00"
   },
@@ -705,7 +705,7 @@
     },
     "start_time": "2016-03-19T06:20:00+00:00",
     "session_id": "OT-37",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:50:00+00:00"
   },
@@ -725,7 +725,7 @@
     },
     "start_time": "2016-03-19T06:25:00+00:00",
     "session_id": "OT-38",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:55:00+00:00"
   },
@@ -745,7 +745,7 @@
     },
     "start_time": "2016-03-19T06:30:00+00:00",
     "session_id": "OT-39",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T07:00:00+00:00"
   },
@@ -765,7 +765,7 @@
     },
     "start_time": "2016-03-19T06:35:00+00:00",
     "session_id": "OT-40",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T07:05:00+00:00"
   },
@@ -785,7 +785,7 @@
     },
     "start_time": "2016-03-19T06:40:00+00:00",
     "session_id": "OT-41",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T07:10:00+00:00"
   },
@@ -805,7 +805,7 @@
     },
     "start_time": "2016-03-19T06:45:00+00:00",
     "session_id": "OT-42",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T07:15:00+00:00"
   },
@@ -825,7 +825,7 @@
     },
     "start_time": "2016-03-19T06:50:00+00:00",
     "session_id": "OT-43",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T07:20:00+00:00"
   },
@@ -843,9 +843,11 @@
       "id": 2,
       "name": "OpenTech and IoT"
     },
+    "start_time": "2016-03-19T06:55:00+00:00",
     "session_id": "OT-70",
-    "location": "Level 3, Lewis Hall",
-    "type": "Lightning Talk"
+    "location": "Level 3, Dalton Hall",
+    "type": "Lightning Talk",
+    "end_time": "2016-03-19T07:25:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -863,7 +865,7 @@
     },
     "start_time": "2016-03-19T07:00:00+00:00",
     "session_id": "OT-44",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Keynote",
     "end_time": "2016-03-19T07:30:00+00:00"
   },
@@ -883,7 +885,7 @@
     },
     "start_time": "2016-03-19T07:40:00+00:00",
     "session_id": "OT-45",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T08:10:00+00:00"
   },
@@ -903,7 +905,7 @@
     },
     "start_time": "2016-03-19T08:10:00+00:00",
     "session_id": "OT-46",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "40 minutes (20 minute demonstration, 20 minute talk)",
     "end_time": "2016-03-19T08:40:00+00:00"
   },
@@ -921,11 +923,11 @@
       "id": 2,
       "name": "OpenTech and IoT"
     },
-    "start_time": "2016-03-19T09:00:00+00:00",
+    "start_time": "2016-03-19T08:50:00+00:00",
     "session_id": "OT-47",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-19T09:30:00+00:00"
+    "end_time": "2016-03-19T09:20:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -941,11 +943,11 @@
       "id": 2,
       "name": "OpenTech and IoT"
     },
-    "start_time": "2016-03-19T09:20:00+00:00",
+    "start_time": "2016-03-19T09:15:00+00:00",
     "session_id": "OT-48",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-19T09:50:00+00:00"
+    "end_time": "2016-03-19T09:45:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -963,7 +965,7 @@
     },
     "start_time": "2016-03-19T09:40:00+00:00",
     "session_id": "OT-49",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T10:10:00+00:00"
   },
@@ -978,7 +980,7 @@
     },
     "start_time": "2016-03-19T10:00:00+00:00",
     "session_id": "OT-50",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -998,7 +1000,7 @@
     },
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "OT-51",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T02:30:00+00:00"
   },
@@ -1018,7 +1020,7 @@
     },
     "start_time": "2016-03-20T02:30:00+00:00",
     "session_id": "OT-52",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T03:00:00+00:00"
   },
@@ -1038,7 +1040,7 @@
     },
     "start_time": "2016-03-20T03:00:00+00:00",
     "session_id": "OT-53",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T03:30:00+00:00"
   },
@@ -1058,7 +1060,7 @@
     },
     "start_time": "2016-03-20T03:30:00+00:00",
     "session_id": "OT-54",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
@@ -1073,7 +1075,7 @@
     },
     "start_time": "2016-03-20T04:00:00+00:00",
     "session_id": "OT-55",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-20T04:30:00+00:00"
   },
@@ -1093,7 +1095,7 @@
     },
     "start_time": "2016-03-20T05:00:00+00:00",
     "session_id": "OT-56",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T05:30:00+00:00"
   },
@@ -1108,7 +1110,7 @@
     },
     "start_time": "2016-03-20T05:30:00+00:00",
     "session_id": "OT-71",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-20T06:00:00+00:00"
   },
@@ -1128,7 +1130,7 @@
     },
     "start_time": "2016-03-20T06:00:00+00:00",
     "session_id": "OT-58",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T06:30:00+00:00"
   },
@@ -1148,7 +1150,7 @@
     },
     "start_time": "2016-03-20T06:30:00+00:00",
     "session_id": "OT-59",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "40 min",
     "end_time": "2016-03-20T07:00:00+00:00"
   },
@@ -1168,7 +1170,7 @@
     },
     "start_time": "2016-03-20T07:00:00+00:00",
     "session_id": "OT-60",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T07:30:00+00:00"
   },
@@ -1188,13 +1190,18 @@
     },
     "start_time": "2016-03-20T07:30:00+00:00",
     "session_id": "OT-61",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
+    "speakers": [
+      {
+        "id": 55,
+        "name": "Hack Day Scientists"
+      }
+    ],
     "description": "",
     "title": "Science Hack Day - Winning teams announced & given awards/medals in main hall",
     "track": {
@@ -1203,24 +1210,49 @@
     },
     "start_time": "2016-03-20T08:00:00+00:00",
     "session_id": "OT-62",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-20T08:30:00+00:00"
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
+    "speakers": [
+      {
+        "id": 56,
+        "name": "Hong Phuc DANG"
+      }
+    ],
     "description": "",
-    "title": "Hong Phuc DANG",
+    "title": "Closing Notes of FOSSASIA 2016",
     "track": {
       "id": 2,
       "name": "OpenTech and IoT"
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "OT-63",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 57,
+        "name": "Martin Andrews"
+      }
+    ],
+    "description": "Deep Learning is a hot topic, but it can be a little daunting to get started. Provisional outline :  * The workshop will start from the very basics (with a little mathematics), and quickly progress to getting hands-on with open source software (ending the first hour with training a deep network on a simple problem) * The second hour will build on a much larger pre-trained model, and show participants applications in both e-commerce and generative art.  ",
+    "title": "Deep Learning: From Inception to Dreams",
+    "track": {
+      "id": 3,
+      "name": "OpenTech Workshops"
+    },
+    "start_time": "2016-03-19T02:00:00+00:00",
+    "session_id": "OTW-11",
+    "location": "Level 3, Lewis Hall",
+    "type": "Workshop of 2 hours",
+    "end_time": "2016-03-19T04:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1233,7 +1265,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "OTW-01",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Lewis Hall",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -1248,7 +1280,7 @@
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "OTW-02",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Lewis Hall",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -1256,7 +1288,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 56,
+        "id": 58,
         "name": "Ishan Khanna"
       }
     ],
@@ -1268,7 +1300,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "OTW-03",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Lewis Hall",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T06:30:00+00:00"
   },
@@ -1276,7 +1308,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 57,
+        "id": 59,
         "name": "Mike Anderson"
       }
     ],
@@ -1288,7 +1320,7 @@
     },
     "start_time": "2016-03-19T06:30:00+00:00",
     "session_id": "OTW-04",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Lewis Hall",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T07:30:00+00:00"
   },
@@ -1296,7 +1328,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 58,
+        "id": 60,
         "name": "Ulrich Norbisrath"
       }
     ],
@@ -1308,7 +1340,7 @@
     },
     "start_time": "2016-03-19T07:30:00+00:00",
     "session_id": "OTW-05",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Lewis Hall",
     "type": "Workshop of 2.5 hours",
     "end_time": "2016-03-19T09:30:00+00:00"
   },
@@ -1323,7 +1355,7 @@
     },
     "start_time": "2016-03-19T10:00:00+00:00",
     "session_id": "OTW-06",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Lewis Hall",
     "type": "",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -1331,8 +1363,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 59,
-        "name": "Mike McQuaid Sahil Bajaj"
+        "id": 61,
+        "name": "Mike McQuaid, Sahil Bajaj"
       }
     ],
     "description": "A GitHub Workshop: This is a self-directed and hands-on workshop for people who want to learn Git, GitHub, or GitHub Pages. You\u2019ll leave with a merged Pull Request, a square on your contributions graph, and confidence to get more involved in the open source community. If you\u2019re an experienced GitHub user, we\u2019d love for you to join the session as a mentor.",
@@ -1343,7 +1375,7 @@
     },
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "OTW-08",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Lewis Hall",
     "type": "Workshop of 2 hours",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
@@ -1358,7 +1390,7 @@
     },
     "start_time": "2016-03-20T04:00:00+00:00",
     "session_id": "OTW-09",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Lewis Hall",
     "type": "",
     "end_time": "2016-03-20T04:30:00+00:00"
   },
@@ -1366,7 +1398,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 60,
+        "id": 62,
         "name": "Sherman Chen"
       }
     ],
@@ -1378,35 +1410,35 @@
     },
     "start_time": "2016-03-20T05:00:00+00:00",
     "session_id": "OTW-10",
-    "location": "Level 3, Fermi Hall",
-    "type": "Workshop of 2 hours",
-    "end_time": "2016-03-20T07:00:00+00:00"
+    "location": "Level 3, Lewis Hall",
+    "type": "Workshop of 1.5 hours",
+    "end_time": "2016-03-20T06:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 61,
-        "name": "Martin Andrews"
+        "id": 63,
+        "name": "Ram Dayal Vaishnav"
       }
     ],
-    "description": "Deep Learning is a hot topic, but it can be a little daunting to get started. Provisional outline :  * The workshop will start from the very basics (with a little mathematics), and quickly progress to getting hands-on with open source software (ending the first hour with training a deep network on a simple problem) * The second hour will build on a much larger pre-trained model, and show participants applications in both e-commerce and generative art.  ",
-    "title": "Deep Learning: From Inception to Dreams",
+    "description": "Using Firefox OS to get started with Internet of Things.",
+    "title": "Firefox OS - Fast Track to IoT",
     "track": {
       "id": 3,
       "name": "OpenTech Workshops"
     },
-    "start_time": "2016-03-20T07:00:00+00:00",
-    "session_id": "OTW-11",
-    "location": "Level 3, Fermi Hall",
-    "type": "Workshop of 2 hours",
-    "end_time": "2016-03-20T08:30:00+00:00"
+    "start_time": "2016-03-20T06:30:00+00:00",
+    "session_id": "OTW-30",
+    "location": "Level 3, Lewis Hall",
+    "type": "Workshop of 1.5 hours",
+    "end_time": "2016-03-20T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 55,
+        "id": 56,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -1418,7 +1450,7 @@
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "OTW-12",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Lewis Hall",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
@@ -1426,7 +1458,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 62,
+        "id": 64,
         "name": "Manan Wason"
       }
     ],
@@ -1496,7 +1528,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 63,
+        "id": 65,
         "name": "Martin B\u00e4hr"
       }
     ],
@@ -1516,7 +1548,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "Social Event",
+    "title": "End of Sessions",
     "track": {
       "id": 4,
       "name": "Tech Kids I"
@@ -1531,7 +1563,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 62,
+        "id": 64,
         "name": "Manan Wason"
       }
     ],
@@ -1586,7 +1618,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 64,
+        "id": 66,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -1619,14 +1651,14 @@
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "TKI-12",
     "location": "Level 1, Digital Design Studio",
-    "type": "Talk",
+    "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 65,
+        "id": 67,
         "name": "Jamen Loh"
       }
     ],
@@ -1646,7 +1678,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 66,
+        "id": 68,
         "name": "Gabriel Perumal"
       }
     ],
@@ -1696,7 +1728,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 67,
+        "id": 69,
         "name": "Wilfred Wong"
       }
     ],
@@ -1716,7 +1748,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 68,
+        "id": 70,
         "name": "Syabiqah Phang"
       }
     ],
@@ -1736,7 +1768,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "End of Sessions and Social Event for Speakers, Volunteers, Partners",
+    "title": "End of Sessions",
     "track": {
       "id": 5,
       "name": "Tech Kids II"
@@ -1751,7 +1783,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 69,
+        "id": 71,
         "name": "Luther Goh"
       }
     ],
@@ -1786,7 +1818,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 58,
+        "id": 60,
         "name": "Ulrich Norbisrath"
       }
     ],
@@ -1821,7 +1853,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 70,
+        "id": 72,
         "name": "Shivam Verma"
       }
     ],
@@ -1841,7 +1873,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 71,
+        "id": 73,
         "name": "Akhil Pandey"
       }
     ],
@@ -1861,7 +1893,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 72,
+        "id": 74,
         "name": "Roland Turner"
       }
     ],
@@ -1881,7 +1913,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 73,
+        "id": 75,
         "name": "Parmeshwr Prasad Vishwakarma"
       }
     ],
@@ -1901,7 +1933,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 74,
+        "id": 76,
         "name": "Shwetank Dixit"
       }
     ],
@@ -1921,7 +1953,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 75,
+        "id": 77,
         "name": "Kushal Das"
       }
     ],
@@ -1971,7 +2003,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 76,
+        "id": 78,
         "name": "Jaminy Prabaharan"
       }
     ],
@@ -1991,7 +2023,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 77,
+        "id": 79,
         "name": "Abhishek Agrawal"
       }
     ],
@@ -2011,7 +2043,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 78,
+        "id": 80,
         "name": "Saad Chinoy"
       }
     ],
@@ -2061,7 +2093,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 79,
+        "id": 81,
         "name": "Kenji Shimono"
       }
     ],
@@ -2081,7 +2113,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 80,
+        "id": 82,
         "name": "Carsten Haitzler"
       }
     ],
@@ -2101,7 +2133,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 81,
+        "id": 83,
         "name": "Masakazu Takasu"
       }
     ],
@@ -2119,7 +2151,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 82,
+        "id": 84,
         "name": "Deepak Karki Aishwarya Kaliki"
       }
     ],
@@ -2139,7 +2171,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 83,
+        "id": 85,
         "name": "Dr. Udaykumar Khadke"
       }
     ],
@@ -2159,7 +2191,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 84,
+        "id": 86,
         "name": "Abhishek Mishra"
       }
     ],
@@ -2179,7 +2211,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 85,
+        "id": 87,
         "name": "Jiin Joo Ong"
       }
     ],
@@ -2199,7 +2231,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 86,
+        "id": 88,
         "name": "Jerrayl Ng"
       }
     ],
@@ -2234,7 +2266,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 87,
+        "id": 89,
         "name": "Red Hat Family"
       }
     ],
@@ -2254,7 +2286,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 88,
+        "id": 90,
         "name": "Yaniv Bronhaim"
       }
     ],
@@ -2274,7 +2306,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 89,
+        "id": 91,
         "name": "Amit Shah"
       }
     ],
@@ -2294,7 +2326,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 90,
+        "id": 92,
         "name": "Anisha Narang"
       }
     ],
@@ -2364,7 +2396,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 91,
+        "id": 93,
         "name": "Rahul Mahale"
       }
     ],
@@ -2384,7 +2416,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 92,
+        "id": 94,
         "name": "Sameer Kumar"
       }
     ],
@@ -2404,7 +2436,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 93,
+        "id": 95,
         "name": "Udayan Tandon"
       }
     ],
@@ -2424,7 +2456,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 94,
+        "id": 96,
         "name": "Desmond Wong"
       }
     ],
@@ -2474,7 +2506,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 95,
+        "id": 97,
         "name": "Parag Ashok Nemade"
       }
     ],
@@ -2484,17 +2516,17 @@
       "id": 8,
       "name": "DevOps"
     },
-    "start_time": "2016-03-19T05:00:00+00:00",
+    "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "DO-14",
     "location": "Level 3, Planck Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-19T05:30:00+00:00"
+    "end_time": "2016-03-19T06:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 96,
+        "id": 98,
         "name": "Liron Aravot"
       }
     ],
@@ -2514,7 +2546,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 88,
+        "id": 90,
         "name": "Yaniv Bronhaim"
       }
     ],
@@ -2534,7 +2566,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 90,
+        "id": 92,
         "name": "Anisha Narang"
       }
     ],
@@ -2569,7 +2601,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 97,
+        "id": 99,
         "name": "Swapneel Patnekar"
       }
     ],
@@ -2589,7 +2621,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 98,
+        "id": 100,
         "name": "Nils Magnus"
       }
     ],
@@ -2603,21 +2635,6 @@
     "session_id": "DO-21",
     "location": "Level 3, Planck Hall",
     "type": "Workshop of 1 hour",
-    "end_time": "2016-03-20T03:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "",
-    "track": {
-      "id": 8,
-      "name": "DevOps"
-    },
-    "start_time": "2016-03-20T03:30:00+00:00",
-    "session_id": "DO-22",
-    "location": "Level 3, Planck Hall",
-    "type": "",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
   {
@@ -2629,17 +2646,17 @@
       "id": 8,
       "name": "DevOps"
     },
-    "start_time": "2016-03-20T04:30:00+00:00",
+    "start_time": "2016-03-20T04:00:00+00:00",
     "session_id": "DO-23",
     "location": "Level 3, Planck Hall",
     "type": "",
-    "end_time": "2016-03-20T05:00:00+00:00"
+    "end_time": "2016-03-20T04:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 99,
+        "id": 101,
         "name": "Rishi Shah"
       }
     ],
@@ -2659,7 +2676,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 100,
+        "id": 102,
         "name": "Vincent De Smet"
       }
     ],
@@ -2679,7 +2696,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 101,
+        "id": 103,
         "name": "Hunter Nield"
       }
     ],
@@ -2699,7 +2716,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 102,
+        "id": 104,
         "name": "Dilum Navanjana Welgamage"
       }
     ],
@@ -2719,7 +2736,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 55,
+        "id": 56,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -2739,7 +2756,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 103,
+        "id": 105,
         "name": "Abdul Rauf"
       }
     ],
@@ -2759,7 +2776,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 104,
+        "id": 106,
         "name": "Hai An DANG"
       }
     ],
@@ -2779,7 +2796,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 105,
+        "id": 107,
         "name": "Rizky Ariestiyansyah"
       }
     ],
@@ -2799,7 +2816,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 106,
+        "id": 108,
         "name": "Hans Bakker"
       }
     ],
@@ -2849,7 +2866,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 107,
+        "id": 109,
         "name": "Robert Reyes"
       }
     ],
@@ -2869,7 +2886,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 108,
+        "id": 110,
         "name": "Dan Tran"
       }
     ],
@@ -2909,7 +2926,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 109,
+        "id": 111,
         "name": "Ningxin Hu"
       }
     ],
@@ -2929,7 +2946,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 110,
+        "id": 112,
         "name": "Mark Clarke"
       }
     ],
@@ -2949,7 +2966,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 111,
+        "id": 113,
         "name": "Trishul Goel"
       }
     ],
@@ -2984,15 +3001,15 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 112,
+        "id": 114,
         "name": "Soares Chen"
       },
       {
-        "id": 113,
+        "id": 115,
         "name": "Joerg Henning"
       },
       {
-        "id": 114,
+        "id": 116,
         "name": "Sebastiaan Deckers"
       },
       {
@@ -3010,13 +3027,13 @@
     "session_id": "WT-12",
     "location": "Level 2, Room to be decided",
     "type": "Workshop of 5 hours",
-    "end_time": "2016-03-20T07:30:00+00:00"
+    "end_time": "2016-03-20T07:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 115,
+        "id": 117,
         "name": "Chinmay Pendharkar"
       }
     ],
@@ -3026,7 +3043,7 @@
       "id": 9,
       "name": "WebTech"
     },
-    "start_time": "2016-03-20T07:30:00+00:00",
+    "start_time": "2016-03-20T07:00:00+00:00",
     "session_id": "WT-18",
     "location": "Level 2, Room to be decided",
     "type": "Workshop of 1.5 hours",
@@ -3036,7 +3053,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 55,
+        "id": 56,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -3056,7 +3073,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 75,
+        "id": 77,
         "name": "Kushal Das"
       }
     ],
@@ -3076,7 +3093,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 116,
+        "id": 118,
         "name": "Ivan Zimine"
       }
     ],
@@ -3096,7 +3113,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 117,
+        "id": 119,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -3116,7 +3133,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 75,
+        "id": 77,
         "name": "Kushal Das"
       }
     ],
@@ -3166,7 +3183,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 118,
+        "id": 120,
         "name": "Shadab Zafar"
       }
     ],
@@ -3186,7 +3203,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 119,
+        "id": 121,
         "name": "Sundeep Anand"
       }
     ],
@@ -3226,7 +3243,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 120,
+        "id": 122,
         "name": "Yask Srivastava"
       }
     ],
@@ -3246,7 +3263,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 117,
+        "id": 119,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -3266,7 +3283,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 75,
+        "id": 77,
         "name": "Kushal Das"
       }
     ],
@@ -3354,7 +3371,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 121,
+        "id": 123,
         "name": "Sahil Shekhawat"
       }
     ],
@@ -3374,7 +3391,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 122,
+        "id": 124,
         "name": "Amit Kumar JHA"
       }
     ],
@@ -3394,7 +3411,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 55,
+        "id": 56,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -3414,18 +3431,18 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 123,
-        "name": "Cl\u00e9ment Renaud"
+        "id": 125,
+        "name": "Marco A. Guti\u00e9rrez"
       }
     ],
-    "description": "Topogram is an open-source web toolkit to map social, semantic and spatio-temporal dynamics. It answers the growing need for interactive mapping of complex online and offline interactions. The software is divided into 2 parts : 1) a Python mining library and webserver to extract networks of words, citations and places from text data and 2) a collaborative visualization interface to edit, annotate and publish graphs. ",
-    "title": "Topogram: Social network analysis for humans",
+    "description": "Open Detection (OD) is a novel standalone open source project for object detection and recognition in images and 3D point clouds. Open Detection is released under the terms of the BSD license, and thus free for commercial and research use. The project was originated under Google Summer of Code 2015 with the aim of having a vision tool for robotics (in particular for Robocomp, an open source robotics framework). The library is built with a very specific goal - to answer the fundamental problem of Computer Vision - Object Recognition and Detection. We make available to everyone the existing solution in this direction in a common, intuitive and user-friendly APIs. Our simple and user-friendly APIs make this a great tool for Robotics Applications and robots and Computer Vision beginners and enthusiasts. And of course, the method dependent parameters to fine-tune detections to the limit, makes this a great tool for Computer Vision researchers and experts.",
+    "title": "opendetection.com",
     "track": {
       "id": 11,
       "name": "Big Data/Open Data"
     },
     "start_time": "2016-03-18T05:30:00+00:00",
-    "session_id": "BD-01",
+    "session_id": "BD-20",
     "location": "Level 3, Fermi Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:00:00+00:00"
@@ -3434,7 +3451,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 124,
+        "id": 126,
         "name": "Ankita Shukla"
       }
     ],
@@ -3454,7 +3471,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 125,
+        "id": 127,
         "name": "Errazudin Ishak"
       }
     ],
@@ -3474,7 +3491,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 126,
+        "id": 128,
         "name": "Fibish Madathil"
       }
     ],
@@ -3494,7 +3511,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 127,
+        "id": 129,
         "name": "U-Zyn Chua"
       }
     ],
@@ -3509,26 +3526,6 @@
     "location": "Level 3, Fermi Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T08:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 128,
-        "name": "Marco A. Guti\u00e9rrez"
-      }
-    ],
-    "description": "Open Detection (OD) is a novel standalone open source project for object detection and recognition in images and 3D point clouds. Open Detection is released under the terms of the BSD license, and thus free for commercial and research use. The project was originated under Google Summer of Code 2015 with the aim of having a vision tool for robotics (in particular for Robocomp, an open source robotics framework). The library is built with a very specific goal - to answer the fundamental problem of Computer Vision - Object Recognition and Detection. We make available to everyone the existing solution in this direction in a common, intuitive and user-friendly APIs. Our simple and user-friendly APIs make this a great tool for Robotics Applications and robots and Computer Vision beginners and enthusiasts. And of course, the method dependent parameters to fine-tune detections to the limit, makes this a great tool for Computer Vision researchers and experts.",
-    "title": "opendetection.com",
-    "track": {
-      "id": 11,
-      "name": "Big Data/Open Data"
-    },
-    "start_time": "2016-03-18T08:00:00+00:00",
-    "session_id": "BD-20",
-    "location": "Level 3, Fermi Hall",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T08:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -3549,7 +3546,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "Pub Crawl at Clarke Quay",
+    "title": "Pub Crawl",
     "track": {
       "id": 11,
       "name": "Big Data/Open Data"
@@ -3564,7 +3561,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 129,
+        "id": 130,
         "name": "Satdeep Gill"
       }
     ],
@@ -3584,7 +3581,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 130,
+        "id": 131,
         "name": "Alexander Bezzubov"
       }
     ],
@@ -3604,7 +3601,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 131,
+        "id": 132,
         "name": "Mhairi O'Hara"
       }
     ],
@@ -3624,7 +3621,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 132,
+        "id": 133,
         "name": "Thanh Son Le"
       }
     ],
@@ -3674,7 +3671,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 133,
+        "id": 134,
         "name": "Adam Drake"
       }
     ],
@@ -3694,7 +3691,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 134,
+        "id": 135,
         "name": "Ganeshkumar Shanmugam"
       }
     ],
@@ -3714,7 +3711,27 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 135,
+        "id": 136,
+        "name": "Cl\u00e9ment Renaud"
+      }
+    ],
+    "description": "Topogram is an open-source web toolkit to map social, semantic and spatio-temporal dynamics. It answers the growing need for interactive mapping of complex online and offline interactions. The software is divided into 2 parts : 1) a Python mining library and webserver to extract networks of words, citations and places from text data and 2) a collaborative visualization interface to edit, annotate and publish graphs. ",
+    "title": "Topogram: Social network analysis for humans",
+    "track": {
+      "id": 11,
+      "name": "Big Data/Open Data"
+    },
+    "start_time": "2016-03-19T06:30:00+00:00",
+    "session_id": "BD-01",
+    "location": "Level 3, Fermi Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-19T07:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 137,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -3724,7 +3741,7 @@
       "id": 11,
       "name": "Big Data/Open Data"
     },
-    "start_time": "2016-03-19T06:30:00+00:00",
+    "start_time": "2016-03-19T07:00:00+00:00",
     "session_id": "BD-14",
     "location": "Level 3, Fermi Hall",
     "type": "Workshop of 2 hours",
@@ -3734,7 +3751,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 136,
+        "id": 138,
         "name": "Philips Kokoh Prasetyo"
       }
     ],
@@ -3769,7 +3786,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 129,
+        "id": 130,
         "name": "Satdeep Gill"
       }
     ],
@@ -3789,11 +3806,11 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 137,
+        "id": 139,
         "name": "Rafal Kowalski"
       },
       {
-        "id": 62,
+        "id": 64,
         "name": "Manan Wason"
       }
     ],
@@ -3828,7 +3845,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 138,
+        "id": 140,
         "name": "Akshai M"
       }
     ],
@@ -3848,27 +3865,27 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 129,
-        "name": "Satdeep Gill"
+        "id": 137,
+        "name": "Aneesh Devasthale"
       }
     ],
-    "description": "Content Translation is a tool that has used to translate more than 50,000 Wikipedia articles worldwide till date. It makes it easy to create new articles on Wikipedia that already exist on other language Wikipedia. With this tool categories, references and interwiki links are added by themselves and all you need to do is to translate the text.",
-    "title": "Content Translation on Wikipedia",
+    "description": "This workshop will enable participants to build client apps by consuming an open source Twitter API from the Loklak server. The workshop will help participants install and setup the Loklak server on their systems.  Once setup is complete, there will be a hands-on tutorial on how to consume the Loklak API to build client apps on various devices and languages. This will cover an overview and short tutorial of using the API wrappers and a thorough walk-through of the API methods. There will be demos of apps made for web, mobile and IOT. By the end of the workshop, participants will be ready with their own app consuming the Loklak API on a device and language of their choice. We can then have a short presentation session by the participants showcasing the apps they built during the workshop.",
+    "title": "How to develop app based using the loklak API",
     "track": {
       "id": 11,
       "name": "Big Data/Open Data"
     },
     "start_time": "2016-03-20T05:30:00+00:00",
-    "session_id": "BD-22",
+    "session_id": "BD-21",
     "location": "Level 3, Fermi Hall",
-    "type": "Workshop of 1 hour",
+    "type": "Workshop of 2 hours",
     "end_time": "2016-03-20T06:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 55,
+        "id": 56,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -3888,7 +3905,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 139,
+        "id": 141,
         "name": "Kazuki Uehara"
       }
     ],
@@ -3908,7 +3925,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 140,
+        "id": 142,
         "name": "CK Tan"
       }
     ],
@@ -3958,7 +3975,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 141,
+        "id": 143,
         "name": "Sivakumar K"
       }
     ],
@@ -3978,7 +3995,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 142,
+        "id": 144,
         "name": "Atri Sharma"
       }
     ],
@@ -3998,7 +4015,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 143,
+        "id": 145,
         "name": "Ron Dunn"
       }
     ],
@@ -4018,7 +4035,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 144,
+        "id": 146,
         "name": "Victor Blomqvist"
       }
     ],
@@ -4038,7 +4055,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 145,
+        "id": 147,
         "name": "PostgreSQL Community"
       }
     ],
@@ -4071,29 +4088,42 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 146,
-        "name": "Mayank Prasad"
-      }
-    ],
+    "speakers": [],
     "description": "",
     "title": "Social Events in Movie Studio",
     "track": {
       "id": 12,
       "name": "Databases"
     },
-    "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "DB-17",
     "location": "Level 2, Herschel Hall",
-    "type": "",
+    "type": ""
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 148,
+        "name": "Mayank Prasad"
+      }
+    ],
+    "description": "The MySQL Performance Schema is a feature for monitoring Oracle's MySQL Server execution at a low level. This versatile and tightly integrated component collects performance and session data from various subsystems within the server during runtime with minimal impact on overall server performance.  This feature was introduced in MySQL 5.5 and MySQL 5.7 GA has been released with great enhancements in it for performance monitoring and tuning.This talk aims to give an overview of Performance Schema and how/what statistical information user is provided with using Performance Schema. With the help pf few use cases, it also explains how that information can be used for monitoring and trouble shooting to track an issue back to the relevant file and line of code in source file.   This talk also aims to give a glimpse of new interesting features/monitoring information added in MySQL 5.7 GA.  This talk is targeted to many database users which includes DBA, Database Application developers, Database developers, Students etc. ",
+    "title": "MySQL Performance Schema - A great insight of MySQL server execution",
+    "track": {
+      "id": 12,
+      "name": "Databases"
+    },
+    "start_time": "2016-03-20T02:00:00+00:00",
+    "session_id": "DB-30",
+    "location": "Level 2, Herschel Hall",
+    "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T02:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 147,
+        "id": 149,
         "name": "Ricky Setyawan"
       }
     ],
@@ -4113,7 +4143,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 148,
+        "id": 150,
         "name": "Manish Kumar"
       }
     ],
@@ -4133,7 +4163,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 149,
+        "id": 151,
         "name": "Abhishek Ranjan"
       }
     ],
@@ -4168,7 +4198,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 150,
+        "id": 152,
         "name": "Oren Golan"
       }
     ],
@@ -4188,7 +4218,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 147,
+        "id": 149,
         "name": "Ricky Setyawan"
       }
     ],
@@ -4208,7 +4238,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 55,
+        "id": 56,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -4228,7 +4258,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 151,
+        "id": 153,
         "name": "Maxime Pourrat"
       }
     ],
@@ -4248,7 +4278,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 152,
+        "id": 154,
         "name": "Herr Fluke"
       }
     ],
@@ -4268,7 +4298,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 153,
+        "id": 155,
         "name": "Alexander Couzens"
       }
     ],
@@ -4288,7 +4318,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 154,
+        "id": 156,
         "name": "Norvan Vogt"
       }
     ],
@@ -4338,7 +4368,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 155,
+        "id": 157,
         "name": "Zion Ng"
       }
     ],
@@ -4358,7 +4388,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 156,
+        "id": 158,
         "name": "Huiren Woo"
       }
     ],
@@ -4408,7 +4438,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 157,
+        "id": 159,
         "name": "Menghsuan Tsai"
       }
     ],
@@ -4428,7 +4458,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 158,
+        "id": 160,
         "name": "Sayanee Basu"
       }
     ],
@@ -4448,7 +4478,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 159,
+        "id": 161,
         "name": "Anivar Ammanath Aravind"
       }
     ],
@@ -4468,7 +4498,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 160,
+        "id": 162,
         "name": "Keith Bergelt"
       }
     ],
@@ -4488,7 +4518,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 161,
+        "id": 163,
         "name": "Anwesha Das"
       }
     ],
@@ -4508,7 +4538,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 162,
+        "id": 164,
         "name": "Kevin Huang"
       }
     ],
@@ -4528,7 +4558,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 163,
+        "id": 165,
         "name": "Amita Sharma"
       }
     ],
@@ -4548,7 +4578,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 164,
+        "id": 166,
         "name": "Syah Dwi Prihatmoko"
       }
     ],
@@ -4583,7 +4613,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 165,
+        "id": 167,
         "name": "Huzaifa Sidhpurwala"
       }
     ],
@@ -4603,7 +4633,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 166,
+        "id": 168,
         "name": "Sambuddha Basu"
       }
     ],
@@ -4638,7 +4668,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 167,
+        "id": 169,
         "name": "Alexandre Lision"
       }
     ],
@@ -4658,7 +4688,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 168,
+        "id": 170,
         "name": "Michael Rebultan"
       }
     ],
@@ -4678,7 +4708,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 55,
+        "id": 56,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -4713,7 +4743,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 169,
+        "id": 171,
         "name": "Eileen/Kiruthika"
       }
     ],
@@ -4753,7 +4783,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4773,7 +4803,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 171,
+        "id": 173,
         "name": "Barry Threw Jon Phillips"
       }
     ],
@@ -4793,7 +4823,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 172,
+        "id": 174,
         "name": "Susan Spencer"
       }
     ],
@@ -4813,7 +4843,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 173,
+        "id": 175,
         "name": "Leon Lim"
       }
     ],
@@ -4853,7 +4883,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -4903,12 +4933,12 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
     ],
     "description": "",
-    "title": "Hack Begins",
+    "title": "Science Hack Begins",
     "track": {
       "id": 15,
       "name": "Science Hack Day"
@@ -4917,33 +4947,13 @@
     "session_id": "SHD-11",
     "location": "Level 1, Tinkering Studio",
     "type": "",
-    "end_time": "2016-03-19T09:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 170,
-        "name": "Science Hacks and Science Hackers"
-      }
-    ],
-    "description": "",
-    "title": "Doors close for Day 1",
-    "track": {
-      "id": 15,
-      "name": "Science Hack Day"
-    },
-    "start_time": "2016-03-19T09:30:00+00:00",
-    "session_id": "SHD-12",
-    "location": "Level 1, Tinkering Studio",
-    "type": "",
     "end_time": "2016-03-19T10:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "End of Sessions and Social Event for Speakers, Volunteers, Partners in Movie Studio",
+    "title": "End of Sessions, Doors close for Day 1 and Social Event for Speakers, Volunteers, Partners takes place in Movie Studio",
     "track": {
       "id": 15,
       "name": "Science Hack Day"
@@ -4973,12 +4983,12 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
     ],
     "description": "",
-    "title": "Hack continues",
+    "title": "Science Hack Day continues",
     "track": {
       "id": 15,
       "name": "Science Hack Day"
@@ -5008,12 +5018,12 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
     ],
     "description": "",
-    "title": "Hack continues",
+    "title": "Science Hack continues",
     "track": {
       "id": 15,
       "name": "Science Hack Day"
@@ -5028,7 +5038,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5048,7 +5058,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5068,30 +5078,32 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
     ],
     "description": "",
-    "title": "Science hackers move to main hall",
+    "title": "Science Hackers move to Main Hall",
     "track": {
       "id": 15,
       "name": "Science Hack Day"
     },
+    "start_time": "2016-03-20T07:55:00+00:00",
     "session_id": "SHD-20",
     "location": "Level 1, Tinkering Studio",
-    "type": ""
+    "type": "",
+    "end_time": "2016-03-20T08:25:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 170,
+        "id": 172,
         "name": "Science Hacks and Science Hackers"
       }
     ],
     "description": "",
-    "title": "Winning teams announced & given awards/medals in main hall",
+    "title": "Winning teams announced & given awards/medals in Main Hall",
     "track": {
       "id": 15,
       "name": "Science Hack Day"
@@ -5106,7 +5118,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 55,
+        "id": 56,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5126,7 +5138,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 174,
+        "id": 176,
         "name": "Chris Lamb"
       }
     ],
@@ -5146,12 +5158,12 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 175,
-        "name": "Philip Ballew"
+        "id": 177,
+        "name": "Derek Dai"
       }
     ],
-    "description": "This talk will go over the practical and unique ways to customize the Ubuntu Unity desktop. Ways to break away from the normal default desktop and add customizations. The talk will go over the ways to customize such as the applications available in the software center, to editing system files to create the perfect set up for each person. This talk will include live demos. ",
-    "title": "Customize your Ubuntu desktop",
+    "description": "Performance in desktop environment is challenging. In order to prevent visual glitch, you have to minimize the latency and to know where comes the latency. A good tool is what we need.",
+    "title": "Monitoring Deepin Performance",
     "track": {
       "id": 16,
       "name": "Linux and MiniDebConf"
@@ -5166,12 +5178,12 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 176,
-        "name": "Derek Dai"
+        "id": 178,
+        "name": "Anand Jain"
       }
     ],
-    "description": "Performance in desktop environment is challenging. In order to prevent visual glitch, you have to minimize the latency and to know where comes the latency. A good tool is what we need.",
-    "title": "Monitoring Deepin Performance",
+    "description": "An overview of Linux Btrfs and its recent development.",
+    "title": "Linux Btrfs",
     "track": {
       "id": 16,
       "name": "Linux and MiniDebConf"
@@ -5184,14 +5196,9 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 177,
-        "name": "Anand Jain"
-      }
-    ],
-    "description": "An overview of Linux Btrfs and its recent development.",
-    "title": "Linux Btrfs",
+    "speakers": [],
+    "description": "",
+    "title": "",
     "track": {
       "id": 16,
       "name": "Linux and MiniDebConf"
@@ -5199,14 +5206,14 @@
     "start_time": "2016-03-20T03:30:00+00:00",
     "session_id": "LX-04",
     "location": "Level 1, Digital Design Studio",
-    "type": "Talk of 20 minutes",
+    "type": "",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "",
+    "title": "Lunch",
     "track": {
       "id": 16,
       "name": "Linux and MiniDebConf"
@@ -5261,7 +5268,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 55,
+        "id": 56,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5281,7 +5288,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 178,
+        "id": 179,
         "name": "Umair Khan"
       }
     ],
@@ -5301,7 +5308,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 179,
+        "id": 180,
         "name": "Owais Zahid"
       }
     ],
@@ -5341,7 +5348,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 180,
+        "id": 181,
         "name": "Jan-Christoph Borchardt"
       }
     ],
@@ -5376,7 +5383,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 181,
+        "id": 182,
         "name": "Sher Minn Chong"
       }
     ],
@@ -5396,7 +5403,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 182,
+        "id": 183,
         "name": "Jia Hen Tee"
       }
     ],
@@ -5416,7 +5423,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 183,
+        "id": 184,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -5451,7 +5458,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 55,
+        "id": 56,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5471,7 +5478,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 184,
+        "id": 185,
         "name": "David Effendi"
       }
     ],
@@ -5511,7 +5518,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 64,
+        "id": 66,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -5551,7 +5558,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 167,
+        "id": 169,
         "name": "Alexandre Lision"
       }
     ],
@@ -5591,7 +5598,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 176,
+        "id": 177,
         "name": "Derek Dai"
       }
     ],
@@ -5611,27 +5618,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 185,
-        "name": "Emin Aksehirli"
-      }
-    ],
-    "description": "To the people who already know what a CryptoParty is: We are doing it, come!  To everyone else: Online communication is an important part of our lives. Unlike physical communication, we cannot control who can reach our data when we send it through the \"inter-tubes.\" Fortunately, there are techniques to prevent people from eavesdropping your online conversations. In this workshop, I will talk about easy-to-use security tools that you can use to keep your conversations private: how to encrypt emails and instant messaging. It will be a not-so-technical workshop aimed to include anybody who knows how to use email.",
-    "title": "CryptoParty and/or key signing event",
-    "track": {
-      "id": 18,
-      "name": "Exhibition"
-    },
-    "start_time": "2016-03-18T01:00:00+00:00",
-    "session_id": "EX-08",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
-    "type": "Exhibition Area",
-    "end_time": "2016-03-18T01:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "id": 183,
+        "id": 184,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -5691,7 +5678,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 147,
+        "id": 149,
         "name": "Ricky Setyawan"
       }
     ],
@@ -5749,9 +5736,29 @@
   },
   {
     "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 188,
+        "name": "Peter LIM"
+      }
+    ],
+    "description": "The exhibition showcases the use of open source hardware and software e.g. Intel Galileo, Arduino etc to support student learning needs, for student exposure to open source tools and as outreach to potential students",
+    "title": "Enriching Student Experience",
+    "track": {
+      "id": 18,
+      "name": "Exhibition"
+    },
+    "start_time": "2016-03-18T01:00:00+00:00",
+    "session_id": "EX-50",
+    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "type": "Exhibition Area",
+    "end_time": "2016-03-18T01:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "End of Session",
+    "title": "End of Exhibition",
     "track": {
       "id": 18,
       "name": "Exhibition"
@@ -5766,7 +5773,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "Pub Crawl",
+    "title": "Pub Crawl at Clarke Quay",
     "track": {
       "id": 18,
       "name": "Exhibition"
@@ -5781,7 +5788,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 184,
+        "id": 185,
         "name": "David Effendi"
       }
     ],
@@ -5821,7 +5828,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 64,
+        "id": 66,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -5861,7 +5868,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 167,
+        "id": 169,
         "name": "Alexandre Lision"
       }
     ],
@@ -5901,7 +5908,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 176,
+        "id": 177,
         "name": "Derek Dai"
       }
     ],
@@ -5921,7 +5928,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 185,
+        "id": 189,
         "name": "Emin Aksehirli"
       }
     ],
@@ -5941,7 +5948,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 183,
+        "id": 184,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6001,7 +6008,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 147,
+        "id": 149,
         "name": "Ricky Setyawan"
       }
     ],
@@ -6061,7 +6068,57 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 184,
+        "id": 188,
+        "name": "Peter LIM"
+      }
+    ],
+    "description": "The exhibition showcases the use of open source hardware and software e.g. Intel Galileo, Arduino etc to support student learning needs, for student exposure to open source tools and as outreach to potential students",
+    "title": "Enriching Student Experience",
+    "track": {
+      "id": 18,
+      "name": "Exhibition"
+    },
+    "start_time": "2016-03-19T01:00:00+00:00",
+    "session_id": "EX-51",
+    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "type": "Exhibition Area",
+    "end_time": "2016-03-19T01:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [],
+    "description": "",
+    "title": "End of Exhibition",
+    "track": {
+      "id": 18,
+      "name": "Exhibition"
+    },
+    "start_time": "2016-03-19T08:30:00+00:00",
+    "session_id": "EX-53",
+    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "type": "",
+    "end_time": "2016-03-19T09:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [],
+    "description": "",
+    "title": "Social Event",
+    "track": {
+      "id": 18,
+      "name": "Exhibition"
+    },
+    "start_time": "2016-03-19T11:00:00+00:00",
+    "session_id": "EX-54",
+    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "type": "",
+    "end_time": "2016-03-19T11:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 185,
         "name": "David Effendi"
       }
     ],
@@ -6101,7 +6158,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 64,
+        "id": 66,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -6141,7 +6198,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 167,
+        "id": 169,
         "name": "Alexandre Lision"
       }
     ],
@@ -6181,7 +6238,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 176,
+        "id": 177,
         "name": "Derek Dai"
       }
     ],
@@ -6201,7 +6258,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 185,
+        "id": 189,
         "name": "Emin Aksehirli"
       }
     ],
@@ -6221,7 +6278,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 183,
+        "id": 184,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6281,7 +6338,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "id": 147,
+        "id": 149,
         "name": "Ricky Setyawan"
       }
     ],
@@ -6336,5 +6393,55 @@
     "location": "Level 1, Ground Floor, Exhibition Hall",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "id": 188,
+        "name": "Peter LIM"
+      }
+    ],
+    "description": "The exhibition showcases the use of open source hardware and software e.g. Intel Galileo, Arduino etc to support student learning needs, for student exposure to open source tools and as outreach to potential students",
+    "title": "Enriching Student Experience",
+    "track": {
+      "id": 18,
+      "name": "Exhibition"
+    },
+    "start_time": "2016-03-20T01:00:00+00:00",
+    "session_id": "EX-52",
+    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "type": "Exhibition Area",
+    "end_time": "2016-03-20T01:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [],
+    "description": "",
+    "title": "End of Exhibition",
+    "track": {
+      "id": 18,
+      "name": "Exhibition"
+    },
+    "start_time": "2016-03-20T08:00:00+00:00",
+    "session_id": "EX-55",
+    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "type": "",
+    "end_time": "2016-03-20T08:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [],
+    "description": "",
+    "title": "FOSSASIA 2016 Closes",
+    "track": {
+      "id": 18,
+      "name": "Exhibition"
+    },
+    "start_time": "2016-03-20T09:00:00+00:00",
+    "session_id": "EX-56",
+    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "type": "",
+    "end_time": "2016-03-20T09:30:00+00:00"
   }
 ]}
