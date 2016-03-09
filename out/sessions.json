@@ -16,7 +16,7 @@
     },
     "start_time": "2016-03-18T01:30:00+00:00",
     "session_id": "OT-01",
-    "location": "Level 3, Dalton Hall",
+    "location": "Marquee Theatre",
     "type": "",
     "end_time": "2016-03-18T02:00:00+00:00"
   },
@@ -37,7 +37,7 @@
     },
     "start_time": "2016-03-18T01:35:00+00:00",
     "session_id": "OT-02",
-    "location": "Level 3, Dalton Hall",
+    "location": "Marquee Theatre",
     "type": "",
     "end_time": "2016-03-18T02:05:00+00:00"
   },
@@ -52,7 +52,7 @@
     },
     "start_time": "2016-03-18T01:40:00+00:00",
     "session_id": "OT-65",
-    "location": "Level 3, Dalton Hall",
+    "location": "Marquee Theatre",
     "type": "",
     "end_time": "2016-03-18T02:10:00+00:00"
   },
@@ -73,7 +73,7 @@
     },
     "start_time": "2016-03-18T01:50:00+00:00",
     "session_id": "OT-03",
-    "location": "Level 3, Dalton Hall",
+    "location": "Marquee Theatre",
     "type": "Keynote of 20 minutes",
     "end_time": "2016-03-18T02:20:00+00:00"
   },
@@ -94,7 +94,7 @@
     },
     "start_time": "2016-03-18T02:20:00+00:00",
     "session_id": "OT-04",
-    "location": "Level 3, Dalton Hall",
+    "location": "Marquee Theatre",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T02:50:00+00:00"
   },
@@ -115,7 +115,7 @@
     },
     "start_time": "2016-03-18T02:40:00+00:00",
     "session_id": "OT-05",
-    "location": "Level 3, Dalton Hall",
+    "location": "Marquee Theatre",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T03:10:00+00:00"
   },
@@ -130,7 +130,7 @@
     },
     "start_time": "2016-03-18T03:00:00+00:00",
     "session_id": "OT-66",
-    "location": "Level 3, Dalton Hall",
+    "location": "Marquee Theatre",
     "type": "",
     "end_time": "2016-03-18T03:30:00+00:00"
   },
@@ -151,7 +151,7 @@
     },
     "start_time": "2016-03-18T03:15:00+00:00",
     "session_id": "OT-06",
-    "location": "Level 3, Dalton Hall",
+    "location": "Marquee Theatre",
     "type": "Keynote of 20 minutes",
     "end_time": "2016-03-18T03:45:00+00:00"
   },
@@ -172,7 +172,7 @@
     },
     "start_time": "2016-03-18T03:35:00+00:00",
     "session_id": "OT-07",
-    "location": "Level 3, Dalton Hall",
+    "location": "Marquee Theatre",
     "type": "",
     "end_time": "2016-03-18T04:05:00+00:00"
   },
@@ -193,7 +193,7 @@
     },
     "start_time": "2016-03-18T03:55:00+00:00",
     "session_id": "OT-08",
-    "location": "Level 3, Dalton Hall",
+    "location": "Marquee Theatre",
     "type": "Keynote of 20 minutes",
     "end_time": "2016-03-18T04:25:00+00:00"
   },
@@ -208,7 +208,7 @@
     },
     "start_time": "2016-03-18T04:15:00+00:00",
     "session_id": "OT-09",
-    "location": "Level 3, Dalton Hall",
+    "location": "Exhibition and Snack Area",
     "type": "",
     "end_time": "2016-03-18T04:45:00+00:00"
   },
@@ -229,7 +229,7 @@
     },
     "start_time": "2016-03-18T05:30:00+00:00",
     "session_id": "OT-10",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:00:00+00:00"
   },
@@ -250,7 +250,7 @@
     },
     "start_time": "2016-03-18T06:00:00+00:00",
     "session_id": "OT-14",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:30:00+00:00"
   },
@@ -271,7 +271,7 @@
     },
     "start_time": "2016-03-18T06:30:00+00:00",
     "session_id": "OT-57",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:00:00+00:00"
   },
@@ -292,7 +292,7 @@
     },
     "start_time": "2016-03-18T06:55:00+00:00",
     "session_id": "OT-11",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Going through era of IoT with MySQL 5.7",
     "end_time": "2016-03-18T07:25:00+00:00"
   },
@@ -313,7 +313,7 @@
     },
     "start_time": "2016-03-18T07:20:00+00:00",
     "session_id": "OT-64",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:50:00+00:00"
   },
@@ -334,7 +334,7 @@
     },
     "start_time": "2016-03-18T07:45:00+00:00",
     "session_id": "OT-13",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T08:15:00+00:00"
   },
@@ -355,7 +355,7 @@
     },
     "start_time": "2016-03-18T08:10:00+00:00",
     "session_id": "OT-12",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "",
     "end_time": "2016-03-18T08:40:00+00:00"
   },
@@ -370,7 +370,7 @@
     },
     "start_time": "2016-03-18T08:30:00+00:00",
     "session_id": "OT-16",
-    "location": "Level 3, Dalton Hall",
+    "location": "Clarke Quay",
     "type": "",
     "end_time": "2016-03-18T09:00:00+00:00"
   },
@@ -385,7 +385,7 @@
     },
     "start_time": "2016-03-18T11:00:00+00:00",
     "session_id": "OT-17",
-    "location": "Level 3, Dalton Hall",
+    "location": "",
     "type": "",
     "end_time": "2016-03-18T11:30:00+00:00"
   },
@@ -406,7 +406,7 @@
     },
     "start_time": "2016-03-19T01:30:00+00:00",
     "session_id": "OT-19",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:00:00+00:00"
   },
@@ -427,7 +427,7 @@
     },
     "start_time": "2016-03-19T02:00:00+00:00",
     "session_id": "OT-20",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:30:00+00:00"
   },
@@ -448,7 +448,7 @@
     },
     "start_time": "2016-03-19T02:30:00+00:00",
     "session_id": "OT-21",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
@@ -469,7 +469,7 @@
     },
     "start_time": "2016-03-19T03:00:00+00:00",
     "session_id": "OT-22",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:30:00+00:00"
   },
@@ -490,7 +490,7 @@
     },
     "start_time": "2016-03-19T03:30:00+00:00",
     "session_id": "OT-23",
-    "location": "Level 3, Dalton Hall",
+    "location": "Exhibition and Snack Area",
     "type": "",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
@@ -505,7 +505,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "OT-24",
-    "location": "Level 3, Dalton Hall",
+    "location": "Exhibition and Snack Area",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -520,7 +520,7 @@
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "OT-25",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -541,7 +541,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "OT-26",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:00:00+00:00"
   },
@@ -562,7 +562,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "OT-27",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:00:00+00:00"
   },
@@ -583,7 +583,7 @@
     },
     "start_time": "2016-03-19T05:35:00+00:00",
     "session_id": "OT-28",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:05:00+00:00"
   },
@@ -604,7 +604,7 @@
     },
     "start_time": "2016-03-19T05:40:00+00:00",
     "session_id": "OT-29",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:10:00+00:00"
   },
@@ -625,7 +625,7 @@
     },
     "start_time": "2016-03-19T05:45:00+00:00",
     "session_id": "OT-30",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:15:00+00:00"
   },
@@ -646,7 +646,7 @@
     },
     "start_time": "2016-03-19T05:50:00+00:00",
     "session_id": "OT-31",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:20:00+00:00"
   },
@@ -667,7 +667,7 @@
     },
     "start_time": "2016-03-19T05:55:00+00:00",
     "session_id": "OT-32",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:25:00+00:00"
   },
@@ -688,7 +688,7 @@
     },
     "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "OT-33",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:30:00+00:00"
   },
@@ -709,7 +709,7 @@
     },
     "start_time": "2016-03-19T06:05:00+00:00",
     "session_id": "OT-34",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:35:00+00:00"
   },
@@ -730,7 +730,7 @@
     },
     "start_time": "2016-03-19T06:10:00+00:00",
     "session_id": "OT-35",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:40:00+00:00"
   },
@@ -751,7 +751,7 @@
     },
     "start_time": "2016-03-19T06:15:00+00:00",
     "session_id": "OT-36",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:45:00+00:00"
   },
@@ -772,7 +772,7 @@
     },
     "start_time": "2016-03-19T06:20:00+00:00",
     "session_id": "OT-37",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:50:00+00:00"
   },
@@ -793,7 +793,7 @@
     },
     "start_time": "2016-03-19T06:25:00+00:00",
     "session_id": "OT-38",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T06:55:00+00:00"
   },
@@ -814,7 +814,7 @@
     },
     "start_time": "2016-03-19T06:30:00+00:00",
     "session_id": "OT-39",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T07:00:00+00:00"
   },
@@ -835,7 +835,7 @@
     },
     "start_time": "2016-03-19T06:35:00+00:00",
     "session_id": "OT-40",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T07:05:00+00:00"
   },
@@ -856,7 +856,7 @@
     },
     "start_time": "2016-03-19T06:40:00+00:00",
     "session_id": "OT-41",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T07:10:00+00:00"
   },
@@ -877,7 +877,7 @@
     },
     "start_time": "2016-03-19T06:45:00+00:00",
     "session_id": "OT-42",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T07:15:00+00:00"
   },
@@ -898,7 +898,7 @@
     },
     "start_time": "2016-03-19T06:50:00+00:00",
     "session_id": "OT-43",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Lightning Talk",
     "end_time": "2016-03-19T07:20:00+00:00"
   },
@@ -919,7 +919,7 @@
     },
     "start_time": "2016-03-19T06:55:00+00:00",
     "session_id": "OT-70",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Keynote",
     "end_time": "2016-03-19T07:25:00+00:00"
   },
@@ -940,7 +940,7 @@
     },
     "start_time": "2016-03-19T07:00:00+00:00",
     "session_id": "OT-44",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T07:30:00+00:00"
   },
@@ -961,7 +961,7 @@
     },
     "start_time": "2016-03-19T07:40:00+00:00",
     "session_id": "OT-45",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "40 minutes (20 minute demonstration, 20 minute talk)",
     "end_time": "2016-03-19T08:10:00+00:00"
   },
@@ -982,7 +982,7 @@
     },
     "start_time": "2016-03-19T08:10:00+00:00",
     "session_id": "OT-46",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T08:40:00+00:00"
   },
@@ -1003,7 +1003,7 @@
     },
     "start_time": "2016-03-19T08:50:00+00:00",
     "session_id": "OT-47",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T09:20:00+00:00"
   },
@@ -1024,7 +1024,7 @@
     },
     "start_time": "2016-03-19T09:15:00+00:00",
     "session_id": "OT-48",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T09:45:00+00:00"
   },
@@ -1045,7 +1045,7 @@
     },
     "start_time": "2016-03-19T09:40:00+00:00",
     "session_id": "OT-49",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "",
     "end_time": "2016-03-19T10:10:00+00:00"
   },
@@ -1060,7 +1060,7 @@
     },
     "start_time": "2016-03-19T10:00:00+00:00",
     "session_id": "OT-50",
-    "location": "Level 3, Dalton Hall",
+    "location": "",
     "type": "",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -1081,7 +1081,7 @@
     },
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "OT-51",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T02:30:00+00:00"
   },
@@ -1102,7 +1102,7 @@
     },
     "start_time": "2016-03-20T02:30:00+00:00",
     "session_id": "OT-52",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T03:00:00+00:00"
   },
@@ -1123,7 +1123,7 @@
     },
     "start_time": "2016-03-20T03:00:00+00:00",
     "session_id": "OT-53",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T03:30:00+00:00"
   },
@@ -1144,7 +1144,7 @@
     },
     "start_time": "2016-03-20T03:30:00+00:00",
     "session_id": "OT-54",
-    "location": "Level 3, Dalton Hall",
+    "location": "Exhibition and Snack Area",
     "type": "",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
@@ -1159,7 +1159,7 @@
     },
     "start_time": "2016-03-20T04:00:00+00:00",
     "session_id": "OT-55",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T04:30:00+00:00"
   },
@@ -1180,7 +1180,7 @@
     },
     "start_time": "2016-03-20T05:00:00+00:00",
     "session_id": "OT-56",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T05:30:00+00:00"
   },
@@ -1201,7 +1201,7 @@
     },
     "start_time": "2016-03-20T05:30:00+00:00",
     "session_id": "OT-58",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T06:00:00+00:00"
   },
@@ -1222,7 +1222,7 @@
     },
     "start_time": "2016-03-20T06:00:00+00:00",
     "session_id": "OT-15",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "40 min",
     "end_time": "2016-03-20T06:30:00+00:00"
   },
@@ -1243,7 +1243,7 @@
     },
     "start_time": "2016-03-20T06:30:00+00:00",
     "session_id": "OT-59",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T07:00:00+00:00"
   },
@@ -1264,7 +1264,7 @@
     },
     "start_time": "2016-03-20T07:00:00+00:00",
     "session_id": "OT-60",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T07:30:00+00:00"
   },
@@ -1285,7 +1285,7 @@
     },
     "start_time": "2016-03-20T07:30:00+00:00",
     "session_id": "OT-61",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "",
     "end_time": "2016-03-20T08:00:00+00:00"
   },
@@ -1306,7 +1306,7 @@
     },
     "start_time": "2016-03-20T08:00:00+00:00",
     "session_id": "OT-62",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "",
     "end_time": "2016-03-20T08:30:00+00:00"
   },
@@ -1321,7 +1321,7 @@
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "OT-63",
-    "location": "Level 3, Dalton Hall",
+    "location": "Dalton Hall",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
