@@ -439,15 +439,9 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "A Better Florist",
-        "id": 19,
-        "name": "Steve Feiner"
-      }
-    ],
-    "description": "At A Better Florist, we're redefining customer service and on-demand logistics in Singapore. We're the 5th guys to import flowers in Singapore, I'll be discussing how we do it and how we're able to grow in scale in a short amount of time. We're principally customer centric, making logistics core to our business. Being a flower delivery service, the key issues we face include the difficulty involved in getting reliable and accountable third party providers (despite being somewhere infrastructurally savvy) to streamline the logistics process. This is an implication that when we grow to expand in geographies less forgiving than Singapore, we will be facing a much larger problem, it is therefore critical to find what mechanisms we need to implement in order to avoid such problems. ",
-    "title": "From Google to Flowers - Delighting Customers on Demand",
+    "speakers": [],
+    "description": "",
+    "title": "",
     "track": {
       "id": 2,
       "name": "OpenTech and IoT"
@@ -455,7 +449,7 @@
     "start_time": "2016-03-19T02:30:00+00:00",
     "session_id": "OT-21",
     "location": "Dalton Hall",
-    "type": "Talk of 20 minutes",
+    "type": "",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
   {
@@ -463,7 +457,7 @@
     "speakers": [
       {
         "organisation": "YaCy.net",
-        "id": 20,
+        "id": 19,
         "name": "Michael Christen"
       }
     ],
@@ -484,7 +478,7 @@
     "speakers": [
       {
         "organisation": "Hewlett Packard Enterprise",
-        "id": 21,
+        "id": 20,
         "name": "Elizabeth Joseph"
       }
     ],
@@ -550,7 +544,7 @@
     "speakers": [
       {
         "organisation": "Cisco",
-        "id": 23,
+        "id": 22,
         "name": "Sarvesh Ranjan"
       }
     ],
@@ -571,7 +565,7 @@
     "speakers": [
       {
         "organisation": "OpenMRS",
-        "id": 24,
+        "id": 23,
         "name": "Mayank Sharma"
       }
     ],
@@ -592,7 +586,7 @@
     "speakers": [
       {
         "organisation": "Hewlett Packard Enterprise ",
-        "id": 25,
+        "id": 24,
         "name": "Dong Ma"
       }
     ],
@@ -613,7 +607,7 @@
     "speakers": [
       {
         "organisation": "KDE",
-        "id": 26,
+        "id": 25,
         "name": "Garvit Khatri"
       }
     ],
@@ -634,7 +628,7 @@
     "speakers": [
       {
         "organisation": "Kony, Inc.",
-        "id": 27,
+        "id": 26,
         "name": "Damini Satya Kammakomati"
       }
     ],
@@ -655,7 +649,7 @@
     "speakers": [
       {
         "organisation": "OpenTech",
-        "id": 28,
+        "id": 27,
         "name": "Eugene Teo"
       }
     ],
@@ -676,7 +670,7 @@
     "speakers": [
       {
         "organisation": "National Institute of Technology Warangal",
-        "id": 29,
+        "id": 28,
         "name": "Rajat Ujawane"
       }
     ],
@@ -697,7 +691,7 @@
     "speakers": [
       {
         "organisation": "CryoWerx",
-        "id": 30,
+        "id": 29,
         "name": "Faris Muhamad Ali Fadloli"
       }
     ],
@@ -718,7 +712,7 @@
     "speakers": [
       {
         "organisation": "Thinkbroad",
-        "id": 31,
+        "id": 30,
         "name": "Kranthi Kiran Guduru"
       }
     ],
@@ -739,7 +733,7 @@
     "speakers": [
       {
         "organisation": "BlankOn Project",
-        "id": 32,
+        "id": 31,
         "name": "Kukuh Syafaat"
       }
     ],
@@ -760,7 +754,7 @@
     "speakers": [
       {
         "organisation": "Loklak / National Institute of Technology Warangal",
-        "id": 33,
+        "id": 32,
         "name": "Sudheesh Singanamalla"
       }
     ],
@@ -781,7 +775,7 @@
     "speakers": [
       {
         "organisation": "sTeam",
-        "id": 34,
+        "id": 33,
         "name": "Trilok Tourani"
       }
     ],
@@ -802,7 +796,7 @@
     "speakers": [
       {
         "organisation": "International Institute Of Information Technology, Hyderabad, India",
-        "id": 35,
+        "id": 34,
         "name": "Arushi Vashist"
       }
     ],
@@ -823,7 +817,7 @@
     "speakers": [
       {
         "organisation": "Data Scientist",
-        "id": 36,
+        "id": 35,
         "name": "Saif Niazi"
       }
     ],
@@ -844,7 +838,7 @@
     "speakers": [
       {
         "organisation": "Women Who Code",
-        "id": 37,
+        "id": 36,
         "name": "Jigyasa Grover"
       }
     ],
@@ -865,7 +859,7 @@
     "speakers": [
       {
         "organisation": "DA-IICT",
-        "id": 38,
+        "id": 37,
         "name": "Kushan Kushan Joshi"
       }
     ],
@@ -886,7 +880,7 @@
     "speakers": [
       {
         "organisation": "Gcall Pte.Ltd",
-        "id": 39,
+        "id": 38,
         "name": "Phuc Pham"
       }
     ],
@@ -907,7 +901,7 @@
     "speakers": [
       {
         "organisation": "SeeSaw Labs",
-        "id": 40,
+        "id": 39,
         "name": "Ivan Kirichenko"
       }
     ],
@@ -928,7 +922,7 @@
     "speakers": [
       {
         "organisation": "MariaDB Corporation",
-        "id": 41,
+        "id": 40,
         "name": "Colin Charles"
       }
     ],
@@ -949,7 +943,7 @@
     "speakers": [
       {
         "organisation": "CampJS",
-        "id": 42,
+        "id": 41,
         "name": "Tim Oxley"
       }
     ],
@@ -970,7 +964,7 @@
     "speakers": [
       {
         "organisation": "Astrovisualization at the American Museum of Natural History",
-        "id": 43,
+        "id": 42,
         "name": "Carter Emmart"
       }
     ],
@@ -991,7 +985,7 @@
     "speakers": [
       {
         "organisation": "OpenMRS",
-        "id": 44,
+        "id": 43,
         "name": "Saptarshi Purkayastha"
       }
     ],
@@ -1012,7 +1006,7 @@
     "speakers": [
       {
         "organisation": "Open Event",
-        "id": 45,
+        "id": 44,
         "name": "Rafal Kowalski, Manan Wason"
       }
     ],
@@ -1033,7 +1027,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 46,
+        "id": 45,
         "name": "Daniel Pocock"
       }
     ],
@@ -1069,7 +1063,7 @@
     "speakers": [
       {
         "organisation": "One Maker Group",
-        "id": 47,
+        "id": 46,
         "name": "Elda Webb"
       }
     ],
@@ -1090,7 +1084,7 @@
     "speakers": [
       {
         "organisation": "VideoLAN",
-        "id": 48,
+        "id": 47,
         "name": "Fran\u00e7ois Cartegnie"
       }
     ],
@@ -1111,7 +1105,7 @@
     "speakers": [
       {
         "organisation": "HPE",
-        "id": 49,
+        "id": 48,
         "name": "Matthew Treinish"
       }
     ],
@@ -1132,7 +1126,7 @@
     "speakers": [
       {
         "organisation": "#NEWPALMYRA",
-        "id": 50,
+        "id": 49,
         "name": "Barry Threw"
       }
     ],
@@ -1168,7 +1162,7 @@
     "speakers": [
       {
         "organisation": "Collabora Productivity",
-        "id": 51,
+        "id": 50,
         "name": "Toma\u017e Vajngerl"
       }
     ],
@@ -1189,7 +1183,7 @@
     "speakers": [
       {
         "organisation": "Swedish University of Agricultural Sciences",
-        "id": 52,
+        "id": 51,
         "name": "Lorenz Gerber"
       }
     ],
@@ -1210,7 +1204,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 53,
+        "id": 52,
         "name": "Justin Lee"
       }
     ],
@@ -1231,7 +1225,7 @@
     "speakers": [
       {
         "organisation": "Smaato ",
-        "id": 54,
+        "id": 53,
         "name": "Delynn Ho"
       }
     ],
@@ -1252,7 +1246,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 55,
+        "id": 54,
         "name": "George Goh"
       }
     ],
@@ -1273,7 +1267,7 @@
     "speakers": [
       {
         "organisation": "Axelerant",
-        "id": 56,
+        "id": 55,
         "name": "Michael Cannon"
       }
     ],
@@ -1294,7 +1288,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 57,
+        "id": 56,
         "name": "Hack Day Scientists"
       }
     ],
@@ -1315,7 +1309,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 58,
+        "id": 57,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -1336,7 +1330,7 @@
     "speakers": [
       {
         "organisation": "Red Cat Labs",
-        "id": 59,
+        "id": 58,
         "name": "Martin Andrews"
       }
     ],
@@ -1387,7 +1381,7 @@
     "speakers": [
       {
         "organisation": "Mifos Initiative",
-        "id": 60,
+        "id": 59,
         "name": "Ishan Khanna"
       }
     ],
@@ -1408,7 +1402,7 @@
     "speakers": [
       {
         "organisation": "Datacraft",
-        "id": 61,
+        "id": 60,
         "name": "Mike Anderson"
       }
     ],
@@ -1429,7 +1423,7 @@
     "speakers": [
       {
         "organisation": "ulno.net",
-        "id": 62,
+        "id": 61,
         "name": "Ulrich Norbisrath"
       }
     ],
@@ -1465,7 +1459,7 @@
     "speakers": [
       {
         "organisation": "GitHub/Homebrew/Grumpy Gits",
-        "id": 63,
+        "id": 62,
         "name": "Mike McQuaid, Sahil Bajaj"
       }
     ],
@@ -1501,7 +1495,7 @@
     "speakers": [
       {
         "organisation": "Progress",
-        "id": 64,
+        "id": 63,
         "name": "Sherman Chen"
       }
     ],
@@ -1522,7 +1516,7 @@
     "speakers": [
       {
         "organisation": "D E Shaw & Co.",
-        "id": 65,
+        "id": 64,
         "name": "Ram Dayal Vaishnav"
       }
     ],
@@ -1543,7 +1537,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 58,
+        "id": 57,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -1564,7 +1558,7 @@
     "speakers": [
       {
         "organisation": "IIIT Delhi",
-        "id": 66,
+        "id": 65,
         "name": "Manan Wason"
       }
     ],
@@ -1585,7 +1579,7 @@
     "speakers": [
       {
         "organisation": "Women Who Code",
-        "id": 37,
+        "id": 36,
         "name": "Jigyasa Grover"
       }
     ],
@@ -1636,7 +1630,7 @@
     "speakers": [
       {
         "organisation": "BLUG",
-        "id": 67,
+        "id": 66,
         "name": "Martin B\u00e4hr"
       }
     ],
@@ -1672,7 +1666,7 @@
     "speakers": [
       {
         "organisation": "IIIT Delhi",
-        "id": 66,
+        "id": 65,
         "name": "Manan Wason"
       }
     ],
@@ -1708,7 +1702,7 @@
     "speakers": [
       {
         "organisation": "One Maker Group",
-        "id": 47,
+        "id": 46,
         "name": "Elda Webb"
       }
     ],
@@ -1729,7 +1723,7 @@
     "speakers": [
       {
         "organisation": "ExpEYES",
-        "id": 68,
+        "id": 67,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -1771,7 +1765,7 @@
     "speakers": [
       {
         "organisation": "OneMaker Group",
-        "id": 69,
+        "id": 68,
         "name": "Jamen Loh"
       }
     ],
@@ -1792,7 +1786,7 @@
     "speakers": [
       {
         "organisation": "OneMaker Group",
-        "id": 70,
+        "id": 69,
         "name": "Wilfred Wong"
       }
     ],
@@ -1843,7 +1837,7 @@
     "speakers": [
       {
         "organisation": "OneMaker Group",
-        "id": 71,
+        "id": 70,
         "name": "Syabiqah Phang"
       }
     ],
@@ -1909,7 +1903,7 @@
     "speakers": [
       {
         "organisation": "Ground Up Initiative",
-        "id": 72,
+        "id": 71,
         "name": "Gabriel Perumal"
       }
     ],
@@ -1930,7 +1924,7 @@
     "speakers": [
       {
         "organisation": "Ground Up Initiative",
-        "id": 72,
+        "id": 71,
         "name": "Gabriel Perumal"
       }
     ],
@@ -1966,7 +1960,7 @@
     "speakers": [
       {
         "organisation": "12Geeks",
-        "id": 73,
+        "id": 72,
         "name": "Luther Goh"
       }
     ],
@@ -2002,7 +1996,7 @@
     "speakers": [
       {
         "organisation": "ulno.net",
-        "id": 62,
+        "id": 61,
         "name": "Ulrich Norbisrath"
       }
     ],
@@ -2038,7 +2032,7 @@
     "speakers": [
       {
         "organisation": "Ambient Dynamix/National University of Singapore",
-        "id": 74,
+        "id": 73,
         "name": "Shivam Verma"
       }
     ],
@@ -2059,7 +2053,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 75,
+        "id": 74,
         "name": "Akhil Pandey"
       }
     ],
@@ -2080,7 +2074,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 76,
+        "id": 75,
         "name": "Roland Turner"
       }
     ],
@@ -2101,7 +2095,7 @@
     "speakers": [
       {
         "organisation": "dell",
-        "id": 77,
+        "id": 76,
         "name": "Parmeshwr Prasad Vishwakarma"
       }
     ],
@@ -2122,7 +2116,7 @@
     "speakers": [
       {
         "organisation": "Opera",
-        "id": 78,
+        "id": 77,
         "name": "Shwetank Dixit"
       }
     ],
@@ -2143,7 +2137,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 79,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
@@ -2176,7 +2170,13 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
+    "speakers": [
+      {
+        "organisation": "Smart guidance for blind",
+        "id": 79,
+        "name": "Jaminy Prabaharan"
+      }
+    ],
     "description": "",
     "title": "Pub Crawl at Clarke Quay",
     "track": {
@@ -2187,27 +2187,6 @@
     "session_id": "HW-07",
     "location": "Level 3, Faraday Hall",
     "type": "",
-    "end_time": "2016-03-18T11:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Smart guidance for blind",
-        "id": 80,
-        "name": "Jaminy Prabaharan"
-      }
-    ],
-    "description": "Smart Guidance for blind: Shoes(can be replaced by some other way)  for the blind based on detecting obstructions and showing a path using sensors, cameras and principles of machine learning in Matlab using image processing: https://video-sit4-1.xx.fbcdn.net/hvideo-xlp1/v/t42.3356-2/12662214_1716573171899154_409955334_n.mp4/video-1454345564.mp4?vabr=369772&oh=ac6e29831a91c5c4eaed0e82b16af039&oe=56B70EB1&dl=1  We started working on this project three weeks back for Hackathon5.0 organized by Lakshya Foundation. Our main aim of this project is to give the total guidance for the blind.Have you all ever thought of the problems faced by the blind people? No will be the answer unless otherwise you are a blind.Even we didn't realise the problems  before starting our project.First we started with  listing down the problems faced by the blind people and then started finding the solutions for it. So we came up with the following problems. 1. Difficulty in finding the obstructions on their path. 2. Difficulty in reading the road signs and traffic signals.So they can't either drive or walk safely on the road. 3. Difficulty in reading the price tag.So sellers can cheat them. 4. Difficulty in reading books.Since all the books are not translated to Braille letters.  5. Can't watch TV.   So we divided these problems into easy, advance and crazy to work on it.First we started working on the basic problems.The first solution we came up was using ultrasonic sensors to detect the obstructions.We created an app which is user friendly (blind person just have to tap) to give the voice output.So we just fixed  3 ultra sonic sensors( per shoe front,back,left/right) and depending on the sensor output the voice will be given as output.Still we have problem in detecting in hanging obstructions and pits.We are trying to replace something with shoe which can fulfil all the conditions.Within a span of two weeks we have completed this task.Further we are working with image processing, machine learning and artificial intelligence to find the solutions for reading road signs(Image processing) and traffic signals(Colour recognition), reading books(Text to speech conversion) and finally for watching TV. As an engineer I suggest others also to work on the projects which would help the highly needed people. Because we never know the problems faced by the poor people and differently-able people. And they don't have enough knowledge or capability to work on their own problems.  ------------------------------------------   Problem Background: Corneal Blindness is one of the most common causes of blindness in India. India shoulders the largest burden of global blindness, about 3.5 million across the country with 30000 new cases being added each year. People who are visually impaired face no shortage of problems in India, where living with disabilities can be especially challenging. Pedestrians are often forced off of side walks that are cluttered with vendors, animals and other obstacles. And because of the difficulty of moving independently, accessing services is also difficult. Blind people typically use canes, of course, but the traditional cane can't detect objects higher than the waist.   Problem Statement: The problem is now to provide them with an alternative guide to the cane, a guide with a more human like approach.  Proposed Solution: Our proposed solution is to develop shoes starting from the most basic level to a highly advanced AI version of those shoes. The steps are as follows: \u2981 Develop a model of shoes with 4 sensors for 4 different directions. These sensors can be distance or IR Led ones. A microcontroller interface would be in place to transmit voice messages through a communications module to the headset of the person wearing the shoes. \u2981 In the intermediate stage the model would contain 4 cameras instead of sensors. The camera\u2019s working on basic image processing would be able to make out textures, landscapes and obstructions to a degree as defined by the manufacturer. \u2981 The final stage would involve trying to get the shoes to define the situations it are placed in by themselves using image processing and machine learning.  End users: The blind people around the world. Since our final product doesn't make use of smart/mobile phone, the person who can use it need not be aware of it. The output will be given as sound through headsets. Devices: Shoes, 4 cameras, 4 sensors,  headset, a micro controller and other electronic components Platforms, Technologies to be used: Machine learning in Matlab using image processing, interfacing camera, sensor and headset Data set, tools, resources useful in developing solution: Can choose any image processing tools and other technologies. ",
-    "title": "Smart guidance for blind",
-    "track": {
-      "id": 7,
-      "name": "Hardware and IoT"
-    },
-    "start_time": "2016-03-19T02:00:00+00:00",
-    "session_id": "HW-08",
-    "location": "Level 3, Faraday Hall",
-    "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:30:00+00:00"
   },
   {
@@ -2215,7 +2194,7 @@
     "speakers": [
       {
         "organisation": "Makino Asia Private Limited",
-        "id": 81,
+        "id": 80,
         "name": "Abhishek Agrawal"
       }
     ],
@@ -2236,7 +2215,7 @@
     "speakers": [
       {
         "organisation": "Tusitala Digital Storytelling",
-        "id": 82,
+        "id": 81,
         "name": "Saad Chinoy"
       }
     ],
@@ -2287,7 +2266,7 @@
     "speakers": [
       {
         "organisation": "Netwalker Laboratory, Tokaido Linux Users Group",
-        "id": 83,
+        "id": 82,
         "name": "Kenji Shimono"
       }
     ],
@@ -2308,7 +2287,7 @@
     "speakers": [
       {
         "organisation": "Samsung Electronics",
-        "id": 84,
+        "id": 83,
         "name": "Carsten Haitzler"
       }
     ],
@@ -2329,7 +2308,7 @@
     "speakers": [
       {
         "organisation": "teamLab, and Nico-Tech",
-        "id": 85,
+        "id": 84,
         "name": "Masakazu Takasu"
       }
     ],
@@ -2350,7 +2329,7 @@
     "speakers": [
       {
         "organisation": "Beagleboard",
-        "id": 86,
+        "id": 85,
         "name": "Deepak Karki Aishwarya Kaliki"
       }
     ],
@@ -2371,7 +2350,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, BKIT, Bhalki, Karnataka, INDIA",
-        "id": 87,
+        "id": 86,
         "name": "Dr. Udaykumar Khadke"
       }
     ],
@@ -2392,7 +2371,7 @@
     "speakers": [
       {
         "organisation": "National University of Singapore",
-        "id": 88,
+        "id": 87,
         "name": "Abhishek Mishra"
       }
     ],
@@ -2413,7 +2392,7 @@
     "speakers": [
       {
         "organisation": "Garuda Robotics",
-        "id": 89,
+        "id": 88,
         "name": "Jiin Joo Ong"
       }
     ],
@@ -2434,7 +2413,7 @@
     "speakers": [
       {
         "organisation": "Dunman High School",
-        "id": 90,
+        "id": 89,
         "name": "Jerrayl Ng"
       }
     ],
@@ -2470,7 +2449,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 91,
+        "id": 90,
         "name": "Red Hat Family"
       }
     ],
@@ -2491,7 +2470,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 92,
+        "id": 91,
         "name": "Yaniv Bronhaim"
       }
     ],
@@ -2512,7 +2491,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 93,
+        "id": 92,
         "name": "Amit Shah"
       }
     ],
@@ -2533,7 +2512,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 94,
+        "id": 93,
         "name": "Parag Ashok Nemade"
       }
     ],
@@ -2605,7 +2584,7 @@
     "speakers": [
       {
         "organisation": "BigBinary",
-        "id": 95,
+        "id": 94,
         "name": "Rahul Mahale"
       }
     ],
@@ -2626,7 +2605,7 @@
     "speakers": [
       {
         "organisation": "Ashnik Pte Ltd",
-        "id": 96,
+        "id": 95,
         "name": "Sameer Kumar"
       }
     ],
@@ -2647,7 +2626,7 @@
     "speakers": [
       {
         "organisation": "coala-analyzer",
-        "id": 97,
+        "id": 96,
         "name": "Udayan Tandon"
       }
     ],
@@ -2668,7 +2647,7 @@
     "speakers": [
       {
         "organisation": "The Gentlebros Pte. Ltd.",
-        "id": 98,
+        "id": 97,
         "name": "Desmond Wong"
       }
     ],
@@ -2719,7 +2698,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 99,
+        "id": 98,
         "name": "Liron Aravot"
       }
     ],
@@ -2740,7 +2719,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 92,
+        "id": 91,
         "name": "Yaniv Bronhaim"
       }
     ],
@@ -2761,7 +2740,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 100,
+        "id": 99,
         "name": "Anisha Narang"
       }
     ],
@@ -2797,7 +2776,7 @@
     "speakers": [
       {
         "organisation": "Shreshta IT Technologies Pvt. Ltd.",
-        "id": 101,
+        "id": 100,
         "name": "Swapneel Patnekar"
       }
     ],
@@ -2818,7 +2797,7 @@
     "speakers": [
       {
         "organisation": "LinuxTag Association",
-        "id": 102,
+        "id": 101,
         "name": "Nils Magnus"
       }
     ],
@@ -2854,7 +2833,7 @@
     "speakers": [
       {
         "organisation": "appbase.io",
-        "id": 103,
+        "id": 102,
         "name": "Rishi Shah"
       }
     ],
@@ -2875,7 +2854,7 @@
     "speakers": [
       {
         "organisation": "Docker Saigon",
-        "id": 104,
+        "id": 103,
         "name": "Vincent De Smet"
       }
     ],
@@ -2896,7 +2875,7 @@
     "speakers": [
       {
         "organisation": "Acaleph",
-        "id": 105,
+        "id": 104,
         "name": "Hunter Nield"
       }
     ],
@@ -2917,7 +2896,7 @@
     "speakers": [
       {
         "organisation": "99x Technology",
-        "id": 106,
+        "id": 105,
         "name": "Dilum Navanjana Welgamage"
       }
     ],
@@ -2953,7 +2932,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 58,
+        "id": 57,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -2974,7 +2953,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 107,
+        "id": 106,
         "name": "Abdul Rauf"
       }
     ],
@@ -2995,7 +2974,7 @@
     "speakers": [
       {
         "organisation": "Institut National des Sciences Appliqu\u00e9es de Toulouse",
-        "id": 108,
+        "id": 107,
         "name": "Hai An DANG"
       }
     ],
@@ -3016,7 +2995,7 @@
     "speakers": [
       {
         "organisation": "Mozilla Tech Speaker",
-        "id": 109,
+        "id": 108,
         "name": "Rizky Ariestiyansyah"
       }
     ],
@@ -3037,7 +3016,7 @@
     "speakers": [
       {
         "organisation": "AntWebsystems Co.,Ltd",
-        "id": 110,
+        "id": 109,
         "name": "Hans Bakker"
       }
     ],
@@ -3088,7 +3067,7 @@
     "speakers": [
       {
         "organisation": "Mozilla Philippines Community",
-        "id": 111,
+        "id": 110,
         "name": "Robert Reyes"
       }
     ],
@@ -3109,7 +3088,7 @@
     "speakers": [
       {
         "organisation": "GrabTaxi",
-        "id": 112,
+        "id": 111,
         "name": "Dan Tran"
       }
     ],
@@ -3130,7 +3109,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 46,
+        "id": 45,
         "name": "Daniel Pocock"
       }
     ],
@@ -3151,7 +3130,7 @@
     "speakers": [
       {
         "organisation": "Intel, Crosswalk Project",
-        "id": 113,
+        "id": 112,
         "name": "Ningxin Hu"
       }
     ],
@@ -3172,7 +3151,7 @@
     "speakers": [
       {
         "organisation": "Jumping Bean",
-        "id": 114,
+        "id": 113,
         "name": "Mark Clarke"
       }
     ],
@@ -3193,7 +3172,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 115,
+        "id": 114,
         "name": "Trishul Goel"
       }
     ],
@@ -3204,7 +3183,7 @@
       "name": "WebTech"
     },
     "start_time": "2016-03-19T09:30:00+00:00",
-    "session_id": "WT-40",
+    "session_id": "WT-41",
     "location": "Level 2, Room to be decided",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T10:00:00+00:00"
@@ -3229,22 +3208,22 @@
     "speakers": [
       {
         "organisation": "SingaporeJS",
-        "id": 116,
+        "id": 115,
         "name": "Soares Chen"
       },
       {
         "organisation": "FOSSASIA",
-        "id": 117,
+        "id": 116,
         "name": "Joerg Henning"
       },
       {
         "organisation": "Cofounders.sg",
-        "id": 118,
+        "id": 117,
         "name": "Sebastiaan Deckers"
       },
       {
         "organisation": "",
-        "id": 42,
+        "id": 41,
         "name": "Tim Oxley"
       }
     ],
@@ -3265,7 +3244,7 @@
     "speakers": [
       {
         "organisation": "Web Audio",
-        "id": 119,
+        "id": 118,
         "name": "Chinmay Pendharkar"
       }
     ],
@@ -3286,7 +3265,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 58,
+        "id": 57,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -3307,7 +3286,7 @@
     "speakers": [
       {
         "organisation": "Python Software Foundation",
-        "id": 79,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
@@ -3328,7 +3307,7 @@
     "speakers": [
       {
         "organisation": "Python User Group Singapore",
-        "id": 120,
+        "id": 119,
         "name": "Ivan Zimine"
       }
     ],
@@ -3349,7 +3328,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 121,
+        "id": 120,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -3370,7 +3349,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 79,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
@@ -3421,7 +3400,7 @@
     "speakers": [
       {
         "organisation": "Jamia Millia Islamia",
-        "id": 122,
+        "id": 121,
         "name": "Shadab Zafar"
       }
     ],
@@ -3442,7 +3421,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 123,
+        "id": 122,
         "name": "Sundeep Anand"
       }
     ],
@@ -3484,7 +3463,7 @@
     "speakers": [
       {
         "organisation": "Moin Moin Wiki",
-        "id": 124,
+        "id": 123,
         "name": "Yask Srivastava"
       }
     ],
@@ -3505,7 +3484,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 121,
+        "id": 120,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -3526,7 +3505,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 79,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
@@ -3560,7 +3539,7 @@
     "speakers": [
       {
         "organisation": "NIT Warangal",
-        "id": 31,
+        "id": 30,
         "name": "Kranthi Kiran Guduru"
       }
     ],
@@ -3581,7 +3560,7 @@
     "speakers": [
       {
         "organisation": "Loklak / NIT Warangal",
-        "id": 33,
+        "id": 32,
         "name": "Sudheesh Singanamalla"
       }
     ],
@@ -3617,7 +3596,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 125,
+        "id": 124,
         "name": "Amita Sharma"
       }
     ],
@@ -3638,7 +3617,7 @@
     "speakers": [
       {
         "organisation": "SymPy / PyDy",
-        "id": 126,
+        "id": 125,
         "name": "Sahil Shekhawat"
       }
     ],
@@ -3659,7 +3638,7 @@
     "speakers": [
       {
         "organisation": "SymPy",
-        "id": 127,
+        "id": 126,
         "name": "Amit Kumar JHA"
       }
     ],
@@ -3680,7 +3659,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 58,
+        "id": 57,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -3701,7 +3680,7 @@
     "speakers": [
       {
         "organisation": "Robolab, University of Extremadura, Spain",
-        "id": 128,
+        "id": 127,
         "name": "Marco A. Guti\u00e9rrez"
       }
     ],
@@ -3722,7 +3701,7 @@
     "speakers": [
       {
         "organisation": "IIT Roorkee",
-        "id": 129,
+        "id": 128,
         "name": "Ankita Shukla"
       }
     ],
@@ -3743,7 +3722,7 @@
     "speakers": [
       {
         "organisation": "Open Source Developers Club Malaysia",
-        "id": 130,
+        "id": 129,
         "name": "Errazudin Ishak"
       }
     ],
@@ -3764,7 +3743,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 131,
+        "id": 130,
         "name": "Fibish Madathil"
       }
     ],
@@ -3785,7 +3764,7 @@
     "speakers": [
       {
         "organisation": "Zynesis",
-        "id": 132,
+        "id": 131,
         "name": "U-Zyn Chua"
       }
     ],
@@ -3811,7 +3790,7 @@
       "name": "Big Data/Open Data"
     },
     "start_time": "2016-03-18T08:30:00+00:00",
-    "session_id": "BD-07",
+    "session_id": "BD-7",
     "location": "Level 3, Fermi Hall",
     "type": "",
     "end_time": "2016-03-18T09:00:00+00:00"
@@ -3826,7 +3805,7 @@
       "name": "Big Data/Open Data"
     },
     "start_time": "2016-03-18T11:00:00+00:00",
-    "session_id": "BD-08",
+    "session_id": "BD-8",
     "location": "Level 3, Fermi Hall",
     "type": "",
     "end_time": "2016-03-18T11:30:00+00:00"
@@ -3836,7 +3815,7 @@
     "speakers": [
       {
         "organisation": "Punjabi Wikimedians",
-        "id": 133,
+        "id": 132,
         "name": "Satdeep Gill"
       }
     ],
@@ -3857,7 +3836,7 @@
     "speakers": [
       {
         "organisation": "NFLabs Inc, Apache Software Foundation",
-        "id": 134,
+        "id": 133,
         "name": "Alexander Bezzubov"
       }
     ],
@@ -3878,7 +3857,7 @@
     "speakers": [
       {
         "organisation": "Humanitarian OpenStreetMap Team",
-        "id": 135,
+        "id": 134,
         "name": "Mhairi O'Hara"
       }
     ],
@@ -3899,7 +3878,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 136,
+        "id": 135,
         "name": "Thanh Son Le"
       }
     ],
@@ -3950,7 +3929,7 @@
     "speakers": [
       {
         "organisation": "Atazzo",
-        "id": 137,
+        "id": 136,
         "name": "Adam Drake"
       }
     ],
@@ -3971,7 +3950,7 @@
     "speakers": [
       {
         "organisation": "GeoICON Pte. Ltd",
-        "id": 138,
+        "id": 137,
         "name": "Ganeshkumar Shanmugam"
       }
     ],
@@ -3992,7 +3971,7 @@
     "speakers": [
       {
         "organisation": "Loklak",
-        "id": 139,
+        "id": 138,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -4013,7 +3992,7 @@
     "speakers": [
       {
         "organisation": "Living Analytics Research Centre (LARC)",
-        "id": 140,
+        "id": 139,
         "name": "Philips Kokoh Prasetyo"
       }
     ],
@@ -4049,7 +4028,7 @@
     "speakers": [
       {
         "organisation": "Punjabi Wikimedians",
-        "id": 133,
+        "id": 132,
         "name": "Satdeep Gill"
       }
     ],
@@ -4069,13 +4048,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Rafal ",
-        "id": 141,
+        "organisation": "Open-Event/FOSSASIA",
+        "id": 140,
         "name": "Rafal Kowalski"
       },
       {
         "organisation": "IIIT Delhi",
-        "id": 66,
+        "id": 65,
         "name": "Manan Wason"
       }
     ],
@@ -4111,7 +4090,7 @@
     "speakers": [
       {
         "organisation": "Loklak",
-        "id": 139,
+        "id": 138,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -4132,7 +4111,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 58,
+        "id": 57,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -4153,7 +4132,7 @@
     "speakers": [
       {
         "organisation": "NTT OSS Center",
-        "id": 142,
+        "id": 141,
         "name": "Kazuki Uehara"
       }
     ],
@@ -4174,7 +4153,7 @@
     "speakers": [
       {
         "organisation": "Vitesse Data",
-        "id": 143,
+        "id": 142,
         "name": "CK Tan"
       }
     ],
@@ -4225,7 +4204,7 @@
     "speakers": [
       {
         "organisation": "InMobi",
-        "id": 144,
+        "id": 143,
         "name": "Sivakumar K"
       }
     ],
@@ -4246,7 +4225,7 @@
     "speakers": [
       {
         "organisation": "Pivotal",
-        "id": 145,
+        "id": 144,
         "name": "Atri Sharma"
       }
     ],
@@ -4267,7 +4246,7 @@
     "speakers": [
       {
         "organisation": "Ajilius Pty. Ltd.",
-        "id": 146,
+        "id": 145,
         "name": "Ron Dunn"
       }
     ],
@@ -4288,7 +4267,7 @@
     "speakers": [
       {
         "organisation": "Tantan",
-        "id": 147,
+        "id": 146,
         "name": "Victor Blomqvist"
       }
     ],
@@ -4309,7 +4288,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 148,
+        "id": 147,
         "name": "PostgreSQL Community"
       }
     ],
@@ -4358,7 +4337,7 @@
     "speakers": [
       {
         "organisation": "MySQL, Oracle India Private Limited",
-        "id": 149,
+        "id": 148,
         "name": "Mayank Prasad"
       }
     ],
@@ -4400,7 +4379,7 @@
     "speakers": [
       {
         "organisation": "Oracle India Pvt. Ltd.",
-        "id": 150,
+        "id": 149,
         "name": "Manish Kumar"
       }
     ],
@@ -4421,7 +4400,7 @@
     "speakers": [
       {
         "organisation": "Oracle India Pvt. Ltd.",
-        "id": 151,
+        "id": 150,
         "name": "Abhishek Ranjan"
       }
     ],
@@ -4457,7 +4436,7 @@
     "speakers": [
       {
         "organisation": "Sanguine",
-        "id": 152,
+        "id": 151,
         "name": "Oren Golan"
       }
     ],
@@ -4499,7 +4478,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 58,
+        "id": 57,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -4520,7 +4499,7 @@
     "speakers": [
       {
         "organisation": "Winnow Solutions",
-        "id": 153,
+        "id": 152,
         "name": "Maxime Pourrat"
       }
     ],
@@ -4541,8 +4520,8 @@
     "speakers": [
       {
         "organisation": "\ud83d\udc30",
-        "id": 154,
-        "name": "Herr Fluke"
+        "id": 153,
+        "name": "Herr Flupke"
       }
     ],
     "description": "As the internet trickles through society it starts to transform the very places where people live. Some think it can change cities in this century as much as electricity did in the last one. The governments of the world, the weary giants of flesh and steel, also tap into this new home.  This talk will step away from the computer screen to look at the design patterns of current toolchains for the so-called \"smart city\" and their implications. Is there a way the free/libre open (source software) spirit can be baked into the infrastructure that society runs on?",
@@ -4562,7 +4541,7 @@
     "speakers": [
       {
         "organisation": "freelancer",
-        "id": 155,
+        "id": 154,
         "name": "Alexander Couzens"
       }
     ],
@@ -4583,7 +4562,7 @@
     "speakers": [
       {
         "organisation": "Queensland Health",
-        "id": 156,
+        "id": 155,
         "name": "Norvan Vogt"
       }
     ],
@@ -4634,7 +4613,7 @@
     "speakers": [
       {
         "organisation": "intZone.com",
-        "id": 157,
+        "id": 156,
         "name": "Zion Ng"
       }
     ],
@@ -4655,7 +4634,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 158,
+        "id": 157,
         "name": "Huiren Woo"
       }
     ],
@@ -4706,7 +4685,7 @@
     "speakers": [
       {
         "organisation": "National Cheng Kung University",
-        "id": 159,
+        "id": 158,
         "name": "Menghsuan Tsai"
       }
     ],
@@ -4727,7 +4706,7 @@
     "speakers": [
       {
         "organisation": "We Build SG",
-        "id": 160,
+        "id": 159,
         "name": "Sayanee Basu"
       }
     ],
@@ -4748,7 +4727,7 @@
     "speakers": [
       {
         "organisation": "Mozilla India",
-        "id": 161,
+        "id": 160,
         "name": "Anivar Ammanath Aravind"
       }
     ],
@@ -4769,7 +4748,7 @@
     "speakers": [
       {
         "organisation": "Open Invention Network",
-        "id": 162,
+        "id": 161,
         "name": "Keith Bergelt"
       }
     ],
@@ -4790,7 +4769,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 163,
+        "id": 162,
         "name": "Anwesha Das"
       }
     ],
@@ -4811,7 +4790,7 @@
     "speakers": [
       {
         "organisation": "Open Invention Network",
-        "id": 164,
+        "id": 163,
         "name": "Kevin Huang"
       }
     ],
@@ -4832,7 +4811,7 @@
     "speakers": [
       {
         "organisation": "BlankOn",
-        "id": 165,
+        "id": 164,
         "name": "Syah Dwi Prihatmoko"
       }
     ],
@@ -4882,6 +4861,27 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "GNOME",
+        "id": 165,
+        "name": "Tobias Mueller"
+      }
+    ],
+    "description": "The Web of Trust is the decentralised PKI in the OpenPGP world. It depends on people participating by signing other people's keys. However, when following best practises, the act of signing a key involves secure transfer of the OpenPGP key which contemporary casual key signing protocols for small groups address by exchanging the fingerprint of the key to be signed. The key will then be downloaded over an untrusted channel and the key obtained needs to be manually verified.  This presentation shows a novel approach to signing keys which makes it easy to sign a person's key. It enables very small groups of people to casually hold very small key signing parties. The key idea is to automatically authenticate the key material before the transfer via a secure audible or visual channel. A Free Software implementation of the protocol will be shown and people are invited to sign their keys :-) ",
+    "title": "Functionality, Security, Usability: Choose any two. Or GNOME. ",
+    "track": {
+      "id": 14,
+      "name": "Privacy and Security"
+    },
+    "start_time": "2016-03-20T02:00:00+00:00",
+    "session_id": "Se-07",
+    "location": "Level 2, Einstein Hall",
+    "type": "Workshop of 1 hour",
+    "end_time": "2016-03-20T03:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
         "organisation": "Red Hat",
         "id": 166,
         "name": "Huzaifa Sidhpurwala"
@@ -4893,11 +4893,11 @@
       "id": 14,
       "name": "Privacy and Security"
     },
-    "start_time": "2016-03-20T02:00:00+00:00",
+    "start_time": "2016-03-20T03:00:00+00:00",
     "session_id": "Se-01",
     "location": "Level 2, Einstein Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-20T02:30:00+00:00"
+    "end_time": "2016-03-20T03:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -4914,31 +4914,10 @@
       "id": 14,
       "name": "Privacy and Security"
     },
-    "start_time": "2016-03-20T02:30:00+00:00",
+    "start_time": "2016-03-20T03:30:00+00:00",
     "session_id": "Se-02",
     "location": "Level 2, Einstein Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-20T03:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Equinix",
-        "id": 168,
-        "name": "Michael Rebultan"
-      }
-    ],
-    "description": "With the emerging security threats on this age, it is wiser to have an integrity checker on a daily basis to audit the system. And in my workshop, I will showcase the implementation and use of AIDE.  AIDE (Advanced Intrusion Detection Enviornment) is a tool to check the file integrity. It is an opensource substitute for commercial tool TRIPWIRE. It allows to take snapshots of all the major configuration files, binaries as well as libraries stats. And helps to find which binaries have been changed in case of compromisation of the system.",
-    "title": "Intrusion Detection with AIDE",
-    "track": {
-      "id": 14,
-      "name": "Privacy and Security"
-    },
-    "start_time": "2016-03-20T03:00:00+00:00",
-    "session_id": "Se-05",
-    "location": "Level 2, Einstein Hall",
-    "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
   {
@@ -4961,7 +4940,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 169,
+        "id": 168,
         "name": "Alexandre Lision"
       }
     ],
@@ -4981,19 +4960,19 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "GNOME",
-        "id": 170,
-        "name": "Tobias Mueller"
+        "organisation": "Equinix",
+        "id": 169,
+        "name": "Michael Rebultan"
       }
     ],
-    "description": "The Web of Trust is the decentralised PKI in the OpenPGP world. It depends on people participating by signing other people's keys. However, when following best practises, the act of signing a key involves secure transfer of the OpenPGP key which contemporary casual key signing protocols for small groups address by exchanging the fingerprint of the key to be signed. The key will then be downloaded over an untrusted channel and the key obtained needs to be manually verified.  This presentation shows a novel approach to signing keys which makes it easy to sign a person's key. It enables very small groups of people to casually hold very small key signing parties. The key idea is to automatically authenticate the key material before the transfer via a secure audible or visual channel. A Free Software implementation of the protocol will be shown and people are invited to sign their keys :-) ",
-    "title": "Functionality, Security, Usability: Choose any two. Or GNOME. ",
+    "description": "With the emerging security threats on this age, it is wiser to have an integrity checker on a daily basis to audit the system. And in my workshop, I will showcase the implementation and use of AIDE.  AIDE (Advanced Intrusion Detection Enviornment) is a tool to check the file integrity. It is an opensource substitute for commercial tool TRIPWIRE. It allows to take snapshots of all the major configuration files, binaries as well as libraries stats. And helps to find which binaries have been changed in case of compromisation of the system.",
+    "title": "Intrusion Detection with AIDE",
     "track": {
       "id": 14,
       "name": "Privacy and Security"
     },
     "start_time": "2016-03-20T06:00:00+00:00",
-    "session_id": "Se-07",
+    "session_id": "Se-05",
     "location": "Level 2, Einstein Hall",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T07:00:00+00:00"
@@ -5003,7 +4982,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 58,
+        "id": 57,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5039,7 +5018,7 @@
     "speakers": [
       {
         "organisation": "Science Centre",
-        "id": 171,
+        "id": 170,
         "name": "Eileen/Kiruthika"
       }
     ],
@@ -5081,7 +5060,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 172,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5102,7 +5081,7 @@
     "speakers": [
       {
         "organisation": "#NEWPALMYRA",
-        "id": 173,
+        "id": 172,
         "name": "Barry Threw Jon Phillips"
       }
     ],
@@ -5123,7 +5102,7 @@
     "speakers": [
       {
         "organisation": "Valentina",
-        "id": 174,
+        "id": 173,
         "name": "Susan Spencer"
       }
     ],
@@ -5144,7 +5123,7 @@
     "speakers": [
       {
         "organisation": "Touch & Print",
-        "id": 175,
+        "id": 174,
         "name": "Leon Lim"
       }
     ],
@@ -5186,7 +5165,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 172,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5237,7 +5216,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 172,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5288,7 +5267,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 172,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5324,7 +5303,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 172,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5345,7 +5324,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 172,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5366,7 +5345,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 172,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5387,7 +5366,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 172,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5408,7 +5387,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 172,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5429,7 +5408,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 58,
+        "id": 57,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5449,105 +5428,6 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Debian",
-        "id": 176,
-        "name": "Chris Lamb"
-      }
-    ],
-    "description": "Whilst anyone can inspect the source code of free software for malicious flaws, most Linux distributions provide binary (or \"compiled\") packages to end users.  The motivation behind \"reproducible\" builds is to allow verification that no flaws have been introduced during this compilation process by promising identical binary packages are always generated from a given source.  This prevents against the installation of backdoor-introducing malware on developers' machines - an attacker would need to simultaneously infect all developers attempting to reproduce the build.  Furthermore, a reproducible build has a wide variety technical advantages, including implicitly removing non-deterministic or unsafe behaviour (such as downloading third-party code from the internet), detecting corrupted build environments, reducing time-to-detection of a build host compromise, as well as numerous other debugging and testing advantages.  In this sense, reproducible builds are finally fulfilling the original promise of free software  - that you have actual control over what is being run on your computers.",
-    "title": "Reproducible Builds - fulfilling the original promise of free software",
-    "track": {
-      "id": 16,
-      "name": "Linux and MiniDebConf"
-    },
-    "start_time": "2016-03-20T02:00:00+00:00",
-    "session_id": "LX-01",
-    "location": "Level 1, Digital Design Studio",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-20T02:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Deepin",
-        "id": 177,
-        "name": "Derek Dai"
-      }
-    ],
-    "description": "Performance in desktop environment is challenging. In order to prevent visual glitch, you have to minimize the latency and to know where comes the latency. A good tool is what we need.",
-    "title": "Monitoring Deepin Performance",
-    "track": {
-      "id": 16,
-      "name": "Linux and MiniDebConf"
-    },
-    "start_time": "2016-03-20T02:30:00+00:00",
-    "session_id": "LX-02",
-    "location": "Level 1, Digital Design Studio",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-20T03:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Oracle Corporation Singapore Pte Ltd",
-        "id": 178,
-        "name": "Anand Jain"
-      }
-    ],
-    "description": "An overview of Linux Btrfs and its recent development.",
-    "title": "Linux Btrfs",
-    "track": {
-      "id": 16,
-      "name": "Linux and MiniDebConf"
-    },
-    "start_time": "2016-03-20T03:00:00+00:00",
-    "session_id": "LX-03",
-    "location": "Level 1, Digital Design Studio",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-20T03:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "GNOME",
-        "id": 170,
-        "name": "Tobias Mueller"
-      }
-    ],
-    "description": "GNOME 3.20 is just around the corner! It's due on 21st of March. With that release, many visible improvements will be delivered to users around the world.    While many people already excitedly use GNOME 3 with the new user experience, some features of the new and elegant desktop like LibreOffice integration or editing photos with non-destructive GEGL operations are not yet wildly known. We also did many things on the plumbing layer such as allowing GNOME to run Wayland.  The talk will introduce to some of the design philosophies inherent in GNOME 3 as well as the main changes brought to users and developers. Also, since GNOME 3.20 is another step of a long lasting incrementally improved user experience, the future of GNOME's development will be speculated on. ",
-    "title": "GNOME 3.20 - Get it while it's fresh!",
-    "track": {
-      "id": 16,
-      "name": "Linux and MiniDebConf"
-    },
-    "start_time": "2016-03-20T03:30:00+00:00",
-    "session_id": "LX-04",
-    "location": "Level 1, Digital Design Studio",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-20T04:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "Lunch",
-    "track": {
-      "id": 16,
-      "name": "Linux and MiniDebConf"
-    },
-    "start_time": "2016-03-20T04:00:00+00:00",
-    "session_id": "LX-05",
-    "location": "Level 1, Digital Design Studio",
-    "type": "",
-    "end_time": "2016-03-20T04:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
         "organisation": "Red Hat",
         "id": 11,
         "name": "Lennart Poettering"
@@ -5559,11 +5439,11 @@
       "id": 16,
       "name": "Linux and MiniDebConf"
     },
-    "start_time": "2016-03-20T05:00:00+00:00",
+    "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "LX-06",
     "location": "Level 1, Digital Design Studio",
     "type": "Workshop of 1 hour",
-    "end_time": "2016-03-20T06:00:00+00:00"
+    "end_time": "2016-03-20T03:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -5580,18 +5460,117 @@
       "id": 16,
       "name": "Linux and MiniDebConf"
     },
-    "start_time": "2016-03-20T06:00:00+00:00",
+    "start_time": "2016-03-20T03:00:00+00:00",
     "session_id": "LX-07",
     "location": "Level 1, Digital Design Studio",
     "type": "Workshop of 1 hour",
-    "end_time": "2016-03-20T07:00:00+00:00"
+    "end_time": "2016-03-20T04:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "GNOME",
+        "id": 165,
+        "name": "Tobias Mueller"
+      }
+    ],
+    "description": "GNOME 3.20 is just around the corner! It's due on 21st of March. With that release, many visible improvements will be delivered to users around the world.    While many people already excitedly use GNOME 3 with the new user experience, some features of the new and elegant desktop like LibreOffice integration or editing photos with non-destructive GEGL operations are not yet wildly known. We also did many things on the plumbing layer such as allowing GNOME to run Wayland.  The talk will introduce to some of the design philosophies inherent in GNOME 3 as well as the main changes brought to users and developers. Also, since GNOME 3.20 is another step of a long lasting incrementally improved user experience, the future of GNOME's development will be speculated on. ",
+    "title": "GNOME 3.20 - Get it while it's fresh!",
+    "track": {
+      "id": 16,
+      "name": "Linux and MiniDebConf"
+    },
+    "start_time": "2016-03-20T04:00:00+00:00",
+    "session_id": "LX-04",
+    "location": "Level 1, Digital Design Studio",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-20T04:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [],
+    "description": "",
+    "title": "Lunch",
+    "track": {
+      "id": 16,
+      "name": "Linux and MiniDebConf"
+    },
+    "start_time": "2016-03-20T04:30:00+00:00",
+    "session_id": "LX-05",
+    "location": "Level 1, Digital Design Studio",
+    "type": "",
+    "end_time": "2016-03-20T05:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Debian",
+        "id": 175,
+        "name": "Chris Lamb"
+      }
+    ],
+    "description": "Whilst anyone can inspect the source code of free software for malicious flaws, most Linux distributions provide binary (or \"compiled\") packages to end users.  The motivation behind \"reproducible\" builds is to allow verification that no flaws have been introduced during this compilation process by promising identical binary packages are always generated from a given source.  This prevents against the installation of backdoor-introducing malware on developers' machines - an attacker would need to simultaneously infect all developers attempting to reproduce the build.  Furthermore, a reproducible build has a wide variety technical advantages, including implicitly removing non-deterministic or unsafe behaviour (such as downloading third-party code from the internet), detecting corrupted build environments, reducing time-to-detection of a build host compromise, as well as numerous other debugging and testing advantages.  In this sense, reproducible builds are finally fulfilling the original promise of free software  - that you have actual control over what is being run on your computers.",
+    "title": "Reproducible Builds - fulfilling the original promise of free software",
+    "track": {
+      "id": 16,
+      "name": "Linux and MiniDebConf"
+    },
+    "start_time": "2016-03-20T05:30:00+00:00",
+    "session_id": "LX-01",
+    "location": "Level 1, Digital Design Studio",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-20T06:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Oracle Corporation Singapore Pte Ltd",
+        "id": 176,
+        "name": "Anand Jain"
+      }
+    ],
+    "description": "An overview of Linux Btrfs and its recent development.",
+    "title": "Linux Btrfs",
+    "track": {
+      "id": 16,
+      "name": "Linux and MiniDebConf"
+    },
+    "start_time": "2016-03-20T05:30:00+00:00",
+    "session_id": "LX-03",
+    "location": "Level 1, Digital Design Studio",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-20T06:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Deepin",
+        "id": 177,
+        "name": "Derek Dai"
+      }
+    ],
+    "description": "Performance in desktop environment is challenging. In order to prevent visual glitch, you have to minimize the latency and to know where comes the latency. A good tool is what we need.",
+    "title": "Monitoring Deepin Performance",
+    "track": {
+      "id": 16,
+      "name": "Linux and MiniDebConf"
+    },
+    "start_time": "2016-03-20T06:00:00+00:00",
+    "session_id": "LX-02",
+    "location": "Level 1, Digital Design Studio",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-20T06:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "",
-        "id": 58,
+        "id": 57,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5612,7 +5591,7 @@
     "speakers": [
       {
         "organisation": "The Processing Foundation",
-        "id": 179,
+        "id": 178,
         "name": "Umair Khan"
       }
     ],
@@ -5633,7 +5612,7 @@
     "speakers": [
       {
         "organisation": "Autodesk",
-        "id": 180,
+        "id": 179,
         "name": "Owais Zahid"
       }
     ],
@@ -5654,7 +5633,7 @@
     "speakers": [
       {
         "organisation": "Game Automators",
-        "id": 33,
+        "id": 32,
         "name": "Sudheesh Singanamalla"
       }
     ],
@@ -5675,7 +5654,7 @@
     "speakers": [
       {
         "organisation": "ownCloud, Open Source Design",
-        "id": 181,
+        "id": 180,
         "name": "Jan-Christoph Borchardt"
       }
     ],
@@ -5711,7 +5690,7 @@
     "speakers": [
       {
         "organisation": "Code Artist",
-        "id": 182,
+        "id": 181,
         "name": "Sher Minn Chong"
       }
     ],
@@ -5732,7 +5711,7 @@
     "speakers": [
       {
         "organisation": "VRcollab",
-        "id": 183,
+        "id": 182,
         "name": "Jia Hen Tee"
       }
     ],
@@ -5753,7 +5732,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 184,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -5789,7 +5768,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 58,
+        "id": 57,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5810,7 +5789,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 185,
+        "id": 184,
         "name": "David Effendi"
       }
     ],
@@ -5852,7 +5831,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, G S Science College, Belgaum",
-        "id": 68,
+        "id": 67,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -5873,7 +5852,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 46,
+        "id": 45,
         "name": "Daniel Pocock"
       }
     ],
@@ -5894,7 +5873,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 169,
+        "id": 168,
         "name": "Alexandre Lision"
       }
     ],
@@ -5957,7 +5936,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 184,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -5978,7 +5957,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 186,
+        "id": 185,
         "name": "Ankit -"
       }
     ],
@@ -6041,7 +6020,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 187,
+        "id": 186,
         "name": "Misako Ito"
       }
     ],
@@ -6062,7 +6041,7 @@
     "speakers": [
       {
         "organisation": "OneMakerGroup",
-        "id": 47,
+        "id": 46,
         "name": "Elda Webb"
       }
     ],
@@ -6083,7 +6062,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 188,
+        "id": 187,
         "name": "Peter LIM"
       }
     ],
@@ -6095,6 +6074,27 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-50",
+    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "type": "Exhibition Area",
+    "end_time": "2016-03-18T01:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "NTU Nanyang Technopreneruship Center",
+        "id": 188,
+        "name": "Claire Tan"
+      }
+    ],
+    "description": "The Master of Science in Technopreneurship and Innovation (MSc TIP) programme is a 1-year full-time programme or 2-year part-time programme.  It is also offered in Chinese language as a 1-year full-time programme.",
+    "title": "Master of Science Technopreneurship & Innovation Programme (MSc TIP)",
+    "track": {
+      "id": 18,
+      "name": "Exhibition"
+    },
+    "start_time": "2016-03-18T01:00:00+00:00",
+    "session_id": "EX-60",
     "location": "Level 1, Ground Floor, Exhibition Hall",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
@@ -6134,7 +6134,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 185,
+        "id": 184,
         "name": "David Effendi"
       }
     ],
@@ -6176,7 +6176,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, G S Science College, Belgaum",
-        "id": 68,
+        "id": 67,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -6197,7 +6197,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 46,
+        "id": 45,
         "name": "Daniel Pocock"
       }
     ],
@@ -6218,7 +6218,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 169,
+        "id": 168,
         "name": "Alexandre Lision"
       }
     ],
@@ -6302,7 +6302,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 184,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6323,7 +6323,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 186,
+        "id": 185,
         "name": "Ankit -"
       }
     ],
@@ -6386,7 +6386,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 187,
+        "id": 186,
         "name": "Misako Ito"
       }
     ],
@@ -6407,7 +6407,7 @@
     "speakers": [
       {
         "organisation": "OneMakerGroup",
-        "id": 47,
+        "id": 46,
         "name": "Elda Webb"
       }
     ],
@@ -6428,7 +6428,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 188,
+        "id": 187,
         "name": "Peter LIM"
       }
     ],
@@ -6440,6 +6440,27 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-51",
+    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "type": "Exhibition Area",
+    "end_time": "2016-03-19T01:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "NTU Nanyang Technopreneruship Center",
+        "id": 188,
+        "name": "Claire Tan"
+      }
+    ],
+    "description": "The Master of Science in Technopreneurship and Innovation (MSc TIP) programme is a 1-year full-time programme or 2-year part-time programme.  It is also offered in Chinese language as a 1-year full-time programme.",
+    "title": "Master of Science Technopreneurship & Innovation Programme (MSc TIP)",
+    "track": {
+      "id": 18,
+      "name": "Exhibition"
+    },
+    "start_time": "2016-03-19T01:00:00+00:00",
+    "session_id": "EX-61",
     "location": "Level 1, Ground Floor, Exhibition Hall",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
@@ -6479,7 +6500,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 185,
+        "id": 184,
         "name": "David Effendi"
       }
     ],
@@ -6521,7 +6542,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, G S Science College, Belgaum",
-        "id": 68,
+        "id": 67,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -6542,7 +6563,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 46,
+        "id": 45,
         "name": "Daniel Pocock"
       }
     ],
@@ -6563,7 +6584,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 169,
+        "id": 168,
         "name": "Alexandre Lision"
       }
     ],
@@ -6647,7 +6668,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 184,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6668,7 +6689,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 186,
+        "id": 185,
         "name": "Ankit -"
       }
     ],
@@ -6731,7 +6752,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 187,
+        "id": 186,
         "name": "Misako Ito"
       }
     ],
@@ -6752,7 +6773,7 @@
     "speakers": [
       {
         "organisation": "OneMakerGroup",
-        "id": 47,
+        "id": 46,
         "name": "Elda Webb"
       }
     ],
@@ -6773,7 +6794,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 188,
+        "id": 187,
         "name": "Peter LIM"
       }
     ],
@@ -6785,6 +6806,27 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-52",
+    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "type": "Exhibition Area",
+    "end_time": "2016-03-20T01:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "NTU Nanyang Technopreneruship Center",
+        "id": 188,
+        "name": "Claire Tan"
+      }
+    ],
+    "description": "The Master of Science in Technopreneurship and Innovation (MSc TIP) programme is a 1-year full-time programme or 2-year part-time programme.  It is also offered in Chinese language as a 1-year full-time programme.",
+    "title": "Master of Science Technopreneurship & Innovation Programme (MSc TIP)",
+    "track": {
+      "id": 18,
+      "name": "Exhibition"
+    },
+    "start_time": "2016-03-20T01:00:00+00:00",
+    "session_id": "EX-62",
     "location": "Level 1, Ground Floor, Exhibition Hall",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
