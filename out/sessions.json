@@ -8,7 +8,7 @@
         "name": "Hong Phuc Dang"
       }
     ],
-    "description": "",
+    "description": "Welcome to the 8th year of FOSSASIA. A friendly community of Open Technologists meets at the Science Centre Singapore.",
     "title": "Grand Opening",
     "track": {
       "id": 2,
@@ -29,7 +29,7 @@
         "name": "Mario Behling"
       }
     ],
-    "description": "",
+    "description": "The FOSSASIA OpenTechSummit 2016: 180 speakers, over 200 Sessions, 16 tracks, 3 KTech Kids tracks hosted in the wonderful venue of the Science Centre Singapore. ",
     "title": "The amazing 2016 program of FOSSASIA",
     "track": {
       "id": 2,
@@ -50,7 +50,7 @@
         "name": "Lim Tit Meng"
       }
     ],
-    "description": "",
+    "description": "The Science Centre Singapore (Abbreviation: SCS, Chinese: \u65b0\u52a0\u5761\u79d1\u5b66\u9986), previously known is a scientific institution in Singapore, specialising in the promotion of scientific and technological education for the general public. With over 850 exhibits spread over eight exhibition galleries, it sees over a million visitors a year today.",
     "title": "Welcome at the Centre of Science Education in Singapore",
     "track": {
       "id": 2,
@@ -2170,13 +2170,7 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Smart guidance for blind",
-        "id": 79,
-        "name": "Jaminy Prabaharan"
-      }
-    ],
+    "speakers": [],
     "description": "",
     "title": "Pub Crawl at Clarke Quay",
     "track": {
@@ -2187,6 +2181,27 @@
     "session_id": "HW-07",
     "location": "Level 3, Faraday Hall",
     "type": "",
+    "end_time": "2016-03-18T11:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Smart guidance for blind",
+        "id": 79,
+        "name": "Jaminy Prabaharan"
+      }
+    ],
+    "description": "Smart Guidance for blind: Shoes(can be replaced by some other way)  for the blind based on detecting obstructions and showing a path using sensors, cameras and principles of machine learning in Matlab using image processing: https://video-sit4-1.xx.fbcdn.net/hvideo-xlp1/v/t42.3356-2/12662214_1716573171899154_409955334_n.mp4/video-1454345564.mp4?vabr=369772&oh=ac6e29831a91c5c4eaed0e82b16af039&oe=56B70EB1&dl=1  We started working on this project three weeks back for Hackathon5.0 organized by Lakshya Foundation. Our main aim of this project is to give the total guidance for the blind.Have you all ever thought of the problems faced by the blind people? No will be the answer unless otherwise you are a blind.Even we didn't realise the problems  before starting our project.First we started with  listing down the problems faced by the blind people and then started finding the solutions for it. So we came up with the following problems. 1. Difficulty in finding the obstructions on their path. 2. Difficulty in reading the road signs and traffic signals.So they can't either drive or walk safely on the road. 3. Difficulty in reading the price tag.So sellers can cheat them. 4. Difficulty in reading books.Since all the books are not translated to Braille letters.  5. Can't watch TV.   So we divided these problems into easy, advance and crazy to work on it.First we started working on the basic problems.The first solution we came up was using ultrasonic sensors to detect the obstructions.We created an app which is user friendly (blind person just have to tap) to give the voice output.So we just fixed  3 ultra sonic sensors( per shoe front,back,left/right) and depending on the sensor output the voice will be given as output.Still we have problem in detecting in hanging obstructions and pits.We are trying to replace something with shoe which can fulfil all the conditions.Within a span of two weeks we have completed this task.Further we are working with image processing, machine learning and artificial intelligence to find the solutions for reading road signs(Image processing) and traffic signals(Colour recognition), reading books(Text to speech conversion) and finally for watching TV. As an engineer I suggest others also to work on the projects which would help the highly needed people. Because we never know the problems faced by the poor people and differently-able people. And they don't have enough knowledge or capability to work on their own problems.  ------------------------------------------   Problem Background: Corneal Blindness is one of the most common causes of blindness in India. India shoulders the largest burden of global blindness, about 3.5 million across the country with 30000 new cases being added each year. People who are visually impaired face no shortage of problems in India, where living with disabilities can be especially challenging. Pedestrians are often forced off of side walks that are cluttered with vendors, animals and other obstacles. And because of the difficulty of moving independently, accessing services is also difficult. Blind people typically use canes, of course, but the traditional cane can't detect objects higher than the waist.   Problem Statement: The problem is now to provide them with an alternative guide to the cane, a guide with a more human like approach.  Proposed Solution: Our proposed solution is to develop shoes starting from the most basic level to a highly advanced AI version of those shoes. The steps are as follows: \u2981 Develop a model of shoes with 4 sensors for 4 different directions. These sensors can be distance or IR Led ones. A microcontroller interface would be in place to transmit voice messages through a communications module to the headset of the person wearing the shoes. \u2981 In the intermediate stage the model would contain 4 cameras instead of sensors. The camera\u2019s working on basic image processing would be able to make out textures, landscapes and obstructions to a degree as defined by the manufacturer. \u2981 The final stage would involve trying to get the shoes to define the situations it are placed in by themselves using image processing and machine learning.  End users: The blind people around the world. Since our final product doesn't make use of smart/mobile phone, the person who can use it need not be aware of it. The output will be given as sound through headsets. Devices: Shoes, 4 cameras, 4 sensors,  headset, a micro controller and other electronic components Platforms, Technologies to be used: Machine learning in Matlab using image processing, interfacing camera, sensor and headset Data set, tools, resources useful in developing solution: Can choose any image processing tools and other technologies. ",
+    "title": "Smart guidance for blind",
+    "track": {
+      "id": 7,
+      "name": "Hardware and IoT"
+    },
+    "start_time": "2016-03-19T02:00:00+00:00",
+    "session_id": "HW-22",
+    "location": "Level 3, Faraday Hall",
+    "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:30:00+00:00"
   },
   {
@@ -3169,27 +3184,6 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Mozilla",
-        "id": 114,
-        "name": "Trishul Goel"
-      }
-    ],
-    "description": "Progressive web apps is the new big thing in web today. The talk will give an overview of how/why PWA will replace mobile Apps. It will also include how to use the web apis to make maximum use of native smartphone features. ",
-    "title": "Progressive Web Apps - Future of web and mobile combined",
-    "track": {
-      "id": 9,
-      "name": "WebTech"
-    },
-    "start_time": "2016-03-19T09:30:00+00:00",
-    "session_id": "WT-41",
-    "location": "Level 2, Room to be decided",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-19T10:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
     "speakers": [],
     "description": "",
     "title": "End of Sessions and Social Event (Invitation Only)",
@@ -3208,17 +3202,17 @@
     "speakers": [
       {
         "organisation": "SingaporeJS",
-        "id": 115,
+        "id": 114,
         "name": "Soares Chen"
       },
       {
         "organisation": "FOSSASIA",
-        "id": 116,
+        "id": 115,
         "name": "Joerg Henning"
       },
       {
         "organisation": "Cofounders.sg",
-        "id": 117,
+        "id": 116,
         "name": "Sebastiaan Deckers"
       },
       {
@@ -3244,7 +3238,7 @@
     "speakers": [
       {
         "organisation": "Web Audio",
-        "id": 118,
+        "id": 117,
         "name": "Chinmay Pendharkar"
       }
     ],
@@ -3307,7 +3301,7 @@
     "speakers": [
       {
         "organisation": "Python User Group Singapore",
-        "id": 119,
+        "id": 118,
         "name": "Ivan Zimine"
       }
     ],
@@ -3328,7 +3322,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 120,
+        "id": 119,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -3400,7 +3394,7 @@
     "speakers": [
       {
         "organisation": "Jamia Millia Islamia",
-        "id": 121,
+        "id": 120,
         "name": "Shadab Zafar"
       }
     ],
@@ -3421,7 +3415,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 122,
+        "id": 121,
         "name": "Sundeep Anand"
       }
     ],
@@ -3463,7 +3457,7 @@
     "speakers": [
       {
         "organisation": "Moin Moin Wiki",
-        "id": 123,
+        "id": 122,
         "name": "Yask Srivastava"
       }
     ],
@@ -3484,7 +3478,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 120,
+        "id": 119,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -3596,7 +3590,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 124,
+        "id": 123,
         "name": "Amita Sharma"
       }
     ],
@@ -3617,7 +3611,7 @@
     "speakers": [
       {
         "organisation": "SymPy / PyDy",
-        "id": 125,
+        "id": 124,
         "name": "Sahil Shekhawat"
       }
     ],
@@ -3638,7 +3632,7 @@
     "speakers": [
       {
         "organisation": "SymPy",
-        "id": 126,
+        "id": 125,
         "name": "Amit Kumar JHA"
       }
     ],
@@ -3680,7 +3674,7 @@
     "speakers": [
       {
         "organisation": "Robolab, University of Extremadura, Spain",
-        "id": 127,
+        "id": 126,
         "name": "Marco A. Guti\u00e9rrez"
       }
     ],
@@ -3701,7 +3695,7 @@
     "speakers": [
       {
         "organisation": "IIT Roorkee",
-        "id": 128,
+        "id": 127,
         "name": "Ankita Shukla"
       }
     ],
@@ -3722,7 +3716,7 @@
     "speakers": [
       {
         "organisation": "Open Source Developers Club Malaysia",
-        "id": 129,
+        "id": 128,
         "name": "Errazudin Ishak"
       }
     ],
@@ -3743,7 +3737,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 130,
+        "id": 129,
         "name": "Fibish Madathil"
       }
     ],
@@ -3764,7 +3758,7 @@
     "speakers": [
       {
         "organisation": "Zynesis",
-        "id": 131,
+        "id": 130,
         "name": "U-Zyn Chua"
       }
     ],
@@ -3815,7 +3809,7 @@
     "speakers": [
       {
         "organisation": "Punjabi Wikimedians",
-        "id": 132,
+        "id": 131,
         "name": "Satdeep Gill"
       }
     ],
@@ -3836,7 +3830,7 @@
     "speakers": [
       {
         "organisation": "NFLabs Inc, Apache Software Foundation",
-        "id": 133,
+        "id": 132,
         "name": "Alexander Bezzubov"
       }
     ],
@@ -3857,7 +3851,7 @@
     "speakers": [
       {
         "organisation": "Humanitarian OpenStreetMap Team",
-        "id": 134,
+        "id": 133,
         "name": "Mhairi O'Hara"
       }
     ],
@@ -3878,7 +3872,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 135,
+        "id": 134,
         "name": "Thanh Son Le"
       }
     ],
@@ -3929,7 +3923,7 @@
     "speakers": [
       {
         "organisation": "Atazzo",
-        "id": 136,
+        "id": 135,
         "name": "Adam Drake"
       }
     ],
@@ -3950,7 +3944,7 @@
     "speakers": [
       {
         "organisation": "GeoICON Pte. Ltd",
-        "id": 137,
+        "id": 136,
         "name": "Ganeshkumar Shanmugam"
       }
     ],
@@ -3971,7 +3965,7 @@
     "speakers": [
       {
         "organisation": "Loklak",
-        "id": 138,
+        "id": 137,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -3992,7 +3986,7 @@
     "speakers": [
       {
         "organisation": "Living Analytics Research Centre (LARC)",
-        "id": 139,
+        "id": 138,
         "name": "Philips Kokoh Prasetyo"
       }
     ],
@@ -4028,7 +4022,7 @@
     "speakers": [
       {
         "organisation": "Punjabi Wikimedians",
-        "id": 132,
+        "id": 131,
         "name": "Satdeep Gill"
       }
     ],
@@ -4049,7 +4043,7 @@
     "speakers": [
       {
         "organisation": "Open-Event/FOSSASIA",
-        "id": 140,
+        "id": 139,
         "name": "Rafal Kowalski"
       },
       {
@@ -4090,7 +4084,7 @@
     "speakers": [
       {
         "organisation": "Loklak",
-        "id": 138,
+        "id": 137,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -4132,7 +4126,7 @@
     "speakers": [
       {
         "organisation": "NTT OSS Center",
-        "id": 141,
+        "id": 140,
         "name": "Kazuki Uehara"
       }
     ],
@@ -4153,7 +4147,7 @@
     "speakers": [
       {
         "organisation": "Vitesse Data",
-        "id": 142,
+        "id": 141,
         "name": "CK Tan"
       }
     ],
@@ -4204,7 +4198,7 @@
     "speakers": [
       {
         "organisation": "InMobi",
-        "id": 143,
+        "id": 142,
         "name": "Sivakumar K"
       }
     ],
@@ -4225,7 +4219,7 @@
     "speakers": [
       {
         "organisation": "Pivotal",
-        "id": 144,
+        "id": 143,
         "name": "Atri Sharma"
       }
     ],
@@ -4246,7 +4240,7 @@
     "speakers": [
       {
         "organisation": "Ajilius Pty. Ltd.",
-        "id": 145,
+        "id": 144,
         "name": "Ron Dunn"
       }
     ],
@@ -4267,7 +4261,7 @@
     "speakers": [
       {
         "organisation": "Tantan",
-        "id": 146,
+        "id": 145,
         "name": "Victor Blomqvist"
       }
     ],
@@ -4288,7 +4282,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 147,
+        "id": 146,
         "name": "PostgreSQL Community"
       }
     ],
@@ -4337,7 +4331,7 @@
     "speakers": [
       {
         "organisation": "MySQL, Oracle India Private Limited",
-        "id": 148,
+        "id": 147,
         "name": "Mayank Prasad"
       }
     ],
@@ -4379,7 +4373,7 @@
     "speakers": [
       {
         "organisation": "Oracle India Pvt. Ltd.",
-        "id": 149,
+        "id": 148,
         "name": "Manish Kumar"
       }
     ],
@@ -4400,7 +4394,7 @@
     "speakers": [
       {
         "organisation": "Oracle India Pvt. Ltd.",
-        "id": 150,
+        "id": 149,
         "name": "Abhishek Ranjan"
       }
     ],
@@ -4436,7 +4430,7 @@
     "speakers": [
       {
         "organisation": "Sanguine",
-        "id": 151,
+        "id": 150,
         "name": "Oren Golan"
       }
     ],
@@ -4499,7 +4493,7 @@
     "speakers": [
       {
         "organisation": "Winnow Solutions",
-        "id": 152,
+        "id": 151,
         "name": "Maxime Pourrat"
       }
     ],
@@ -4520,7 +4514,7 @@
     "speakers": [
       {
         "organisation": "\ud83d\udc30",
-        "id": 153,
+        "id": 152,
         "name": "Herr Flupke"
       }
     ],
@@ -4541,7 +4535,7 @@
     "speakers": [
       {
         "organisation": "freelancer",
-        "id": 154,
+        "id": 153,
         "name": "Alexander Couzens"
       }
     ],
@@ -4562,8 +4556,13 @@
     "speakers": [
       {
         "organisation": "Queensland Health",
-        "id": 155,
+        "id": 154,
         "name": "Norvan Vogt"
+      },
+      {
+        "organisation": "National Cheng Kung University",
+        "id": 155,
+        "name": "Menghsuan Tsai"
       }
     ],
     "description": "Organisational budgets are shrinking and stakeholders are putting increasing pressure on public sector organisations to be efficient without jeopardising service delivery. There is a multitude of ways to share and reuse software amongst organisations and the public sector employs (and has employed) a variety of different approaches. This session will specifically focus on open source software and the factors influencing the adoption of open source software within public sector organisations. The primary objective of the session is to explore open source software benefits for public sector organisations, discuss the current state of adoption, and review the motivators and a-motivators affecting adoption. A secondary objective of the session is to investigate where organisations are utilising open source software and whether organisations consider open source software as a means of achieving business goals.",
@@ -4652,6 +4651,27 @@
   },
   {
     "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Internet Society Singapore",
+        "id": 4,
+        "name": "Harish Pillay"
+      }
+    ],
+    "description": "What are the issues in the Brave New World? Harish Pillay looks at the Internet Society from a global perspective from Singapore and Asia.",
+    "title": "The Brave New World of Open Source",
+    "track": {
+      "id": 13,
+      "name": "Internet, Society, Community"
+    },
+    "start_time": "2016-03-19T03:00:00+00:00",
+    "session_id": "ISC-09",
+    "location": "Level 2, Einstein Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-19T04:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
     "speakers": [],
     "description": "",
     "title": "Group Photo",
@@ -4684,29 +4704,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "National Cheng Kung University",
-        "id": 158,
-        "name": "Menghsuan Tsai"
-      }
-    ],
-    "description": "As a student, we want to raise the awareness of using open source software online for free. The environment of using the open source software in Taiwan is monopolized by expensive software, such as Microsoft series, Adobe and Photoshop. People seldom get a chance to realize that they actually have easy access to resources online which is free and much more convenient. Moreover, most of the budget of our country is used to buy the copyrights of software packages, but in practice we only use the basic functions of them. Simply put, we waste a lot of money buying something which is unnecessary. We discover it is the language barrier that makes people in Taiwan less likely to use open source software programs. Getting the deeper understanding of the serious problem we faced with, we come up with some solutions. Using big data to analyze vocabularies which are used frequently, we gather the information to indicate language barriers. Moreover, we can list out all the words which is hard for people, so that engineers can use the software and check the vocabularies at the same time. By using methods to remember the vocabularies, engineers can easily use the software. We can even use big data to analyze the steps which are used frequently and visualize them as a report. Like, we make a brief introduction to summarize the basic functions. So people only need to recognize the steps and check it through the introduction when they need. We launch a workshop to teach them step by step in English how to use the open source software. By enhancing engineers\u2019 English ability, now we can create a community to start influencing the general public. We create a community to overcome the language barrier and to change the habits of Taiwanese for using software. We start from NCKU and share with other schools. We create a platform for sharing the information of updated software. By translating the information from the internet like opensource.com, we provide not only the materials for target group, but also chances to the general public to know the advantages of open source software.  On the other hand, we translate the video of \u201copensoucephysics\u201d to use the materials in our education system. By using the interesting videos and materials, teachers can inspire students to think outside the box and use their imagination to understand some difficult science concepts in classes. Furthermore, we can integrate the education materials with \u201cezgo\u201d and provide a chance for students to begin self-learning. We use three main methods to promote the use of open source software. First, we are going to launch a program which is composed of different schools such as NCKU, NCTU and NTU to create an engineering social media. Second, we cooperate with the professors and schools to open a course to invite students to join our translating program. Third, we create a social media and launch \u201chour of translate\u201d and invite friends to join us. Furthermore, we cooperate with the summer and winter camps to share our passion for open source software. To promote our ideas, we submit the application to teach for classes in other level of schools, such as elementary schools, junior schools and high schools.  It is necessary a waste that we seldom make the most of free resources online. We spend a lot of budget buying the software which is replaceable and deal with problems in an ineffective way. That is why we start this project to help others in an efficient way. ",
-    "title": "How to Share Open Source",
-    "track": {
-      "id": 13,
-      "name": "Internet, Society, Community"
-    },
-    "start_time": "2016-03-19T05:30:00+00:00",
-    "session_id": "ISC-13",
-    "location": "Level 2, Einstein Hall",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-19T06:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
         "organisation": "We Build SG",
-        "id": 159,
+        "id": 158,
         "name": "Sayanee Basu"
       }
     ],
@@ -4716,18 +4715,18 @@
       "id": 13,
       "name": "Internet, Society, Community"
     },
-    "start_time": "2016-03-19T06:00:00+00:00",
+    "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "ISC-14",
     "location": "Level 2, Einstein Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-19T06:30:00+00:00"
+    "end_time": "2016-03-19T06:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Mozilla India",
-        "id": 160,
+        "id": 159,
         "name": "Anivar Ammanath Aravind"
       }
     ],
@@ -4737,18 +4736,18 @@
       "id": 13,
       "name": "Internet, Society, Community"
     },
-    "start_time": "2016-03-19T06:30:00+00:00",
+    "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "ISC-15",
     "location": "Level 2, Einstein Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-19T07:00:00+00:00"
+    "end_time": "2016-03-19T06:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Open Invention Network",
-        "id": 161,
+        "id": 160,
         "name": "Keith Bergelt"
       }
     ],
@@ -4758,18 +4757,18 @@
       "id": 13,
       "name": "Internet, Society, Community"
     },
-    "start_time": "2016-03-19T07:00:00+00:00",
+    "start_time": "2016-03-19T06:30:00+00:00",
     "session_id": "ISC-16",
     "location": "Level 2, Einstein Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-19T07:30:00+00:00"
+    "end_time": "2016-03-19T07:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 162,
+        "id": 161,
         "name": "Anwesha Das"
       }
     ],
@@ -4779,18 +4778,18 @@
       "id": 13,
       "name": "Internet, Society, Community"
     },
-    "start_time": "2016-03-19T07:30:00+00:00",
+    "start_time": "2016-03-19T07:00:00+00:00",
     "session_id": "ISC-17",
     "location": "Level 2, Einstein Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-19T08:00:00+00:00"
+    "end_time": "2016-03-19T07:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Open Invention Network",
-        "id": 163,
+        "id": 162,
         "name": "Kevin Huang"
       }
     ],
@@ -4800,8 +4799,29 @@
       "id": 13,
       "name": "Internet, Society, Community"
     },
-    "start_time": "2016-03-19T08:00:00+00:00",
+    "start_time": "2016-03-19T07:30:00+00:00",
     "session_id": "ISC-18",
+    "location": "Level 2, Einstein Hall",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-19T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Red Hat",
+        "id": 123,
+        "name": "Amita Sharma"
+      }
+    ],
+    "description": "1. How to contribute in improving quality of open source software 2. Get inspiration how to create test harness for your application 3. How to alter your software development model to produce bug-free code. 4. Altering your development model to match SW quality standards.  5. Study the technology, know the feature well and use your experience 6. Know the point when it is time to report a bug 7. How to troubleshoot the issues. ",
+    "title": "Testing - Best Practices in Open Souce World",
+    "track": {
+      "id": 13,
+      "name": "Internet, Society, Community"
+    },
+    "start_time": "2016-03-19T08:00:00+00:00",
+    "session_id": "ISC-19",
     "location": "Level 2, Einstein Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T08:30:00+00:00"
@@ -4811,7 +4831,7 @@
     "speakers": [
       {
         "organisation": "BlankOn",
-        "id": 164,
+        "id": 163,
         "name": "Syah Dwi Prihatmoko"
       }
     ],
@@ -4822,25 +4842,31 @@
       "name": "Internet, Society, Community"
     },
     "start_time": "2016-03-19T08:30:00+00:00",
-    "session_id": "ISC-19",
+    "session_id": "ISC-04",
     "location": "Level 2, Einstein Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T09:00:00+00:00"
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "",
+    "speakers": [
+      {
+        "organisation": "Internet Society Singapore",
+        "id": 4,
+        "name": "Harish Pillay"
+      }
+    ],
+    "description": "Many questions are lying ahead in the field of Internet, Society, Policies, and Community - What's next? Participants from the track will get together and discuss next steps and how to collaborate after the FOSSASIA 2016 summit.",
+    "title": "What's next?",
     "track": {
       "id": 13,
       "name": "Internet, Society, Community"
     },
     "start_time": "2016-03-19T09:00:00+00:00",
-    "session_id": "ISC-04",
+    "session_id": "ISC-23",
     "location": "Level 2, Einstein Hall",
-    "type": "",
-    "end_time": "2016-03-19T09:30:00+00:00"
+    "type": "Panel of 1 hour",
+    "end_time": "2016-03-19T10:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -4862,7 +4888,7 @@
     "speakers": [
       {
         "organisation": "GNOME",
-        "id": 165,
+        "id": 164,
         "name": "Tobias Mueller"
       }
     ],
@@ -4883,7 +4909,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 166,
+        "id": 165,
         "name": "Huzaifa Sidhpurwala"
       }
     ],
@@ -4904,7 +4930,7 @@
     "speakers": [
       {
         "organisation": "Privly",
-        "id": 167,
+        "id": 166,
         "name": "Sambuddha Basu"
       }
     ],
@@ -4940,7 +4966,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 168,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -4961,7 +4987,7 @@
     "speakers": [
       {
         "organisation": "Equinix",
-        "id": 169,
+        "id": 168,
         "name": "Michael Rebultan"
       }
     ],
@@ -5018,7 +5044,7 @@
     "speakers": [
       {
         "organisation": "Science Centre",
-        "id": 170,
+        "id": 169,
         "name": "Eileen/Kiruthika"
       }
     ],
@@ -5060,7 +5086,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 171,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5081,7 +5107,7 @@
     "speakers": [
       {
         "organisation": "#NEWPALMYRA",
-        "id": 172,
+        "id": 171,
         "name": "Barry Threw Jon Phillips"
       }
     ],
@@ -5102,7 +5128,7 @@
     "speakers": [
       {
         "organisation": "Valentina",
-        "id": 173,
+        "id": 172,
         "name": "Susan Spencer"
       }
     ],
@@ -5123,7 +5149,7 @@
     "speakers": [
       {
         "organisation": "Touch & Print",
-        "id": 174,
+        "id": 173,
         "name": "Leon Lim"
       }
     ],
@@ -5165,7 +5191,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 171,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5216,7 +5242,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 171,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5267,7 +5293,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 171,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5303,7 +5329,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 171,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5324,7 +5350,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 171,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5345,7 +5371,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 171,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5366,7 +5392,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 171,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5387,7 +5413,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 171,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5471,7 +5497,7 @@
     "speakers": [
       {
         "organisation": "GNOME",
-        "id": 165,
+        "id": 164,
         "name": "Tobias Mueller"
       }
     ],
@@ -5507,7 +5533,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 175,
+        "id": 174,
         "name": "Chris Lamb"
       }
     ],
@@ -5528,7 +5554,7 @@
     "speakers": [
       {
         "organisation": "Oracle Corporation Singapore Pte Ltd",
-        "id": 176,
+        "id": 175,
         "name": "Anand Jain"
       }
     ],
@@ -5549,7 +5575,7 @@
     "speakers": [
       {
         "organisation": "Deepin",
-        "id": 177,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -5591,7 +5617,7 @@
     "speakers": [
       {
         "organisation": "The Processing Foundation",
-        "id": 178,
+        "id": 177,
         "name": "Umair Khan"
       }
     ],
@@ -5612,7 +5638,7 @@
     "speakers": [
       {
         "organisation": "Autodesk",
-        "id": 179,
+        "id": 178,
         "name": "Owais Zahid"
       }
     ],
@@ -5654,7 +5680,7 @@
     "speakers": [
       {
         "organisation": "ownCloud, Open Source Design",
-        "id": 180,
+        "id": 179,
         "name": "Jan-Christoph Borchardt"
       }
     ],
@@ -5690,7 +5716,7 @@
     "speakers": [
       {
         "organisation": "Code Artist",
-        "id": 181,
+        "id": 180,
         "name": "Sher Minn Chong"
       }
     ],
@@ -5711,7 +5737,7 @@
     "speakers": [
       {
         "organisation": "VRcollab",
-        "id": 182,
+        "id": 181,
         "name": "Jia Hen Tee"
       }
     ],
@@ -5732,7 +5758,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 183,
+        "id": 182,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -5789,7 +5815,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 184,
+        "id": 183,
         "name": "David Effendi"
       }
     ],
@@ -5873,7 +5899,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 168,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -5915,7 +5941,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 177,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -5936,7 +5962,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 183,
+        "id": 182,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -5957,7 +5983,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 185,
+        "id": 184,
         "name": "Ankit -"
       }
     ],
@@ -6020,7 +6046,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 186,
+        "id": 185,
         "name": "Misako Ito"
       }
     ],
@@ -6062,7 +6088,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 187,
+        "id": 186,
         "name": "Peter LIM"
       }
     ],
@@ -6083,7 +6109,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 188,
+        "id": 187,
         "name": "Claire Tan"
       }
     ],
@@ -6134,7 +6160,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 184,
+        "id": 183,
         "name": "David Effendi"
       }
     ],
@@ -6218,7 +6244,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 168,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -6260,7 +6286,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 177,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -6281,7 +6307,7 @@
     "speakers": [
       {
         "organisation": "Singtel",
-        "id": 189,
+        "id": 188,
         "name": "Emin Aksehirli"
       }
     ],
@@ -6302,7 +6328,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 183,
+        "id": 182,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6323,7 +6349,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 185,
+        "id": 184,
         "name": "Ankit -"
       }
     ],
@@ -6386,7 +6412,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 186,
+        "id": 185,
         "name": "Misako Ito"
       }
     ],
@@ -6428,7 +6454,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 187,
+        "id": 186,
         "name": "Peter LIM"
       }
     ],
@@ -6449,7 +6475,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 188,
+        "id": 187,
         "name": "Claire Tan"
       }
     ],
@@ -6500,7 +6526,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 184,
+        "id": 183,
         "name": "David Effendi"
       }
     ],
@@ -6584,7 +6610,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 168,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -6626,7 +6652,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 177,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -6647,7 +6673,7 @@
     "speakers": [
       {
         "organisation": "Singtel",
-        "id": 189,
+        "id": 188,
         "name": "Emin Aksehirli"
       }
     ],
@@ -6668,7 +6694,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 183,
+        "id": 182,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6689,7 +6715,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 185,
+        "id": 184,
         "name": "Ankit -"
       }
     ],
@@ -6752,7 +6778,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 186,
+        "id": 185,
         "name": "Misako Ito"
       }
     ],
@@ -6794,7 +6820,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 187,
+        "id": 186,
         "name": "Peter LIM"
       }
     ],
@@ -6815,7 +6841,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 188,
+        "id": 187,
         "name": "Claire Tan"
       }
     ],
