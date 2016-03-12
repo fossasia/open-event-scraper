@@ -63,3 +63,9 @@ target/
 
 # CSV/TSV files
 *.csv
+
+# sublime
+*.sublime-*
+
+# node.js
+node_modules/

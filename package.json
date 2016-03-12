@@ -1,0 +1,28 @@
+{
+  "name": "open-event-scraper",
+  "version": "1.0.0",
+  "description": "Data scraper and site generator for FA16 schedule",
+  "main": "schedule/generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scraper": "python scraper.py",
+    "generator": "node schedule/generator.js > schedule/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fossasia/open-event-scraper.git"
+  },
+  "keywords": [
+    "fossasia"
+  ],
+  "author": "FOSSASIA Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fossasia/open-event-scraper/issues"
+  },
+  "homepage": "https://github.com/fossasia/open-event-scraper#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "moment": "^2.12.0"
+  }
+}
