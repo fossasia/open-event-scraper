@@ -4,4 +4,4 @@ python:
 install: pip install -r requirements.txt
 before_script:
   - npm install
-script: python scraper.py
+script: npm run scraper
