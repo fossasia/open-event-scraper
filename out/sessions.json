@@ -2179,44 +2179,22 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Mozilla",
+        "organisation": "Garuda Robotics",
         "id": 75,
-        "name": "Akhil Pandey"
+        "name": "Jiin Joo Ong"
       }
     ],
-    "description": "The project deals with the usage of open hardware and combining the effort with javascript in helping build file servers,  media servers etc. The concentration of the project would be more about optimizing existing core node modules.",
-    "title": "Javascript and IOT",
+    "description": "Get your hands dirty with various open source software for working with drones, including DroneKit, MAVLink, and Mission Planner.",
+    "title": "Open Source Drones",
     "track": {
       "order": 7,
       "name": "Hardware and IoT",
       "id": 7
     },
     "start_time": "2016-03-18T06:00:00+00:00",
-    "session_id": "HW-02",
+    "session_id": "HW-19",
     "location": "Level 1, Eco Garden Lab",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T06:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "FOSSASIA",
-        "id": 76,
-        "name": "Roland Turner"
-      }
-    ],
-    "description": "Satellite communication is moderately difficult. It can be achieved with handheld antennas but (a) this is more difficult than it needs to be and (b) this limits your ability to communicate in marginal conditions. Building a rotator/elevator that is capable of automatically tracking a satellite across the sky frees up one hand which simplifies the process and increases pointing precision, meaning that you're better able to communicate in marginal conditions than you would be with a handheld antenna. In this talk I'll describe my build of the \"Tricked-Out WRAPS\" system and, if we're really lucky, demonstrate it live.",
-    "title": "Building an open-source satellite tracker to talk via satellites",
-    "track": {
-      "order": 7,
-      "name": "Hardware and IoT",
-      "id": 7
-    },
-    "start_time": "2016-03-18T06:30:00+00:00",
-    "session_id": "HW-03",
-    "location": "Level 1, Eco Garden Lab",
-    "type": "Talk of 20 minutes",
+    "type": "Workshop of 1 hour",
     "end_time": "2016-03-18T07:00:00+00:00"
   },
   {
@@ -2224,7 +2202,7 @@
     "speakers": [
       {
         "organisation": "dell",
-        "id": 77,
+        "id": 76,
         "name": "Parmeshwr Prasad Vishwakarma"
       }
     ],
@@ -2246,7 +2224,7 @@
     "speakers": [
       {
         "organisation": "Opera",
-        "id": 78,
+        "id": 77,
         "name": "Shwetank Dixit"
       }
     ],
@@ -2268,7 +2246,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 79,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
@@ -2322,7 +2300,7 @@
     "speakers": [
       {
         "organisation": "Smart guidance for blind",
-        "id": 80,
+        "id": 79,
         "name": "Jaminy Prabaharan"
       }
     ],
@@ -2334,7 +2312,7 @@
       "id": 7
     },
     "start_time": "2016-03-19T02:00:00+00:00",
-    "session_id": "HW-22",
+    "session_id": "HW-08",
     "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:30:00+00:00"
@@ -2344,7 +2322,7 @@
     "speakers": [
       {
         "organisation": "Makino Asia Private Limited",
-        "id": 81,
+        "id": 80,
         "name": "Abhishek Agrawal"
       }
     ],
@@ -2366,7 +2344,7 @@
     "speakers": [
       {
         "organisation": "Tusitala Digital Storytelling",
-        "id": 82,
+        "id": 81,
         "name": "Saad Chinoy"
       }
     ],
@@ -2420,7 +2398,7 @@
     "speakers": [
       {
         "organisation": "Netwalker Laboratory, Tokaido Linux Users Group",
-        "id": 83,
+        "id": 82,
         "name": "Kenji Shimono"
       }
     ],
@@ -2442,7 +2420,7 @@
     "speakers": [
       {
         "organisation": "Samsung Electronics",
-        "id": 84,
+        "id": 83,
         "name": "Carsten Haitzler"
       }
     ],
@@ -2464,7 +2442,7 @@
     "speakers": [
       {
         "organisation": "teamLab, and Nico-Tech",
-        "id": 85,
+        "id": 84,
         "name": "Masakazu Takasu"
       }
     ],
@@ -2486,7 +2464,7 @@
     "speakers": [
       {
         "organisation": "Beagleboard",
-        "id": 86,
+        "id": 85,
         "name": "Deepak Karki Aishwarya Kaliki"
       }
     ],
@@ -2508,7 +2486,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, BKIT, Bhalki, Karnataka, INDIA",
-        "id": 87,
+        "id": 86,
         "name": "Dr. Udaykumar Khadke"
       }
     ],
@@ -2530,7 +2508,7 @@
     "speakers": [
       {
         "organisation": "National University of Singapore",
-        "id": 88,
+        "id": 87,
         "name": "Abhishek Mishra"
       }
     ],
@@ -2551,22 +2529,44 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Garuda Robotics",
-        "id": 89,
-        "name": "Jiin Joo Ong"
+        "organisation": "FOSSASIA",
+        "id": 88,
+        "name": "Roland Turner"
       }
     ],
-    "description": "Get your hands dirty with various open source software for working with drones, including DroneKit, MAVLink, and Mission Planner.",
-    "title": "Open Source Drones",
+    "description": "Satellite communication is moderately difficult. It can be achieved with handheld antennas but (a) this is more difficult than it needs to be and (b) this limits your ability to communicate in marginal conditions. Building a rotator/elevator that is capable of automatically tracking a satellite across the sky frees up one hand which simplifies the process and increases pointing precision, meaning that you're better able to communicate in marginal conditions than you would be with a handheld antenna. In this talk I'll describe my build of the \"Tricked-Out WRAPS\" system and, if we're really lucky, demonstrate it live.",
+    "title": "Building an open-source satellite tracker to talk via satellites",
     "track": {
       "order": 7,
       "name": "Hardware and IoT",
       "id": 7
     },
     "start_time": "2016-03-19T08:30:00+00:00",
-    "session_id": "HW-19",
+    "session_id": "HW-03",
     "location": "Level 1, Eco Garden Lab",
-    "type": "Workshop of 1 hour",
+    "type": "Talk of 20 minutes",
+    "end_time": "2016-03-19T09:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Mozilla",
+        "id": 89,
+        "name": "Akhil Pandey"
+      }
+    ],
+    "description": "The project deals with the usage of open hardware and combining the effort with javascript in helping build file servers,  media servers etc. The concentration of the project would be more about optimizing existing core node modules.",
+    "title": "Javascript and IOT",
+    "track": {
+      "order": 7,
+      "name": "Hardware and IoT",
+      "id": 7
+    },
+    "start_time": "2016-03-19T09:00:00+00:00",
+    "session_id": "HW-02",
+    "location": "Level 1, Eco Garden Lab",
+    "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T09:30:00+00:00"
   },
   {
@@ -3402,7 +3402,7 @@
         "name": "Sebastiaan Deckers"
       },
       {
-        "organisation": "",
+        "organisation": "CampJS",
         "id": 42,
         "name": "Tim Oxley"
       }
@@ -3469,7 +3469,7 @@
     "speakers": [
       {
         "organisation": "Python Software Foundation",
-        "id": 79,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
@@ -3535,7 +3535,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 79,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
@@ -3699,7 +3699,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 79,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
