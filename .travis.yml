@@ -4,4 +4,4 @@ python:
 install: pip install -r requirements.txt
 before_script:
   - npm install
-script: npm run scraper
+script: npm run scraper && npm run generator
