@@ -19,7 +19,11 @@ const travis = request.defaults({
 
 app.use(bodyParser.json())
 
-app.post('/build', (req, res, next) => {
+app.get('/', (req, res, next) => {
+  res.status(200, 'OK')
+})
+
+app.get('/build', (req, res, next) => {
   authorize((err, token) => {
     if (err) next(err)
     else triggerBuild(token, (err, data) => {
