@@ -11,16 +11,10 @@ import urllib2
 from pprint import pprint
 from models import *
 
-# TODOS:
-# 1. Multiple speakers
-# 2. Sesion association
-
 # Track config is filename, header
 # Should have all track information
 # ID Prefix = should be unique across tracks
 # Color code
-
-
 SHEET_ID = '1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc'
 SHEET_VERSIONING_GID = '1847379562'
 
@@ -51,7 +45,8 @@ def parse_tracklist(track_data):
                 header_line = int(row["Header Line"]),
                 key_color = row["Key Color"],
                 location = row["Room"],
-                gid = row["GID"]
+                gid = row["GID"],
+                order = i
             )
             tracks.append(track)
 
@@ -169,7 +164,7 @@ def parse_row(row, last_speaker, last_session, current_track):
     if not hasattr(session, 'type'):
         session.type = row["Type"]
     if not hasattr(session, 'track'):
-        session.track = {'id': track.id, 'name': track.name}
+        session.track = {'id': track.id, 'name': track.name, 'order': track.order}
     if not hasattr(session, 'location'):
         if row.has_key('Location') and row['Location']:
             session.location = row['Location']

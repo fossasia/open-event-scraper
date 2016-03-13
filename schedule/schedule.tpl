@@ -17,8 +17,8 @@
     <!-- Latest compiled and minified CSS -->
     <link rel="shortcut icon" href="../fossasia.ico" type="image/x-icon" />
     <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>  
-    
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
+
     <link rel="stylesheet" href="../css/schedule.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -33,8 +33,8 @@
     <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-          <button 
-            type="button" 
+          <button
+            type="button"
             class="navbar-toggle collapsed"
             data-toggle="collapse"
             data-target="#navbar"
@@ -49,14 +49,14 @@
           <ul class="nav navbar-nav">
             {{#days}}
             <li class="dropdown">
-              <a 
-                href="#" 
+              <a
+                href="#"
                 class="dropdown-toggle"
                 data-toggle="dropdown"
                 role="button"
                 aria-haspopup="true"
                 aria-expanded="false">
-              {{caption}} 
+              {{caption}}
               <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
@@ -128,12 +128,14 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.2/moment.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" 
-      integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" 
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+      integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
       crossorigin="anonymous"></script>
     <script type="text/javascript">
       // var ts = new Date().valueOf() // cache breaker
       // document.write('<script src="./main.js?t=' + ts + '"><\/script>')
     </script>
+    <script src="js/skrollr.min.js"></script>
+    <script src="js/smooth-scroll.min.js"></script>
   </body>
 </html>

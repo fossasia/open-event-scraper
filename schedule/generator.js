@@ -30,7 +30,7 @@ function foldByDate(tracks) {
   })
 
   let dates = Array.from(dateMap.values())
-  dates.forEach(date => date.tracks.sort(byProperty('slug')))
+  dates.forEach(date => date.tracks.sort(byProperty('sortKey')))
 
   return dates;
 }
@@ -46,6 +46,11 @@ function byProperty(key) {
 function sessionId(session) {
   let data = session.title
   return crypto.createHash('md5').update(data).digest('hex');
+}
+
+function zeroFill(num) {
+  if (num >= 10) return num.toString()
+  else return '0' + num.toString()
 }
 
 function foldByTrack(sessions) {
@@ -66,6 +71,7 @@ function foldByTrack(sessions) {
         title: session.track.name,
         date: moment(session.start_time).format('ddd, MMM DD'),
         slug: slug, 
+        sortKey: date + '-' + zeroFill(session.track.order),
         sessions: []
       }
       trackData.set(slug, track)
@@ -84,15 +90,15 @@ function foldByTrack(sessions) {
     })
   })
 
-  return Array.from(trackData.values())
+  let tracks = Array.from(trackData.values())
+  tracks.sort(byProperty('sortKey'))
+
+  return tracks
 }
 
 function transformData(data) {
   let tracks = foldByTrack(data.sessions)
   let days = foldByDate(tracks)
-
-  tracks.sort(byProperty('slug'))
-
   return {tracks, days}
 }
 

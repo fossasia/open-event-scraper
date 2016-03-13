@@ -8,8 +8,9 @@ class Track(object):
     track_image_url = "http://lorempixel.com/400/200"
     location = ""
     gid = ""
+    order = -1
 
-    def __init__(self, id, name, header_line, key_color, location, gid):
+    def __init__(self, id, name, header_line, key_color, location, gid, order):
         super(Track, self).__init__()
         self.id = id
         self.name = name
@@ -18,6 +19,7 @@ class Track(object):
         self.track_image_url = "http://lorempixel.com/400/200"
         self.location = location
         self.gid = gid
+        self.order = order
 
 
 class Speaker(object):
