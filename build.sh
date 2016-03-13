@@ -2,9 +2,18 @@
 #!/bin/sh
 set -e
 
+python scraper.py
+
+# don't continue if no changes
+if git diff-index --quiet HEAD; then
+  exit 0
+fi
+
+git commit -m '[Auto] updated json files [ci skip]' out/*.json
+git push "https://${GH_TOKEN}@github.com/fossasia/open-event-scraper" master
+
 git clone --depth=1 "https://${GH_TOKEN}@github.com/fossasia/2016.fossasia.org" fa16-repo
 
-python scraper.py
 node schedule/generator > fa16-repo/schedule/index.html
 
 cd fa16-repo
