@@ -82,16 +82,15 @@ function foldByTrack(sessions, speakers) {
       track = trackData.get(slug)
     }
 
-    let sessionData = {
+    track.sessions.push({
       start: moment(session.start_time).utcOffset(8).format('hh:mm a'),
       title: session.title,
       type: session.type,
       location: session.location,
       speakers_list: session.speakers.map(speaker => speakersMap.get(speaker.id)),
-      description: session.description
-    }
-    sessionData.uniqid = sessionId(session.track.name, sessionData.start)
-    track.sessions.push(sessionData)
+      description: session.description,
+      uniqid: sessionId(session.track.name, session.start_time)
+    })
   })
 
   let tracks = Array.from(trackData.values())
