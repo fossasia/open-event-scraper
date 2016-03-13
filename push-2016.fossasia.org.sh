@@ -2,7 +2,7 @@
 #!/bin/sh
 set -e
 
-if !git diff-index --quiet HEAD schedule/index.html; then
+if ! git diff-index --quiet HEAD schedule/index.html; then
   git clone "https://${GH_TOKEN}@github.com/fossasia/2016.fossasia.org" repo_out
   cp schedule/index.html repo_out/schedule/index.html
   cd repo_out
