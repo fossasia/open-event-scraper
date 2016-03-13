@@ -7,7 +7,8 @@ const handlebars = require('handlebars')
 
 const tpl = handlebars.compile(fs.readFileSync(__dirname + '/schedule.tpl').toString('utf-8'))
 const note_to_contributors = "Note to contributors: Do not submit any changes to this page, as it is generated automatically from https://github.com/fossasia/open-event-scraper."
-const rawData = require('../out/sessions.json')
+const sessionsData = require('../out/sessions.json')
+const speakersData = require('../out/speakers.json')
 
 function slugify(str) {
   return str.replace(/[^\w]/g, '-').replace(/-+/g, '-').toLowerCase()
@@ -54,8 +55,9 @@ function zeroFill(num) {
   else return '0' + num.toString()
 }
 
-function foldByTrack(sessions) {
+function foldByTrack(sessions, speakers) {
   let trackData = new Map()
+  let speakersMap = new Map(speakers.map(s => [s.id, s]));
 
   sessions.forEach(session => {
     if (!session.start_time)
@@ -86,6 +88,7 @@ function foldByTrack(sessions) {
       type: session.type,
       location: session.location,
       speakers: session.speakers.map(speakerName).join(', '),
+      speakers_list: session.speakers.map(speaker => speakersMap.get(speaker.id)),
       description: session.description,
       uniqid: sessionId(session)
     })
@@ -97,12 +100,12 @@ function foldByTrack(sessions) {
   return tracks
 }
 
-function transformData(data) {
-  let tracks = foldByTrack(data.sessions)
+function transformData(sessions, speakers) {
+  let tracks = foldByTrack(sessions.sessions, speakers.speakers)
   let days = foldByDate(tracks)
   return {tracks, days}
 }
 
-const data = transformData(rawData)
+const data = transformData(sessionsData, speakersData)
 data.note_to_contributors = note_to_contributors
 process.stdout.write(tpl(data))
