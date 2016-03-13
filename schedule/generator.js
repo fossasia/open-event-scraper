@@ -6,6 +6,7 @@ const moment = require('moment')
 const handlebars = require('handlebars')
 
 const tpl = handlebars.compile(fs.readFileSync(__dirname + '/schedule.tpl').toString('utf-8'))
+const note_to_contributors = "Note to contributors: Do not submit any changes to this page, as it is generated automatically from https://github.com/fossasia/open-event-scraper."
 const rawData = require('../out/sessions.json')
 
 function slugify(str) {
@@ -103,4 +104,5 @@ function transformData(data) {
 }
 
 const data = transformData(rawData)
+data.note_to_contributors = note_to_contributors
 process.stdout.write(tpl(data))

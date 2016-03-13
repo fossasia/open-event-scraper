@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- {{note_to_contributors}} -->
 <html lang="en">
   <head>
 
