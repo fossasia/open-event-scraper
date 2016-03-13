@@ -5371,7 +5371,7 @@
         "name": "Science Hacks and Science Hackers"
       }
     ],
-    "description": "",
+    "description": "What ideas would participants like to work on?",
     "title": "Lightning talks - Participants present their hacking ideas and call for co-workers",
     "track": {
       "order": 15,
@@ -5503,7 +5503,7 @@
         "name": "Science Hacks and Science Hackers"
       }
     ],
-    "description": "",
+    "description": "Let's see what outcome we can get at the end of the Science Hack Day on Sunday evening. First step, we form groups to work on the hacking ideas.",
     "title": "Groups - Participants form groups to work on hacking ideas",
     "track": {
       "order": 15,
@@ -5513,7 +5513,7 @@
     "start_time": "2016-03-19T03:00:00+00:00",
     "session_id": "SHD-08",
     "location": "Level 1, Tinkering Studio",
-    "type": "",
+    "type": "Group Activity",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
   {
