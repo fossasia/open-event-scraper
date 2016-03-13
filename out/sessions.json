@@ -171,15 +171,9 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "OpenArtTech",
-        "id": 8,
-        "name": "Awesome Surprise Talk"
-      }
-    ],
-    "description": "",
-    "title": "The Outstanding Keynote at FOSSASIA",
+    "speakers": [],
+    "description": "\u201cThe Other Nefertiti\u201d is an artistic intervention by Jan Nikolai Nelles and Nora Al- Badri which went viral. \u201cWith the data leak as a part of this counter narrative within our investigative practice we want to activate the artefact, to inspire a critical re-assessment of today\u2019s conditions and to overcome the colonial notion of possession in Germany's museums\u201d. With regard to the notion of belonging and possession of material objects of other cultures, the artists intention is to make cultural objects publicly accessible and to promote a contemporary and critical approach on how the \u201cGlobal North\u201c deals with heritage and the representation of \u201cthe Other\u201d. \u201cWe should tell stories of entanglement and Nefertiti is a great case to start with to tell stories from very different angles and to see how they intertwine.\u201c At this link you will find a torrent to access the dataset under a public domain: http://nefertitihack.alloversky.com  Here is the video showing the scanning process: https://vimeo.com/148156899  \u201cThe Other Nefertiti\u201d  is a conceptual art piece questioning singularity and originality as well as ownership of material objects of other cultures. Nora Al-Badri and Jan Nikolai Nelles  went to the Neues Museum and scanned the iconic bust, but of course nobody knows if even this is the original bust. Through time and restoration there might not much genuine be left of the artifact itself. We give meaning to objects as well as we give meaning to data. Why worshipping the original, while we have all that beautiful remixes as of today? Maybe it was a server hack, a copy scan, an inside job, the cleaner, a hoax, but who cares, first of all it is an art piece. Of course a scan of the same thing looks the same, doesn't it? And tomorrow everybody with cameras or smartphones or Xbox will have the means and technique, where one can reclaim the interpretational sovereignty through scanning and sharing.   What the artists strived to achieve is a vivid discussion about the notion of possession and belonging of history in our museums and our minds. A discussion on the originality and truth of data as well as material objects is necessary, because in the end one concludes, that the institutional practice of todays museums and collections all around the Western world are corrupted. Museums are telling fictional stories, their stories, just because they control the artifacts and the way of representation. The fetishization of sacred staged artifacts and the Disneyfication is producing capital value for illicit trading and looting artifacts. One can't find a reflection about violent entanglement of the museums and their inherent colonial patina themselves. But isn't representing \u201cThe Other\u201d always violent? Art is about building new narratives, deconstructing power relations, not scanning techniques... .",
+    "title": "Jan Nikolai Nelles",
     "track": {
       "order": 2,
       "name": "OpenTech and IoT",
@@ -188,7 +182,7 @@
     "start_time": "2016-03-18T03:35:00+00:00",
     "session_id": "OT-07",
     "location": "Marquee Theatre",
-    "type": "",
+    "type": "#NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
     "end_time": "2016-03-18T04:05:00+00:00"
   },
   {
@@ -248,7 +242,7 @@
     "start_time": "2016-03-18T05:30:00+00:00",
     "session_id": "OT-10",
     "location": "Level 3, Dalton Hall",
-    "type": "Keynote of 25 minutes",
+    "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:00:00+00:00"
   },
   {
@@ -270,7 +264,7 @@
     "start_time": "2016-03-18T06:00:00+00:00",
     "session_id": "OT-14",
     "location": "Dalton Hall",
-    "type": "Keynote of 25 minutes",
+    "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:30:00+00:00"
   },
   {
@@ -336,7 +330,7 @@
     "start_time": "2016-03-18T07:20:00+00:00",
     "session_id": "OT-64",
     "location": "Dalton Hall",
-    "type": "Keynote of 25 minutes",
+    "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:50:00+00:00"
   },
   {
@@ -355,11 +349,11 @@
       "name": "OpenTech and IoT",
       "id": 2
     },
-    "start_time": "2016-03-18T07:50:00+00:00",
+    "start_time": "2016-03-18T07:45:00+00:00",
     "session_id": "OT-13",
     "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T08:20:00+00:00"
+    "end_time": "2016-03-18T08:15:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -461,9 +455,15 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "",
+    "speakers": [
+      {
+        "organisation": "Nanyang Technological University",
+        "id": 19,
+        "name": "Francis Bond"
+      }
+    ],
+    "description": "How a combination of technical and social engineering has led to a multi-million lexical database, accessible for all. It has over two million words in 150 languages, organized into concepts and linked in a semantic network. The data is downloadable and available as linked open data.  Every year we add tens of thousands of new senses (concept-word pairs), and richer links between them.   We will talk about how we organize the data, how we freed it and the Python API for accessing it.",
+    "title": "Linking the word's languages in the Open Multilingual Wordnet",
     "track": {
       "order": 2,
       "name": "OpenTech and IoT",
@@ -472,7 +472,7 @@
     "start_time": "2016-03-19T02:30:00+00:00",
     "session_id": "OT-21",
     "location": "Dalton Hall",
-    "type": "",
+    "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
   {
@@ -480,7 +480,7 @@
     "speakers": [
       {
         "organisation": "YaCy.net",
-        "id": 19,
+        "id": 20,
         "name": "Michael Christen"
       }
     ],
@@ -502,7 +502,7 @@
     "speakers": [
       {
         "organisation": "Hewlett Packard Enterprise",
-        "id": 20,
+        "id": 21,
         "name": "Elizabeth Joseph"
       }
     ],
@@ -572,7 +572,7 @@
     "speakers": [
       {
         "organisation": "Cisco",
-        "id": 22,
+        "id": 23,
         "name": "Sarvesh Ranjan"
       }
     ],
@@ -594,7 +594,7 @@
     "speakers": [
       {
         "organisation": "OpenMRS",
-        "id": 23,
+        "id": 24,
         "name": "Mayank Sharma"
       }
     ],
@@ -616,7 +616,7 @@
     "speakers": [
       {
         "organisation": "Hewlett Packard Enterprise ",
-        "id": 24,
+        "id": 25,
         "name": "Dong Ma"
       }
     ],
@@ -638,7 +638,7 @@
     "speakers": [
       {
         "organisation": "KDE",
-        "id": 25,
+        "id": 26,
         "name": "Garvit Khatri"
       }
     ],
@@ -660,7 +660,7 @@
     "speakers": [
       {
         "organisation": "Kony, Inc.",
-        "id": 26,
+        "id": 27,
         "name": "Damini Satya Kammakomati"
       }
     ],
@@ -682,7 +682,7 @@
     "speakers": [
       {
         "organisation": "OpenTech",
-        "id": 27,
+        "id": 28,
         "name": "Eugene Teo"
       }
     ],
@@ -704,7 +704,7 @@
     "speakers": [
       {
         "organisation": "National Institute of Technology Warangal",
-        "id": 28,
+        "id": 29,
         "name": "Rajat Ujawane"
       }
     ],
@@ -726,7 +726,7 @@
     "speakers": [
       {
         "organisation": "CryoWerx",
-        "id": 29,
+        "id": 30,
         "name": "Faris Muhamad Ali Fadloli"
       }
     ],
@@ -748,7 +748,7 @@
     "speakers": [
       {
         "organisation": "Thinkbroad",
-        "id": 30,
+        "id": 31,
         "name": "Kranthi Kiran Guduru"
       }
     ],
@@ -770,7 +770,7 @@
     "speakers": [
       {
         "organisation": "BlankOn Project",
-        "id": 31,
+        "id": 32,
         "name": "Kukuh Syafaat"
       }
     ],
@@ -792,7 +792,7 @@
     "speakers": [
       {
         "organisation": "Loklak / National Institute of Technology Warangal",
-        "id": 32,
+        "id": 33,
         "name": "Sudheesh Singanamalla"
       }
     ],
@@ -814,7 +814,7 @@
     "speakers": [
       {
         "organisation": "sTeam",
-        "id": 33,
+        "id": 34,
         "name": "Trilok Tourani"
       }
     ],
@@ -836,7 +836,7 @@
     "speakers": [
       {
         "organisation": "International Institute Of Information Technology, Hyderabad, India",
-        "id": 34,
+        "id": 35,
         "name": "Arushi Vashist"
       }
     ],
@@ -858,7 +858,7 @@
     "speakers": [
       {
         "organisation": "Data Scientist",
-        "id": 35,
+        "id": 36,
         "name": "Saif Niazi"
       }
     ],
@@ -880,7 +880,7 @@
     "speakers": [
       {
         "organisation": "Women Who Code",
-        "id": 36,
+        "id": 37,
         "name": "Jigyasa Grover"
       }
     ],
@@ -902,7 +902,7 @@
     "speakers": [
       {
         "organisation": "DA-IICT",
-        "id": 37,
+        "id": 38,
         "name": "Kushan Kushan Joshi"
       }
     ],
@@ -924,7 +924,7 @@
     "speakers": [
       {
         "organisation": "Gcall Pte.Ltd",
-        "id": 38,
+        "id": 39,
         "name": "Phuc Pham"
       }
     ],
@@ -946,7 +946,7 @@
     "speakers": [
       {
         "organisation": "SeeSaw Labs",
-        "id": 39,
+        "id": 40,
         "name": "Ivan Kirichenko"
       }
     ],
@@ -968,7 +968,7 @@
     "speakers": [
       {
         "organisation": "MariaDB Corporation",
-        "id": 40,
+        "id": 41,
         "name": "Colin Charles"
       }
     ],
@@ -990,7 +990,7 @@
     "speakers": [
       {
         "organisation": "CampJS",
-        "id": 41,
+        "id": 42,
         "name": "Tim Oxley"
       }
     ],
@@ -1012,7 +1012,7 @@
     "speakers": [
       {
         "organisation": "Astrovisualization at the American Museum of Natural History",
-        "id": 42,
+        "id": 43,
         "name": "Carter Emmart"
       }
     ],
@@ -1034,7 +1034,7 @@
     "speakers": [
       {
         "organisation": "OpenMRS",
-        "id": 43,
+        "id": 44,
         "name": "Saptarshi Purkayastha"
       }
     ],
@@ -1056,7 +1056,7 @@
     "speakers": [
       {
         "organisation": "Open Event",
-        "id": 44,
+        "id": 45,
         "name": "Rafal Kowalski, Manan Wason"
       }
     ],
@@ -1078,7 +1078,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 45,
+        "id": 46,
         "name": "Daniel Pocock"
       }
     ],
@@ -1116,7 +1116,7 @@
     "speakers": [
       {
         "organisation": "One Maker Group",
-        "id": 46,
+        "id": 47,
         "name": "Elda Webb"
       }
     ],
@@ -1138,7 +1138,7 @@
     "speakers": [
       {
         "organisation": "VideoLAN",
-        "id": 47,
+        "id": 48,
         "name": "Fran\u00e7ois Cartegnie"
       }
     ],
@@ -1160,7 +1160,7 @@
     "speakers": [
       {
         "organisation": "HPE",
-        "id": 48,
+        "id": 49,
         "name": "Matthew Treinish"
       }
     ],
@@ -1182,7 +1182,7 @@
     "speakers": [
       {
         "organisation": "#NEWPALMYRA",
-        "id": 49,
+        "id": 50,
         "name": "Barry Threw"
       }
     ],
@@ -1220,7 +1220,7 @@
     "speakers": [
       {
         "organisation": "Collabora Productivity",
-        "id": 50,
+        "id": 51,
         "name": "Toma\u017e Vajngerl"
       }
     ],
@@ -1242,7 +1242,7 @@
     "speakers": [
       {
         "organisation": "Swedish University of Agricultural Sciences",
-        "id": 51,
+        "id": 52,
         "name": "Lorenz Gerber"
       }
     ],
@@ -1264,7 +1264,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 52,
+        "id": 53,
         "name": "Justin Lee"
       }
     ],
@@ -1286,7 +1286,7 @@
     "speakers": [
       {
         "organisation": "Smaato ",
-        "id": 53,
+        "id": 54,
         "name": "Delynn Ho"
       }
     ],
@@ -1308,7 +1308,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 54,
+        "id": 55,
         "name": "George Goh"
       }
     ],
@@ -1330,7 +1330,7 @@
     "speakers": [
       {
         "organisation": "Axelerant",
-        "id": 55,
+        "id": 56,
         "name": "Michael Cannon"
       }
     ],
@@ -1352,7 +1352,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 56,
+        "id": 57,
         "name": "Hack Day Scientists"
       }
     ],
@@ -1374,7 +1374,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 57,
+        "id": 58,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -1396,7 +1396,7 @@
     "speakers": [
       {
         "organisation": "Red Cat Labs",
-        "id": 58,
+        "id": 59,
         "name": "Martin Andrews"
       }
     ],
@@ -1409,7 +1409,7 @@
     },
     "start_time": "2016-03-19T02:00:00+00:00",
     "session_id": "OTW-11",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "Workshop of 2 hours",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
@@ -1425,7 +1425,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "OTW-01",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -1441,7 +1441,7 @@
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "OTW-02",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -1450,7 +1450,7 @@
     "speakers": [
       {
         "organisation": "Mifos Initiative",
-        "id": 59,
+        "id": 60,
         "name": "Ishan Khanna"
       }
     ],
@@ -1463,7 +1463,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "OTW-03",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T06:30:00+00:00"
   },
@@ -1472,7 +1472,7 @@
     "speakers": [
       {
         "organisation": "Datacraft",
-        "id": 60,
+        "id": 61,
         "name": "Mike Anderson"
       }
     ],
@@ -1485,7 +1485,7 @@
     },
     "start_time": "2016-03-19T06:30:00+00:00",
     "session_id": "OTW-04",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T07:30:00+00:00"
   },
@@ -1494,7 +1494,7 @@
     "speakers": [
       {
         "organisation": "ulno.net",
-        "id": 61,
+        "id": 62,
         "name": "Ulrich Norbisrath"
       }
     ],
@@ -1507,7 +1507,7 @@
     },
     "start_time": "2016-03-19T07:30:00+00:00",
     "session_id": "OTW-05",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "Workshop of 2.5 hours",
     "end_time": "2016-03-19T09:30:00+00:00"
   },
@@ -1523,7 +1523,7 @@
     },
     "start_time": "2016-03-19T10:00:00+00:00",
     "session_id": "OTW-06",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -1532,7 +1532,7 @@
     "speakers": [
       {
         "organisation": "GitHub/Homebrew/Grumpy Gits",
-        "id": 62,
+        "id": 63,
         "name": "Mike McQuaid, Sahil Bajaj"
       }
     ],
@@ -1545,7 +1545,7 @@
     },
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "OTW-08",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "Workshop of 2 hours",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
@@ -1561,7 +1561,7 @@
     },
     "start_time": "2016-03-20T04:00:00+00:00",
     "session_id": "OTW-09",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "",
     "end_time": "2016-03-20T04:30:00+00:00"
   },
@@ -1570,7 +1570,7 @@
     "speakers": [
       {
         "organisation": "Progress",
-        "id": 63,
+        "id": 64,
         "name": "Sherman Chen"
       }
     ],
@@ -1583,7 +1583,7 @@
     },
     "start_time": "2016-03-20T05:00:00+00:00",
     "session_id": "OTW-10",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "Workshop of 1.5 hours",
     "end_time": "2016-03-20T06:30:00+00:00"
   },
@@ -1592,7 +1592,7 @@
     "speakers": [
       {
         "organisation": "D E Shaw & Co.",
-        "id": 64,
+        "id": 65,
         "name": "Ram Dayal Vaishnav"
       }
     ],
@@ -1605,7 +1605,7 @@
     },
     "start_time": "2016-03-20T06:30:00+00:00",
     "session_id": "OTW-30",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "Workshop of 1.5 hours",
     "end_time": "2016-03-20T08:00:00+00:00"
   },
@@ -1614,7 +1614,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 57,
+        "id": 58,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -1627,7 +1627,7 @@
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "OTW-12",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
@@ -1636,7 +1636,7 @@
     "speakers": [
       {
         "organisation": "IIIT Delhi",
-        "id": 65,
+        "id": 66,
         "name": "Manan Wason"
       }
     ],
@@ -1658,7 +1658,7 @@
     "speakers": [
       {
         "organisation": "Women Who Code",
-        "id": 36,
+        "id": 37,
         "name": "Jigyasa Grover"
       }
     ],
@@ -1712,7 +1712,7 @@
     "speakers": [
       {
         "organisation": "BLUG",
-        "id": 66,
+        "id": 67,
         "name": "Martin B\u00e4hr"
       }
     ],
@@ -1723,11 +1723,11 @@
       "name": "Tech Kids I",
       "id": 4
     },
-    "start_time": "2016-03-19T05:30:00+00:00",
+    "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "TKI-05",
     "location": "Level 1, Digital Design Studio",
     "type": "Workshop of 2 hours",
-    "end_time": "2016-03-19T07:30:00+00:00"
+    "end_time": "2016-03-19T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1750,7 +1750,7 @@
     "speakers": [
       {
         "organisation": "IIIT Delhi",
-        "id": 65,
+        "id": 66,
         "name": "Manan Wason"
       }
     ],
@@ -1788,7 +1788,7 @@
     "speakers": [
       {
         "organisation": "One Maker Group",
-        "id": 46,
+        "id": 47,
         "name": "Elda Webb"
       }
     ],
@@ -1810,7 +1810,7 @@
     "speakers": [
       {
         "organisation": "ExpEYES",
-        "id": 67,
+        "id": 68,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -1854,7 +1854,7 @@
     "speakers": [
       {
         "organisation": "OneMaker Group",
-        "id": 68,
+        "id": 69,
         "name": "Jamen Loh"
       }
     ],
@@ -1875,13 +1875,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "OneMaker Group",
-        "id": 69,
-        "name": "Wilfred Wong"
+        "organisation": "OneMakerGroup",
+        "id": 47,
+        "name": "Elda Webb"
       }
     ],
-    "description": "Introducing kids to different types of digital fabrication techniques. (3D printing, laser cutting, CNC milling.)",
-    "title": "Digital Fabrication For Kids",
+    "description": "Let's learn how to model 3D in the browser. This workshop is for kids who are interested in 3D modeling and would like to learn the first steps into the 3D world before they progress to 3D print outs.",
+    "title": "3D Modeling for Kids",
     "track": {
       "order": 5,
       "name": "Tech Kids II",
@@ -1890,7 +1890,7 @@
     "start_time": "2016-03-19T02:00:00+00:00",
     "session_id": "TKII-05",
     "location": "Level 1, Digital Design Studio",
-    "type": "Workshop of 2 hours",
+    "type": "Workshop of 1.5 hours",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
   {
@@ -1965,6 +1965,104 @@
   },
   {
     "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "12Geeks",
+        "id": 71,
+        "name": "Luther Goh"
+      }
+    ],
+    "description": "This workshop serves to give a non intimidating introduction to the Raspberry Pi. Aimed at the total beginner, it serves to give a non intimidating introduction to Raspbian and the commandline, and allow workshop participants to gain confidence in playing with the Pi    The hardware specs and capabilities of the Raspberry Pi \u2014 Installing the operating system - Basic understanding of Linux - First time Configuration - Networking setup - Remotely accessing the Pi - GPIO pins - A small preview of Python",
+    "title": "Introduction to the Raspberry Pi for total Newbies",
+    "track": {
+      "order": 5,
+      "name": "Tech Kids II",
+      "id": 5
+    },
+    "start_time": "2016-03-20T02:00:00+00:00",
+    "session_id": "TKII-08",
+    "location": "Level 1, Digital Design Studio",
+    "type": "Workshop of 2 hours",
+    "end_time": "2016-03-20T04:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [],
+    "description": "",
+    "title": "Lunch",
+    "track": {
+      "order": 5,
+      "name": "Tech Kids II",
+      "id": 5
+    },
+    "start_time": "2016-03-20T04:00:00+00:00",
+    "session_id": "TKII-09",
+    "location": "Level 1, Digital Design Studio",
+    "type": "",
+    "end_time": "2016-03-20T04:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "ulno.net",
+        "id": 62,
+        "name": "Ulrich Norbisrath"
+      }
+    ],
+    "description": "In this workshop, we will show you our own special twist on the Internet of Things. Using an Espresso Lite (that's no coffee - this is actually a little computer with wifi) we will turn some household goods and some wire into your own multiplayer game controller. You will learn a lot about electronics, networking, and how much fun it is to build an open source community when we explore some of the open source projects, who enabled me to build the software for these controllers. And of course, we will play at least one fun open source multiplayer game with our own controllers in the end of the class. I will also point you to many other open source game projects you can adapt to use your new customized game controller with the knowledge of this class.  Bring some basic computer literacy (no programming required but it helps to dig deeper), some curiosity, a laptop, team spirit, and the willingness to do some crafting (yes there will be scissors and glue).",
+    "title": "Physical Open Source  Gaming How to Build Your own Customized Game Controller for Multiplayer Fun",
+    "track": {
+      "order": 5,
+      "name": "Tech Kids II",
+      "id": 5
+    },
+    "start_time": "2016-03-20T05:00:00+00:00",
+    "session_id": "TKII-10",
+    "location": "Level 1, Digital Design Studio",
+    "type": "Workshop of 4 hours",
+    "end_time": "2016-03-20T08:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [],
+    "description": "",
+    "title": "Hong Phuc Dang",
+    "track": {
+      "order": 5,
+      "name": "Tech Kids II",
+      "id": 5
+    },
+    "start_time": "2016-03-20T08:30:00+00:00",
+    "session_id": "TKII-11",
+    "location": "Level 1, Digital Design Studio",
+    "type": "Closing Session in Main Hall",
+    "end_time": "2016-03-20T09:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "OneMaker Group",
+        "id": 72,
+        "name": "Wilfred Wong"
+      }
+    ],
+    "description": "Introducing kids to different types of digital fabrication techniques. (3D printing, laser cutting, CNC milling.)",
+    "title": "Digital Fabrication For Kids",
+    "track": {
+      "order": 6,
+      "name": "Tech Kids III",
+      "id": 6
+    },
+    "start_time": "2016-03-19T02:00:00+00:00",
+    "session_id": "TKIII-01",
+    "location": "Level 1, Observatory Room",
+    "type": "Workshop of 2 hours",
+    "end_time": "2016-03-19T04:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
     "speakers": [],
     "description": "",
     "title": "Group Photo",
@@ -1975,7 +2073,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "TKIII-03",
-    "location": "Level 1, Observatory Classroom",
+    "location": "Level 1, Observatory Room",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -1991,7 +2089,7 @@
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "TKIII-04",
-    "location": "Level 1, Observatory Classroom",
+    "location": "Level 1, Observatory Room",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -2000,7 +2098,7 @@
     "speakers": [
       {
         "organisation": "Ground Up Initiative",
-        "id": 71,
+        "id": 73,
         "name": "Gabriel Perumal"
       }
     ],
@@ -2012,8 +2110,8 @@
       "id": 6
     },
     "start_time": "2016-03-19T06:00:00+00:00",
-    "session_id": "TKIII-05",
-    "location": "Level 1, Observatory Classroom",
+    "session_id": "TKIII-02",
+    "location": "Level 1, Observatory Room",
     "type": "Workshop of 1.5 hours",
     "end_time": "2016-03-19T07:30:00+00:00"
   },
@@ -2022,7 +2120,7 @@
     "speakers": [
       {
         "organisation": "Ground Up Initiative",
-        "id": 71,
+        "id": 73,
         "name": "Gabriel Perumal"
       }
     ],
@@ -2034,8 +2132,8 @@
       "id": 6
     },
     "start_time": "2016-03-19T07:30:00+00:00",
-    "session_id": "TKIII-06",
-    "location": "Level 1, Observatory Classroom",
+    "session_id": "TKIII-03",
+    "location": "Level 1, Observatory Room",
     "type": "Workshop of 1.5 hours",
     "end_time": "2016-03-19T09:00:00+00:00"
   },
@@ -2051,7 +2149,7 @@
     },
     "start_time": "2016-03-19T10:00:00+00:00",
     "session_id": "TKIiI-07",
-    "location": "Level 1, Observatory Classroom",
+    "location": "Level 1, Observatory Room",
     "type": "",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -2059,84 +2157,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "12Geeks",
-        "id": 72,
-        "name": "Luther Goh"
-      }
-    ],
-    "description": "This workshop serves to give a non intimidating introduction to the Raspberry Pi. Aimed at the total beginner, it serves to give a non intimidating introduction to Raspbian and the commandline, and allow workshop participants to gain confidence in playing with the Pi    The hardware specs and capabilities of the Raspberry Pi \u2014 Installing the operating system - Basic understanding of Linux - First time Configuration - Networking setup - Remotely accessing the Pi - GPIO pins - A small preview of Python",
-    "title": "Introduction to the Raspberry Pi for total Newbies",
-    "track": {
-      "order": 6,
-      "name": "Tech Kids III",
-      "id": 6
-    },
-    "start_time": "2016-03-20T02:00:00+00:00",
-    "session_id": "TKIII-07",
-    "location": "Level 1, Observatory Classroom",
-    "type": "Workshop of 2 hours",
-    "end_time": "2016-03-20T04:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "Lunch",
-    "track": {
-      "order": 6,
-      "name": "Tech Kids III",
-      "id": 6
-    },
-    "start_time": "2016-03-20T04:00:00+00:00",
-    "session_id": "TKIII-08",
-    "location": "Level 1, Observatory Classroom",
-    "type": "",
-    "end_time": "2016-03-20T04:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "ulno.net",
-        "id": 61,
-        "name": "Ulrich Norbisrath"
-      }
-    ],
-    "description": "In this workshop, we will show you our own special twist on the Internet of Things. Using an Espresso Lite (that's no coffee - this is actually a little computer with wifi) we will turn some household goods and some wire into your own multiplayer game controller. You will learn a lot about electronics, networking, and how much fun it is to build an open source community when we explore some of the open source projects, who enabled me to build the software for these controllers. And of course, we will play at least one fun open source multiplayer game with our own controllers in the end of the class. I will also point you to many other open source game projects you can adapt to use your new customized game controller with the knowledge of this class.  Bring some basic computer literacy (no programming required but it helps to dig deeper), some curiosity, a laptop, team spirit, and the willingness to do some crafting (yes there will be scissors and glue).",
-    "title": "Physical Open Source  Gaming How to Build Your own Customized Game Controller for Multiplayer Fun",
-    "track": {
-      "order": 6,
-      "name": "Tech Kids III",
-      "id": 6
-    },
-    "start_time": "2016-03-20T05:00:00+00:00",
-    "session_id": "TKIII-09",
-    "location": "Level 1, Observatory Classroom",
-    "type": "Workshop of 4 hours",
-    "end_time": "2016-03-20T08:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "Hong Phuc Dang",
-    "track": {
-      "order": 6,
-      "name": "Tech Kids III",
-      "id": 6
-    },
-    "start_time": "2016-03-20T08:30:00+00:00",
-    "session_id": "TKIII-10",
-    "location": "Level 1, Observatory Classroom",
-    "type": "Closing Session in Main Hall",
-    "end_time": "2016-03-20T09:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
         "organisation": "Ambient Dynamix/National University of Singapore",
-        "id": 73,
+        "id": 74,
         "name": "Shivam Verma"
       }
     ],
@@ -2149,7 +2171,7 @@
     },
     "start_time": "2016-03-18T05:30:00+00:00",
     "session_id": "HW-01",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:00:00+00:00"
   },
@@ -2158,7 +2180,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 74,
+        "id": 75,
         "name": "Akhil Pandey"
       }
     ],
@@ -2171,7 +2193,7 @@
     },
     "start_time": "2016-03-18T06:00:00+00:00",
     "session_id": "HW-02",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:30:00+00:00"
   },
@@ -2180,7 +2202,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 75,
+        "id": 76,
         "name": "Roland Turner"
       }
     ],
@@ -2193,7 +2215,7 @@
     },
     "start_time": "2016-03-18T06:30:00+00:00",
     "session_id": "HW-03",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:00:00+00:00"
   },
@@ -2202,7 +2224,7 @@
     "speakers": [
       {
         "organisation": "dell",
-        "id": 76,
+        "id": 77,
         "name": "Parmeshwr Prasad Vishwakarma"
       }
     ],
@@ -2215,7 +2237,7 @@
     },
     "start_time": "2016-03-18T07:00:00+00:00",
     "session_id": "HW-05",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:30:00+00:00"
   },
@@ -2224,7 +2246,7 @@
     "speakers": [
       {
         "organisation": "Opera",
-        "id": 77,
+        "id": 78,
         "name": "Shwetank Dixit"
       }
     ],
@@ -2237,7 +2259,7 @@
     },
     "start_time": "2016-03-18T07:30:00+00:00",
     "session_id": "HW-06",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T08:00:00+00:00"
   },
@@ -2246,7 +2268,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 78,
+        "id": 79,
         "name": "Kushal Das"
       }
     ],
@@ -2259,7 +2281,7 @@
     },
     "start_time": "2016-03-18T08:00:00+00:00",
     "session_id": "HW-04",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T08:30:00+00:00"
   },
@@ -2275,7 +2297,7 @@
     },
     "start_time": "2016-03-18T08:30:00+00:00",
     "session_id": "HW-08",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "",
     "end_time": "2016-03-18T09:00:00+00:00"
   },
@@ -2291,7 +2313,7 @@
     },
     "start_time": "2016-03-18T11:00:00+00:00",
     "session_id": "HW-07",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "",
     "end_time": "2016-03-18T11:30:00+00:00"
   },
@@ -2300,7 +2322,7 @@
     "speakers": [
       {
         "organisation": "Smart guidance for blind",
-        "id": 79,
+        "id": 80,
         "name": "Jaminy Prabaharan"
       }
     ],
@@ -2313,7 +2335,7 @@
     },
     "start_time": "2016-03-19T02:00:00+00:00",
     "session_id": "HW-22",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:30:00+00:00"
   },
@@ -2322,7 +2344,7 @@
     "speakers": [
       {
         "organisation": "Makino Asia Private Limited",
-        "id": 80,
+        "id": 81,
         "name": "Abhishek Agrawal"
       }
     ],
@@ -2335,7 +2357,7 @@
     },
     "start_time": "2016-03-19T02:30:00+00:00",
     "session_id": "HW-09",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
@@ -2344,7 +2366,7 @@
     "speakers": [
       {
         "organisation": "Tusitala Digital Storytelling",
-        "id": 81,
+        "id": 82,
         "name": "Saad Chinoy"
       }
     ],
@@ -2357,7 +2379,7 @@
     },
     "start_time": "2016-03-19T03:00:00+00:00",
     "session_id": "HW-10",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
@@ -2373,7 +2395,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "HW-11",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -2389,7 +2411,7 @@
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "HW-12",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -2398,7 +2420,7 @@
     "speakers": [
       {
         "organisation": "Netwalker Laboratory, Tokaido Linux Users Group",
-        "id": 82,
+        "id": 83,
         "name": "Kenji Shimono"
       }
     ],
@@ -2411,7 +2433,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "HW-13",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T06:00:00+00:00"
   },
@@ -2420,7 +2442,7 @@
     "speakers": [
       {
         "organisation": "Samsung Electronics",
-        "id": 83,
+        "id": 84,
         "name": "Carsten Haitzler"
       }
     ],
@@ -2433,7 +2455,7 @@
     },
     "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "HW-14",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T07:00:00+00:00"
   },
@@ -2442,7 +2464,7 @@
     "speakers": [
       {
         "organisation": "teamLab, and Nico-Tech",
-        "id": 84,
+        "id": 85,
         "name": "Masakazu Takasu"
       }
     ],
@@ -2455,7 +2477,7 @@
     },
     "start_time": "2016-03-19T07:00:00+00:00",
     "session_id": "HW-15",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T07:30:00+00:00"
   },
@@ -2464,7 +2486,7 @@
     "speakers": [
       {
         "organisation": "Beagleboard",
-        "id": 85,
+        "id": 86,
         "name": "Deepak Karki Aishwarya Kaliki"
       }
     ],
@@ -2477,7 +2499,7 @@
     },
     "start_time": "2016-03-19T07:20:00+00:00",
     "session_id": "HW-16",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T07:50:00+00:00"
   },
@@ -2486,7 +2508,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, BKIT, Bhalki, Karnataka, INDIA",
-        "id": 86,
+        "id": 87,
         "name": "Dr. Udaykumar Khadke"
       }
     ],
@@ -2499,7 +2521,7 @@
     },
     "start_time": "2016-03-19T07:40:00+00:00",
     "session_id": "HW-17",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T08:10:00+00:00"
   },
@@ -2508,7 +2530,7 @@
     "speakers": [
       {
         "organisation": "National University of Singapore",
-        "id": 87,
+        "id": 88,
         "name": "Abhishek Mishra"
       }
     ],
@@ -2521,7 +2543,7 @@
     },
     "start_time": "2016-03-19T08:00:00+00:00",
     "session_id": "HW-18",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T08:30:00+00:00"
   },
@@ -2530,7 +2552,7 @@
     "speakers": [
       {
         "organisation": "Garuda Robotics",
-        "id": 88,
+        "id": 89,
         "name": "Jiin Joo Ong"
       }
     ],
@@ -2543,7 +2565,7 @@
     },
     "start_time": "2016-03-19T08:30:00+00:00",
     "session_id": "HW-19",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T09:30:00+00:00"
   },
@@ -2552,7 +2574,7 @@
     "speakers": [
       {
         "organisation": "Dunman High School",
-        "id": 89,
+        "id": 90,
         "name": "Jerrayl Ng"
       }
     ],
@@ -2565,7 +2587,7 @@
     },
     "start_time": "2016-03-19T09:30:00+00:00",
     "session_id": "HW-21",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T10:00:00+00:00"
   },
@@ -2581,7 +2603,7 @@
     },
     "start_time": "2016-03-19T10:00:00+00:00",
     "session_id": "HW-20",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -2590,7 +2612,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 90,
+        "id": 91,
         "name": "Red Hat Family"
       }
     ],
@@ -2603,7 +2625,7 @@
     },
     "start_time": "2016-03-18T05:30:00+00:00",
     "session_id": "DO-01",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:00:00+00:00"
   },
@@ -2612,7 +2634,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 91,
+        "id": 92,
         "name": "Yaniv Bronhaim"
       }
     ],
@@ -2625,7 +2647,7 @@
     },
     "start_time": "2016-03-18T06:00:00+00:00",
     "session_id": "DO-03",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:30:00+00:00"
   },
@@ -2634,7 +2656,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 92,
+        "id": 93,
         "name": "Amit Shah"
       }
     ],
@@ -2647,7 +2669,7 @@
     },
     "start_time": "2016-03-18T06:30:00+00:00",
     "session_id": "DO-04",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:00:00+00:00"
   },
@@ -2656,7 +2678,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 93,
+        "id": 94,
         "name": "Parag Ashok Nemade"
       }
     ],
@@ -2669,7 +2691,7 @@
     },
     "start_time": "2016-03-18T07:00:00+00:00",
     "session_id": "DO-14",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:30:00+00:00"
   },
@@ -2691,7 +2713,7 @@
     },
     "start_time": "2016-03-18T07:30:00+00:00",
     "session_id": "DO-02",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T08:00:00+00:00"
   },
@@ -2707,7 +2729,7 @@
     },
     "start_time": "2016-03-18T08:30:00+00:00",
     "session_id": "DO-06",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "",
     "end_time": "2016-03-18T09:00:00+00:00"
   },
@@ -2723,7 +2745,7 @@
     },
     "start_time": "2016-03-18T11:00:00+00:00",
     "session_id": "DO-07",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "",
     "end_time": "2016-03-18T11:30:00+00:00"
   },
@@ -2732,7 +2754,7 @@
     "speakers": [
       {
         "organisation": "BigBinary",
-        "id": 94,
+        "id": 95,
         "name": "Rahul Mahale"
       }
     ],
@@ -2745,7 +2767,7 @@
     },
     "start_time": "2016-03-19T02:00:00+00:00",
     "session_id": "DO-08",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:30:00+00:00"
   },
@@ -2754,7 +2776,7 @@
     "speakers": [
       {
         "organisation": "Ashnik Pte Ltd",
-        "id": 95,
+        "id": 96,
         "name": "Sameer Kumar"
       }
     ],
@@ -2767,7 +2789,7 @@
     },
     "start_time": "2016-03-19T02:30:00+00:00",
     "session_id": "DO-09",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
@@ -2776,7 +2798,7 @@
     "speakers": [
       {
         "organisation": "coala-analyzer",
-        "id": 96,
+        "id": 97,
         "name": "Udayan Tandon"
       }
     ],
@@ -2789,7 +2811,7 @@
     },
     "start_time": "2016-03-19T03:00:00+00:00",
     "session_id": "DO-10",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:30:00+00:00"
   },
@@ -2798,7 +2820,7 @@
     "speakers": [
       {
         "organisation": "The Gentlebros Pte. Ltd.",
-        "id": 97,
+        "id": 98,
         "name": "Desmond Wong"
       }
     ],
@@ -2811,7 +2833,7 @@
     },
     "start_time": "2016-03-19T03:30:00+00:00",
     "session_id": "DO-11",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
@@ -2827,7 +2849,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "DO-12",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -2843,7 +2865,7 @@
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "DO-13",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -2852,7 +2874,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 98,
+        "id": 99,
         "name": "Liron Aravot"
       }
     ],
@@ -2865,7 +2887,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "DO-15",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 40 minutes",
     "end_time": "2016-03-19T06:30:00+00:00"
   },
@@ -2874,7 +2896,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 91,
+        "id": 92,
         "name": "Yaniv Bronhaim"
       }
     ],
@@ -2887,7 +2909,7 @@
     },
     "start_time": "2016-03-19T06:30:00+00:00",
     "session_id": "DO-16",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T07:30:00+00:00"
   },
@@ -2896,7 +2918,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 99,
+        "id": 100,
         "name": "Anisha Narang"
       }
     ],
@@ -2909,7 +2931,7 @@
     },
     "start_time": "2016-03-19T08:00:00+00:00",
     "session_id": "DO-17",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T09:00:00+00:00"
   },
@@ -2925,7 +2947,7 @@
     },
     "start_time": "2016-03-19T10:00:00+00:00",
     "session_id": "DO-19",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -2934,7 +2956,7 @@
     "speakers": [
       {
         "organisation": "Shreshta IT Technologies Pvt. Ltd.",
-        "id": 100,
+        "id": 101,
         "name": "Swapneel Patnekar"
       }
     ],
@@ -2947,7 +2969,7 @@
     },
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "DO-20",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T03:00:00+00:00"
   },
@@ -2956,7 +2978,7 @@
     "speakers": [
       {
         "organisation": "LinuxTag Association",
-        "id": 101,
+        "id": 102,
         "name": "Nils Magnus"
       }
     ],
@@ -2969,7 +2991,7 @@
     },
     "start_time": "2016-03-20T03:00:00+00:00",
     "session_id": "DO-21",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
@@ -2985,7 +3007,7 @@
     },
     "start_time": "2016-03-20T04:00:00+00:00",
     "session_id": "DO-23",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "",
     "end_time": "2016-03-20T04:30:00+00:00"
   },
@@ -2994,7 +3016,7 @@
     "speakers": [
       {
         "organisation": "appbase.io",
-        "id": 102,
+        "id": 103,
         "name": "Rishi Shah"
       }
     ],
@@ -3007,7 +3029,7 @@
     },
     "start_time": "2016-03-20T05:00:00+00:00",
     "session_id": "DO-24",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T05:30:00+00:00"
   },
@@ -3016,7 +3038,7 @@
     "speakers": [
       {
         "organisation": "Docker Saigon",
-        "id": 103,
+        "id": 104,
         "name": "Vincent De Smet"
       }
     ],
@@ -3029,7 +3051,7 @@
     },
     "start_time": "2016-03-20T05:30:00+00:00",
     "session_id": "DO-25",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T06:30:00+00:00"
   },
@@ -3038,7 +3060,7 @@
     "speakers": [
       {
         "organisation": "Acaleph",
-        "id": 104,
+        "id": 105,
         "name": "Hunter Nield"
       }
     ],
@@ -3051,7 +3073,7 @@
     },
     "start_time": "2016-03-20T06:30:00+00:00",
     "session_id": "DO-26",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T07:30:00+00:00"
   },
@@ -3060,7 +3082,7 @@
     "speakers": [
       {
         "organisation": "99x Technology",
-        "id": 105,
+        "id": 106,
         "name": "Dilum Navanjana Welgamage"
       }
     ],
@@ -3073,7 +3095,7 @@
     },
     "start_time": "2016-03-20T07:30:00+00:00",
     "session_id": "DO-27",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T08:00:00+00:00"
   },
@@ -3089,7 +3111,7 @@
     },
     "start_time": "2016-03-20T08:00:00+00:00",
     "session_id": "DO-28",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "",
     "end_time": "2016-03-20T08:30:00+00:00"
   },
@@ -3098,7 +3120,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 57,
+        "id": 58,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -3111,7 +3133,7 @@
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "DO-30",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
@@ -3120,7 +3142,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 106,
+        "id": 107,
         "name": "Abdul Rauf"
       }
     ],
@@ -3133,7 +3155,7 @@
     },
     "start_time": "2016-03-19T02:00:00+00:00",
     "session_id": "WT-01",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:30:00+00:00"
   },
@@ -3142,7 +3164,7 @@
     "speakers": [
       {
         "organisation": "Institut National des Sciences Appliqu\u00e9es de Toulouse",
-        "id": 107,
+        "id": 108,
         "name": "Hai An DANG"
       }
     ],
@@ -3155,7 +3177,7 @@
     },
     "start_time": "2016-03-19T02:30:00+00:00",
     "session_id": "WT-02",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
@@ -3164,7 +3186,7 @@
     "speakers": [
       {
         "organisation": "Mozilla Tech Speaker",
-        "id": 108,
+        "id": 109,
         "name": "Rizky Ariestiyansyah"
       }
     ],
@@ -3177,7 +3199,7 @@
     },
     "start_time": "2016-03-19T03:00:00+00:00",
     "session_id": "WT-40",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:30:00+00:00"
   },
@@ -3186,7 +3208,7 @@
     "speakers": [
       {
         "organisation": "AntWebsystems Co.,Ltd",
-        "id": 109,
+        "id": 110,
         "name": "Hans Bakker"
       }
     ],
@@ -3199,7 +3221,7 @@
     },
     "start_time": "2016-03-19T03:30:00+00:00",
     "session_id": "WT-04",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
@@ -3215,7 +3237,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "WT-05",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -3231,7 +3253,7 @@
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "WT-06",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -3240,7 +3262,7 @@
     "speakers": [
       {
         "organisation": "Mozilla Philippines Community",
-        "id": 110,
+        "id": 111,
         "name": "Robert Reyes"
       }
     ],
@@ -3253,7 +3275,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "WT-07",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T06:00:00+00:00"
   },
@@ -3262,7 +3284,7 @@
     "speakers": [
       {
         "organisation": "GrabTaxi",
-        "id": 111,
+        "id": 112,
         "name": "Dan Tran"
       }
     ],
@@ -3275,7 +3297,7 @@
     },
     "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "WT-03",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T06:30:00+00:00"
   },
@@ -3284,7 +3306,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 45,
+        "id": 46,
         "name": "Daniel Pocock"
       }
     ],
@@ -3297,7 +3319,7 @@
     },
     "start_time": "2016-03-19T06:30:00+00:00",
     "session_id": "WT-08",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T07:30:00+00:00"
   },
@@ -3306,7 +3328,7 @@
     "speakers": [
       {
         "organisation": "Intel, Crosswalk Project",
-        "id": 112,
+        "id": 113,
         "name": "Ningxin Hu"
       }
     ],
@@ -3319,7 +3341,7 @@
     },
     "start_time": "2016-03-19T07:30:00+00:00",
     "session_id": "WT-09",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T08:30:00+00:00"
   },
@@ -3328,7 +3350,7 @@
     "speakers": [
       {
         "organisation": "Jumping Bean",
-        "id": 113,
+        "id": 114,
         "name": "Mark Clarke"
       }
     ],
@@ -3341,7 +3363,7 @@
     },
     "start_time": "2016-03-19T08:30:00+00:00",
     "session_id": "WT-10",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T09:30:00+00:00"
   },
@@ -3357,7 +3379,7 @@
     },
     "start_time": "2016-03-19T10:00:00+00:00",
     "session_id": "WT-11",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -3366,22 +3388,22 @@
     "speakers": [
       {
         "organisation": "SingaporeJS",
-        "id": 114,
+        "id": 115,
         "name": "Soares Chen"
       },
       {
         "organisation": "FOSSASIA",
-        "id": 115,
+        "id": 116,
         "name": "Joerg Henning"
       },
       {
         "organisation": "Cofounders.sg",
-        "id": 116,
+        "id": 117,
         "name": "Sebastiaan Deckers"
       },
       {
         "organisation": "",
-        "id": 41,
+        "id": 42,
         "name": "Tim Oxley"
       }
     ],
@@ -3394,7 +3416,7 @@
     },
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "WT-12",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "Workshop of 5 hours",
     "end_time": "2016-03-20T07:00:00+00:00"
   },
@@ -3403,7 +3425,7 @@
     "speakers": [
       {
         "organisation": "Web Audio",
-        "id": 117,
+        "id": 118,
         "name": "Chinmay Pendharkar"
       }
     ],
@@ -3416,7 +3438,7 @@
     },
     "start_time": "2016-03-20T07:00:00+00:00",
     "session_id": "WT-18",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "Workshop of 1.5 hours",
     "end_time": "2016-03-20T08:30:00+00:00"
   },
@@ -3425,7 +3447,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 57,
+        "id": 58,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -3438,7 +3460,7 @@
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "WT-19",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
@@ -3447,7 +3469,7 @@
     "speakers": [
       {
         "organisation": "Python Software Foundation",
-        "id": 78,
+        "id": 79,
         "name": "Kushal Das"
       }
     ],
@@ -3460,7 +3482,7 @@
     },
     "start_time": "2016-03-19T02:15:00+00:00",
     "session_id": "PY-050",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Welcome Note",
     "end_time": "2016-03-19T02:45:00+00:00"
   },
@@ -3469,7 +3491,7 @@
     "speakers": [
       {
         "organisation": "Python User Group Singapore",
-        "id": 118,
+        "id": 119,
         "name": "Ivan Zimine"
       }
     ],
@@ -3482,7 +3504,7 @@
     },
     "start_time": "2016-03-19T02:30:00+00:00",
     "session_id": "PY-08",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
@@ -3491,7 +3513,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 119,
+        "id": 120,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -3504,7 +3526,7 @@
     },
     "start_time": "2016-03-19T03:00:00+00:00",
     "session_id": "PY-02",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:30:00+00:00"
   },
@@ -3513,7 +3535,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 78,
+        "id": 79,
         "name": "Kushal Das"
       }
     ],
@@ -3526,7 +3548,7 @@
     },
     "start_time": "2016-03-19T03:30:00+00:00",
     "session_id": "PY-03",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
@@ -3542,7 +3564,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "PY-04",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -3558,7 +3580,7 @@
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "PY-05",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -3567,7 +3589,7 @@
     "speakers": [
       {
         "organisation": "Jamia Millia Islamia",
-        "id": 120,
+        "id": 121,
         "name": "Shadab Zafar"
       }
     ],
@@ -3580,7 +3602,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "PY-06",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T06:00:00+00:00"
   },
@@ -3589,7 +3611,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 121,
+        "id": 122,
         "name": "Sundeep Anand"
       }
     ],
@@ -3602,7 +3624,7 @@
     },
     "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "PY-07",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T06:30:00+00:00"
   },
@@ -3624,7 +3646,7 @@
     },
     "start_time": "2016-03-19T06:30:00+00:00",
     "session_id": "PY-01",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T07:00:00+00:00"
   },
@@ -3633,7 +3655,7 @@
     "speakers": [
       {
         "organisation": "Moin Moin Wiki",
-        "id": 122,
+        "id": 123,
         "name": "Yask Srivastava"
       }
     ],
@@ -3646,7 +3668,7 @@
     },
     "start_time": "2016-03-19T07:00:00+00:00",
     "session_id": "PY-09",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T07:30:00+00:00"
   },
@@ -3655,7 +3677,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 119,
+        "id": 120,
         "name": "Sayan Chowdhury"
       }
     ],
@@ -3668,7 +3690,7 @@
     },
     "start_time": "2016-03-19T07:30:00+00:00",
     "session_id": "PY-10",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T08:00:00+00:00"
   },
@@ -3677,7 +3699,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 78,
+        "id": 79,
         "name": "Kushal Das"
       }
     ],
@@ -3690,7 +3712,7 @@
     },
     "start_time": "2016-03-19T08:00:00+00:00",
     "session_id": "PY-11",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Workshop of 2 hours",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -3705,7 +3727,7 @@
       "id": 10
     },
     "session_id": "PY-40",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": ""
   },
   {
@@ -3713,7 +3735,7 @@
     "speakers": [
       {
         "organisation": "NIT Warangal",
-        "id": 30,
+        "id": 31,
         "name": "Kranthi Kiran Guduru"
       }
     ],
@@ -3726,7 +3748,7 @@
     },
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "PY-12",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T03:00:00+00:00"
   },
@@ -3735,7 +3757,7 @@
     "speakers": [
       {
         "organisation": "Loklak / NIT Warangal",
-        "id": 32,
+        "id": 33,
         "name": "Sudheesh Singanamalla"
       }
     ],
@@ -3748,7 +3770,7 @@
     },
     "start_time": "2016-03-20T03:00:00+00:00",
     "session_id": "PY-13",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
@@ -3764,7 +3786,7 @@
     },
     "start_time": "2016-03-20T04:00:00+00:00",
     "session_id": "PY-14",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "",
     "end_time": "2016-03-20T04:30:00+00:00"
   },
@@ -3773,7 +3795,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 123,
+        "id": 124,
         "name": "Amita Sharma"
       }
     ],
@@ -3786,7 +3808,7 @@
     },
     "start_time": "2016-03-20T05:00:00+00:00",
     "session_id": "PY-42",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T05:30:00+00:00"
   },
@@ -3795,7 +3817,7 @@
     "speakers": [
       {
         "organisation": "SymPy / PyDy",
-        "id": 124,
+        "id": 125,
         "name": "Sahil Shekhawat"
       }
     ],
@@ -3808,7 +3830,7 @@
     },
     "start_time": "2016-03-20T05:30:00+00:00",
     "session_id": "PY-15",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T06:30:00+00:00"
   },
@@ -3817,7 +3839,7 @@
     "speakers": [
       {
         "organisation": "SymPy",
-        "id": 125,
+        "id": 126,
         "name": "Amit Kumar JHA"
       }
     ],
@@ -3830,7 +3852,7 @@
     },
     "start_time": "2016-03-20T06:30:00+00:00",
     "session_id": "PY-16",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "Workshop of 2 hours",
     "end_time": "2016-03-20T08:30:00+00:00"
   },
@@ -3839,7 +3861,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 57,
+        "id": 58,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -3852,7 +3874,7 @@
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "PY-41",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
@@ -3861,7 +3883,7 @@
     "speakers": [
       {
         "organisation": "Robolab, University of Extremadura, Spain",
-        "id": 126,
+        "id": 127,
         "name": "Marco A. Guti\u00e9rrez"
       }
     ],
@@ -3874,7 +3896,7 @@
     },
     "start_time": "2016-03-18T05:30:00+00:00",
     "session_id": "BD-20",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:00:00+00:00"
   },
@@ -3883,7 +3905,7 @@
     "speakers": [
       {
         "organisation": "IIT Roorkee",
-        "id": 127,
+        "id": 128,
         "name": "Ankita Shukla"
       }
     ],
@@ -3896,7 +3918,7 @@
     },
     "start_time": "2016-03-18T06:00:00+00:00",
     "session_id": "BD-02",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:30:00+00:00"
   },
@@ -3905,7 +3927,7 @@
     "speakers": [
       {
         "organisation": "Open Source Developers Club Malaysia",
-        "id": 128,
+        "id": 129,
         "name": "Errazudin Ishak"
       }
     ],
@@ -3918,7 +3940,7 @@
     },
     "start_time": "2016-03-18T06:30:00+00:00",
     "session_id": "BD-03",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:00:00+00:00"
   },
@@ -3927,7 +3949,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 129,
+        "id": 130,
         "name": "Fibish Madathil"
       }
     ],
@@ -3940,7 +3962,7 @@
     },
     "start_time": "2016-03-18T07:00:00+00:00",
     "session_id": "BD-04",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:30:00+00:00"
   },
@@ -3949,7 +3971,7 @@
     "speakers": [
       {
         "organisation": "Zynesis",
-        "id": 130,
+        "id": 131,
         "name": "U-Zyn Chua"
       }
     ],
@@ -3962,7 +3984,7 @@
     },
     "start_time": "2016-03-18T07:30:00+00:00",
     "session_id": "BD-05",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T08:00:00+00:00"
   },
@@ -3978,7 +4000,7 @@
     },
     "start_time": "2016-03-18T08:30:00+00:00",
     "session_id": "BD-7",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "",
     "end_time": "2016-03-18T09:00:00+00:00"
   },
@@ -3994,7 +4016,7 @@
     },
     "start_time": "2016-03-18T11:00:00+00:00",
     "session_id": "BD-8",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "",
     "end_time": "2016-03-18T11:30:00+00:00"
   },
@@ -4003,7 +4025,7 @@
     "speakers": [
       {
         "organisation": "Punjabi Wikimedians",
-        "id": 131,
+        "id": 132,
         "name": "Satdeep Gill"
       }
     ],
@@ -4016,7 +4038,7 @@
     },
     "start_time": "2016-03-19T02:00:00+00:00",
     "session_id": "BD-06",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:30:00+00:00"
   },
@@ -4025,7 +4047,7 @@
     "speakers": [
       {
         "organisation": "NFLabs Inc, Apache Software Foundation",
-        "id": 132,
+        "id": 133,
         "name": "Alexander Bezzubov"
       }
     ],
@@ -4038,7 +4060,7 @@
     },
     "start_time": "2016-03-19T02:30:00+00:00",
     "session_id": "BD-07",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
@@ -4047,7 +4069,7 @@
     "speakers": [
       {
         "organisation": "Humanitarian OpenStreetMap Team",
-        "id": 133,
+        "id": 134,
         "name": "Mhairi O'Hara"
       }
     ],
@@ -4060,7 +4082,7 @@
     },
     "start_time": "2016-03-19T03:00:00+00:00",
     "session_id": "BD-08",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:30:00+00:00"
   },
@@ -4069,7 +4091,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 134,
+        "id": 135,
         "name": "Thanh Son Le"
       }
     ],
@@ -4082,7 +4104,7 @@
     },
     "start_time": "2016-03-19T03:30:00+00:00",
     "session_id": "BD-09",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
@@ -4098,7 +4120,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "BD-10",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -4114,7 +4136,7 @@
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "BD-11",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -4123,7 +4145,7 @@
     "speakers": [
       {
         "organisation": "Atazzo",
-        "id": 135,
+        "id": 136,
         "name": "Adam Drake"
       }
     ],
@@ -4136,7 +4158,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "BD-12",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T06:00:00+00:00"
   },
@@ -4145,7 +4167,7 @@
     "speakers": [
       {
         "organisation": "GeoICON Pte. Ltd",
-        "id": 136,
+        "id": 137,
         "name": "Ganeshkumar Shanmugam"
       }
     ],
@@ -4158,7 +4180,7 @@
     },
     "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "BD-13",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T06:30:00+00:00"
   },
@@ -4167,7 +4189,7 @@
     "speakers": [
       {
         "organisation": "Loklak",
-        "id": 137,
+        "id": 138,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -4180,7 +4202,7 @@
     },
     "start_time": "2016-03-19T07:00:00+00:00",
     "session_id": "BD-14",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Workshop of 2 hours",
     "end_time": "2016-03-19T08:30:00+00:00"
   },
@@ -4189,7 +4211,7 @@
     "speakers": [
       {
         "organisation": "Living Analytics Research Centre (LARC)",
-        "id": 138,
+        "id": 139,
         "name": "Philips Kokoh Prasetyo"
       }
     ],
@@ -4202,7 +4224,7 @@
     },
     "start_time": "2016-03-19T08:30:00+00:00",
     "session_id": "BD-15",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-19T09:30:00+00:00"
   },
@@ -4218,7 +4240,7 @@
     },
     "start_time": "2016-03-19T10:00:00+00:00",
     "session_id": "BD-40",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -4227,7 +4249,7 @@
     "speakers": [
       {
         "organisation": "Punjabi Wikimedians",
-        "id": 131,
+        "id": 132,
         "name": "Satdeep Gill"
       }
     ],
@@ -4240,7 +4262,7 @@
     },
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "BD-16",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T03:00:00+00:00"
   },
@@ -4249,12 +4271,12 @@
     "speakers": [
       {
         "organisation": "Open-Event/FOSSASIA",
-        "id": 139,
+        "id": 140,
         "name": "Rafal Kowalski"
       },
       {
         "organisation": "IIIT Delhi",
-        "id": 65,
+        "id": 66,
         "name": "Manan Wason"
       }
     ],
@@ -4267,7 +4289,7 @@
     },
     "start_time": "2016-03-20T03:00:00+00:00",
     "session_id": "BD-17",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
@@ -4283,7 +4305,7 @@
     },
     "start_time": "2016-03-20T04:00:00+00:00",
     "session_id": "BD-18",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "",
     "end_time": "2016-03-20T04:30:00+00:00"
   },
@@ -4292,7 +4314,7 @@
     "speakers": [
       {
         "organisation": "Loklak",
-        "id": 137,
+        "id": 138,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -4305,7 +4327,7 @@
     },
     "start_time": "2016-03-20T05:00:00+00:00",
     "session_id": "BD-21",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "Workshop of 2 hours",
     "end_time": "2016-03-20T07:00:00+00:00"
   },
@@ -4314,7 +4336,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 57,
+        "id": 58,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -4327,7 +4349,7 @@
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "BD-24",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
@@ -4336,7 +4358,7 @@
     "speakers": [
       {
         "organisation": "NTT OSS Center",
-        "id": 140,
+        "id": 141,
         "name": "Kazuki Uehara"
       }
     ],
@@ -4349,7 +4371,7 @@
     },
     "start_time": "2016-03-19T02:00:00+00:00",
     "session_id": "DB-01",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Talk of 45 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
@@ -4358,7 +4380,7 @@
     "speakers": [
       {
         "organisation": "Vitesse Data",
-        "id": 141,
+        "id": 142,
         "name": "CK Tan"
       }
     ],
@@ -4371,7 +4393,7 @@
     },
     "start_time": "2016-03-19T03:00:00+00:00",
     "session_id": "DB-03",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Talk of 45 minutes",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
@@ -4387,7 +4409,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "DB-05",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -4403,7 +4425,7 @@
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "DB-06",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -4412,7 +4434,7 @@
     "speakers": [
       {
         "organisation": "InMobi",
-        "id": 142,
+        "id": 143,
         "name": "Sivakumar K"
       }
     ],
@@ -4425,7 +4447,7 @@
     },
     "start_time": "2016-03-19T05:00:00+00:00",
     "session_id": "DB-07",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Talk of 45 minutes",
     "end_time": "2016-03-19T05:30:00+00:00"
   },
@@ -4434,7 +4456,7 @@
     "speakers": [
       {
         "organisation": "Pivotal",
-        "id": 143,
+        "id": 144,
         "name": "Atri Sharma"
       }
     ],
@@ -4447,7 +4469,7 @@
     },
     "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "DB-09",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Talk of 45 minutes",
     "end_time": "2016-03-19T07:00:00+00:00"
   },
@@ -4456,7 +4478,7 @@
     "speakers": [
       {
         "organisation": "Ajilius Pty. Ltd.",
-        "id": 144,
+        "id": 145,
         "name": "Ron Dunn"
       }
     ],
@@ -4469,7 +4491,7 @@
     },
     "start_time": "2016-03-19T07:00:00+00:00",
     "session_id": "DB-10",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Talk of 45 minutes",
     "end_time": "2016-03-19T08:00:00+00:00"
   },
@@ -4478,7 +4500,7 @@
     "speakers": [
       {
         "organisation": "Tantan",
-        "id": 145,
+        "id": 146,
         "name": "Victor Blomqvist"
       }
     ],
@@ -4491,7 +4513,7 @@
     },
     "start_time": "2016-03-19T08:00:00+00:00",
     "session_id": "DB-11",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Talk of 45 minutes",
     "end_time": "2016-03-19T09:00:00+00:00"
   },
@@ -4500,7 +4522,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 146,
+        "id": 147,
         "name": "PostgreSQL Community"
       }
     ],
@@ -4513,7 +4535,7 @@
     },
     "start_time": "2016-03-19T09:00:00+00:00",
     "session_id": "DB-12",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Lightning Talks (30 minute slot)",
     "end_time": "2016-03-19T09:30:00+00:00"
   },
@@ -4529,7 +4551,7 @@
     },
     "start_time": "2016-03-19T10:00:00+00:00",
     "session_id": "DB-16",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -4544,7 +4566,7 @@
       "id": 12
     },
     "session_id": "DB-17",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": ""
   },
   {
@@ -4552,7 +4574,7 @@
     "speakers": [
       {
         "organisation": "MySQL, Oracle India Private Limited",
-        "id": 147,
+        "id": 148,
         "name": "Mayank Prasad"
       }
     ],
@@ -4565,7 +4587,7 @@
     },
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "DB-30",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T02:30:00+00:00"
   },
@@ -4587,7 +4609,7 @@
     },
     "start_time": "2016-03-20T02:30:00+00:00",
     "session_id": "DB-18",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T03:00:00+00:00"
   },
@@ -4596,7 +4618,7 @@
     "speakers": [
       {
         "organisation": "Oracle India Pvt. Ltd.",
-        "id": 148,
+        "id": 149,
         "name": "Manish Kumar"
       }
     ],
@@ -4609,7 +4631,7 @@
     },
     "start_time": "2016-03-20T03:00:00+00:00",
     "session_id": "DB-19",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T03:30:00+00:00"
   },
@@ -4618,7 +4640,7 @@
     "speakers": [
       {
         "organisation": "Oracle India Pvt. Ltd.",
-        "id": 149,
+        "id": 150,
         "name": "Abhishek Ranjan"
       }
     ],
@@ -4631,7 +4653,7 @@
     },
     "start_time": "2016-03-20T03:30:00+00:00",
     "session_id": "DB-20",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
@@ -4647,7 +4669,7 @@
     },
     "start_time": "2016-03-20T04:00:00+00:00",
     "session_id": "DB-21",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "",
     "end_time": "2016-03-20T04:30:00+00:00"
   },
@@ -4656,7 +4678,7 @@
     "speakers": [
       {
         "organisation": "Sanguine",
-        "id": 150,
+        "id": 151,
         "name": "Oren Golan"
       }
     ],
@@ -4669,7 +4691,7 @@
     },
     "start_time": "2016-03-20T05:00:00+00:00",
     "session_id": "DB-22",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T06:00:00+00:00"
   },
@@ -4691,7 +4713,7 @@
     },
     "start_time": "2016-03-20T06:30:00+00:00",
     "session_id": "DB-23",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T07:30:00+00:00"
   },
@@ -4700,7 +4722,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 57,
+        "id": 58,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -4713,7 +4735,7 @@
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "DB-27",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
@@ -4722,7 +4744,7 @@
     "speakers": [
       {
         "organisation": "Winnow Solutions",
-        "id": 151,
+        "id": 152,
         "name": "Maxime Pourrat"
       }
     ],
@@ -4735,7 +4757,7 @@
     },
     "start_time": "2016-03-18T05:30:00+00:00",
     "session_id": "ISC-40",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:00:00+00:00"
   },
@@ -4744,7 +4766,7 @@
     "speakers": [
       {
         "organisation": "\ud83d\udc30",
-        "id": 152,
+        "id": 153,
         "name": "Herr Flupke"
       }
     ],
@@ -4757,7 +4779,7 @@
     },
     "start_time": "2016-03-18T06:00:00+00:00",
     "session_id": "ISC-01",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T06:30:00+00:00"
   },
@@ -4766,7 +4788,7 @@
     "speakers": [
       {
         "organisation": "freelancer",
-        "id": 153,
+        "id": 154,
         "name": "Alexander Couzens"
       }
     ],
@@ -4779,7 +4801,7 @@
     },
     "start_time": "2016-03-18T06:30:00+00:00",
     "session_id": "ISC-02",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-18T07:00:00+00:00"
   },
@@ -4788,12 +4810,12 @@
     "speakers": [
       {
         "organisation": "Queensland Health",
-        "id": 154,
+        "id": 155,
         "name": "Norvan Vogt"
       },
       {
         "organisation": "National Cheng Kung University",
-        "id": 155,
+        "id": 156,
         "name": "Menghsuan Tsai"
       }
     ],
@@ -4806,7 +4828,7 @@
     },
     "start_time": "2016-03-18T07:00:00+00:00",
     "session_id": "ISC-03",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-18T08:00:00+00:00"
   },
@@ -4822,7 +4844,7 @@
     },
     "start_time": "2016-03-18T08:30:00+00:00",
     "session_id": "ISC-05",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "",
     "end_time": "2016-03-18T09:00:00+00:00"
   },
@@ -4838,7 +4860,7 @@
     },
     "start_time": "2016-03-18T11:00:00+00:00",
     "session_id": "ISC-06",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "",
     "end_time": "2016-03-18T11:30:00+00:00"
   },
@@ -4847,7 +4869,7 @@
     "speakers": [
       {
         "organisation": "intZone.com",
-        "id": 156,
+        "id": 157,
         "name": "Zion Ng"
       }
     ],
@@ -4860,7 +4882,7 @@
     },
     "start_time": "2016-03-19T02:00:00+00:00",
     "session_id": "ISC-07",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:30:00+00:00"
   },
@@ -4869,7 +4891,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 157,
+        "id": 158,
         "name": "Huiren Woo"
       }
     ],
@@ -4882,7 +4904,7 @@
     },
     "start_time": "2016-03-19T02:30:00+00:00",
     "session_id": "ISC-08",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
   },
@@ -4904,7 +4926,7 @@
     },
     "start_time": "2016-03-19T03:00:00+00:00",
     "session_id": "ISC-09",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T04:00:00+00:00"
   },
@@ -4920,7 +4942,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "ISC-11",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -4936,7 +4958,7 @@
     },
     "start_time": "2016-03-19T04:15:00+00:00",
     "session_id": "ISC-12",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "",
     "end_time": "2016-03-19T04:45:00+00:00"
   },
@@ -4945,7 +4967,7 @@
     "speakers": [
       {
         "organisation": "We Build SG",
-        "id": 158,
+        "id": 159,
         "name": "Sayanee Basu"
       }
     ],
@@ -4958,7 +4980,7 @@
     },
     "start_time": "2016-03-19T05:30:00+00:00",
     "session_id": "ISC-14",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T06:00:00+00:00"
   },
@@ -4967,7 +4989,7 @@
     "speakers": [
       {
         "organisation": "Mozilla India",
-        "id": 159,
+        "id": 160,
         "name": "Anivar Ammanath Aravind"
       }
     ],
@@ -4980,7 +5002,7 @@
     },
     "start_time": "2016-03-19T06:00:00+00:00",
     "session_id": "ISC-15",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T06:30:00+00:00"
   },
@@ -4989,7 +5011,7 @@
     "speakers": [
       {
         "organisation": "Open Invention Network",
-        "id": 160,
+        "id": 161,
         "name": "Keith Bergelt"
       }
     ],
@@ -5002,7 +5024,7 @@
     },
     "start_time": "2016-03-19T06:30:00+00:00",
     "session_id": "ISC-16",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T07:00:00+00:00"
   },
@@ -5011,7 +5033,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 161,
+        "id": 162,
         "name": "Anwesha Das"
       }
     ],
@@ -5024,7 +5046,7 @@
     },
     "start_time": "2016-03-19T07:00:00+00:00",
     "session_id": "ISC-17",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T07:30:00+00:00"
   },
@@ -5033,7 +5055,7 @@
     "speakers": [
       {
         "organisation": "Open Invention Network",
-        "id": 162,
+        "id": 163,
         "name": "Kevin Huang"
       }
     ],
@@ -5046,7 +5068,7 @@
     },
     "start_time": "2016-03-19T07:30:00+00:00",
     "session_id": "ISC-18",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T08:00:00+00:00"
   },
@@ -5055,7 +5077,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 123,
+        "id": 124,
         "name": "Amita Sharma"
       }
     ],
@@ -5068,7 +5090,7 @@
     },
     "start_time": "2016-03-19T08:00:00+00:00",
     "session_id": "ISC-19",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T08:30:00+00:00"
   },
@@ -5077,7 +5099,7 @@
     "speakers": [
       {
         "organisation": "BlankOn",
-        "id": 163,
+        "id": 164,
         "name": "Syah Dwi Prihatmoko"
       }
     ],
@@ -5090,7 +5112,7 @@
     },
     "start_time": "2016-03-19T08:30:00+00:00",
     "session_id": "ISC-04",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T09:00:00+00:00"
   },
@@ -5112,7 +5134,7 @@
     },
     "start_time": "2016-03-19T09:00:00+00:00",
     "session_id": "ISC-23",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "Panel of 1 hour",
     "end_time": "2016-03-19T10:00:00+00:00"
   },
@@ -5128,7 +5150,7 @@
     },
     "start_time": "2016-03-19T10:00:00+00:00",
     "session_id": "ISC-22",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "type": "",
     "end_time": "2016-03-19T10:30:00+00:00"
   },
@@ -5137,7 +5159,7 @@
     "speakers": [
       {
         "organisation": "GNOME",
-        "id": 164,
+        "id": 165,
         "name": "Tobias Mueller"
       }
     ],
@@ -5159,7 +5181,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 165,
+        "id": 166,
         "name": "Huzaifa Sidhpurwala"
       }
     ],
@@ -5181,7 +5203,7 @@
     "speakers": [
       {
         "organisation": "Privly",
-        "id": 166,
+        "id": 167,
         "name": "Sambuddha Basu"
       }
     ],
@@ -5219,7 +5241,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 167,
+        "id": 168,
         "name": "Alexandre Lision"
       }
     ],
@@ -5241,7 +5263,7 @@
     "speakers": [
       {
         "organisation": "Equinix",
-        "id": 168,
+        "id": 169,
         "name": "Michael Rebultan"
       }
     ],
@@ -5263,7 +5285,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 57,
+        "id": 58,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5301,7 +5323,7 @@
     "speakers": [
       {
         "organisation": "Science Centre",
-        "id": 169,
+        "id": 170,
         "name": "Eileen/Kiruthika"
       }
     ],
@@ -5345,7 +5367,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5367,7 +5389,7 @@
     "speakers": [
       {
         "organisation": "#NEWPALMYRA",
-        "id": 171,
+        "id": 172,
         "name": "Barry Threw Jon Phillips"
       }
     ],
@@ -5389,7 +5411,7 @@
     "speakers": [
       {
         "organisation": "Valentina",
-        "id": 172,
+        "id": 173,
         "name": "Susan Spencer"
       }
     ],
@@ -5400,18 +5422,18 @@
       "name": "Science Hack Day",
       "id": 15
     },
-    "start_time": "2016-03-19T02:37:00+00:00",
+    "start_time": "2016-03-19T02:36:00+00:00",
     "session_id": "SHD-06",
     "location": "Level 1, Tinkering Studio",
     "type": "Lightning Talk",
-    "end_time": "2016-03-19T03:07:00+00:00"
+    "end_time": "2016-03-19T03:06:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Touch & Print",
-        "id": 173,
+        "id": 174,
         "name": "Leon Lim"
       }
     ],
@@ -5422,11 +5444,11 @@
       "name": "Science Hack Day",
       "id": 15
     },
-    "start_time": "2016-03-19T02:44:00+00:00",
+    "start_time": "2016-03-19T02:42:00+00:00",
     "session_id": "SHD-07",
     "location": "Level 1, Tinkering Studio",
     "type": "Lightning Talk",
-    "end_time": "2016-03-19T03:14:00+00:00"
+    "end_time": "2016-03-19T03:12:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -5444,18 +5466,40 @@
       "name": "Science Hack Day",
       "id": 15
     },
-    "start_time": "2016-03-19T02:51:00+00:00",
+    "start_time": "2016-03-19T02:48:00+00:00",
     "session_id": "SHD-40",
     "location": "Level 1, Tinkering Studio",
     "type": "Lightning Talk",
-    "end_time": "2016-03-19T03:21:00+00:00"
+    "end_time": "2016-03-19T03:18:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Artist of \"The Other Nefertiti\"",
+        "id": 175,
+        "name": "Nora Al-Badri"
+      }
+    ],
+    "description": "\u201cThe Other Nefertiti\u201d is an artistic intervention by Jan Nikolai Nelles and Nora Al- Badri which went viral. \u201cWith the data leak as a part of this counter narrative within our investigative practice we want to activate the artefact, to inspire a critical re-assessment of today\u2019s conditions and to overcome the colonial notion of possession in Germany's museums\u201d. With regard to the notion of belonging and possession of material objects of other cultures, the artists intention is to make cultural objects publicly accessible and to promote a contemporary and critical approach on how the \u201cGlobal North\u201c deals with heritage and the representation of \u201cthe Other\u201d. \u201cWe should tell stories of entanglement and Nefertiti is a great case to start with to tell stories from very different angles and to see how they intertwine.\u201c At this link you will find a torrent to access the dataset under a public domain: http://nefertitihack.alloversky.com  Here is the video showing the scanning process: https://vimeo.com/148156899  \u201cThe Other Nefertiti\u201d  is a conceptual art piece questioning singularity and originality as well as ownership of material objects of other cultures. Nora Al-Badri and Jan Nikolai Nelles  went to the Neues Museum and scanned the iconic bust, but of course nobody knows if even this is the original bust. Through time and restoration there might not much genuine be left of the artifact itself. We give meaning to objects as well as we give meaning to data. Why worshipping the original, while we have all that beautiful remixes as of today? Maybe it was a server hack, a copy scan, an inside job, the cleaner, a hoax, but who cares, first of all it is an art piece. Of course a scan of the same thing looks the same, doesn't it? And tomorrow everybody with cameras or smartphones or Xbox will have the means and technique, where one can reclaim the interpretational sovereignty through scanning and sharing.   What the artists strived to achieve is a vivid discussion about the notion of possession and belonging of history in our museums and our minds. A discussion on the originality and truth of data as well as material objects is necessary, because in the end one concludes, that the institutional practice of todays museums and collections all around the Western world are corrupted. Museums are telling fictional stories, their stories, just because they control the artifacts and the way of representation. The fetishization of sacred staged artifacts and the Disneyfication is producing capital value for illicit trading and looting artifacts. One can't find a reflection about violent entanglement of the museums and their inherent colonial patina themselves. But isn't representing \u201cThe Other\u201d always violent? Art is about building new narratives, deconstructing power relations, not scanning techniques... .",
+    "title": "#NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
+    "track": {
+      "order": 15,
+      "name": "Science Hack Day",
+      "id": 15
+    },
+    "start_time": "2016-03-19T02:54:00+00:00",
+    "session_id": "SHD-41",
+    "location": "Level 1, Tinkering Studio",
+    "type": "Lightning Talk",
+    "end_time": "2016-03-19T03:24:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5509,11 +5553,11 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
-    "description": "",
+    "description": "Science Hack Begins with project groups working on  * Rebuildling Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
     "title": "Science Hack Begins",
     "track": {
       "order": 15,
@@ -5530,7 +5574,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "End of Sessions, Doors close for Day 1 and Social Event (Invitation Only)",
+    "title": "End of Sessions and Social Event (Invitation Only)",
     "track": {
       "order": 15,
       "name": "Science Hack Day",
@@ -5563,11 +5607,11 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
-    "description": "",
+    "description": "Science Hack Day continues with project groups working on  * Rebuildling Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
     "title": "Science Hack Day continues",
     "track": {
       "order": 15,
@@ -5601,11 +5645,11 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
-    "description": "",
+    "description": "Science Hack continues with project groups working on  * Rebuildling Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
     "title": "Science Hack continues",
     "track": {
       "order": 15,
@@ -5623,7 +5667,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5645,11 +5689,11 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
-    "description": "",
+    "description": "Hack demos of project groups being with * Rebuildling Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
     "title": "Hack demos begin",
     "track": {
       "order": 15,
@@ -5667,7 +5711,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5689,7 +5733,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 171,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5711,7 +5755,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 57,
+        "id": 58,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5746,7 +5790,7 @@
     },
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "LX-06",
-    "location": "Level 1, Digital Design Studio",
+    "location": "Level 1, Observatory Room",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T03:00:00+00:00"
   },
@@ -5768,7 +5812,7 @@
     },
     "start_time": "2016-03-20T03:00:00+00:00",
     "session_id": "LX-07",
-    "location": "Level 1, Digital Design Studio",
+    "location": "Level 1, Observatory Room",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
@@ -5777,7 +5821,7 @@
     "speakers": [
       {
         "organisation": "GNOME",
-        "id": 164,
+        "id": 165,
         "name": "Tobias Mueller"
       }
     ],
@@ -5790,7 +5834,7 @@
     },
     "start_time": "2016-03-20T04:00:00+00:00",
     "session_id": "LX-04",
-    "location": "Level 1, Digital Design Studio",
+    "location": "Level 1, Observatory Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T04:30:00+00:00"
   },
@@ -5806,7 +5850,7 @@
     },
     "start_time": "2016-03-20T04:30:00+00:00",
     "session_id": "LX-05",
-    "location": "Level 1, Digital Design Studio",
+    "location": "Level 1, Observatory Room",
     "type": "",
     "end_time": "2016-03-20T05:00:00+00:00"
   },
@@ -5815,7 +5859,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 174,
+        "id": 176,
         "name": "Chris Lamb"
       }
     ],
@@ -5828,7 +5872,7 @@
     },
     "start_time": "2016-03-20T05:30:00+00:00",
     "session_id": "LX-01",
-    "location": "Level 1, Digital Design Studio",
+    "location": "Level 1, Observatory Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T06:00:00+00:00"
   },
@@ -5837,7 +5881,7 @@
     "speakers": [
       {
         "organisation": "Oracle Corporation Singapore Pte Ltd",
-        "id": 175,
+        "id": 177,
         "name": "Anand Jain"
       }
     ],
@@ -5850,7 +5894,7 @@
     },
     "start_time": "2016-03-20T05:30:00+00:00",
     "session_id": "LX-03",
-    "location": "Level 1, Digital Design Studio",
+    "location": "Level 1, Observatory Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T06:00:00+00:00"
   },
@@ -5859,7 +5903,7 @@
     "speakers": [
       {
         "organisation": "Deepin",
-        "id": 176,
+        "id": 178,
         "name": "Derek Dai"
       }
     ],
@@ -5872,7 +5916,7 @@
     },
     "start_time": "2016-03-20T06:00:00+00:00",
     "session_id": "LX-02",
-    "location": "Level 1, Digital Design Studio",
+    "location": "Level 1, Observatory Room",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T06:30:00+00:00"
   },
@@ -5881,7 +5925,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 57,
+        "id": 58,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -5894,7 +5938,7 @@
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "LX-12",
-    "location": "Level 1, Digital Design Studio",
+    "location": "Level 1, Observatory Room",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
@@ -5903,7 +5947,7 @@
     "speakers": [
       {
         "organisation": "The Processing Foundation",
-        "id": 177,
+        "id": 179,
         "name": "Umair Khan"
       }
     ],
@@ -5916,7 +5960,7 @@
     },
     "start_time": "2016-03-20T02:00:00+00:00",
     "session_id": "DS-01",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T02:30:00+00:00"
   },
@@ -5925,7 +5969,7 @@
     "speakers": [
       {
         "organisation": "Autodesk",
-        "id": 178,
+        "id": 180,
         "name": "Owais Zahid"
       }
     ],
@@ -5938,7 +5982,7 @@
     },
     "start_time": "2016-03-20T02:30:00+00:00",
     "session_id": "DS-02",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T03:00:00+00:00"
   },
@@ -5947,7 +5991,7 @@
     "speakers": [
       {
         "organisation": "VRcollab",
-        "id": 179,
+        "id": 181,
         "name": "Jia Hen Tee"
       }
     ],
@@ -5960,7 +6004,7 @@
     },
     "start_time": "2016-03-20T03:00:00+00:00",
     "session_id": "DS-08",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T03:30:00+00:00"
   },
@@ -5969,7 +6013,7 @@
     "speakers": [
       {
         "organisation": "ownCloud, Open Source Design",
-        "id": 180,
+        "id": 182,
         "name": "Jan-Christoph Borchardt"
       }
     ],
@@ -5982,7 +6026,7 @@
     },
     "start_time": "2016-03-20T03:30:00+00:00",
     "session_id": "DS-04",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
@@ -5998,7 +6042,7 @@
     },
     "start_time": "2016-03-20T04:15:00+00:00",
     "session_id": "DS-06",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "",
     "end_time": "2016-03-20T04:45:00+00:00"
   },
@@ -6007,7 +6051,7 @@
     "speakers": [
       {
         "organisation": "Code Artist",
-        "id": 181,
+        "id": 183,
         "name": "Sher Minn Chong"
       }
     ],
@@ -6020,7 +6064,7 @@
     },
     "start_time": "2016-03-20T05:30:00+00:00",
     "session_id": "DS-07",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T06:00:00+00:00"
   },
@@ -6029,7 +6073,7 @@
     "speakers": [
       {
         "organisation": "Game Automators",
-        "id": 32,
+        "id": 33,
         "name": "Sudheesh Singanamalla"
       }
     ],
@@ -6042,7 +6086,7 @@
     },
     "start_time": "2016-03-20T06:00:00+00:00",
     "session_id": "DS-03",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T06:30:00+00:00"
   },
@@ -6051,7 +6095,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 182,
+        "id": 184,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6064,7 +6108,7 @@
     },
     "start_time": "2016-03-20T06:30:00+00:00",
     "session_id": "DS-10",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "Discussion / Panel Discussion ",
     "end_time": "2016-03-20T07:30:00+00:00"
   },
@@ -6080,7 +6124,7 @@
     },
     "start_time": "2016-03-20T07:30:00+00:00",
     "session_id": "DS-09",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "",
     "end_time": "2016-03-20T08:00:00+00:00"
   },
@@ -6089,7 +6133,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 57,
+        "id": 58,
         "name": "Hong Phuc DANG"
       }
     ],
@@ -6102,7 +6146,7 @@
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "DS-12",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
@@ -6111,7 +6155,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 183,
+        "id": 185,
         "name": "David Effendi"
       }
     ],
@@ -6124,7 +6168,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-01",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6146,7 +6190,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-02",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6155,7 +6199,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, G S Science College, Belgaum",
-        "id": 67,
+        "id": 68,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -6168,7 +6212,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-03",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6177,7 +6221,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 45,
+        "id": 46,
         "name": "Daniel Pocock"
       }
     ],
@@ -6190,7 +6234,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-04",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6199,7 +6243,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 167,
+        "id": 168,
         "name": "Alexandre Lision"
       }
     ],
@@ -6212,7 +6256,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-05",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6234,7 +6278,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-06",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6243,7 +6287,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 176,
+        "id": 178,
         "name": "Derek Dai"
       }
     ],
@@ -6256,7 +6300,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-07",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6265,7 +6309,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 182,
+        "id": 184,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6278,7 +6322,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-09",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Job board in person",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6287,7 +6331,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 184,
+        "id": 186,
         "name": "Ankit -"
       }
     ],
@@ -6300,7 +6344,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-10",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6322,7 +6366,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-11",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6344,7 +6388,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-12",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6353,7 +6397,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 185,
+        "id": 187,
         "name": "Misako Ito"
       }
     ],
@@ -6366,7 +6410,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-13",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6375,7 +6419,7 @@
     "speakers": [
       {
         "organisation": "OneMakerGroup",
-        "id": 46,
+        "id": 47,
         "name": "Elda Webb"
       }
     ],
@@ -6388,7 +6432,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-14",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6397,7 +6441,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 186,
+        "id": 188,
         "name": "Peter LIM"
       }
     ],
@@ -6410,7 +6454,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-50",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6419,7 +6463,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 187,
+        "id": 189,
         "name": "Claire Tan"
       }
     ],
@@ -6432,7 +6476,7 @@
     },
     "start_time": "2016-03-18T01:00:00+00:00",
     "session_id": "EX-60",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-18T01:30:00+00:00"
   },
@@ -6448,7 +6492,7 @@
     },
     "start_time": "2016-03-18T08:30:00+00:00",
     "session_id": "EX-15",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "",
     "end_time": "2016-03-18T09:00:00+00:00"
   },
@@ -6464,7 +6508,7 @@
     },
     "start_time": "2016-03-18T11:00:00+00:00",
     "session_id": "EX-16",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "",
     "end_time": "2016-03-18T11:30:00+00:00"
   },
@@ -6473,7 +6517,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 183,
+        "id": 185,
         "name": "David Effendi"
       }
     ],
@@ -6486,7 +6530,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-17",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6508,7 +6552,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-18",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6517,7 +6561,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, G S Science College, Belgaum",
-        "id": 67,
+        "id": 68,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -6530,7 +6574,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-19",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6539,7 +6583,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 45,
+        "id": 46,
         "name": "Daniel Pocock"
       }
     ],
@@ -6552,7 +6596,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-20",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6561,7 +6605,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 167,
+        "id": 168,
         "name": "Alexandre Lision"
       }
     ],
@@ -6574,7 +6618,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-21",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6596,7 +6640,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-22",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6605,7 +6649,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 176,
+        "id": 178,
         "name": "Derek Dai"
       }
     ],
@@ -6618,7 +6662,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-23",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6627,7 +6671,7 @@
     "speakers": [
       {
         "organisation": "Singtel",
-        "id": 188,
+        "id": 190,
         "name": "Emin Aksehirli"
       }
     ],
@@ -6640,7 +6684,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-24",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6649,7 +6693,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 182,
+        "id": 184,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6662,7 +6706,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-25",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Job board in person",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6671,7 +6715,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 184,
+        "id": 186,
         "name": "Ankit -"
       }
     ],
@@ -6684,7 +6728,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-26",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6706,7 +6750,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-27",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6728,7 +6772,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-28",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6737,7 +6781,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 185,
+        "id": 187,
         "name": "Misako Ito"
       }
     ],
@@ -6750,7 +6794,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-29",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6759,7 +6803,7 @@
     "speakers": [
       {
         "organisation": "OneMakerGroup",
-        "id": 46,
+        "id": 47,
         "name": "Elda Webb"
       }
     ],
@@ -6772,7 +6816,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-30",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6781,7 +6825,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 186,
+        "id": 188,
         "name": "Peter LIM"
       }
     ],
@@ -6794,7 +6838,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-51",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6803,7 +6847,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 187,
+        "id": 189,
         "name": "Claire Tan"
       }
     ],
@@ -6816,7 +6860,7 @@
     },
     "start_time": "2016-03-19T01:00:00+00:00",
     "session_id": "EX-61",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-19T01:30:00+00:00"
   },
@@ -6832,7 +6876,7 @@
     },
     "start_time": "2016-03-19T08:30:00+00:00",
     "session_id": "EX-53",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "",
     "end_time": "2016-03-19T09:00:00+00:00"
   },
@@ -6848,7 +6892,7 @@
     },
     "start_time": "2016-03-19T11:00:00+00:00",
     "session_id": "EX-54",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "",
     "end_time": "2016-03-19T11:30:00+00:00"
   },
@@ -6857,7 +6901,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 183,
+        "id": 185,
         "name": "David Effendi"
       }
     ],
@@ -6870,7 +6914,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-31",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -6892,7 +6936,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-32",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -6901,7 +6945,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, G S Science College, Belgaum",
-        "id": 67,
+        "id": 68,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -6914,7 +6958,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-33",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -6923,7 +6967,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 45,
+        "id": 46,
         "name": "Daniel Pocock"
       }
     ],
@@ -6936,7 +6980,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-34",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -6945,7 +6989,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 167,
+        "id": 168,
         "name": "Alexandre Lision"
       }
     ],
@@ -6958,7 +7002,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-35",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -6980,7 +7024,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-36",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -6989,7 +7033,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 176,
+        "id": 178,
         "name": "Derek Dai"
       }
     ],
@@ -7002,7 +7046,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-37",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -7011,7 +7055,7 @@
     "speakers": [
       {
         "organisation": "Singtel",
-        "id": 188,
+        "id": 190,
         "name": "Emin Aksehirli"
       }
     ],
@@ -7024,7 +7068,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-38",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -7033,7 +7077,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 182,
+        "id": 184,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -7046,7 +7090,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-39",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Job board in person",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -7055,7 +7099,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 184,
+        "id": 186,
         "name": "Ankit -"
       }
     ],
@@ -7068,7 +7112,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-40",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -7090,7 +7134,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-41",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -7112,7 +7156,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-42",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -7121,7 +7165,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 185,
+        "id": 187,
         "name": "Misako Ito"
       }
     ],
@@ -7134,7 +7178,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-43",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -7143,7 +7187,7 @@
     "speakers": [
       {
         "organisation": "OneMakerGroup",
-        "id": 46,
+        "id": 47,
         "name": "Elda Webb"
       }
     ],
@@ -7156,7 +7200,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-44",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -7165,7 +7209,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 186,
+        "id": 188,
         "name": "Peter LIM"
       }
     ],
@@ -7178,7 +7222,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-52",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -7187,7 +7231,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 187,
+        "id": 189,
         "name": "Claire Tan"
       }
     ],
@@ -7200,7 +7244,7 @@
     },
     "start_time": "2016-03-20T01:00:00+00:00",
     "session_id": "EX-62",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "Exhibition Area",
     "end_time": "2016-03-20T01:30:00+00:00"
   },
@@ -7216,7 +7260,7 @@
     },
     "start_time": "2016-03-20T08:00:00+00:00",
     "session_id": "EX-55",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "",
     "end_time": "2016-03-20T08:30:00+00:00"
   },
@@ -7232,7 +7276,7 @@
     },
     "start_time": "2016-03-20T09:00:00+00:00",
     "session_id": "EX-56",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "type": "",
     "end_time": "2016-03-20T09:30:00+00:00"
   }

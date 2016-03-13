@@ -18,7 +18,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 3,
     "gid": "1739766985",
-    "location": "Level 3, Lewis Hall",
+    "location": "Level 3, Lewis Lab",
     "order": 3
   },
   {
@@ -51,7 +51,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 6,
     "gid": "1093461810",
-    "location": "Level 1, Observatory Classroom",
+    "location": "Level 1, Observatory Room",
     "order": 6
   },
   {
@@ -62,7 +62,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 7,
     "gid": "540552807",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "order": 7
   },
   {
@@ -73,7 +73,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 8,
     "gid": "988461862",
-    "location": "Level 3, Planck Hall",
+    "location": "Level 3, Planck Lab",
     "order": 8
   },
   {
@@ -84,7 +84,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 9,
     "gid": "1358967329",
-    "location": "Level 2, Room to be decided",
+    "location": "Level 3, Faraday Lab",
     "order": 9
   },
   {
@@ -95,7 +95,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 10,
     "gid": "956935348",
-    "location": "Level 3, Pauling Hall",
+    "location": "Level 3, Pauling Lab",
     "order": 10
   },
   {
@@ -106,7 +106,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 11,
     "gid": "1910100970",
-    "location": "Level 3, Fermi Hall",
+    "location": "Level 3, Fermi Lab",
     "order": 11
   },
   {
@@ -117,7 +117,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 12,
     "gid": "1342324422",
-    "location": "Level 2, Herschel Hall",
+    "location": "Level 2, Herschel Lab",
     "order": 12
   },
   {
@@ -128,7 +128,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 13,
     "gid": "252924655",
-    "location": "Level 2, Einstein Hall",
+    "location": "Level 2, Einstein Room",
     "order": 13
   },
   {
@@ -161,7 +161,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 16,
     "gid": "1071994059",
-    "location": "Level 1, Digital Design Studio",
+    "location": "Level 1, Observatory Room",
     "order": 16
   },
   {
@@ -172,7 +172,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 17,
     "gid": "1321771350",
-    "location": "Level 3, Faraday Hall",
+    "location": "Level 1, Eco Garden Lab",
     "order": 17
   },
   {
@@ -183,7 +183,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 18,
     "gid": "1608856737",
-    "location": "Level 1, Ground Floor, Exhibition Hall",
+    "location": "Level 1, Ground Floor, Scientist For a day, Hall A",
     "order": 18
   },
   {
