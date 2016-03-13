@@ -11,13 +11,7 @@ cd fa16-repo
 git config user.name "Travis CI"
 git config user.email "noreply+travis@fossasia.org"
 
-CHANGED=$(git status -s)
-if [ "$CHANGED" != "" ]
-then
-  git commit -am '[Auto] updated schedule'
-  git push origin gh-pages
-else
-  echo "no changes"
-fi
+git commit -m '[Auto] updated schedule' schedule/index.html || echo "no changes"
+git push origin gh-pages
 
 exit 0
