@@ -30,7 +30,7 @@
         "name": "Mario Behling"
       }
     ],
-    "description": "The FOSSASIA OpenTechSummit 2016: 180 speakers, over 200 Sessions, 16 tracks, 3 KTech Kids tracks hosted in the wonderful venue of the Science Centre Singapore. ",
+    "description": "The FOSSASIA OpenTechSummit 2016: 180 speakers, over 200 Sessions, 16 tracks, 3 Tech Kids tracks hosted in the wonderful venue of the Science Centre Singapore. ",
     "title": "The amazing 2016 program of FOSSASIA",
     "track": {
       "order": 2,
@@ -52,7 +52,7 @@
         "name": "Lim Tit Meng"
       }
     ],
-    "description": "The Science Centre Singapore (Abbreviation: SCS, Chinese: \u65b0\u52a0\u5761\u79d1\u5b66\u9986), previously known is a scientific institution in Singapore, specialising in the promotion of scientific and technological education for the general public. With over 850 exhibits spread over eight exhibition galleries, it sees over a million visitors a year today.",
+    "description": "The Science Centre Singapore (Abbreviation: SCS, Chinese: \u65b0\u52a0\u5761\u79d1\u5b66\u9986), is a scientific institution in Singapore, specialising in the promotion of scientific and technological education for the general public. With over 850 exhibits spread over eight exhibition galleries, it sees over a million visitors a year today.",
     "title": "Welcome at the Centre of Science Education in Singapore",
     "track": {
       "order": 2,
@@ -248,7 +248,7 @@
     "start_time": "2016-03-18T05:30:00+00:00",
     "session_id": "OT-10",
     "location": "Level 3, Dalton Hall",
-    "type": "Talk of 20 minutes",
+    "type": "Keynote of 25 minutes",
     "end_time": "2016-03-18T06:00:00+00:00"
   },
   {
@@ -270,7 +270,7 @@
     "start_time": "2016-03-18T06:00:00+00:00",
     "session_id": "OT-14",
     "location": "Dalton Hall",
-    "type": "Talk of 20 minutes",
+    "type": "Keynote of 25 minutes",
     "end_time": "2016-03-18T06:30:00+00:00"
   },
   {
@@ -326,8 +326,8 @@
         "name": "Ricky Setyawan"
       }
     ],
-    "description": "Ricky Setyawan has been in the IT industry for 17 years with the good last 15 years working as RDBMS specialist. He is currently MySQL Principal Sales Consultant for Singapore, Malaysia, Indonesia, Brunei and Pakistan. Prior to joining Oracle, he was a Principal DBA doing database design and management on Oracle and DB2 on RedHat Linux on continuous availability server. He has been working on a number of RDBMS throughout his career such as Oracle, DB2, SQL Server, and MySQL.",
-    "title": "OpenTech",
+    "description": "The IoT is poised to change how we interact with and perceive the world around us, and the possibilities are nearly boundless. As more and more connected devices generate data, we will need to solve the problem of how to collect, store, and make sense of IoT data by leveraging the power of database systems. MySQL 5.7 is the best release ever of the world's most popular open source database and provides a new, advanced feature set designed to enable those who are building the next generation of web-based and embedded applications and services including IoT and BigData.",
+    "title": "Going through era of IoT with MySQL 5.7",
     "track": {
       "order": 2,
       "name": "OpenTech and IoT",
@@ -336,7 +336,7 @@
     "start_time": "2016-03-18T07:20:00+00:00",
     "session_id": "OT-64",
     "location": "Dalton Hall",
-    "type": "Going through era of IoT with MySQL 5.7",
+    "type": "Keynote of 25 minutes",
     "end_time": "2016-03-18T07:50:00+00:00"
   },
   {
@@ -355,11 +355,11 @@
       "name": "OpenTech and IoT",
       "id": 2
     },
-    "start_time": "2016-03-18T07:45:00+00:00",
+    "start_time": "2016-03-18T07:50:00+00:00",
     "session_id": "OT-13",
     "location": "Dalton Hall",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T08:15:00+00:00"
+    "end_time": "2016-03-18T08:20:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -5946,20 +5946,20 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Game Automators",
-        "id": 32,
-        "name": "Sudheesh Singanamalla"
+        "organisation": "VRcollab",
+        "id": 179,
+        "name": "Jia Hen Tee"
       }
     ],
-    "description": "Game Automators is an effort that's made to automate android games using Matlab, OpenCV, PIL etc.., Using these we are automating the games with the adb tools. The talk will focus on what the project is all about, the community to automate mobile gaming using image processing, the possible academic research areas and the future of gaming with game automation. It's also an exciting effort to build algorithms to focus on solving larger and more dynamic mobile games. We are currently putting all the findings and the tutorials into a book and FOSSASIA would be a great platform to showcase and reach out to other researchers, students and enthusiasts about the ongoing work.",
-    "title": "Automating android games using image processing",
+    "description": "develop VR website with open source tools such as Aframe, WebVR boilerplate, Cannonjs, threejs and webvr markup",
+    "title": "Open Source WebVR development",
     "track": {
       "order": 17,
       "name": "Design, VR, 3D",
       "id": 17
     },
     "start_time": "2016-03-20T03:00:00+00:00",
-    "session_id": "DS-03",
+    "session_id": "DS-08",
     "location": "Level 3, Faraday Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T03:30:00+00:00"
@@ -5969,7 +5969,7 @@
     "speakers": [
       {
         "organisation": "ownCloud, Open Source Design",
-        "id": 179,
+        "id": 180,
         "name": "Jan-Christoph Borchardt"
       }
     ],
@@ -6007,7 +6007,7 @@
     "speakers": [
       {
         "organisation": "Code Artist",
-        "id": 180,
+        "id": 181,
         "name": "Sher Minn Chong"
       }
     ],
@@ -6028,20 +6028,20 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "VRcollab",
-        "id": 181,
-        "name": "Jia Hen Tee"
+        "organisation": "Game Automators",
+        "id": 32,
+        "name": "Sudheesh Singanamalla"
       }
     ],
-    "description": "develop VR website with open source tools such as Aframe, WebVR boilerplate, Cannonjs, threejs and webvr markup",
-    "title": "Open Source WebVR development",
+    "description": "Game Automators is an effort that's made to automate android games using Matlab, OpenCV, PIL etc.., Using these we are automating the games with the adb tools. The talk will focus on what the project is all about, the community to automate mobile gaming using image processing, the possible academic research areas and the future of gaming with game automation. It's also an exciting effort to build algorithms to focus on solving larger and more dynamic mobile games. We are currently putting all the findings and the tutorials into a book and FOSSASIA would be a great platform to showcase and reach out to other researchers, students and enthusiasts about the ongoing work.",
+    "title": "Automating android games using image processing",
     "track": {
       "order": 17,
       "name": "Design, VR, 3D",
       "id": 17
     },
     "start_time": "2016-03-20T06:00:00+00:00",
-    "session_id": "DS-08",
+    "session_id": "DS-03",
     "location": "Level 3, Faraday Hall",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-20T06:30:00+00:00"

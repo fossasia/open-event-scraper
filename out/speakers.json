@@ -177,9 +177,9 @@
     "twitter": "",
     "linkedin": "",
     "id": 14,
-    "photo": "Talk of 20 minutes",
+    "photo": "",
     "organisation": "MySQL",
-    "biography": ""
+    "biography": "Ricky Setyawan has been in the IT industry for 17 years with the good last 15 years working as RDBMS specialist. He is currently MySQL Principal Sales Consultant for Singapore, Malaysia, Indonesia, Brunei and Pakistan. Prior to joining Oracle, he was a Principal DBA doing database design and management on Oracle and DB2 on RedHat Linux on continuous availability server. He has been working on a number of RDBMS throughout his career such as Oracle, DB2, SQL Server, and MySQL."
   },
   {
     "py/object": "models.Speaker",
@@ -2315,13 +2315,26 @@
   },
   {
     "py/object": "models.Speaker",
+    "web": "http://vrcollab.com",
+    "github": "wizztjh",
+    "name": "Jia Hen Tee",
+    "country": "Malaysia",
+    "twitter": "https://twitter.com/wizztjh",
+    "linkedin": " https://www.linkedin.com/in/wizztjh",
+    "id": 179,
+    "photo": "",
+    "organisation": "VRcollab",
+    "biography": "Founder and CTO of VRcollab"
+  },
+  {
+    "py/object": "models.Speaker",
     "web": "http://jancborchardt.net",
     "github": "https://github.com/jancborchardt",
     "name": "Jan-Christoph Borchardt",
     "country": "Germany",
     "twitter": "https://twitter.com/jancborchardt",
     "linkedin": "",
-    "id": 179,
+    "id": 180,
     "photo": "https://border-none.net/uploads/bono/jan-christoph_borchardt_03.jpg",
     "organisation": "ownCloud, Open Source Design",
     "biography": "Jan-Christoph Borchardt is an open source designer, currently focused on ownCloud and opensourcedesign.net He worked with several open source software projects including Unhosted, Terms of Service; Didn\u2019t Read, Litewrite, Diaspora and more. Jan also regularly collaborates with design universities to get students involved in open source."
@@ -2334,23 +2347,10 @@
     "country": "Malaysia",
     "twitter": "https://twitter.com/piratefsh",
     "linkedin": "",
-    "id": 180,
+    "id": 181,
     "photo": "https://goo.gl/photos/JJNoMmKMzHweD8CJ7",
     "organisation": "Code Artist",
     "biography": "Sher Minn Chong is a front-end web engineer. Equal parts programmer and visual artist, she is enjoys the combination of both worlds, especially for the web. Her background spans rapid development at startups, coding education, and never graduated from Recurse Center. She is currently excited about creative coding, JavaScript technologies, and computer vision."
-  },
-  {
-    "py/object": "models.Speaker",
-    "web": "http://vrcollab.com",
-    "github": "wizztjh",
-    "name": "Jia Hen Tee",
-    "country": "Malaysia",
-    "twitter": "https://twitter.com/wizztjh",
-    "linkedin": " https://www.linkedin.com/in/wizztjh",
-    "id": 181,
-    "photo": "",
-    "organisation": "VRcollab",
-    "biography": "Founder and CTO of VRcollab"
   },
   {
     "py/object": "models.Speaker",
