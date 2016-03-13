@@ -10,6 +10,7 @@ assert(process.env.GIT_REPO, 'GIT_REPO must be set')
 
 const API_TOKEN = process.env.GITHUB_TOKEN
 const REPO = process.env.GIT_REPO
+const PORT = process.env.PORT || 9000
 
 const app = express()
 const travis = request.defaults({
@@ -58,4 +59,4 @@ function triggerBuild(token, cb) {
   })
 }
 
-app.listen(9000, _ => console.log(':9000'))
+app.listen(PORT, _ => console.log(':' + PORT))
