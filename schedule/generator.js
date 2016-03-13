@@ -14,7 +14,7 @@ function slugify(str) {
   return str.replace(/[^\w]/g, '-').replace(/-+/g, '-').toLowerCase()
 }
 
-function speakerName(speaker) {
+function speakerNameWithOrg(speaker) {
   return speaker.organisation ? 
     `${speaker.name} (${speaker.organisation})` : 
     speaker.name
@@ -87,7 +87,6 @@ function foldByTrack(sessions, speakers) {
       title: session.title,
       type: session.type,
       location: session.location,
-      speakers: session.speakers.map(speakerName).join(', '),
       speakers_list: session.speakers.map(speaker => speakersMap.get(speaker.id)),
       description: session.description,
       uniqid: sessionId(session)
@@ -100,7 +99,14 @@ function foldByTrack(sessions, speakers) {
   return tracks
 }
 
+function prepareSpeakers(speakers) {
+  speakers.forEach(s => {
+    s.nameWithOrg = speakerNameWithOrg(s)
+  })
+}
+
 function transformData(sessions, speakers) {
+  prepareSpeakers(speakers.speakers)
   let tracks = foldByTrack(sessions.sessions, speakers.speakers)
   let days = foldByDate(tracks)
   return {tracks, days}

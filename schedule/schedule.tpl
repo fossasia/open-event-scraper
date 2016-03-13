@@ -87,7 +87,7 @@
           <li class="list-group-item" data-session-id="{{uniqid}}">
             <div class="row"
               data-toggle="collapse"
-              data-target="#desc-{{uniqid}}"
+              data-target="#desc-{{uniqid}} .collapse"
               aria-expanded="false"
               aria-controls="desc-{{uniqid}}">
 
@@ -107,18 +107,18 @@
                 </p>
               </div>
               <p>
-                <span class="session-speakers">{{speakers}}</span>
-              </p>
-              <p>
                 <span class="session-type">{{type}}</span>
               </p>
-              <div class="collapse" id="desc-{{uniqid}}">
-                <p>
+              <div id="desc-{{uniqid}}">
+                <p class="collapse">
                   <span class="session-description">{{description}}</span>
                 </p>
                 <div class="session-speakers-list">
                   {{#speakers_list}}
-                  <div class="session-speakers-item">
+		  <p class="session-speakers-less">
+		    <span class="session-speaker-name">{{nameWithOrg}}</span>
+		  </p>
+                  <div class="session-speakers-more collapse">
 		    <p>
 		      <span class="session-speaker-bio">{{biography}}</span>
 		    </p>
