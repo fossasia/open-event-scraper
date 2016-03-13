@@ -2,6 +2,9 @@
 #!/bin/sh
 set -e
 
+git config --global user.name "Travis CI"
+git config --global user.email "noreply+travis@fossasia.org"
+
 python scraper.py
 
 # don't continue if no changes
@@ -17,8 +20,6 @@ git clone --depth=1 "https://${GH_TOKEN}@github.com/fossasia/2016.fossasia.org" 
 node schedule/generator > fa16-repo/schedule/index.html
 
 cd fa16-repo
-git config user.name "Travis CI"
-git config user.email "noreply+travis@fossasia.org"
 
 git commit -m '[Auto] updated schedule' schedule/index.html || echo "no changes"
 git push origin gh-pages
