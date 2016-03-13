@@ -38,7 +38,8 @@ def parse_tracklist(track_data):
             HEADERS = map(str.strip, line)
         elif i > HEADER_LINE:
             row = create_associative_arr(line, HEADERS)
-            # pprint(row)
+            if not row["Header Line"]:
+                continue
             track = Track(
                 id = i,
                 name = row["Track"],
