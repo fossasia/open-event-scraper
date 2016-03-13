@@ -35,6 +35,8 @@ app.get('/build', (req, res, next) => {
 })
 
 function authorize(cb) {
+  console.log('authorizing')
+  
   travis.post('/auth/github', {
     body: {github_token: API_TOKEN},
     headers: {'User-Agent': 'Travis/1.0'}
@@ -45,6 +47,8 @@ function authorize(cb) {
 }
 
 function triggerBuild(token, cb) {
+  console.log('starting build')
+
   let path = 'repo/' + encodeURIComponent(REPO) + '/requests'
   let body = {branch: 'master', message: 'API request'}
   let headers = {
