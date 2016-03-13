@@ -20,7 +20,7 @@ const travis = request.defaults({
 app.use(bodyParser.json())
 
 app.get('/', (req, res, next) => {
-  res.status(200, 'OK')
+  res.status(200).json({status: 'OK'})
 })
 
 app.get('/build', (req, res, next) => {
