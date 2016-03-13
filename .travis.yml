@@ -6,4 +6,6 @@ before_script:
   - nvm install 5.8
   - nvm alias default 5.8
   - npm install
-script: npm run scraper && npm run generator
+script: npm run scraper && npm run generator && sh push-2016.fossasia.org.sh
+env:
+  - secure: "kWp1I7ohwSQafGZ16siH1i/B8Lam7FGADJj3Qii1LqKoTZFj8vFdkOkOb4xmUSTHC3tPAnFF+sHtHmbFb4HV0KU20XEHkrKtPM184tIZSoofDTRygsxbQi7CcNl5gIKfix+pxxmIi7d3VWlMUREB617mhQwfJxTXV0uNeqIpp9JafD0GRw0cPfI9M3+LSWcS5PZgyptjYXNukEpWW/V9T97iJMDzsJ01DMLmcvvU7uB2lr1VguWhh8cXxH5hgthnUTeEy/3NzOVvdywZELsxuLN4ZgTRXuZr2goegsTdkCT+EIKBP3qnxO8hbv38SU/9RYItECwQdpYgczWTSIJb8dMEIsEJo3ZDuksjdxQxtSc/bmmaV8+DcoMWJNzYmfAUZTmCBNklDvrTMJUVyR4CchcVGpfYyO3WMVCyQoz4slvaYfBVGm2/3RjE+mqfcq9tn06HAGB5bRZGth6tTd2W5Jwi8UCrjPPeowQUJLZjdp8ASOfvFmedeMhGDrfy/QLDk9ICkn+RYi7yltA+2cjS9qewacbKy7ARtro1D8F45uohaNpb5IFpVtJlY444nMUgRlBUGdHnCicFQYrHbLpzkZybsSqF4uFUdB0j5y6B+cRrH0OyKuolF+JHAVRQf5BctsbOe2nnrPWhqJHWElWFnrEtEIDXK37SvXyjmcDQ6Qs="
