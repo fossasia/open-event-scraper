@@ -1502,10 +1502,15 @@
         "organisation": "ulno.net",
         "id": 61,
         "name": "Ulrich Norbisrath"
+      },
+      {
+        "organisation": "Espert Pte Ltd",
+        "id": 15,
+        "name": "William Hooi"
       }
     ],
     "description": "In this class, we are imagining that we have to build a new and fun product for our imaginary customer. It is supposed to be a gamification of the existing product. So we will learn how to attach an Espresso Lite board to an existing thing and turn it into an input or an output. We will show you how to network these things with each other, with a computer application (most likely a computer game), and your phone.  Bring some random not too valuable things (from your used coke can to some dollar store items) which you are not too sad about if they might get altered in a way that they might be not useful for unknown people anymore. We will provide aluminum foil, card stock, scissors, and glue for your alterations. Besides this bring a laptop, your team spirit, and lots of creativity.",
-    "title": "Build your own IoT Empire From Games to MQTT and Back",
+    "title": "Build your own IoT Empire - From Games to MQTT and Back",
     "track": {
       "order": 3,
       "name": "OpenTech Workshops",
@@ -2017,7 +2022,7 @@
       }
     ],
     "description": "In this workshop, we will show you our own special twist on the Internet of Things. Using an Espresso Lite (that's no coffee - this is actually a little computer with wifi) we will turn some household goods and some wire into your own multiplayer game controller. You will learn a lot about electronics, networking, and how much fun it is to build an open source community when we explore some of the open source projects, who enabled me to build the software for these controllers. And of course, we will play at least one fun open source multiplayer game with our own controllers in the end of the class. I will also point you to many other open source game projects you can adapt to use your new customized game controller with the knowledge of this class.  Bring some basic computer literacy (no programming required but it helps to dig deeper), some curiosity, a laptop, team spirit, and the willingness to do some crafting (yes there will be scissors and glue).",
-    "title": "Physical Open Source  Gaming How to Build Your own Customized Game Controller for Multiplayer Fun",
+    "title": "Physical Open Source  Gaming - How to Build Your own Customized Game Controller for Multiplayer Fun",
     "track": {
       "order": 5,
       "name": "Tech Kids II",
@@ -2086,7 +2091,7 @@
   {
     "py/object": "models.Session",
     "speakers": [],
-    "description": "Lunch boxes are provided at the exhibition hall A (Scientiest for a Day area) and at a number of tracks. Please use your voucher, that you got at the registration in the morning to get your box.",
+    "description": "",
     "title": "Lunch",
     "track": {
       "order": 6,
@@ -2138,7 +2143,7 @@
       "id": 6
     },
     "start_time": "2016-03-19T07:30:00+00:00",
-    "session_id": "TKIII-03",
+    "session_id": "TKIII-06",
     "location": "Level 1, Observatory Room",
     "type": "Workshop of 1.5 hours",
     "end_time": "2016-03-19T09:00:00+00:00"
@@ -2146,7 +2151,7 @@
   {
     "py/object": "models.Session",
     "speakers": [],
-    "description": "",
+    "description": "With so many people helping, it was clear from the beginning, that FOSSASIA 2016 must become a great success.",
     "title": "End of Sessions",
     "track": {
       "order": 6,
@@ -2318,7 +2323,7 @@
       "id": 7
     },
     "start_time": "2016-03-19T02:00:00+00:00",
-    "session_id": "HW-08",
+    "session_id": "HW-35",
     "location": "Level 1, Eco Garden Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T02:30:00+00:00"
