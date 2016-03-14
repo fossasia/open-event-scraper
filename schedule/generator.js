@@ -44,8 +44,8 @@ function byProperty(key) {
   }
 }
 
-function sessionId(track, start) {
-  let data = track + "," + start
+function sessionId(session) {
+  let data = [session.title, session.session_id, session.start].join('|')
   return crypto.createHash('md5').update(data).digest('hex');
 }
 
@@ -89,7 +89,7 @@ function foldByTrack(sessions, speakers) {
       speakers: session.speakers.map(speakerNameWithOrg),
       speakers_list: session.speakers.map(speaker => speakersMap.get(speaker.id)),
       description: session.description,
-      uniqid: sessionId(session.track.name, session.start_time)
+      uniqid: sessionId(session)
     })
   })
 
