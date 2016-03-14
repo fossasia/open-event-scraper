@@ -10,7 +10,7 @@
     "id": 1,
     "photo": "",
     "organisation": "FOSSASIA",
-    "biography": "Hong Phuc, originally from Vietnam, has lived in the US, Singapore and Berlin. She was a speaker at the Chaos Communication Congress presenting the latest advances in Open Fashion and Technology. She is also the founder of FOSSASIA, an initiative in Asia bringing together an inspiring community across borders and ages to form a better future with Open Technologies and ICT. Hong Phuc organizes events like the annual FOSSASIA summit since 2009 and puts together Science Hackdays across the region in Vietnam, Dubai and China."
+    "biography": "Hong Phuc, originally from Vietnam, has lived in the US, Singapore and Berlin. She was a speaker at the Chaos Communication Congress presenting the latest advances in Open Fashion and Technology. She is also the founder of FOSSASIA, the Asia organization bringing together an inspiring community across borders and ages to form a better future with Open Technologies and ICT. Hong Phuc organizes events like the annual FOSSASIA summit since 2009 and puts together Science Hackdays across the region in Vietnam, Dubai and China."
   },
   {
     "py/object": "models.Speaker",
@@ -608,7 +608,7 @@
     "id": 47,
     "photo": "",
     "organisation": "One Maker Group",
-    "biography": "Like before"
+    "biography": "I have a very curious mind and I strive to integrate design, technology and learning in all my endeavors. I\u2019m currently the Lead Curriculum Developer for OneMaker Group and my main objective is to help makers of all ages build up their creative confidence by breaking the barriers of the mind, and show that everybody have the potential to be a maker and a designer. Before joining OMG, I worked at Autodesk for over 9 years in Singapore as a Learning Content Developer. I hold a B.A in Architecture from the Monterrey Institute of Technology and Higher Education and has worked as a 3D modeler and Graphic Designer in Mexico, USA and Canada. She is actively involved in the Singapore Maker community."
   },
   {
     "py/object": "models.Speaker",
