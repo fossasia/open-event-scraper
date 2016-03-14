@@ -99,22 +99,22 @@
     "twitter": "https://twitter.com/nextnikolai",
     "linkedin": "",
     "id": 8,
-    "photo": "",
+    "photo": "http://payload352.cargocollective.com/1/14/457820/9356895/The-Other-Nefertiti-3D-print_842.jpg",
     "organisation": "Artist of \"The Other Nefertiti\"",
-    "biography": "Jan Nikolai Nelles is a multi-disciplinary artist based in Berlin. He graduated from Offenbach University of Art and Design in 2011. \u2028\u2028His work oscillates between visual and media art. In the past he founded an independent art gallery in Offenbach, Germany, and co-founded a photography magazine. Since 2009, he also collaborates with Nora Al-Badri on several artistic interventions. \u2028\u2028His works were granted by several institutions: Goethe-Institute, Institut f\u00fcr Auslandsbeziehungen (IfA), German Federal Foreign Office and European Cultural Foundation (ECF)."
+    "biography": "Jan Nikolai Nelles is a multi-disciplinary artist based in Berlin. He graduated from Offenbach University of Art and Design in 2011. \u2028\u2028His work oscillates between visual and media art. In the past he founded an independent art gallery in Offenbach, Germany, and co-founded a photography magazine. Since 2009, he also collaborates with Nora Al-Badri on several artistic interventions."
   },
   {
     "py/object": "models.Speaker",
     "web": "https://developers.google.com/open-source/",
     "github": "",
     "name": "Cat Allman",
-    "country": "USA",
-    "twitter": "",
-    "linkedin": "",
+    "country": "San Francisco",
+    "twitter": "https://twitter.com/catallman",
+    "linkedin": "https://www.linkedin.com/in/catallman",
     "id": 9,
-    "photo": "https://media.licdn.com/media/p/8/005/068/2e0/158e90f.jpg",
+    "photo": "Keynote of 20 minutes",
     "organisation": "Google",
-    "biography": "Cat is the Science Outreach Program Manager at Google. She manages outreach to the global FOSS community with her team. They run student programs such as Google Summer of Code and Google Code-in, sponsor and host FOSS project events, and fund a wide variety of projects. She speaks at conferences, and in her spare time is a co-organizer and the logistics lead for Science Foo Camp, an annual invitation-only un-conference for scientists. This \"spare time\" activity has turned into a 2nd team to manage around outreach to science and maker communities."
+    "biography": ""
   },
   {
     "py/object": "models.Speaker",
