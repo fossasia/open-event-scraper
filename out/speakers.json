@@ -751,7 +751,7 @@
     "id": 58,
     "photo": "",
     "organisation": "FOSSASIA",
-    "biography": ""
+    "biography": "Hong Phuc, originally from Vietnam, has lived in the US, Singapore and Berlin. She was a speaker at the Chaos Communication Congress presenting the latest advances in Open Fashion and Technology. She is also the founder of FOSSASIA, the Asia organization bringing together an inspiring community across borders and ages to form a better future with Open Technologies and ICT. Hong Phuc organizes events like the annual FOSSASIA summit since 2009 and puts together Science Hackdays across the region in Vietnam, Dubai and China."
   },
   {
     "py/object": "models.Speaker",
@@ -1054,13 +1054,26 @@
   },
   {
     "py/object": "models.Speaker",
+    "web": "http://rolandturner.com/",
+    "github": "https://github.com/rolandturner",
+    "name": "Roland Turner",
+    "country": "Australia",
+    "twitter": "https://twitter.com/rolandturner",
+    "linkedin": "https://www.linkedin.com/in/rolandturner",
+    "id": 82,
+    "photo": "http://cdn.rolandturner.com/rolandturner.jpeg",
+    "organisation": "FOSSASIA",
+    "biography": "Roland has been playing with electronics since he was 7, built his first radio transmitter when he was 10, started programming when he was 12 and passed his ham radio exams when he was 17. He has been involved in the founding and organising of technology community groups since the late 1980s, most recently HackerspaceSG and FOSSASIA respectively. In addition to building a sensor network to map the haze in order to work out where [not] to run and advising early-stage technology startups because they are interesting, he is working on bouncing radio waves off the moon simply because it is there."
+  },
+  {
+    "py/object": "models.Speaker",
     "web": "http://kapper1224.sakura.ne.jp",
     "github": "",
     "name": "Kenji Shimono",
     "country": "Japan",
     "twitter": "https://twitter.com/kapper1224",
     "linkedin": "",
-    "id": 82,
+    "id": 83,
     "photo": "",
     "organisation": "Netwalker Laboratory, Tokaido Linux Users Group",
     "biography": "I belong to the Tokaido Linux User Group in Japan. I'm hacking the ARM Linux in the user point of view."
@@ -1073,7 +1086,7 @@
     "country": "South Korea",
     "twitter": "",
     "linkedin": "https://www.linkedin.com/in/carsten-haitzler-817541",
-    "id": 83,
+    "id": 84,
     "photo": "http://www.rasterman.com/i/me.jpg",
     "organisation": "Samsung Electronics",
     "biography": "Carsten has worked in the Linux and related industries for about 20 years in several countries on all sides of the globe, has contributed to several open source projects and is best known for founding the Enlightenment window manager project and having written lots of graphics related code for X11. He currently lives in Korea and works as a Master Engineer for Samsung Electronics and helps architect and drive graphics, toolkits and related code for Tizen."
@@ -1086,7 +1099,7 @@
     "country": "Japan",
     "twitter": "https://twitter.com/tks",
     "linkedin": "https://www.linkedin.com/in/takasumasakazu",
-    "id": 84,
+    "id": 85,
     "photo": "http://ch.nicovideo.jp/tks/blomaga/ar701264",
     "organisation": "teamLab, and Nico-Tech",
     "biography": "Masakazu Takasu, Catalyst at teamLab, takes us on a journey to his homeland of Japan and their exciting ways of using technology, design and science. teamLab combines these disciplines to create innovative digital solutions often with physical elements of interaction. Through playing and experimentation, connecting prototyping with 3D graphics, art and much more, they're creating a whole new world of gaming, interactive decorations and augmented reality. "
@@ -1099,7 +1112,7 @@
     "country": "India",
     "twitter": "",
     "linkedin": "https://in.linkedin.com/in/deepak-karki-4a287057",
-    "id": 85,
+    "id": 86,
     "photo": "",
     "organisation": "Beagleboard",
     "biography": "I have been an opensource developer and enthusiast for the past four years. I have worked extensively with the beagleboard organisation, first as a GSoC student and later as a GSoC mentor. I had also given a talk on the beagleboard ecosystem. Most of my open source projects are Python or Javascript based. I currently work on hyperconverged and cloud systems at Nutanix India as a full time employee."
@@ -1112,7 +1125,7 @@
     "country": "India",
     "twitter": "",
     "linkedin": "https://in.linkedin.com/in/udaykumar-khadke-04928619",
-    "id": 86,
+    "id": 87,
     "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/051/32c/204f39b.jpg",
     "organisation": "Department of Physics, BKIT, Bhalki, Karnataka, INDIA",
     "biography": "Speaker 1.   Dr. Udaykumar Khadke  is Professor in Engineering Physics. He is a free software enthusiast and involved in promoting FOSS in Education.  He is working as a volunteer for ExpEYES: Pocket Science Lab Project. Dr. Udaykumar is actively involved in Radiation Physics Research and currently he is guiding SIX research students in various fields of material science and radiation physics.  Speaker 2:  Praveen Patil A Physics Teacher and a free software enthusiast. FOSSASIA GsoC-14 and GsoC-15  student alumnus and GCI mentor.  Working on ExpEYES: Open Source Pocket Science Lab,  Involved in FOSS training programs for science teachers and students. Pursuing PhD in  Material science and Radiation Physics    "
@@ -1125,23 +1138,10 @@
     "country": "India",
     "twitter": "",
     "linkedin": "",
-    "id": 87,
+    "id": 88,
     "photo": "",
     "organisation": "National University of Singapore",
     "biography": "Abhishek is a 3rd year PhD student in the Department of Electrical and Computer Engineering, NUS. His interests span robotics, machine learning, signal processing and neuromorphic computer vision."
-  },
-  {
-    "py/object": "models.Speaker",
-    "web": "http://rolandturner.com/",
-    "github": "https://github.com/rolandturner",
-    "name": "Roland Turner",
-    "country": "Australia",
-    "twitter": "https://twitter.com/rolandturner",
-    "linkedin": "https://www.linkedin.com/in/rolandturner",
-    "id": 88,
-    "photo": "http://cdn.rolandturner.com/rolandturner.jpeg",
-    "organisation": "FOSSASIA",
-    "biography": "Roland has been playing with electronics since he was 7, built his first radio transmitter when he was 10, started programming when he was 12 and passed his ham radio exams when he was 17. He has been involved in the founding and organising of technology community groups since the late 1980s, most recently HackerspaceSG and FOSSASIA respectively. In addition to building a sensor network to map the haze in order to work out where [not] to run and advising early-stage technology startups because they are interesting, he is working on bouncing radio waves off the moon simply because it is there."
   },
   {
     "py/object": "models.Speaker",
