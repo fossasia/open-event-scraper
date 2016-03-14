@@ -2016,26 +2016,13 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "https://www.facebook.com/cocotsaizax",
-    "github": "",
-    "name": "Menghsuan Tsai",
-    "country": "Taiwan",
-    "twitter": "",
-    "linkedin": "",
-    "id": 156,
-    "photo": "",
-    "organisation": "National Cheng Kung University",
-    "biography": "I have a strong passion in dealing problems in an efficient way. No matter how much time it takes, I like to try things to benefit the society.  I am willing to devote myself to spend thousands of hours to help others save an hour for their work. I believe the environment must be changed to make it a better world for us to do things effectively. Apart from the efficiency, I am interested in joining a community because it gives me an opportunity to acquire both determination and selflessness. Working together in the community makes me feel a part of something bigger; it teaches me not to only make decision from my perspective view but to take the whole community into consideration. Although practicing coding takes sweat, I am still willing to devote myself to help others finish the projects. Not until I overcome one failure after another can I learn that the turning points are meant to trigger your potential ability. Every obstacle happened in community is a chance for me to cultivate skills and enhance competitiveness.  As the two main points mentioned above, with the ambition to challenge myself and to venture into the unknown, I would like to grab the chance to join FOSSASIA 2016. To wake myself up under the sleepy eyes of ignoring the cruel facts of the world, it\u2019s necessary to be stimulated by the diversity. To gain more information and get to know more people, it is a great opportunity for me to face challenges and receive suggestions. I know I am still lack for experience and knowledge, so I hope, by joining FOSSASIA 2016, I can get more inspiration and innovation to make my project even better.  And...  One reason why I want to attend this program is because of my ambition for promoting the open source software. I am a sophomore at Cheng Kung University in Tainan the southern city in Taiwan. I am usually buried under a heavy load of homework during the week. So I usually try to take an adventure to try new software programs for making my work more convenient. \u201cTechnology happens when imagination meets need.\u201d With the development of the technology, I can use open sources, such as Inkscape, Amara and Gimp online. One of the most terrifying assignment that I have ever had)was assigned by Professor Yung for the course \u201celectrical circuit\u201d. We had to read through papers about the electricity and find out what we can probe from our class materials, like noise filters or common base amplifiers. Moreover, I had to make an English presentation to give my proposal in this class.  So when I finally have some free time on weekends, I can surf the internet to check out the latest information for open source. I easily use Inskape to redesign picture forms Openclipart to make eye-popping slides. Also as a English learner, I use Amara to translate video like Emma Watson\u2019s speech in the EU from youtube. From this, I practice not only my listening skills, but also how to boost my impact of my communication in English. Simply put, I want to deliver the convince which I gain from the open source software. Open source software has changed the way I see my world, and now I want it to change the world that I see and live in. "
-  },
-  {
-    "py/object": "models.Speaker",
     "web": "http://intzone.com",
     "github": "https://github.com/zionsg",
     "name": "Zion Ng",
     "country": "Singapore",
     "twitter": "https://twitter.com/zionsg2015",
     "linkedin": "https://sg.linkedin.com/in/zionsg2015",
-    "id": 157,
+    "id": 156,
     "photo": "https://momocentral.com/system/devs/logos/000/000/027/original/zion.jpg",
     "organisation": "intZone.com",
     "biography": "Zion Ng is a Singaporean freelance web developer at intZone.com. Programming has been his favourite hobby since his teens, a tool to create solutions for himself, family and friends. He believes in lifelong learning as passion may die off but passion for learning will keep the flame alive. He graduated from the School of Computing, National University of Singapore and is also a Zend Certified Engineer (PHP and Zend Framework)."
@@ -2048,7 +2035,7 @@
     "country": "Singapore",
     "twitter": "https://twitter.com/woohuiren",
     "linkedin": "https://www.linkedin.com/in/woohuiren",
-    "id": 158,
+    "id": 157,
     "photo": "http://i.imgur.com/OE63qaN.jpg",
     "organisation": "Fedora Project",
     "biography": "Here's a short run through of what the talk will be about:   - Self Introduction - FOSS & OSS -- How I contribute to FOSS -- How you can contribute -- Why I contribute -- Why you should contribute -- Power of FOSS & OSS - About Fedora -- Brief dramatic history --- Argument of Fedora Devs with Linus - Why Fedora -- Cutting edge - How to Fedora -- Pidora -- Cloud images - Alternatives to proprietary software -- Skype alternatives, etc. - Conclusion"
@@ -2061,7 +2048,7 @@
     "country": "Singapore",
     "twitter": "https://twitter.com/sayanee_",
     "linkedin": "https://www.linkedin.com/in/sayanee",
-    "id": 159,
+    "id": 158,
     "photo": "https://www.flickr.com/photos/jurvistan/23015512439/in/album-72157661087124089/",
     "organisation": "We Build SG",
     "biography": "Sayanee is a web developer with an interest in connecting low powered sensors to the Internet. She created developer tools screencasts at http://build-podcast.com and does some coding for the https://webuild.sg project. In her free time, she loves to attend developer meetups and conferences to share what she is learning."
@@ -2074,7 +2061,7 @@
     "country": "India",
     "twitter": "https://twitter.com/anivar",
     "linkedin": "https://in.linkedin.com/in/anivar",
-    "id": 160,
+    "id": 159,
     "photo": "https://commons.wikimedia.org/wiki/File%3AAnivar_Aravind_%2815182117864%29.jpg",
     "organisation": "Mozilla India",
     "biography": "Anivar A. Aravind is a Senior Program/Project Management professional based in Bangalore with 10+ year Industry experience. He is a well known Free Software/Culture Evangelist in South Asia with a 14 year active involvement record. Anivar has a long track record of initiating, sustaining and running various Technical, Policy and Developer platforms and mobilizing people support and participation in such initiatives. Anivar has significant expertise on ICT public policy, Internet Governance, Open standards, Language technology, FOSS Licensing, Accessibility, and coordinating remote and scattered teams. He has substantial experience in mentoring many free and open source software projects and start-ups in social technology space to find their feet, assisting in various capacities from part- time adviser to chief technologist. As a social entrepreneur and activist working in the field of ICT4D for the last 10 years, he has extensive experience working with many small and large organizations at the local, regional, national and international levels. He contributed to the launch and maintenance of many thematic and regional networks and his activism has always focused on bridging the awareness gap between digital rights activism and general public in India.  He is the Executive Director of Indic Project and currently chairing Mozilla India Policy and Advocacy task force."
@@ -2087,7 +2074,7 @@
     "country": "USA",
     "twitter": "",
     "linkedin": "",
-    "id": 161,
+    "id": 160,
     "photo": "",
     "organisation": "Open Invention Network",
     "biography": "Keith Bergelt is the CEO of Open Invention Network (OIN), the largest patent non-aggression community in history, organized to support freedom of action in Linux and open source software.  OIN has more than 2,000 community members and owns more than 1,100 global patents and applications.  OIN offers a free license to its owned patents and coordinates a broad OSS-centric member cross-license; both are available in one OIN license on a royalty free basis to any party that joins the OIN community.  Prior to joining OIN, Mr. Bergelt served as CEO of two funds formed to unlock the considerable asset value of intellectual property in middle market companies.  Previously, Mr. Bergelt's private sector experience includes service as a senior advisor to the technology investment division at Texas Pacific Group.   He also headed business development, IP and licensing for Cambridge Display Technology.  Additionally, he established and served as General Manager of the Strategic Intellectual Asset Management business unit and director of Technology Strategy at Motorola.     Mr. Bergelt's public sector experience includes service as an American Diplomat in Washington, DC, New York, NY (United Nations), and Tokyo, Japan (American Embassy)."
@@ -2100,7 +2087,7 @@
     "country": "India",
     "twitter": "",
     "linkedin": "",
-    "id": 162,
+    "id": 161,
     "photo": "http://anweshadas.in/content/images/2015/03/479357_510013835681502_1332101143_o.jpg",
     "organisation": "Fedora Project",
     "biography": "Anwesha Das, an Advocate practicing law for 6 years. She is an active user of FOSS technologies. She contributes to Fedora Project.  One of her major goal is to help the FOSS developers with the legal aspect of the software industry."
@@ -2113,10 +2100,23 @@
     "country": "Taiwan",
     "twitter": "",
     "linkedin": " https://tw.linkedin.com/in/kevin-huang-b2a3096",
-    "id": 163,
+    "id": 162,
     "photo": "",
     "organisation": "Open Invention Network",
     "biography": "To reduce patent risk around Linux system"
+  },
+  {
+    "py/object": "models.Speaker",
+    "web": "https://www.facebook.com/cocotsaizax",
+    "github": "",
+    "name": "Menghsuan Tsai",
+    "country": "Taiwan",
+    "twitter": "",
+    "linkedin": "",
+    "id": 163,
+    "photo": "",
+    "organisation": "National Cheng Kung University",
+    "biography": "I have a strong passion in dealing problems in an efficient way. No matter how much time it takes, I like to try things to benefit the society.  I am willing to devote myself to spend thousands of hours to help others save an hour for their work. I believe the environment must be changed to make it a better world for us to do things effectively. Apart from the efficiency, I am interested in joining a community because it gives me an opportunity to acquire both determination and selflessness. Working together in the community makes me feel a part of something bigger; it teaches me not to only make decision from my perspective view but to take the whole community into consideration. Although practicing coding takes sweat, I am still willing to devote myself to help others finish the projects. Not until I overcome one failure after another can I learn that the turning points are meant to trigger your potential ability. Every obstacle happened in community is a chance for me to cultivate skills and enhance competitiveness.  As the two main points mentioned above, with the ambition to challenge myself and to venture into the unknown, I would like to grab the chance to join FOSSASIA 2016. To wake myself up under the sleepy eyes of ignoring the cruel facts of the world, it\u2019s necessary to be stimulated by the diversity. To gain more information and get to know more people, it is a great opportunity for me to face challenges and receive suggestions. I know I am still lack for experience and knowledge, so I hope, by joining FOSSASIA 2016, I can get more inspiration and innovation to make my project even better.  And...  One reason why I want to attend this program is because of my ambition for promoting the open source software. I am a sophomore at Cheng Kung University in Tainan the southern city in Taiwan. I am usually buried under a heavy load of homework during the week. So I usually try to take an adventure to try new software programs for making my work more convenient. \u201cTechnology happens when imagination meets need.\u201d With the development of the technology, I can use open sources, such as Inkscape, Amara and Gimp online. One of the most terrifying assignment that I have ever had)was assigned by Professor Yung for the course \u201celectrical circuit\u201d. We had to read through papers about the electricity and find out what we can probe from our class materials, like noise filters or common base amplifiers. Moreover, I had to make an English presentation to give my proposal in this class.  So when I finally have some free time on weekends, I can surf the internet to check out the latest information for open source. I easily use Inskape to redesign picture forms Openclipart to make eye-popping slides. Also as a English learner, I use Amara to translate video like Emma Watson\u2019s speech in the EU from youtube. From this, I practice not only my listening skills, but also how to boost my impact of my communication in English. Simply put, I want to deliver the convince which I gain from the open source software. Open source software has changed the way I see my world, and now I want it to change the world that I see and live in. "
   },
   {
     "py/object": "models.Speaker",
@@ -2311,7 +2311,7 @@
     "id": 178,
     "photo": "",
     "organisation": "Deepin",
-    "biography": "Could you give me a example, I don't know what to fill this."
+    "biography": "Derek is a Linux user and developer. Interesting in how to measure and improve system performance recently."
   },
   {
     "py/object": "models.Speaker",
