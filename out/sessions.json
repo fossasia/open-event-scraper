@@ -74,8 +74,8 @@
         "name": "Harish Pillay"
       }
     ],
-    "description": "RedHat is great",
-    "title": "RedHat",
+    "description": "The Brave New World of Open Source",
+    "title": "The Brave New World of Open Source",
     "track": {
       "order": 2,
       "name": "OpenTech and IoT",
@@ -134,7 +134,7 @@
   {
     "py/object": "models.Session",
     "speakers": [],
-    "description": "",
+    "description": "Break in the Marquee room with coffee, tea and snacks.",
     "title": "Tea and Coffee Break",
     "track": {
       "order": 2,
