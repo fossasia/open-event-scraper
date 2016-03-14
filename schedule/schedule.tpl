@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<!-- {{note_to_contributors}} -->
+<!--
+  Note to contributors: Do not submit any changes to this page, as it is generated automatically
+  from https://github.com/fossasia/open-event-scraper.
+-->
 <html lang="en">
   <head>
 
@@ -106,6 +109,9 @@
                   {{location}}
                 </p>
               </div>
+              <p class="session-speakers">
+                {{speakers}}
+              </p>
               <p>
                 <span class="session-type">{{type}}</span>
               </p>
@@ -113,22 +119,40 @@
                 <p class="collapse">
                   <span class="session-description">{{description}}</span>
                 </p>
-                <div class="session-speakers-list">
+                <div class="session-speakers-list collapse">
                   {{#speakers_list}}
-		  <p class="session-speakers-less">
-		    <span class="session-speaker-name">{{nameWithOrg}}</span>
-		  </p>
-                  <div class="session-speakers-more collapse">
-		    <p>
-		      <span class="session-speaker-bio">{{biography}}</span>
-		    </p>
-		    <p class="session-speaker-social">
-		      {{#if web}}<a class="session-speaker-web" href="{{{web}}}"}><i class="fa fa-home"></i></a>{{/if}}
-		      {{#if github}}<a class="session-speaker-github" href="{{{github}}}"}><i class="fa fa-github"></i></a>{{/if}}
-		      {{#if twitter}}<a class="session-speaker-twitter" href="{{{twitter}}}"}><i class="fa fa-twitter"></i></a>{{/if}}
-		      {{#if linkedin}}<a class="session-speaker-linkedin" href="{{{linkedin}}}"}><i class="fa fa-linkedin"></i></a>{{/if}}
-		    </p>
-		  </div>
+                  {{#if biography}}
+                  <p class="session-speakers-less">
+                    <span class="session-speaker-name">About {{name}}:</span>
+                  </p>
+                  <div class="session-speakers-more">
+                  <p>
+                    <span class="session-speaker-bio">{{biography}}</span>
+                  </p>
+                  <p class="session-speaker-social">
+                    {{#web}}
+                    <a class="social speaker-social" href="{{{web}}}"}>
+                      <i class="fa fa-home"></i> Web
+                    </a>
+                    {{/web}}
+                    {{#github}}
+                    <a class="social speaker-social" href="{{{github}}}"}>
+                      <i class="fa fa-github"></i> Github
+                    </a>
+                    {{/github}}
+                    {{#twitter}}
+                    <a class="social speaker-social" href="{{{twitter}}}"}>
+                      <i class="fa fa-twitter"></i> Twitter
+                    </a>
+                    {{/twitter}}
+                    {{#linkedin}}
+                    <a class="social speaker-social" href="{{{linkedin}}}"}>
+                      <i class="fa fa-linkedin"></i> LinkedIn
+                    </a>
+                    {{/linkedin}}
+                  </p>
+                  </div>
+                  {{/if}}
                   {{/speakers_list}}
                 </div>
               </div>

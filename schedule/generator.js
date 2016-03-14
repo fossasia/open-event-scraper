@@ -6,7 +6,6 @@ const moment = require('moment')
 const handlebars = require('handlebars')
 
 const tpl = handlebars.compile(fs.readFileSync(__dirname + '/schedule.tpl').toString('utf-8'))
-const note_to_contributors = "Note to contributors: Do not submit any changes to this page, as it is generated automatically from https://github.com/fossasia/open-event-scraper."
 const sessionsData = require('../out/sessions.json')
 const speakersData = require('../out/speakers.json')
 
@@ -87,6 +86,7 @@ function foldByTrack(sessions, speakers) {
       title: session.title,
       type: session.type,
       location: session.location,
+      speakers: session.speakers.map(speakerNameWithOrg),
       speakers_list: session.speakers.map(speaker => speakersMap.get(speaker.id)),
       description: session.description,
       uniqid: sessionId(session.track.name, session.start_time)
@@ -99,19 +99,11 @@ function foldByTrack(sessions, speakers) {
   return tracks
 }
 
-function prepareSpeakers(speakers) {
-  speakers.forEach(s => {
-    s.nameWithOrg = speakerNameWithOrg(s)
-  })
-}
-
 function transformData(sessions, speakers) {
-  prepareSpeakers(speakers.speakers)
   let tracks = foldByTrack(sessions.sessions, speakers.speakers)
   let days = foldByDate(tracks)
   return {tracks, days}
 }
 
 const data = transformData(sessionsData, speakersData)
-data.note_to_contributors = note_to_contributors
 process.stdout.write(tpl(data))
