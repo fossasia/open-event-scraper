@@ -129,26 +129,26 @@
                     <span class="session-speaker-bio">{{biography}}</span>
                   </p>
                   <p class="session-speaker-social">
-                    {{#web}}
+                    {{#if web}}
                     <a class="social speaker-social" href="{{{web}}}"}>
                       <i class="fa fa-home"></i> Web
                     </a>
-                    {{/web}}
-                    {{#github}}
+                    {{/if}}
+                    {{#if github}}
                     <a class="social speaker-social" href="{{{github}}}"}>
                       <i class="fa fa-github"></i> Github
                     </a>
-                    {{/github}}
-                    {{#twitter}}
+                    {{/if}}
+                    {{#if twitter}}
                     <a class="social speaker-social" href="{{{twitter}}}"}>
                       <i class="fa fa-twitter"></i> Twitter
                     </a>
-                    {{/twitter}}
-                    {{#linkedin}}
+                    {{/if}}
+                    {{#if linkedin}}
                     <a class="social speaker-social" href="{{{linkedin}}}"}>
                       <i class="fa fa-linkedin"></i> LinkedIn
                     </a>
-                    {{/linkedin}}
+                    {{/if}}
                   </p>
                   </div>
                   {{/if}}
