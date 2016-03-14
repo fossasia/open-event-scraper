@@ -4825,7 +4825,7 @@
     "session_id": "ISC-03",
     "location": "Level 2, Einstein Room",
     "type": "Workshop of 1 hour",
-    "end_time": "2016-03-18T07:30:00+00:00"
+    "end_time": "2016-03-18T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -4843,11 +4843,11 @@
       "name": "Internet, Society, Community",
       "id": 13
     },
-    "start_time": "2016-03-18T07:30:00+00:00",
+    "start_time": "2016-03-18T08:00:00+00:00",
     "session_id": "ISC-24",
     "location": "Level 2, Einstein Room",
     "type": "Talk of 20 minutes",
-    "end_time": "2016-03-18T08:00:00+00:00"
+    "end_time": "2016-03-18T08:30:00+00:00"
   },
   {
     "py/object": "models.Session",
