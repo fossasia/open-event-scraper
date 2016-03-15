@@ -1602,7 +1602,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "D E Shaw & Co.",
+        "organisation": "Mozilla",
         "id": 64,
         "name": "Ram Dayal Vaishnav"
       }
@@ -1618,6 +1618,28 @@
     "session_id": "OTW-30",
     "location": "Level 3, Lewis Lab",
     "type": "Workshop of 1.5 hours",
+    "end_time": "2016-03-20T07:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "EnterpriseDB",
+        "id": 65,
+        "name": "Bruce Momjian"
+      }
+    ],
+    "description": "You can control devices in your home from your computer with no new wiring. This session covers controlling lights, bells, and motors using open source software. Wireless remotes can also control devices. Sensors can provide information about motion, sunset, temperature. Capturing caller id and auto-dialing is also covered. X10 is an ideal system for home automation, and there are methods to improve reliability. Computers can easily send X10 signals across your electrical network. The session concludes with a live demo showing a home with 38 computer-controlled devices and sensors.  URLs of slides:   http://momjian.us/main/writings/home_automation.pdf  http://momjian.us/main/writings/home_automation_software.pdf",
+    "title": "Practical Computerized Home Automation",
+    "track": {
+      "order": 3,
+      "name": "OpenTech Workshops",
+      "id": 3
+    },
+    "start_time": "2016-03-20T07:00:00+00:00",
+    "session_id": "OTW-31",
+    "location": "Level 3, Lewis Lab",
+    "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T08:00:00+00:00"
   },
   {
@@ -1647,7 +1669,7 @@
     "speakers": [
       {
         "organisation": "IIIT Delhi",
-        "id": 65,
+        "id": 66,
         "name": "Manan Wason"
       }
     ],
@@ -1723,7 +1745,7 @@
     "speakers": [
       {
         "organisation": "BLUG",
-        "id": 66,
+        "id": 67,
         "name": "Martin B\u00e4hr"
       }
     ],
@@ -1761,7 +1783,7 @@
     "speakers": [
       {
         "organisation": "IIIT Delhi",
-        "id": 65,
+        "id": 66,
         "name": "Manan Wason"
       }
     ],
@@ -1821,7 +1843,7 @@
     "speakers": [
       {
         "organisation": "ExpEYES",
-        "id": 67,
+        "id": 68,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -1865,7 +1887,7 @@
     "speakers": [
       {
         "organisation": "OneMaker Group",
-        "id": 68,
+        "id": 69,
         "name": "Jamen Loh"
       }
     ],
@@ -1941,7 +1963,7 @@
     "speakers": [
       {
         "organisation": "OneMaker Group",
-        "id": 69,
+        "id": 70,
         "name": "Syabiqah Phang"
       }
     ],
@@ -1979,7 +2001,7 @@
     "speakers": [
       {
         "organisation": "12Geeks",
-        "id": 70,
+        "id": 71,
         "name": "Luther Goh"
       }
     ],
@@ -2055,7 +2077,7 @@
     "speakers": [
       {
         "organisation": "OneMaker Group",
-        "id": 71,
+        "id": 72,
         "name": "Wilfred Wong"
       }
     ],
@@ -2109,7 +2131,7 @@
     "speakers": [
       {
         "organisation": "Ground Up Initiative",
-        "id": 72,
+        "id": 73,
         "name": "Gabriel Perumal"
       }
     ],
@@ -2131,7 +2153,7 @@
     "speakers": [
       {
         "organisation": "Ground Up Initiative",
-        "id": 72,
+        "id": 73,
         "name": "Gabriel Perumal"
       }
     ],
@@ -2169,7 +2191,7 @@
     "speakers": [
       {
         "organisation": "Ambient Dynamix/National University of Singapore",
-        "id": 73,
+        "id": 74,
         "name": "Shivam Verma"
       }
     ],
@@ -2191,7 +2213,7 @@
     "speakers": [
       {
         "organisation": "Garuda Robotics",
-        "id": 74,
+        "id": 75,
         "name": "Jiin Joo Ong"
       }
     ],
@@ -2213,7 +2235,7 @@
     "speakers": [
       {
         "organisation": "dell",
-        "id": 75,
+        "id": 76,
         "name": "Parmeshwr Prasad Vishwakarma"
       }
     ],
@@ -2235,7 +2257,7 @@
     "speakers": [
       {
         "organisation": "Opera",
-        "id": 76,
+        "id": 77,
         "name": "Shwetank Dixit"
       }
     ],
@@ -2257,7 +2279,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 77,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
@@ -2311,7 +2333,7 @@
     "speakers": [
       {
         "organisation": "Smart guidance for blind",
-        "id": 78,
+        "id": 79,
         "name": "Jaminy Prabaharan"
       }
     ],
@@ -2333,7 +2355,7 @@
     "speakers": [
       {
         "organisation": "Makino Asia Private Limited",
-        "id": 79,
+        "id": 80,
         "name": "Abhishek Agrawal"
       }
     ],
@@ -2355,7 +2377,7 @@
     "speakers": [
       {
         "organisation": "Tusitala Digital Storytelling",
-        "id": 80,
+        "id": 81,
         "name": "Saad Chinoy"
       }
     ],
@@ -2409,7 +2431,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 81,
+        "id": 82,
         "name": "Roland Turner"
       }
     ],
@@ -2431,7 +2453,7 @@
     "speakers": [
       {
         "organisation": "Netwalker Laboratory, Tokaido Linux Users Group",
-        "id": 82,
+        "id": 83,
         "name": "Kenji Shimono"
       }
     ],
@@ -2453,7 +2475,7 @@
     "speakers": [
       {
         "organisation": "Samsung Electronics",
-        "id": 83,
+        "id": 84,
         "name": "Carsten Haitzler"
       }
     ],
@@ -2475,7 +2497,7 @@
     "speakers": [
       {
         "organisation": "teamLab, and Nico-Tech",
-        "id": 84,
+        "id": 85,
         "name": "Masakazu Takasu"
       }
     ],
@@ -2497,7 +2519,7 @@
     "speakers": [
       {
         "organisation": "Beagleboard",
-        "id": 85,
+        "id": 86,
         "name": "Deepak Karki Aishwarya Kaliki"
       }
     ],
@@ -2519,7 +2541,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, BKIT, Bhalki, Karnataka, INDIA",
-        "id": 86,
+        "id": 87,
         "name": "Dr. Udaykumar Khadke"
       }
     ],
@@ -2541,7 +2563,7 @@
     "speakers": [
       {
         "organisation": "National University of Singapore",
-        "id": 87,
+        "id": 88,
         "name": "Abhishek Mishra"
       }
     ],
@@ -2563,7 +2585,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 88,
+        "id": 89,
         "name": "Akhil Pandey"
       }
     ],
@@ -2585,7 +2607,7 @@
     "speakers": [
       {
         "organisation": "Dunman High School",
-        "id": 89,
+        "id": 90,
         "name": "Jerrayl Ng"
       }
     ],
@@ -2623,7 +2645,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 90,
+        "id": 91,
         "name": "Red Hat Family"
       }
     ],
@@ -2645,7 +2667,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 91,
+        "id": 92,
         "name": "Yaniv Bronhaim"
       }
     ],
@@ -2667,7 +2689,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 92,
+        "id": 93,
         "name": "Amit Shah"
       }
     ],
@@ -2689,7 +2711,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 93,
+        "id": 94,
         "name": "Parag Ashok Nemade"
       }
     ],
@@ -2733,7 +2755,7 @@
     "speakers": [
       {
         "organisation": "Julia Computing",
-        "id": 94,
+        "id": 95,
         "name": "Viral B. Shah"
       }
     ],
@@ -2787,7 +2809,7 @@
     "speakers": [
       {
         "organisation": "BigBinary",
-        "id": 95,
+        "id": 96,
         "name": "Rahul Mahale"
       }
     ],
@@ -2809,7 +2831,7 @@
     "speakers": [
       {
         "organisation": "Ashnik Pte Ltd",
-        "id": 96,
+        "id": 97,
         "name": "Sameer Kumar"
       }
     ],
@@ -2831,7 +2853,7 @@
     "speakers": [
       {
         "organisation": "coala-analyzer",
-        "id": 97,
+        "id": 98,
         "name": "Udayan Tandon"
       }
     ],
@@ -2847,28 +2869,6 @@
     "location": "Level 3, Planck Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "The Gentlebros Pte. Ltd.",
-        "id": 98,
-        "name": "Desmond Wong"
-      }
-    ],
-    "description": "Using our first release, Slashy Hero, as an example, we will delve into what we did right, and what went wrong, and ultimately conclude with what contributed to our success.",
-    "title": "Mobile games: What we did right and wrong",
-    "track": {
-      "order": 8,
-      "name": "DevOps",
-      "id": 8
-    },
-    "start_time": "2016-03-19T03:30:00+00:00",
-    "session_id": "DO-11",
-    "location": "Level 3, Planck Lab",
-    "type": "Talk of 20 minutes",
-    "end_time": "2016-03-19T04:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -2929,7 +2929,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 91,
+        "id": 92,
         "name": "Yaniv Bronhaim"
       }
     ],
@@ -3502,7 +3502,7 @@
     "speakers": [
       {
         "organisation": "Python Software Foundation",
-        "id": 77,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
@@ -3568,7 +3568,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 77,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
@@ -3732,7 +3732,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 77,
+        "id": 78,
         "name": "Kushal Das"
       }
     ],
@@ -4303,7 +4303,7 @@
       },
       {
         "organisation": "IIIT Delhi",
-        "id": 65,
+        "id": 66,
         "name": "Manan Wason"
       }
     ],
@@ -6210,7 +6210,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, G S Science College, Belgaum",
-        "id": 67,
+        "id": 68,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -6577,7 +6577,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, G S Science College, Belgaum",
-        "id": 67,
+        "id": 68,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
@@ -6966,7 +6966,7 @@
     "speakers": [
       {
         "organisation": "Department of Physics, G S Science College, Belgaum",
-        "id": 67,
+        "id": 68,
         "name": "Praveen (Gnovi) Patil"
       }
     ],
