@@ -86,7 +86,7 @@ function foldByTrack(sessions, speakers) {
       title: session.title,
       type: session.type,
       location: session.location,
-      speakers: session.speakers.map(speakerNameWithOrg),
+      speakers: session.speakers.map(speakerNameWithOrg).join(', '),
       speakers_list: session.speakers.map(speaker => speakersMap.get(speaker.id)),
       description: session.description,
       uniqid: sessionId(session)
