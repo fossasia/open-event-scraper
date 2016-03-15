@@ -6191,10 +6191,15 @@
         "organisation": "Espert Pte Ltd",
         "id": 15,
         "name": "William Hooi"
+      },
+      {
+        "organisation": "ulno.net",
+        "id": 61,
+        "name": "Ulrich Norbisrath"
       }
     ],
     "description": "Implementing democratised Internet-of-Things services/solutions",
-    "title": "ESPresso Lite (together with Ulrich Norbisrath)",
+    "title": "ESPresso Lite",
     "track": {
       "order": 18,
       "name": "Exhibition",
@@ -6553,10 +6558,15 @@
         "organisation": "Espert Pte Ltd",
         "id": 15,
         "name": "William Hooi"
+      },
+      {
+        "organisation": "ulno.net",
+        "id": 61,
+        "name": "Ulrich Norbisrath"
       }
     ],
     "description": "Implementing democratised Internet-of-Things services/solutions",
-    "title": "Introduction to ESPresso Lite (together with Ulrich Norbisrath)",
+    "title": "Introduction to ESPresso Lite",
     "track": {
       "order": 18,
       "name": "Exhibition",
@@ -6937,10 +6947,15 @@
         "organisation": "Espert Pte Ltd",
         "id": 15,
         "name": "William Hooi"
+      },
+      {
+        "organisation": "ulno.net",
+        "id": 61,
+        "name": "Ulrich Norbisrath"
       }
     ],
     "description": "Implementing democratised Internet-of-Things services/solutions",
-    "title": "Introduction to ESPresso Lite (together with Ulrich Norbisrath)",
+    "title": "Introduction to ESPresso Lite",
     "track": {
       "order": 18,
       "name": "Exhibition",
