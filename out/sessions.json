@@ -3979,15 +3979,9 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "IBM",
-        "id": 130,
-        "name": "Fibish Madathil"
-      }
-    ],
-    "description": "Harnessing New Technologies for Business Growth and Transformation",
-    "title": "Harnessing New Technologies for Business Growth and Transformation",
+    "speakers": [],
+    "description": "",
+    "title": "",
     "track": {
       "order": 11,
       "name": "Big Data/Open Data",
@@ -3996,7 +3990,7 @@
     "start_time": "2016-03-18T07:00:00+00:00",
     "session_id": "BD-04",
     "location": "Level 3, Fermi Lab",
-    "type": "Talk of 20 minutes",
+    "type": "",
     "end_time": "2016-03-18T07:30:00+00:00"
   },
   {
@@ -4004,7 +3998,7 @@
     "speakers": [
       {
         "organisation": "Zynesis",
-        "id": 131,
+        "id": 130,
         "name": "U-Zyn Chua"
       }
     ],
@@ -4032,7 +4026,7 @@
       "id": 11
     },
     "start_time": "2016-03-18T08:30:00+00:00",
-    "session_id": "BD-7",
+    "session_id": "BD-07",
     "location": "Level 3, Fermi Lab",
     "type": "",
     "end_time": "2016-03-18T09:00:00+00:00"
@@ -4048,7 +4042,7 @@
       "id": 11
     },
     "start_time": "2016-03-18T11:00:00+00:00",
-    "session_id": "BD-8",
+    "session_id": "BD-08",
     "location": "Level 3, Fermi Lab",
     "type": "",
     "end_time": "2016-03-18T11:30:00+00:00"
@@ -4058,7 +4052,7 @@
     "speakers": [
       {
         "organisation": "Punjabi Wikimedians",
-        "id": 132,
+        "id": 131,
         "name": "Satdeep Gill"
       }
     ],
@@ -4080,7 +4074,7 @@
     "speakers": [
       {
         "organisation": "NFLabs Inc, Apache Software Foundation",
-        "id": 133,
+        "id": 132,
         "name": "Alexander Bezzubov"
       }
     ],
@@ -4101,20 +4095,20 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Humanitarian OpenStreetMap Team",
-        "id": 134,
-        "name": "Mhairi O'Hara"
+        "organisation": "Atazzo",
+        "id": 133,
+        "name": "Adam Drake"
       }
     ],
-    "description": "The Humanitarian OpenStreetMap Team (HOT) assists with the creation and  distribution of OpenStreetMap (OSM) data in support of humanitarian relief efforts. OSM is the Free Wiki World Map \u2013 an openly licensed map of the world being created by volunteers using local knowledge, GPS tracks and donated sources.   One of the online tools developed by HOT to assist this effort is the Export Tool, which creates custom OSM downloads in a number of file formats for various regions around the world. The user can simply choose an area of geographic interest, select the OSM features they wish to export and specify a file format. This export can then be used on a variety of GIS tools such as ArcMap, QGIS, Google Earth, the OsmAnd mobile app and the Garmin GPS device.   The ability to easily obtain updated OSM data can greatly contribute to relief efforts on the ground, as well as being used for personal interests, business ventures and research purposes. In the case of the devastating earthquake that shook Nepal in April 2015, post-disaster road and building data from OSM was used to manoeuvre people and supplies to where they were most needed. ",
-    "title": "HOT Export Tool",
+    "description": "The problem of analysis and anomaly detection in time series data arises in many applications, and is especially problematic when systems must cope with high scalability, volume, frequency, and cardinality requirements.  We present a system for ingesting and analyzing time series data under such constraints with better performance characteristics than many currently-used systems.",
+    "title": "Streaming anomaly detection for Big Data/Internet of Things",
     "track": {
       "order": 11,
       "name": "Big Data/Open Data",
       "id": 11
     },
     "start_time": "2016-03-19T03:00:00+00:00",
-    "session_id": "BD-08",
+    "session_id": "BD-12",
     "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:30:00+00:00"
@@ -4124,7 +4118,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 135,
+        "id": 134,
         "name": "Thanh Son Le"
       }
     ],
@@ -4177,20 +4171,20 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Atazzo",
-        "id": 136,
-        "name": "Adam Drake"
+        "organisation": "Humanitarian OpenStreetMap Team",
+        "id": 135,
+        "name": "Mhairi O'Hara"
       }
     ],
-    "description": "The problem of analysis and anomaly detection in time series data arises in many applications, and is especially problematic when systems must cope with high scalability, volume, frequency, and cardinality requirements.  We present a system for ingesting and analyzing time series data under such constraints with better performance characteristics than many currently-used systems.",
-    "title": "Streaming anomaly detection for Big Data/Internet of Things",
+    "description": "The Humanitarian OpenStreetMap Team (HOT) assists with the creation and  distribution of OpenStreetMap (OSM) data in support of humanitarian relief efforts. OSM is the Free Wiki World Map \u2013 an openly licensed map of the world being created by volunteers using local knowledge, GPS tracks and donated sources.   One of the online tools developed by HOT to assist this effort is the Export Tool, which creates custom OSM downloads in a number of file formats for various regions around the world. The user can simply choose an area of geographic interest, select the OSM features they wish to export and specify a file format. This export can then be used on a variety of GIS tools such as ArcMap, QGIS, Google Earth, the OsmAnd mobile app and the Garmin GPS device.   The ability to easily obtain updated OSM data can greatly contribute to relief efforts on the ground, as well as being used for personal interests, business ventures and research purposes. In the case of the devastating earthquake that shook Nepal in April 2015, post-disaster road and building data from OSM was used to manoeuvre people and supplies to where they were most needed. ",
+    "title": "HOT Export Tool",
     "track": {
       "order": 11,
       "name": "Big Data/Open Data",
       "id": 11
     },
     "start_time": "2016-03-19T05:30:00+00:00",
-    "session_id": "BD-12",
+    "session_id": "BD-08",
     "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T06:00:00+00:00"
@@ -4200,7 +4194,7 @@
     "speakers": [
       {
         "organisation": "GeoICON Pte. Ltd",
-        "id": 137,
+        "id": 136,
         "name": "Ganeshkumar Shanmugam"
       }
     ],
@@ -4222,7 +4216,7 @@
     "speakers": [
       {
         "organisation": "Loklak",
-        "id": 138,
+        "id": 137,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -4244,7 +4238,7 @@
     "speakers": [
       {
         "organisation": "Living Analytics Research Centre (LARC)",
-        "id": 139,
+        "id": 138,
         "name": "Philips Kokoh Prasetyo"
       }
     ],
@@ -4282,7 +4276,7 @@
     "speakers": [
       {
         "organisation": "Punjabi Wikimedians",
-        "id": 132,
+        "id": 131,
         "name": "Satdeep Gill"
       }
     ],
@@ -4303,7 +4297,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Open-Event/FOSSASIA",
+        "organisation": "Rafal ",
         "id": 44,
         "name": "Rafal Kowalski"
       },
@@ -4347,7 +4341,7 @@
     "speakers": [
       {
         "organisation": "Loklak",
-        "id": 138,
+        "id": 137,
         "name": "Aneesh Devasthale"
       }
     ],
@@ -4391,7 +4385,7 @@
     "speakers": [
       {
         "organisation": "NTT OSS Center",
-        "id": 140,
+        "id": 139,
         "name": "Kazuki Uehara"
       }
     ],
@@ -4413,7 +4407,7 @@
     "speakers": [
       {
         "organisation": "Vitesse Data",
-        "id": 141,
+        "id": 140,
         "name": "CK Tan"
       }
     ],
@@ -4467,7 +4461,7 @@
     "speakers": [
       {
         "organisation": "InMobi",
-        "id": 142,
+        "id": 141,
         "name": "Sivakumar K"
       }
     ],
@@ -4489,7 +4483,7 @@
     "speakers": [
       {
         "organisation": "Pivotal",
-        "id": 143,
+        "id": 142,
         "name": "Atri Sharma"
       }
     ],
@@ -4511,7 +4505,7 @@
     "speakers": [
       {
         "organisation": "Ajilius Pty. Ltd.",
-        "id": 144,
+        "id": 143,
         "name": "Ron Dunn"
       }
     ],
@@ -4533,7 +4527,7 @@
     "speakers": [
       {
         "organisation": "Tantan",
-        "id": 145,
+        "id": 144,
         "name": "Victor Blomqvist"
       }
     ],
@@ -4555,7 +4549,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 146,
+        "id": 145,
         "name": "PostgreSQL Community"
       }
     ],
@@ -4607,7 +4601,7 @@
     "speakers": [
       {
         "organisation": "MySQL, Oracle India Private Limited",
-        "id": 147,
+        "id": 146,
         "name": "Mayank Prasad"
       }
     ],
@@ -4651,7 +4645,7 @@
     "speakers": [
       {
         "organisation": "Oracle India Pvt. Ltd.",
-        "id": 148,
+        "id": 147,
         "name": "Manish Kumar"
       }
     ],
@@ -4673,7 +4667,7 @@
     "speakers": [
       {
         "organisation": "Oracle India Pvt. Ltd.",
-        "id": 149,
+        "id": 148,
         "name": "Abhishek Ranjan"
       }
     ],
@@ -4711,7 +4705,7 @@
     "speakers": [
       {
         "organisation": "Sanguine",
-        "id": 150,
+        "id": 149,
         "name": "Oren Golan"
       }
     ],
@@ -4777,7 +4771,7 @@
     "speakers": [
       {
         "organisation": "Winnow Solutions",
-        "id": 151,
+        "id": 150,
         "name": "Maxime Pourrat"
       }
     ],
@@ -4799,7 +4793,7 @@
     "speakers": [
       {
         "organisation": "\ud83d\udc30",
-        "id": 152,
+        "id": 151,
         "name": "Herr Flupke"
       }
     ],
@@ -4821,7 +4815,7 @@
     "speakers": [
       {
         "organisation": "freelancer",
-        "id": 153,
+        "id": 152,
         "name": "Alexander Couzens"
       }
     ],
@@ -4843,7 +4837,7 @@
     "speakers": [
       {
         "organisation": "Queensland Health",
-        "id": 154,
+        "id": 153,
         "name": "Norvan Vogt"
       }
     ],
@@ -4897,7 +4891,7 @@
     "speakers": [
       {
         "organisation": "intZone.com",
-        "id": 155,
+        "id": 154,
         "name": "Zion Ng"
       }
     ],
@@ -4919,7 +4913,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 156,
+        "id": 155,
         "name": "Huiren Woo"
       }
     ],
@@ -4995,7 +4989,7 @@
     "speakers": [
       {
         "organisation": "We Build SG",
-        "id": 157,
+        "id": 156,
         "name": "Sayanee Basu"
       }
     ],
@@ -5017,7 +5011,7 @@
     "speakers": [
       {
         "organisation": "Mozilla India",
-        "id": 158,
+        "id": 157,
         "name": "Anivar Ammanath Aravind"
       }
     ],
@@ -5039,7 +5033,7 @@
     "speakers": [
       {
         "organisation": "Open Invention Network",
-        "id": 159,
+        "id": 158,
         "name": "Keith Bergelt"
       }
     ],
@@ -5061,7 +5055,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 160,
+        "id": 159,
         "name": "Anwesha Das"
       }
     ],
@@ -5083,7 +5077,7 @@
     "speakers": [
       {
         "organisation": "Open Invention Network",
-        "id": 161,
+        "id": 160,
         "name": "Kevin Huang"
       }
     ],
@@ -5105,7 +5099,7 @@
     "speakers": [
       {
         "organisation": "National Cheng Kung University",
-        "id": 162,
+        "id": 161,
         "name": "Menghsuan Tsai"
       }
     ],
@@ -5127,7 +5121,7 @@
     "speakers": [
       {
         "organisation": "BlankOn",
-        "id": 163,
+        "id": 162,
         "name": "Syah Dwi Prihatmoko"
       }
     ],
@@ -5187,7 +5181,7 @@
     "speakers": [
       {
         "organisation": "GNOME",
-        "id": 164,
+        "id": 163,
         "name": "Tobias Mueller"
       }
     ],
@@ -5209,7 +5203,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 165,
+        "id": 164,
         "name": "Huzaifa Sidhpurwala"
       }
     ],
@@ -5231,7 +5225,7 @@
     "speakers": [
       {
         "organisation": "Privly",
-        "id": 166,
+        "id": 165,
         "name": "Sambuddha Basu"
       }
     ],
@@ -5269,7 +5263,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 167,
+        "id": 166,
         "name": "Alexandre Lision"
       }
     ],
@@ -5291,7 +5285,7 @@
     "speakers": [
       {
         "organisation": "Equinix",
-        "id": 168,
+        "id": 167,
         "name": "Michael Rebultan"
       }
     ],
@@ -5351,7 +5345,7 @@
     "speakers": [
       {
         "organisation": "Science Centre",
-        "id": 169,
+        "id": 168,
         "name": "Eileen/Kiruthika"
       }
     ],
@@ -5395,7 +5389,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 169,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5417,7 +5411,7 @@
     "speakers": [
       {
         "organisation": "#NEWPALMYRA",
-        "id": 171,
+        "id": 170,
         "name": "Barry Threw Jon Phillips"
       }
     ],
@@ -5439,7 +5433,7 @@
     "speakers": [
       {
         "organisation": "Valentina",
-        "id": 172,
+        "id": 171,
         "name": "Susan Spencer"
       }
     ],
@@ -5461,7 +5455,7 @@
     "speakers": [
       {
         "organisation": "Touch & Print",
-        "id": 173,
+        "id": 172,
         "name": "Leon Lim"
       }
     ],
@@ -5505,7 +5499,7 @@
     "speakers": [
       {
         "organisation": "Artist of \"The Other Nefertiti\"",
-        "id": 174,
+        "id": 173,
         "name": "Nora Al-Badri"
       }
     ],
@@ -5527,7 +5521,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 169,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5581,7 +5575,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 169,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5635,7 +5629,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 169,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5673,7 +5667,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 169,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5695,7 +5689,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 169,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5717,7 +5711,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 169,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5739,7 +5733,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 169,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5761,7 +5755,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 170,
+        "id": 169,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5849,7 +5843,7 @@
     "speakers": [
       {
         "organisation": "GNOME",
-        "id": 164,
+        "id": 163,
         "name": "Tobias Mueller"
       }
     ],
@@ -5887,7 +5881,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 175,
+        "id": 174,
         "name": "Chris Lamb"
       }
     ],
@@ -5909,7 +5903,7 @@
     "speakers": [
       {
         "organisation": "Oracle Corporation Singapore Pte Ltd",
-        "id": 176,
+        "id": 175,
         "name": "Anand Jain"
       }
     ],
@@ -5931,7 +5925,7 @@
     "speakers": [
       {
         "organisation": "Deepin",
-        "id": 177,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -5975,7 +5969,7 @@
     "speakers": [
       {
         "organisation": "The Processing Foundation",
-        "id": 178,
+        "id": 177,
         "name": "Umair Khan"
       }
     ],
@@ -5997,7 +5991,7 @@
     "speakers": [
       {
         "organisation": "Autodesk",
-        "id": 179,
+        "id": 178,
         "name": "Owais Zahid"
       }
     ],
@@ -6019,7 +6013,7 @@
     "speakers": [
       {
         "organisation": "VRcollab",
-        "id": 180,
+        "id": 179,
         "name": "Jia Hen Tee"
       }
     ],
@@ -6041,7 +6035,7 @@
     "speakers": [
       {
         "organisation": "ownCloud, Open Source Design",
-        "id": 181,
+        "id": 180,
         "name": "Jan-Christoph Borchardt"
       }
     ],
@@ -6079,7 +6073,7 @@
     "speakers": [
       {
         "organisation": "Code Artist",
-        "id": 182,
+        "id": 181,
         "name": "Sher Minn Chong"
       }
     ],
@@ -6123,7 +6117,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 183,
+        "id": 182,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6167,7 +6161,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 184,
+        "id": 183,
         "name": "David Effendi"
       }
     ],
@@ -6260,7 +6254,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 167,
+        "id": 166,
         "name": "Alexandre Lision"
       }
     ],
@@ -6304,7 +6298,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 177,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -6326,7 +6320,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 183,
+        "id": 182,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6348,7 +6342,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 185,
+        "id": 184,
         "name": "Ankit -"
       }
     ],
@@ -6414,7 +6408,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 186,
+        "id": 185,
         "name": "Misako Ito"
       }
     ],
@@ -6458,7 +6452,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 187,
+        "id": 186,
         "name": "Peter LIM"
       }
     ],
@@ -6480,7 +6474,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 188,
+        "id": 187,
         "name": "Claire Tan"
       }
     ],
@@ -6534,7 +6528,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 184,
+        "id": 183,
         "name": "David Effendi"
       }
     ],
@@ -6627,7 +6621,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 167,
+        "id": 166,
         "name": "Alexandre Lision"
       }
     ],
@@ -6671,7 +6665,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 177,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -6693,7 +6687,7 @@
     "speakers": [
       {
         "organisation": "Singtel",
-        "id": 189,
+        "id": 188,
         "name": "Emin Aksehirli"
       }
     ],
@@ -6715,7 +6709,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 183,
+        "id": 182,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6737,7 +6731,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 185,
+        "id": 184,
         "name": "Ankit -"
       }
     ],
@@ -6803,7 +6797,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 186,
+        "id": 185,
         "name": "Misako Ito"
       }
     ],
@@ -6847,7 +6841,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 187,
+        "id": 186,
         "name": "Peter LIM"
       }
     ],
@@ -6869,7 +6863,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 188,
+        "id": 187,
         "name": "Claire Tan"
       }
     ],
@@ -6923,7 +6917,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 184,
+        "id": 183,
         "name": "David Effendi"
       }
     ],
@@ -7016,7 +7010,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 167,
+        "id": 166,
         "name": "Alexandre Lision"
       }
     ],
@@ -7060,7 +7054,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 177,
+        "id": 176,
         "name": "Derek Dai"
       }
     ],
@@ -7082,7 +7076,7 @@
     "speakers": [
       {
         "organisation": "Singtel",
-        "id": 189,
+        "id": 188,
         "name": "Emin Aksehirli"
       }
     ],
@@ -7104,7 +7098,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 183,
+        "id": 182,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -7126,7 +7120,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 185,
+        "id": 184,
         "name": "Ankit -"
       }
     ],
@@ -7192,7 +7186,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 186,
+        "id": 185,
         "name": "Misako Ito"
       }
     ],
@@ -7236,7 +7230,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 187,
+        "id": 186,
         "name": "Peter LIM"
       }
     ],
@@ -7258,7 +7252,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 188,
+        "id": 187,
         "name": "Claire Tan"
       }
     ],
