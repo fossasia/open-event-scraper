@@ -86,12 +86,12 @@
 
         <ul class="list-group session-list">
           {{#sessions}}
-          <li class="list-group-item" data-session-id="{{uniqid}}">
+          <li class="list-group-item" data-session-id="{{session_id}}">
             <div class="row"
               data-toggle="collapse"
-              data-target="#desc-{{uniqid}} .collapse"
+              data-target="#desc-{{session_id}} .collapse"
               aria-expanded="false"
-              aria-controls="desc-{{uniqid}}">
+              aria-controls="desc-{{session_id}}">
 
             <div class="col-xs-2 col-md-1">
               <span class="time-alert session-start label label-primary">
@@ -101,6 +101,7 @@
 
             <div class="col-xs-10 col-md-11">
               <div class="clearfix">
+	        <a class="session-link" name="{{session_id}}" href="#{{session_id}}">#</a>
                 <h4 class="session-title">
                   {{title}}
                 </h4>
@@ -114,7 +115,7 @@
               <p>
                 <span class="session-type">{{type}}</span>
               </p>
-              <div id="desc-{{uniqid}}">
+              <div id="desc-{{session_id}}">
                 <p class="collapse">
                   <span class="session-description">{{description}}</span>
                 </p>

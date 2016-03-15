@@ -1,7 +1,6 @@
 'use strict'
 
 const fs = require('fs')
-const crypto = require('crypto')
 const moment = require('moment')
 const handlebars = require('handlebars')
 
@@ -44,11 +43,6 @@ function byProperty(key) {
   }
 }
 
-function sessionId(session) {
-  let data = [session.title, session.session_id, session.start].join('|')
-  return crypto.createHash('md5').update(data).digest('hex');
-}
-
 function zeroFill(num) {
   if (num >= 10) return num.toString()
   else return '0' + num.toString()
@@ -89,7 +83,7 @@ function foldByTrack(sessions, speakers) {
       speakers: session.speakers.map(speakerNameWithOrg).join(', '),
       speakers_list: session.speakers.map(speaker => speakersMap.get(speaker.id)),
       description: session.description,
-      uniqid: sessionId(session)
+      session_id: session.session_id
     })
   })
 
