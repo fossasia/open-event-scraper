@@ -5,7 +5,7 @@ Google spreadsheet parsing for FOSSASIA 2016
 ## setup
 
 ```shell
-./requirements.sh
+pip install -r requirements.txt
 ./run.sh
 ```
 
