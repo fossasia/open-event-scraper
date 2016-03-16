@@ -74,8 +74,8 @@
         "name": "Harish Pillay"
       }
     ],
-    "description": "The Brave New World of Open Source",
-    "title": "The Brave New World of Open Source",
+    "description": "",
+    "title": "A Funny Thing Happened On My Way To The Science Centre",
     "track": {
       "order": 2,
       "name": "OpenTech and IoT",
@@ -1063,7 +1063,7 @@
       {
         "organisation": "Open Event",
         "id": 44,
-        "name": "Rafal Kowalski"
+        "name": "Rafal Kowalski, Manan Wason"
       }
     ],
     "description": "Are you wondering how to create an app which allow us to manage all conferences events? Open Event consist of three components(web, android and server). I will explain how I developed an Open event orga server project, which framework and language I used. Easly running your Orga Server by your own on local enviroment using Vagrant.  ",
@@ -4282,7 +4282,7 @@
     "speakers": [
       {
         "organisation": "Rafal ",
-        "id": 44,
+        "id": 138,
         "name": "Rafal Kowalski"
       },
       {
@@ -4369,7 +4369,7 @@
     "speakers": [
       {
         "organisation": "NTT OSS Center",
-        "id": 138,
+        "id": 139,
         "name": "Kazuki Uehara"
       }
     ],
@@ -4391,7 +4391,7 @@
     "speakers": [
       {
         "organisation": "Vitesse Data",
-        "id": 139,
+        "id": 140,
         "name": "CK Tan"
       }
     ],
@@ -4445,7 +4445,7 @@
     "speakers": [
       {
         "organisation": "InMobi",
-        "id": 140,
+        "id": 141,
         "name": "Sivakumar K"
       }
     ],
@@ -4467,7 +4467,7 @@
     "speakers": [
       {
         "organisation": "Pivotal",
-        "id": 141,
+        "id": 142,
         "name": "Atri Sharma"
       }
     ],
@@ -4489,7 +4489,7 @@
     "speakers": [
       {
         "organisation": "Ajilius Pty. Ltd.",
-        "id": 142,
+        "id": 143,
         "name": "Ron Dunn"
       }
     ],
@@ -4511,7 +4511,7 @@
     "speakers": [
       {
         "organisation": "Tantan",
-        "id": 143,
+        "id": 144,
         "name": "Victor Blomqvist"
       }
     ],
@@ -4533,7 +4533,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 144,
+        "id": 145,
         "name": "PostgreSQL Community"
       }
     ],
@@ -4585,7 +4585,7 @@
     "speakers": [
       {
         "organisation": "MySQL, Oracle India Private Limited",
-        "id": 145,
+        "id": 146,
         "name": "Mayank Prasad"
       }
     ],
@@ -4629,7 +4629,7 @@
     "speakers": [
       {
         "organisation": "Oracle India Pvt. Ltd.",
-        "id": 146,
+        "id": 147,
         "name": "Manish Kumar"
       }
     ],
@@ -4651,7 +4651,7 @@
     "speakers": [
       {
         "organisation": "Oracle India Pvt. Ltd.",
-        "id": 147,
+        "id": 148,
         "name": "Abhishek Ranjan"
       }
     ],
@@ -4689,7 +4689,7 @@
     "speakers": [
       {
         "organisation": "Sanguine",
-        "id": 148,
+        "id": 149,
         "name": "Oren Golan"
       }
     ],
@@ -4755,7 +4755,7 @@
     "speakers": [
       {
         "organisation": "Winnow Solutions",
-        "id": 149,
+        "id": 150,
         "name": "Maxime Pourrat"
       }
     ],
@@ -4777,7 +4777,7 @@
     "speakers": [
       {
         "organisation": "\ud83d\udc30",
-        "id": 150,
+        "id": 151,
         "name": "Herr Flupke"
       }
     ],
@@ -4799,7 +4799,7 @@
     "speakers": [
       {
         "organisation": "freelancer",
-        "id": 151,
+        "id": 152,
         "name": "Alexander Couzens"
       }
     ],
@@ -4821,7 +4821,7 @@
     "speakers": [
       {
         "organisation": "Queensland Health",
-        "id": 152,
+        "id": 153,
         "name": "Norvan Vogt"
       }
     ],
@@ -4843,7 +4843,7 @@
     "speakers": [
       {
         "organisation": "VFOSSA",
-        "id": 153,
+        "id": 154,
         "name": "Anh Tuan Truong"
       }
     ],
@@ -4897,7 +4897,7 @@
     "speakers": [
       {
         "organisation": "intZone.com",
-        "id": 154,
+        "id": 155,
         "name": "Zion Ng"
       }
     ],
@@ -4919,7 +4919,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 155,
+        "id": 156,
         "name": "Huiren Woo"
       }
     ],
@@ -4995,7 +4995,7 @@
     "speakers": [
       {
         "organisation": "We Build SG",
-        "id": 156,
+        "id": 157,
         "name": "Sayanee Basu"
       }
     ],
@@ -5017,7 +5017,7 @@
     "speakers": [
       {
         "organisation": "Mozilla India",
-        "id": 157,
+        "id": 158,
         "name": "Anivar Ammanath Aravind"
       }
     ],
@@ -5039,7 +5039,7 @@
     "speakers": [
       {
         "organisation": "Open Invention Network",
-        "id": 158,
+        "id": 159,
         "name": "Keith Bergelt"
       }
     ],
@@ -5061,7 +5061,7 @@
     "speakers": [
       {
         "organisation": "Fedora Project",
-        "id": 159,
+        "id": 160,
         "name": "Anwesha Das"
       }
     ],
@@ -5083,7 +5083,7 @@
     "speakers": [
       {
         "organisation": "Open Invention Network",
-        "id": 160,
+        "id": 161,
         "name": "Kevin Huang"
       }
     ],
@@ -5105,7 +5105,7 @@
     "speakers": [
       {
         "organisation": "National Cheng Kung University",
-        "id": 161,
+        "id": 162,
         "name": "Menghsuan Tsai"
       }
     ],
@@ -5127,7 +5127,7 @@
     "speakers": [
       {
         "organisation": "BlankOn",
-        "id": 162,
+        "id": 163,
         "name": "Syah Dwi Prihatmoko"
       }
     ],
@@ -5187,7 +5187,7 @@
     "speakers": [
       {
         "organisation": "GNOME",
-        "id": 163,
+        "id": 164,
         "name": "Tobias Mueller"
       }
     ],
@@ -5209,7 +5209,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 164,
+        "id": 165,
         "name": "Huzaifa Sidhpurwala"
       }
     ],
@@ -5231,7 +5231,7 @@
     "speakers": [
       {
         "organisation": "Privly",
-        "id": 165,
+        "id": 166,
         "name": "Sambuddha Basu"
       }
     ],
@@ -5269,7 +5269,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 166,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -5291,7 +5291,7 @@
     "speakers": [
       {
         "organisation": "Equinix",
-        "id": 167,
+        "id": 168,
         "name": "Michael Rebultan"
       }
     ],
@@ -5351,7 +5351,7 @@
     "speakers": [
       {
         "organisation": "Science Centre",
-        "id": 168,
+        "id": 169,
         "name": "Eileen/Kiruthika"
       }
     ],
@@ -5395,7 +5395,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 169,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5417,7 +5417,7 @@
     "speakers": [
       {
         "organisation": "#NEWPALMYRA",
-        "id": 170,
+        "id": 171,
         "name": "Barry Threw Jon Phillips"
       }
     ],
@@ -5439,7 +5439,7 @@
     "speakers": [
       {
         "organisation": "Valentina",
-        "id": 171,
+        "id": 172,
         "name": "Susan Spencer"
       }
     ],
@@ -5461,7 +5461,7 @@
     "speakers": [
       {
         "organisation": "Touch & Print",
-        "id": 172,
+        "id": 173,
         "name": "Leon Lim"
       }
     ],
@@ -5505,7 +5505,7 @@
     "speakers": [
       {
         "organisation": "Artist of \"The Other Nefertiti\"",
-        "id": 173,
+        "id": 174,
         "name": "Nora Al-Badri"
       }
     ],
@@ -5527,7 +5527,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 169,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5581,7 +5581,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 169,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5635,7 +5635,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 169,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5673,7 +5673,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 169,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5695,7 +5695,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 169,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5717,7 +5717,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 169,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5739,7 +5739,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 169,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5761,7 +5761,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 169,
+        "id": 170,
         "name": "Science Hacks and Science Hackers"
       }
     ],
@@ -5849,7 +5849,7 @@
     "speakers": [
       {
         "organisation": "GNOME",
-        "id": 163,
+        "id": 164,
         "name": "Tobias Mueller"
       }
     ],
@@ -5887,7 +5887,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 174,
+        "id": 175,
         "name": "Chris Lamb"
       }
     ],
@@ -5909,7 +5909,7 @@
     "speakers": [
       {
         "organisation": "Oracle Corporation Singapore Pte Ltd",
-        "id": 175,
+        "id": 176,
         "name": "Anand Jain"
       }
     ],
@@ -5931,7 +5931,7 @@
     "speakers": [
       {
         "organisation": "Deepin",
-        "id": 176,
+        "id": 177,
         "name": "Derek Dai"
       }
     ],
@@ -5975,7 +5975,7 @@
     "speakers": [
       {
         "organisation": "The Processing Foundation",
-        "id": 177,
+        "id": 178,
         "name": "Umair Khan"
       }
     ],
@@ -5997,7 +5997,7 @@
     "speakers": [
       {
         "organisation": "Autodesk",
-        "id": 178,
+        "id": 179,
         "name": "Owais Zahid"
       }
     ],
@@ -6019,7 +6019,7 @@
     "speakers": [
       {
         "organisation": "VRcollab",
-        "id": 179,
+        "id": 180,
         "name": "Jia Hen Tee"
       }
     ],
@@ -6041,7 +6041,7 @@
     "speakers": [
       {
         "organisation": "ownCloud, Open Source Design",
-        "id": 180,
+        "id": 181,
         "name": "Jan-Christoph Borchardt"
       }
     ],
@@ -6079,7 +6079,7 @@
     "speakers": [
       {
         "organisation": "Code Artist",
-        "id": 181,
+        "id": 182,
         "name": "Sher Minn Chong"
       }
     ],
@@ -6123,7 +6123,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 182,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6167,7 +6167,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 183,
+        "id": 184,
         "name": "David Effendi"
       }
     ],
@@ -6260,7 +6260,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 166,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -6304,7 +6304,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 176,
+        "id": 177,
         "name": "Derek Dai"
       }
     ],
@@ -6326,7 +6326,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 182,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6348,7 +6348,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 184,
+        "id": 185,
         "name": "Ankit -"
       }
     ],
@@ -6414,7 +6414,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 185,
+        "id": 186,
         "name": "Misako Ito"
       }
     ],
@@ -6458,7 +6458,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 186,
+        "id": 187,
         "name": "Peter LIM"
       }
     ],
@@ -6480,7 +6480,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 187,
+        "id": 188,
         "name": "Claire Tan"
       }
     ],
@@ -6534,7 +6534,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 183,
+        "id": 184,
         "name": "David Effendi"
       }
     ],
@@ -6627,7 +6627,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 166,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -6671,7 +6671,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 176,
+        "id": 177,
         "name": "Derek Dai"
       }
     ],
@@ -6693,7 +6693,7 @@
     "speakers": [
       {
         "organisation": "Singtel",
-        "id": 188,
+        "id": 189,
         "name": "Emin Aksehirli"
       }
     ],
@@ -6715,7 +6715,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 182,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6737,7 +6737,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 184,
+        "id": 185,
         "name": "Ankit -"
       }
     ],
@@ -6803,7 +6803,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 185,
+        "id": 186,
         "name": "Misako Ito"
       }
     ],
@@ -6847,7 +6847,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 186,
+        "id": 187,
         "name": "Peter LIM"
       }
     ],
@@ -6869,7 +6869,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 187,
+        "id": 188,
         "name": "Claire Tan"
       }
     ],
@@ -6923,7 +6923,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 183,
+        "id": 184,
         "name": "David Effendi"
       }
     ],
@@ -7016,7 +7016,7 @@
     "speakers": [
       {
         "organisation": "Ring developped by Savoir-faire Linux",
-        "id": 166,
+        "id": 167,
         "name": "Alexandre Lision"
       }
     ],
@@ -7060,7 +7060,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 176,
+        "id": 177,
         "name": "Derek Dai"
       }
     ],
@@ -7082,7 +7082,7 @@
     "speakers": [
       {
         "organisation": "Singtel",
-        "id": 188,
+        "id": 189,
         "name": "Emin Aksehirli"
       }
     ],
@@ -7104,7 +7104,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 182,
+        "id": 183,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -7126,7 +7126,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 184,
+        "id": 185,
         "name": "Ankit -"
       }
     ],
@@ -7192,7 +7192,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 185,
+        "id": 186,
         "name": "Misako Ito"
       }
     ],
@@ -7236,7 +7236,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 186,
+        "id": 187,
         "name": "Peter LIM"
       }
     ],
@@ -7258,7 +7258,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 187,
+        "id": 188,
         "name": "Claire Tan"
       }
     ],
