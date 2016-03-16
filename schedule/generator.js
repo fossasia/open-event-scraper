@@ -113,4 +113,4 @@ if (!validateSessions(sessionsData.sessions)) {
 }
 
 const data = transformData(sessionsData, speakersData)
-// process.stdout.write(tpl(data))
+process.stdout.write(tpl(data))
