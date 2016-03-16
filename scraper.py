@@ -1,4 +1,5 @@
 import csv
+import sys
 import json
 import datetime
 import pytz
@@ -234,14 +235,36 @@ def write_json(filename, root_key, the_json):
     f.write(json_to_write)
     f.close()
 
+def validate_sessions(sessions): 
+    logging.info('validating')
+
+    s_map = {}
+    dups = []
+
+    for session in sessions:
+        if session.session_id in s_map:
+            s_map[session.session_id] = s_map[session.session_id] + 1
+        else:
+            s_map[session.session_id] = 1
+
+    for session_id, count in s_map.iteritems():
+        if count > 1:
+            dups.append(session_id)
+
+    if len(dups) > 0:
+        logging.error('Duplicate session ids: ' + (', '.join(dups)))
+        return False
+    else:
+        logging.info('All fine')
+        return True
+
+
 if __name__ == "__main__":
     logging.getLogger().setLevel(logging.DEBUG)
 
     logging.info("[Fetching Tracklist], gid = %s", SHEET_VERSIONING_GID)
     track_data = fetch_tsv_data(SHEET_VERSIONING_GID)
     tracks = parse_tracklist(track_data)
-
-    logging.info('got %d tracks', len(tracks))
 
     i = 0
     for track in tracks:
@@ -259,10 +282,18 @@ if __name__ == "__main__":
         parse_sessions(track, data)
         logging.info('next...')
 
+    if not validate_sessions(SESSIONS):
+        sys.exit(1)
+
     # # print json.dumps(SPEAKERS[0].__dict__)
+    logging.info('Writing %d speakers to out/speakers.json', len(SPEAKERS))
     speakers_json = jsonpickle.encode(SPEAKERS)
     write_json('out/speakers', 'speakers', speakers_json)
+
+    logging.info('Writing %d sessions to out/sessions.json', len(SESSIONS))
     session_json = jsonpickle.encode(SESSIONS)
     write_json('out/sessions', 'sessions', session_json)
+
+    logging.info('Writing %d tracks to out/tracks.json', len(tracks))
     tracks_json = jsonpickle.encode(tracks)
     write_json('out/tracks', 'tracks', tracks_json)
