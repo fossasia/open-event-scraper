@@ -5372,13 +5372,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Google",
-        "id": 9,
-        "name": "Cat Allman"
+        "organisation": "FOSSASIA",
+        "id": 1,
+        "name": "Hong Phuc Dang"
       }
     ],
-    "description": "",
-    "title": "Google Science",
+    "description": "From San Francisco to Dubai, Singapore and Beijing. Science Hack Days in Asia and around the world.",
+    "title": "Science Hack Day in Asia",
     "track": {
       "order": 15,
       "name": "Science Hack Day",
@@ -5406,11 +5406,11 @@
       "name": "Science Hack Day",
       "id": 15
     },
-    "start_time": "2016-03-19T02:30:00+00:00",
+    "start_time": "2016-03-19T02:15:00+00:00",
     "session_id": "SHD-04",
     "location": "Level 1, Tinkering Studio",
     "type": "",
-    "end_time": "2016-03-19T03:00:00+00:00"
+    "end_time": "2016-03-19T02:45:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -5428,11 +5428,11 @@
       "name": "Science Hack Day",
       "id": 15
     },
-    "start_time": "2016-03-19T02:30:00+00:00",
+    "start_time": "2016-03-19T02:15:00+00:00",
     "session_id": "SHD-05",
     "location": "Level 1, Tinkering Studio",
     "type": "Lightning Talk",
-    "end_time": "2016-03-19T03:00:00+00:00"
+    "end_time": "2016-03-19T02:45:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -5450,11 +5450,11 @@
       "name": "Science Hack Day",
       "id": 15
     },
-    "start_time": "2016-03-19T02:36:00+00:00",
+    "start_time": "2016-03-19T02:24:00+00:00",
     "session_id": "SHD-06",
     "location": "Level 1, Tinkering Studio",
     "type": "Lightning Talk",
-    "end_time": "2016-03-19T03:06:00+00:00"
+    "end_time": "2016-03-19T02:54:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -5472,11 +5472,11 @@
       "name": "Science Hack Day",
       "id": 15
     },
-    "start_time": "2016-03-19T02:42:00+00:00",
+    "start_time": "2016-03-19T02:33:00+00:00",
     "session_id": "SHD-07",
     "location": "Level 1, Tinkering Studio",
     "type": "Lightning Talk",
-    "end_time": "2016-03-19T03:12:00+00:00"
+    "end_time": "2016-03-19T03:03:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -5488,17 +5488,17 @@
       }
     ],
     "description": "This presentation is about the Sensor Plug-ins developed for ExpEYES : Pocket Science Lab as a part of my GSoC-2015 project with FOSSASIA.  We have added many new sensors plug-ins to measure a variety of parameters like temperature, pressure, humidity, wind speed, acceleration, tilt angle, magnetic field etc.  With this development we at FOSSASIA  are aiming to  provide low-cost, effective and open source laboratory equipment to students all over the world.  I will also be talking about the low-cost weather data-acquisition system developed and interfacing Gas sensors with ExpEYES. A Poster covering details of GSoC work will also be displayed at the venue.  In the end I will add little about my experience of GSoC journey with my mentors Mario Behling, Hong Phuc Dang and Andre Rebentisch, with some critical piece of knowledge or a new lesson to learn everyday\u2026..this may encourage and help future GsoC students.",
-    "title": "ExpEYES: Pocket Science Lab",
+    "title": "ExpEYES: Pocket Science Lab  ",
     "track": {
       "order": 15,
       "name": "Science Hack Day",
       "id": 15
     },
-    "start_time": "2016-03-19T02:48:00+00:00",
+    "start_time": "2016-03-19T02:42:00+00:00",
     "session_id": "SHD-40",
     "location": "Level 1, Tinkering Studio",
     "type": "Lightning Talk",
-    "end_time": "2016-03-19T03:18:00+00:00"
+    "end_time": "2016-03-19T03:12:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -5516,11 +5516,11 @@
       "name": "Science Hack Day",
       "id": 15
     },
-    "start_time": "2016-03-19T02:54:00+00:00",
+    "start_time": "2016-03-19T02:51:00+00:00",
     "session_id": "SHD-41",
     "location": "Level 1, Tinkering Studio",
     "type": "Lightning Talk",
-    "end_time": "2016-03-19T03:24:00+00:00"
+    "end_time": "2016-03-19T03:21:00+00:00"
   },
   {
     "py/object": "models.Session",
