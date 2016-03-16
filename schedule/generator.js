@@ -99,5 +99,18 @@ function transformData(sessions, speakers) {
   return {tracks, days}
 }
 
+function validateSessions(sessionsData) {
+  var ids = sessionsData.map(s => s.session_id)
+  var dups = ids.filter((sid, idx) => ids.indexOf(sid) !== idx)
+  if (dups.length > 0) {
+    console.error('Duplicate session ids: %s', dups.join(', '))
+  }
+  return false
+}
+
+if (!validateSessions(sessionsData.sessions)) {
+  process.exit(1)
+}
+
 const data = transformData(sessionsData, speakersData)
-process.stdout.write(tpl(data))
+// process.stdout.write(tpl(data))
