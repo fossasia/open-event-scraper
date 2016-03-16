@@ -92,29 +92,29 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "http://oszilat.com",
-    "github": "",
-    "name": "Jan Nikolai Nelles",
-    "country": "Germany",
-    "twitter": "https://twitter.com/nextnikolai",
-    "linkedin": "",
-    "id": 8,
-    "photo": "http://payload352.cargocollective.com/1/14/457820/9356895/The-Other-Nefertiti-3D-print_842.jpg",
-    "organisation": "Artist of \"The Other Nefertiti\"",
-    "biography": "Jan Nikolai Nelles is a multi-disciplinary artist based in Berlin. He graduated from Offenbach University of Art and Design in 2011. \u2028\u2028His work oscillates between visual and media art. In the past he founded an independent art gallery in Offenbach, Germany, and co-founded a photography magazine. Since 2009, he also collaborates with Nora Al-Badri on several artistic interventions."
-  },
-  {
-    "py/object": "models.Speaker",
     "web": "https://developers.google.com/open-source/",
     "github": "",
     "name": "Cat Allman",
     "country": "San Francisco",
     "twitter": "https://twitter.com/catallman",
     "linkedin": "https://www.linkedin.com/in/catallman",
-    "id": 9,
+    "id": 8,
     "photo": "Keynote of 20 minutes",
     "organisation": "Google",
     "biography": ""
+  },
+  {
+    "py/object": "models.Speaker",
+    "web": "http://oszilat.com",
+    "github": "",
+    "name": "Jan Nikolai Nelles",
+    "country": "Germany",
+    "twitter": "https://twitter.com/nextnikolai",
+    "linkedin": "",
+    "id": 9,
+    "photo": "http://payload352.cargocollective.com/1/14/457820/9356895/The-Other-Nefertiti-3D-print_842.jpg",
+    "organisation": "Artist of \"The Other Nefertiti\"",
+    "biography": "Jan Nikolai Nelles is a multi-disciplinary artist based in Berlin. He graduated from Offenbach University of Art and Design in 2011. \u2028\u2028His work oscillates between visual and media art. In the past he founded an independent art gallery in Offenbach, Germany, and co-founded a photography magazine. Since 2009, he also collaborates with Nora Al-Badri on several artistic interventions."
   },
   {
     "py/object": "models.Speaker",
