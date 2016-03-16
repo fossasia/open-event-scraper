@@ -4836,7 +4836,7 @@
     "session_id": "ISC-03",
     "location": "Level 2, Einstein Room",
     "type": "Workshop of 1 hour",
-    "end_time": "2016-03-18T08:00:00+00:00"
+    "end_time": "2016-03-18T07:30:00+00:00"
   },
   {
     "py/object": "models.Session",
