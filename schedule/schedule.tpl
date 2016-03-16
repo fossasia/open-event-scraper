@@ -101,9 +101,12 @@
 
             <div class="col-xs-10 col-md-11">
               <div class="clearfix">
-	        <a class="session-link" name="{{session_id}}" href="#{{session_id}}">#</a>
+                <a class="anchor" name="{{session_id}}"></a>
                 <h4 class="session-title">
-                  {{title}}
+                  {{title}}&nbsp;
+                  <a class="session-link" href="#{{session_id}}">
+                    <i class="fa fa-anchor"></i>
+                  </a>
                 </h4>
                 <p class="session-location">
                   {{location}}
