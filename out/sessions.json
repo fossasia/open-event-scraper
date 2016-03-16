@@ -1615,7 +1615,7 @@
       "id": 3
     },
     "start_time": "2016-03-20T06:30:00+00:00",
-    "session_id": "OTW-11",
+    "session_id": "OTW-13",
     "location": "Level 3, Lewis Lab",
     "type": "Workshop of 1 hour",
     "end_time": "2016-03-20T07:30:00+00:00"
@@ -4070,7 +4070,7 @@
       "id": 11
     },
     "start_time": "2016-03-19T02:30:00+00:00",
-    "session_id": "BD-07",
+    "session_id": "BD-25",
     "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T03:00:00+00:00"
@@ -4168,7 +4168,7 @@
       "id": 11
     },
     "start_time": "2016-03-19T05:30:00+00:00",
-    "session_id": "BD-08",
+    "session_id": "BD-26",
     "location": "Level 3, Fermi Lab",
     "type": "Talk of 20 minutes",
     "end_time": "2016-03-19T06:00:00+00:00"
