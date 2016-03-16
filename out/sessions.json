@@ -1397,7 +1397,7 @@
     "start_time": "2016-03-20T08:00:00+00:00",
     "session_id": "OT-62",
     "location": "Level 3, Dalton Hall",
-    "type": "",
+    "type": "Presentations",
     "end_time": "2016-03-20T08:30:00+00:00"
   },
   {
@@ -5724,7 +5724,7 @@
     "start_time": "2016-03-20T01:30:00+00:00",
     "session_id": "SHD-15",
     "location": "Level 1, Tinkering Studio",
-    "type": "",
+    "type": "Workshop and Science Hacking",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
   {
@@ -5762,7 +5762,7 @@
     "start_time": "2016-03-20T05:00:00+00:00",
     "session_id": "SHD-17",
     "location": "Level 1, Tinkering Studio",
-    "type": "",
+    "type": "Workshops and Science Hacking",
     "end_time": "2016-03-20T06:30:00+00:00"
   },
   {
@@ -5806,7 +5806,7 @@
     "start_time": "2016-03-20T06:45:00+00:00",
     "session_id": "SHD-19",
     "location": "Level 1, Tinkering Studio",
-    "type": "",
+    "type": "Demos",
     "end_time": "2016-03-20T08:00:00+00:00"
   },
   {
@@ -5850,7 +5850,7 @@
     "start_time": "2016-03-20T08:00:00+00:00",
     "session_id": "SHD-21",
     "location": "Level 1, Tinkering Studio",
-    "type": "",
+    "type": "Presentations",
     "end_time": "2016-03-20T08:30:00+00:00"
   },
   {
