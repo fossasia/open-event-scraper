@@ -99,9 +99,9 @@
     "twitter": "https://twitter.com/catallman",
     "linkedin": "https://www.linkedin.com/in/catallman",
     "id": 8,
-    "photo": "Keynote of 20 minutes",
+    "photo": "https://media.licdn.com/media/p/8/005/068/2e0/158e90f.jpg",
     "organisation": "Google",
-    "biography": ""
+    "biography": "Cat is the Science Outreach Program Manager at Google. She manages outreach to the global FOSS community with her team. They run student programs such as Google Summer of Code and Google Code-in, sponsor and host FOSS project events, and fund a wide variety of projects. She speaks at conferences, and in her spare time is a co-organizer and the logistics lead for Science Foo Camp, an annual invitation-only un-conference for scientists. This \"spare time\" activity has turned into a 2nd team to manage around outreach to science and maker communities."
   },
   {
     "py/object": "models.Speaker",

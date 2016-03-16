@@ -178,8 +178,8 @@
         "name": "Cat Allman"
       }
     ],
-    "description": "Cat is the Science Outreach Program Manager at Google. She manages outreach to the global FOSS community with her team. They run student programs such as Google Summer of Code and Google Code-in, sponsor and host FOSS project events, and fund a wide variety of projects. She speaks at conferences, and in her spare time is a co-organizer and the logistics lead for Science Foo Camp, an annual invitation-only un-conference for scientists. This \"spare time\" activity has turned into a 2nd team to manage around outreach to science and maker communities.",
-    "title": "Keynote - OpenTech",
+    "description": "Recognizing the vital role that open source software plays at Google, the Open Source Programs Office is tasked with maintaining a healthy relationship with the open source software development community.",
+    "title": "Science and Open Source Program at Google",
     "track": {
       "order": 2,
       "name": "OpenTech and IoT",
@@ -188,7 +188,7 @@
     "start_time": "2016-03-18T03:35:00+00:00",
     "session_id": "OT-08",
     "location": "Marquee Theatre",
-    "type": "Science and Open Source Program at Google",
+    "type": "Keynote of 20 minutes",
     "end_time": "2016-03-18T04:05:00+00:00"
   },
   {
@@ -5431,7 +5431,7 @@
     "start_time": "2016-03-19T02:15:00+00:00",
     "session_id": "SHD-05",
     "location": "Level 1, Tinkering Studio",
-    "type": "Lightning Talk",
+    "type": "Lightning Talk followed by Workshop on Saturday and Sunday",
     "end_time": "2016-03-19T02:45:00+00:00"
   },
   {
@@ -5453,7 +5453,7 @@
     "start_time": "2016-03-19T02:24:00+00:00",
     "session_id": "SHD-06",
     "location": "Level 1, Tinkering Studio",
-    "type": "Lightning Talk",
+    "type": "Lightning Talk followed by Workshop on Saturday and Sunday",
     "end_time": "2016-03-19T02:54:00+00:00"
   },
   {
@@ -5475,7 +5475,7 @@
     "start_time": "2016-03-19T02:33:00+00:00",
     "session_id": "SHD-07",
     "location": "Level 1, Tinkering Studio",
-    "type": "Lightning Talk",
+    "type": "Lightning Talk followed by Workshop on Saturday and Sunday",
     "end_time": "2016-03-19T03:03:00+00:00"
   },
   {
@@ -5497,7 +5497,7 @@
     "start_time": "2016-03-19T02:42:00+00:00",
     "session_id": "SHD-40",
     "location": "Level 1, Tinkering Studio",
-    "type": "Lightning Talk",
+    "type": "Lightning Talk followed by Workshop on Saturday and Sunday",
     "end_time": "2016-03-19T03:12:00+00:00"
   },
   {
@@ -5519,7 +5519,7 @@
     "start_time": "2016-03-19T02:51:00+00:00",
     "session_id": "SHD-41",
     "location": "Level 1, Tinkering Studio",
-    "type": "Lightning Talk",
+    "type": "Lightning Talk followed by Workshop on Saturday and Sunday",
     "end_time": "2016-03-19T03:21:00+00:00"
   },
   {
@@ -5583,6 +5583,31 @@
         "organisation": "",
         "id": 170,
         "name": "Science Hacks and Science Hackers"
+      },
+      {
+        "organisation": "#NEWPALMYRA",
+        "id": 171,
+        "name": "Barry Threw Jon Phillips"
+      },
+      {
+        "organisation": "Valentina",
+        "id": 172,
+        "name": "Susan Spencer"
+      },
+      {
+        "organisation": "Touch & Print",
+        "id": 173,
+        "name": "Leon Lim"
+      },
+      {
+        "organisation": "ExpEYES",
+        "id": 16,
+        "name": "Praveen Patil"
+      },
+      {
+        "organisation": "Artist of \"The Other Nefertiti\"",
+        "id": 174,
+        "name": "Nora Al-Badri"
       }
     ],
     "description": "Science Hack Begins with project groups working on  * Rebuildling Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
@@ -5637,6 +5662,26 @@
         "organisation": "",
         "id": 170,
         "name": "Science Hacks and Science Hackers"
+      },
+      {
+        "organisation": "#NEWPALMYRA",
+        "id": 171,
+        "name": "Barry Threw Jon Phillips"
+      },
+      {
+        "organisation": "Touch & Print",
+        "id": 173,
+        "name": "Leon Lim"
+      },
+      {
+        "organisation": "ExpEYES",
+        "id": 16,
+        "name": "Praveen Patil"
+      },
+      {
+        "organisation": "Artist of \"The Other Nefertiti\"",
+        "id": 174,
+        "name": "Nora Al-Badri"
       }
     ],
     "description": "Science Hack Day continues with project groups working on  * Rebuildling Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
