@@ -5724,7 +5724,7 @@
     "start_time": "2016-03-20T01:30:00+00:00",
     "session_id": "SHD-15",
     "location": "Level 1, Tinkering Studio",
-    "type": "Workshop and Science Hacking",
+    "type": "Workshops and Science Hacking",
     "end_time": "2016-03-20T04:00:00+00:00"
   },
   {
@@ -6033,7 +6033,7 @@
       }
     ],
     "description": "With so many people helping, it was clear from the beginning, that FOSSASIA 2016 must become a great success.",
-    "title": "Closing Notes in Main Hall (Level 3, Dalton Hall) (Level 3, Dalton Hall)",
+    "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)",
     "track": {
       "order": 16,
       "name": "Linux and MiniDebConf",
