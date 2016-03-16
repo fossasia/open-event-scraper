@@ -1456,7 +1456,7 @@
     },
     "start_time": "2016-03-19T04:00:00+00:00",
     "session_id": "OTW-01",
-    "location": "Level 3, Lewis Lab",
+    "location": "Level 1, Ground Floor, Exhibition Hall A",
     "type": "",
     "end_time": "2016-03-19T04:30:00+00:00"
   },
@@ -1663,7 +1663,7 @@
     },
     "start_time": "2016-03-20T08:30:00+00:00",
     "session_id": "OTW-12",
-    "location": "Level 3, Lewis Lab",
+    "location": "Level 3, Dalton Hall",
     "type": "",
     "end_time": "2016-03-20T09:00:00+00:00"
   },
