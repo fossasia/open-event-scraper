@@ -1342,7 +1342,7 @@
       {
         "organisation": "#NEWPALMYRA",
         "id": 56,
-        "name": "Barry Threw Jon Phillips"
+        "name": "Barry Threw, Jon Phillips"
       },
       {
         "organisation": "Valentina",
@@ -5464,7 +5464,7 @@
     "speakers": [
       {
         "organisation": "#NEWPALMYRA",
-        "id": 56,
+        "id": 176,
         "name": "Barry Threw Jon Phillips"
       }
     ],
@@ -5633,7 +5633,7 @@
       },
       {
         "organisation": "#NEWPALMYRA",
-        "id": 56,
+        "id": 176,
         "name": "Barry Threw Jon Phillips"
       },
       {
@@ -5712,7 +5712,7 @@
       },
       {
         "organisation": "#NEWPALMYRA",
-        "id": 56,
+        "id": 176,
         "name": "Barry Threw Jon Phillips"
       },
       {
@@ -5984,7 +5984,7 @@
     "speakers": [
       {
         "organisation": "Debian",
-        "id": 176,
+        "id": 177,
         "name": "Chris Lamb"
       }
     ],
@@ -6006,7 +6006,7 @@
     "speakers": [
       {
         "organisation": "Oracle Corporation Singapore Pte Ltd",
-        "id": 177,
+        "id": 178,
         "name": "Anand Jain"
       }
     ],
@@ -6028,7 +6028,7 @@
     "speakers": [
       {
         "organisation": "Deepin",
-        "id": 178,
+        "id": 179,
         "name": "Derek Dai"
       }
     ],
@@ -6072,7 +6072,7 @@
     "speakers": [
       {
         "organisation": "The Processing Foundation",
-        "id": 179,
+        "id": 180,
         "name": "Umair Khan"
       }
     ],
@@ -6094,7 +6094,7 @@
     "speakers": [
       {
         "organisation": "Autodesk",
-        "id": 180,
+        "id": 181,
         "name": "Owais Zahid"
       }
     ],
@@ -6116,7 +6116,7 @@
     "speakers": [
       {
         "organisation": "VRcollab",
-        "id": 181,
+        "id": 182,
         "name": "Jia Hen Tee"
       }
     ],
@@ -6138,7 +6138,7 @@
     "speakers": [
       {
         "organisation": "ownCloud, Open Source Design",
-        "id": 182,
+        "id": 183,
         "name": "Jan-Christoph Borchardt"
       }
     ],
@@ -6176,7 +6176,7 @@
     "speakers": [
       {
         "organisation": "Code Artist",
-        "id": 183,
+        "id": 184,
         "name": "Sher Minn Chong"
       }
     ],
@@ -6220,7 +6220,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 184,
+        "id": 185,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6264,7 +6264,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 185,
+        "id": 186,
         "name": "David Effendi"
       }
     ],
@@ -6401,7 +6401,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 178,
+        "id": 179,
         "name": "Derek Dai"
       }
     ],
@@ -6423,7 +6423,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 184,
+        "id": 185,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6445,7 +6445,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 186,
+        "id": 187,
         "name": "Ankit -"
       }
     ],
@@ -6511,7 +6511,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 187,
+        "id": 188,
         "name": "Misako Ito"
       }
     ],
@@ -6555,7 +6555,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 188,
+        "id": 189,
         "name": "Peter LIM"
       }
     ],
@@ -6577,7 +6577,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 189,
+        "id": 190,
         "name": "Claire Tan"
       }
     ],
@@ -6631,7 +6631,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 185,
+        "id": 186,
         "name": "David Effendi"
       }
     ],
@@ -6768,7 +6768,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 178,
+        "id": 179,
         "name": "Derek Dai"
       }
     ],
@@ -6790,7 +6790,7 @@
     "speakers": [
       {
         "organisation": "Singtel",
-        "id": 190,
+        "id": 191,
         "name": "Emin Aksehirli"
       }
     ],
@@ -6812,7 +6812,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 184,
+        "id": 185,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -6834,7 +6834,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 186,
+        "id": 187,
         "name": "Ankit -"
       }
     ],
@@ -6900,7 +6900,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 187,
+        "id": 188,
         "name": "Misako Ito"
       }
     ],
@@ -6944,7 +6944,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 188,
+        "id": 189,
         "name": "Peter LIM"
       }
     ],
@@ -6966,7 +6966,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 189,
+        "id": 190,
         "name": "Claire Tan"
       }
     ],
@@ -7020,7 +7020,7 @@
     "speakers": [
       {
         "organisation": "ChorusText",
-        "id": 185,
+        "id": 186,
         "name": "David Effendi"
       }
     ],
@@ -7157,7 +7157,7 @@
     "speakers": [
       {
         "organisation": "Wuhan Deepin Technology Co., Ltd.",
-        "id": 178,
+        "id": 179,
         "name": "Derek Dai"
       }
     ],
@@ -7179,7 +7179,7 @@
     "speakers": [
       {
         "organisation": "Singtel",
-        "id": 190,
+        "id": 191,
         "name": "Emin Aksehirli"
       }
     ],
@@ -7201,7 +7201,7 @@
     "speakers": [
       {
         "organisation": "Seoul Tech Society, Dmajor",
-        "id": 184,
+        "id": 185,
         "name": "Victoria Bondarchuk"
       }
     ],
@@ -7223,7 +7223,7 @@
     "speakers": [
       {
         "organisation": "coala",
-        "id": 186,
+        "id": 187,
         "name": "Ankit -"
       }
     ],
@@ -7289,7 +7289,7 @@
     "speakers": [
       {
         "organisation": "UNESCO",
-        "id": 187,
+        "id": 188,
         "name": "Misako Ito"
       }
     ],
@@ -7333,7 +7333,7 @@
     "speakers": [
       {
         "organisation": "Nanyang Polytechnic",
-        "id": 188,
+        "id": 189,
         "name": "Peter LIM"
       }
     ],
@@ -7355,7 +7355,7 @@
     "speakers": [
       {
         "organisation": "NTU Nanyang Technopreneruship Center",
-        "id": 189,
+        "id": 190,
         "name": "Claire Tan"
       }
     ],

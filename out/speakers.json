@@ -718,7 +718,7 @@
     "py/object": "models.Speaker",
     "web": "http://newpalmyra.org",
     "github": "https://github.com/newpalmyra",
-    "name": "Barry Threw Jon Phillips",
+    "name": "Barry Threw, Jon Phillips",
     "country": "USA",
     "twitter": "https://twitter.com/NewPalmyraOrg",
     "linkedin": "",
@@ -2276,13 +2276,26 @@
   },
   {
     "py/object": "models.Speaker",
+    "web": "http://newpalmyra.org",
+    "github": "https://github.com/newpalmyra",
+    "name": "Barry Threw Jon Phillips",
+    "country": "USA",
+    "twitter": "https://twitter.com/NewPalmyraOrg",
+    "linkedin": "",
+    "id": 176,
+    "photo": "http://www.newpalmyra.org/sites/default/files/images/featured_project_slider/Arch-of-Triumph-01.jpg",
+    "organisation": "#NEWPALMYRA",
+    "biography": "Barry Threw (@barrythrew) is an artist and technologist focused on spatial media, mutible architectures, and cultural infrastructures. He works in collaboration with institutions, artists and organizations at the intersection of technology and culture. He is Director of Software at Obscura Digital, and is a curator with the Gray Area Foundation for the Arts. He works on free software and open knowledge projects with Fabricatorz.  He is serving as Interim Director of #NEWPALMYRA until Bassel Khartabil's release."
+  },
+  {
+    "py/object": "models.Speaker",
     "web": "https://chris-lamb.co.uk/",
     "github": "lamby",
     "name": "Chris Lamb",
     "country": "United Kingdom",
     "twitter": "https://twitter.com/lolamby",
     "linkedin": "",
-    "id": 176,
+    "id": 177,
     "photo": "",
     "organisation": "Debian",
     "biography": "I have been a prolific Debian Developer since 2008, not only maintaining popular software packages such as Redis, but I have been an \"archive assistant\", committer in the Live CD, Installer and X.Org maintainer teams, and an active participant in archive-wide quality-assurance efforts."
@@ -2295,7 +2308,7 @@
     "country": "India",
     "twitter": "",
     "linkedin": "",
-    "id": 177,
+    "id": 178,
     "photo": "",
     "organisation": "Oracle Corporation Singapore Pte Ltd",
     "biography": "Anand Jain is a Linux kernel developer at Oracle corporation Singapore. Currently he is contributing to the development of Btrfs File System."
@@ -2308,7 +2321,7 @@
     "country": "China",
     "twitter": "",
     "linkedin": "",
-    "id": 178,
+    "id": 179,
     "photo": "",
     "organisation": "Deepin",
     "biography": "Derek is a Linux user and developer. Interesting in how to measure and improve system performance recently."
@@ -2321,7 +2334,7 @@
     "country": "India",
     "twitter": "",
     "linkedin": "",
-    "id": 179,
+    "id": 180,
     "photo": "http://procesaing.org",
     "organisation": "The Processing Foundation",
     "biography": "I'll be talking about how people can use Processing tools/language to learn to code. This will specifically be targeted to people who don't know how to code."
@@ -2334,7 +2347,7 @@
     "country": "Pakistan",
     "twitter": "https://twitter.com/owais_zahid",
     "linkedin": "https://sg.linkedin.com/in/owaiszahid",
-    "id": 180,
+    "id": 181,
     "photo": "https://s.gravatar.com/avatar/888bce4690bbd62492301e34dcdb3fb9?s=80",
     "organisation": "Autodesk",
     "biography": "Owais Zahid joined the Autodesk PLM 360 engineering team in 2014 as a Senior User Interface Developer. He is a certified Scrum Master. He divides his time between working as his team\u2019s Scrum Master and developing the next generation user interface of PLM 360. Owais has over 10 years\u2019 programming experience developing software in multiple programming languages. He holds a Master of Science degree from National University of Computer and Emerging Sciences. When not creating the next PLM UI, Owais is a frequent contributor to the Autodesk Engineering blogs and spends his free time programming in the genre of 3D game programming and augmented reality."
@@ -2347,7 +2360,7 @@
     "country": "Malaysia",
     "twitter": "https://twitter.com/wizztjh",
     "linkedin": " https://www.linkedin.com/in/wizztjh",
-    "id": 181,
+    "id": 182,
     "photo": "",
     "organisation": "VRcollab",
     "biography": "Founder and CTO of VRcollab"
@@ -2360,7 +2373,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/jancborchardt",
     "linkedin": "",
-    "id": 182,
+    "id": 183,
     "photo": "https://border-none.net/uploads/bono/jan-christoph_borchardt_03.jpg",
     "organisation": "ownCloud, Open Source Design",
     "biography": "Jan-Christoph Borchardt is an open source designer, currently focused on ownCloud and opensourcedesign.net He worked with several open source software projects including Unhosted, Terms of Service; Didn\u2019t Read, Litewrite, Diaspora and more. Jan also regularly collaborates with design universities to get students involved in open source."
@@ -2373,7 +2386,7 @@
     "country": "Malaysia",
     "twitter": "https://twitter.com/piratefsh",
     "linkedin": "",
-    "id": 183,
+    "id": 184,
     "photo": "https://goo.gl/photos/JJNoMmKMzHweD8CJ7",
     "organisation": "Code Artist",
     "biography": "Sher Minn Chong is a front-end web engineer. Equal parts programmer and visual artist, she is enjoys the combination of both worlds, especially for the web. Her background spans rapid development at startups, coding education, and never graduated from Recurse Center. She is currently excited about creative coding, JavaScript technologies, and computer vision."
@@ -2386,7 +2399,7 @@
     "country": "Russia/St.-Petersburg",
     "twitter": "https://twitter.com/seoul_victoria",
     "linkedin": "https://www.linkedin.com/in/victoriabondarchuk",
-    "id": 184,
+    "id": 185,
     "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAIRAAAAJGUyNWI2NjgxLWE1NzMtNGI4MC1hYTQxLWFkOGVkZGRkYTdlZg.jpg",
     "organisation": "Seoul Tech Society, Dmajor",
     "biography": "UX Researcher from Seoul. Interested in Open Source and Open Fashion. "
@@ -2399,7 +2412,7 @@
     "country": "Indonesia",
     "twitter": "",
     "linkedin": "https://sg.linkedin.com/in/david-effendi-5a5769b4",
-    "id": 185,
+    "id": 186,
     "photo": "http://photos1.meetupstatic.com/photos/member/e/2/9/d/highres_243718013.jpeg",
     "organisation": "ChorusText",
     "biography": "ChorusText is an open assistive device built with Arduino, Linux SBC and a few sliders and buttons. It is a text-editing device that lets the user do text editing by means of touch and hearing, without eyesight. It is an ongoing project and the goal of the project is to come up with an assistive device that enables the visually challenged to edit text effectively, and with open-source code + design files such that anyone interested can build one themselves."
@@ -2412,7 +2425,7 @@
     "country": "India",
     "twitter": "https://twitter.com/coala_analyzer",
     "linkedin": "",
-    "id": 186,
+    "id": 187,
     "photo": "https://github.com/coala-analyzer/coala-artwork/blob/master/artwork/logo/coala_color.svg",
     "organisation": "coala",
     "biography": "Ankit has contributed mainly in coala-artwork and helped out in website design for coala. He also did the gitmate.io website. He is also a GNOME foundation member.  Udayan who will also be helping with the stall has been involved with coala since February 2015. He may also be giving a talk at FOSSASIA if selected. coala was his GSoC project where he worked on core coala features and developing a GUI for it. Since then he has been involved with coala in some capacity."
@@ -2425,7 +2438,7 @@
     "country": "France",
     "twitter": "https://twitter.com/YouthMobile_",
     "linkedin": "https://www.linkedin.com/company/unesco",
-    "id": 187,
+    "id": 188,
     "photo": "http://unesco-ci.org/youthmobile/wp-content/uploads/2014/03/YM_Logo_v3-011d2.png",
     "organisation": "UNESCO",
     "biography": "WHO BENEFITS FROM YOUTHMOBILE?  \u00bbYouth and Youth organizations Informal learning opportunities for youth to engage in society and earn livelihoods as mobile app entrepreneurs. ICT-enabled youth organizations creating a sustainable pool of trainers, support staff, and mentors.  \u00bbSecondary School Students Acquiring high-level 21st century skills and confidence to develop/promote mobile apps to resolve local issues of sustainable development.  \u00bbTeachers and Principals Teaching a new, innovative course in mobile apps development, acquiring ICT-pedagogy skills, connecting the school to other schools nationally and globally.  \u00bb By gathering training materials to teach young people to develop mobile apps. The materials will be high-level and open-licensed for translation, localization, and innovations. Training materials will be pedagogically accurate for accreditation and employer recognition.  \u00bb By training teachers to teach the students. UNESCO will be identifying all schools worldwide with existing programs for advanced computer studies.  \u00bb By linking the learners to mobile app competitions, through the creation of the first global list of app competitors: encouraging trained students to submit apps for prizes, recognition, and employment opportunities; and let them meet and learn from those who made it."
@@ -2438,7 +2451,7 @@
     "country": "Singapore",
     "twitter": "",
     "linkedin": "",
-    "id": 188,
+    "id": 189,
     "photo": "",
     "organisation": "Nanyang Polytechnic",
     "biography": "Open source software and hardware kit has enabled solutions to be developed rapidly. To enhance student learning experience, students having been taught on fundamental concepts and knowledge, use open source hardware and software to reinforce the understanding through the application development. Students have benefited from the methods greatly. "
@@ -2451,7 +2464,7 @@
     "country": "Singapore",
     "twitter": "",
     "linkedin": "",
-    "id": 189,
+    "id": 190,
     "photo": "",
     "organisation": "NTU Nanyang Technopreneruship Center",
     "biography": "The Master of Science in Technopreneurship and Innovation (MSc TIP) programme aims to develop and equip global entrepreneurs with the skills and stamina to turn novel ideas into successful ventures in the fast-paced economy today. Modelled after the venture creation cycle, this programme enables candidates to develop an entrepreneurial mindset and the essential business knowledge. Participants learn effective entrepreneurship problem-solving techniques and business decision making approaches through the unique TIP pedagogy: Experiential Learning, Global Immersion and Transformational Experience.   Imparting managerial theories and technical skills, the distinguished faculty members and business mentors inspire the participants with their strong domain expertise and hands-on approaches. Further to that, the programme fosters a global entrepreneurship learning ecosystem which includes visit to leading technology hotbeds such as Silicon Valley, Boston, New York City, Beijing Zhongguanzun Science Park and Shenzhen Institutes of Advanced Technology (SIAT), and learning exchange at world-class universities such as Stanford, Berkley, Tsinghua, and Peking University. "
@@ -2464,7 +2477,7 @@
     "country": "Turkey",
     "twitter": "https://twitter.com/EminAksehirli",
     "linkedin": "https://sg.linkedin.com/in/eminaksehirli",
-    "id": 190,
+    "id": 191,
     "photo": "",
     "organisation": "Singtel",
     "biography": "Dr. Emin Aksehirli is a computer engineer and he is currently working as a data scientist. He is a free software and free culture enthusiast."
