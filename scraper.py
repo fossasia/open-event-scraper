@@ -11,12 +11,12 @@ import parser
 import urllib2
 from pprint import pprint
 from models import *
-
+import random
 # Track config is filename, header
 # Should have all track information
 # ID Prefix = should be unique across tracks
 # Color code
-SHEET_ID = '1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc'
+SHEET_ID = '1KzZ0YVSQMw3BJfiDm80Pzq3o2QJ6Fv7iKMKUuhyw5jo'
 SHEET_VERSIONING_GID = '1847379562'
 
 # We assume each row represents a time interval of 30 minutes and use that to calculate end time 
@@ -96,9 +96,9 @@ GLOBAL_SPEAKER_IDS = {}
 # - Speaker data on additional rows is appended to the speaker list for that session
 # - Rows w/o SessionId are skipped
 def parse_row(row, last_speaker, last_session, current_track):
-
-    session_id = row["SessionID"]
-
+    print row
+    # session_id = row["SessionID"]
+    session_id = random.randint(0, 100000)
     # no session id => skip row
     if not session_id:
         return (None, None)
@@ -154,7 +154,7 @@ def parse_row(row, last_speaker, last_session, current_track):
 
     # only update attributes not already set
     if not hasattr(session, 'title'):
-        maybe_title = row["Topic or Name of proposed talk, workshop or project"]
+        maybe_title = row["Topic of your contribution"]
         if not maybe_title and speaker is not None:
             # print('use speaker name' + speaker.name)
             maybe_title = speaker.name
@@ -164,7 +164,7 @@ def parse_row(row, last_speaker, last_session, current_track):
     if not hasattr(session, 'description'):
         session.description = row["Abstract of talk or project"]
     if not hasattr(session, 'type'):
-        session.type = row["Type"]
+        session.type = row["Type of Proposal"]
     if not hasattr(session, 'track'):
         session.track = {'id': track.id, 'name': track.name, 'order': track.order}
     if not hasattr(session, 'location'):
@@ -222,11 +222,15 @@ def validate_result(current, default, type):
     return default
 
 def fetch_tsv_data(gid):
+    print gid
     base_url = 'https://docs.google.com/spreadsheets/d/' + SHEET_ID + '/export?format=tsv'
     url = base_url + '&gid=' + gid
     logging.info('GET ' + url)
-    res = urllib2.urlopen(url)
-    return res.read()
+    import requests
+    res = requests.get(url)
+    # res = urllib2.urlopen(url)
+    # print res.content
+    return res.text
 
 def write_json(filename, root_key, the_json):
     f = open(filename + '.json', 'w')
@@ -258,13 +262,50 @@ def validate_sessions(sessions):
         logging.info('All fine')
         return True
 
-
+def open_tsv(f_name):
+    with open(f_name, 'r') as f:
+        return f.read()
 if __name__ == "__main__":
     logging.getLogger().setLevel(logging.DEBUG)
 
     logging.info("[Fetching Tracklist], gid = %s", SHEET_VERSIONING_GID)
-    track_data = fetch_tsv_data(SHEET_VERSIONING_GID)
-    tracks = parse_tracklist(track_data)
+    # track_data = fetch_tsv_data(SHEET_VERSIONING_GID)
+    tracks = [Track(
+                id = 1,
+                name = 'Galerie',
+                header_line = 1,
+                key_color = 'a',
+                location = 'a',
+                gid = 'Galerie.tsv',
+                order = 1
+            ),
+    Track(
+                id = 2,
+                name = 'LightingTalks',
+                header_line = 1,
+                key_color = 'a',
+                location = 'a',
+                gid = 'LightningTalks.tsv',
+                order = 1
+            ),
+    Track(
+                id = 3,
+                name = 'Workshops',
+                header_line = 1,
+                key_color = 'a',
+                location = 'a',
+                gid = 'Workshops.tsv',
+                order = 1
+            ),
+    Track(
+                id = 4,
+                name = 'Zertifizierung',
+                header_line = 1,
+                key_color = 'a',
+                location = 'a',
+                gid = 'Zertifizierung.tsv',
+                order = 1
+            )]
 
     i = 0
     for track in tracks:
@@ -276,8 +317,9 @@ if __name__ == "__main__":
         # i = i + 1
 
         logging.info("[Fetching Track] '%s', gid = %s", track.name, track.gid)
-        data = fetch_tsv_data(track.gid)
-
+        # data = fetch_tsv_data(track.gid)
+        data = open_tsv(track.gid)
+        # print data
         logging.info("[Parsing Track] '%s'", track.name)
         parse_sessions(track, data)
         logging.info('next...')
